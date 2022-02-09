@@ -1,0 +1,74 @@
+Quizás lo mejor sea empezar por el árbol de navegación que por las preguntas. ¿Qué tenemos ya y dónde puede encajar lo nuevo? Tenemos la razón de vivir y del mal. ¿Qué es lo nuevo? Clases de personas va perfectamente con lo del mal, con lo que habría que añadir un botoncito de avance (y otro para soy una prueba para los demás). En la pantalla principal de navegación, 2 botoncillos nuevos, sociedad (aquí iría imaginar y derecho natural o no), y planificar.
+    if ($num_nodo == 2) eselmal_valiosoono(); /* NO lo cambiamos, va con 2 botoncitos, híbrido total. */
+    if ($num_nodo == 3) sociedad();
+    if ($num_nodo == 4) planificar();
+   }
+   if ($num_nivel == 3)
+   {
+    if ($num_nodo == 1) clases_personas(); /* Va con el mal. */
+    if ($num_nodo == 2) soyprueba_paraotros(); /* Va con el mal. */
+    if ($num_nodo == 3) imaginar_construye(); /* Va con sociedad. */
+    if ($num_nodo == 4) derechonatural_mejor(); /* Va con sociedad. */
+   }
+En la pantalla de navegación inicial, añado 2 links, y cadenonas 4 y 5:
+- $cadenona4 = $PHP_SELF."?nivel=2&nodo=3"; $cadenona5 = $PHP_SELF."?nivel=2&nodo=4";
+- <a href=<?php echo $cadenona4?>> Sociedad </a> </BR>
+- <a href=<?php echo $cadenona5?>> Planificar </a> </BR>
+<?php /* NO olvidarse de los 2 "botoncitos" en la pantalla principal del mal. */ ?>:
+- $cadenona2 = $PHP_SELF."?nivel=3&nodo=1"; $cadenona3 = $PHP_SELF."?nivel=3&nodo=2";
+- <a href=<?php echo $cadenona2?>>Clases de personas</a>
+- <a href=<?php echo $cadenona3?>>Soy prueba para otros</a>
+<?php
+function clases_personas() /* nivel 3, como nivel 2 cerrada, paraqueestamosaqui. */
+{
+ ...
+ $cadenona1 = $PHP_SELF."?nivel=2&nodo=2";
+ ...
+}
+?>
+<?php
+function soyprueba_paraotros() /* nivel 3, como nivel 2 cerrada, paraqueestamosaqui. */
+{
+ ...
+ $cadenona1 = $PHP_SELF."?nivel=2&nodo=2";
+ ...
+}
+?>
+<?php
+function sociedad() /* nivel 2. Botón volver, y otros de avance. Como la del mal, pero sin texto.*/
+{
+ ...
+ $cadenona1 = $PHP_SELF."?nivel=1&nodo=1"; $cadenona2 = $PHP_SELF."?nivel=3&nodo=3"; $cadenona3 = $PHP_SELF."?nivel=3&nodo=4";
+ ...
+ <a href=<?php echo $cadenona2?>> Imaginar construye </a>
+ <a href=<?php echo $cadenona3?>> Derecho natural mejor </a>
+ <a href=<?php echo $cadenona1?>>Volver</a> 
+ ...
+}
+?>
+<?php
+function imaginar_construye() /* nivel 3, como nivel 2 cerrada, paraqueestamosaqui. */
+{
+ ...
+ $cadenona1 = $PHP_SELF."?nivel=2&nodo=3";
+ ...
+}
+?>
+<?php
+function derechonatural_mejor() /* nivel 3, como nivel 2 cerrada, paraqueestamosaqui. */
+{
+ ...
+ $cadenona1 = $PHP_SELF."?nivel=2&nodo=3";
+ ...
+}
+?>
+<?php
+function planificar() /* nivel 2 cerrada, como paraqueestamosaqui. */
+{
+ $cadenona1 = $PHP_SELF."?nivel=1&nodo=1";
+}
+?>
+$num_preguntas = 2;
+$pregunta01 = array('preg' => "¿Para qué estamos aquí?", 'opc1' => "Para disfrutar al máximo, que sólo hay una vida.", 'eval1' => "Realmente hay varias vidas, y está demostrado oficialmente que existe al menos un cuerpo no material.", 'opc2' => "Para que nuestro alma experimente y aprenda.", 'eval2' => "Eso es, y el dolor es maestro (no hace falta sufrir, pero sí tener dolor; el Budismo nos enseña a aceptar el dolor, y Jung, a mirar dentro de nosotros, nuestras averías de psique).");
+ $pregunta02 = array('preg' => "¿Es el mal necesario?", 'opc1' => "Sí, gracias al mal aprendemos.", 'eval1' => "Correcto. Hay gente más evolucionada que ha venido a aprender de gente menos evolucionada. Los más evolucionados suelen tener más trabas psíquicas, misiones de vida más difíciles, el éxito llega más tarde... Que tengan claro que si se encuentran mucho con una mala persona, algo tienen en su potente psique que resolver. Los de arriba irán abajo, y viceversa. NO es buena señal estar adaptado a una sociedad enferma de obreros especializados cuya rápida y poco profunda mente no se cansa tanto como debiera.", 'opc2' => "Yo soy bueno y los demás malos.", 'eval2' => "Realmente, tu gobierno es un espejo de tu sociedad, y la gente que te encuentras y tu vida, un reflejo de tu psique.");
+$preguntas = array($pregunta01, $pregunta02);
