@@ -19,7 +19,7 @@ function Presentar()
 ?>
 <FORM ACTION="<?php echo $PHP_SELF; ?>" METHOD=GET>
 - Calcula número de alma (lo que ya tenemos en el alma, ¿has desreprimido para acceder?), de máscara (desempeño en mundo material), y número Meta.<BR><BR>
-Caracteres permitidos (incluye mayúsculas): abcdefghijklmnñopqrstuvwxyz (y espacios).<BR>
+Caracteres permitidos (incluye mayúsculas): abcdefghijklmnñopqrstuvwxyz (y espacios). Con 'ü', el cálculo debe ser manual. Y nada de acentos ortográficos... Quizás mejore el programa con el tiempo.<BR>
 <?php if (isset($_GET["error"])) echo $_GET["error"]; ?>
 <INPUT TYPE=TEXT NAME="nombre"><BR>
 <INPUT TYPE=hidden NAME="estado" VALUE="fase1">
@@ -86,7 +86,7 @@ function Procesar()
 <FORM METHOD=GET>
 - 1:ajs, 2:bkt, 3:clu, 4:dmv, 5:enñw, 6:fox, 7:gpy, 8:hqz, 9:ir. Luis Mateos Armada (nombre completo de nacimiento debe ser).<BR>
 * Consonantes (MÁSCARA) suman 28 = 10 = 1.<BR>
-* Vocales (REAL) suman 27 = 9. "Y griega" es vocal (consonante si va entre vocales, como en Mayo; y si introduce una palabra y despues va vocal). La U es muda en gue...<BR>
+* Vocales (REAL) suman 27 = 9. "Y griega" es vocal (consonante si va entre vocales, como en Mayo; y si introduce una palabra y despues va vocal). La U es muda en gue, que, gui y qui.<BR>
 * Meta = 9 + 1 = 10 = 1. ¡Ser 1!<BR><BR>
 <?php echo "Nombre: ".$nombre ?><BR>
 <?php echo "Máscara bruta: ".$mascarabruta ?><BR>
@@ -126,6 +126,7 @@ function Procesar()
 <?php
 function calcularerror($nombre)
 {
+ /* lower de 'ü', a saber lo que dará. */
  $permitidos=array('a','b','c','d','e','f','g','h','i','j','k','l','m','n','ñ','o','p','q','r','s','t','u','v','w','x','y','z',' ');
  
  foreach(str_split(strtolower($nombre)) as $fila)
@@ -141,10 +142,12 @@ function calcularerror($nombre)
 <?php
 function sacarmascararealyobjetivo($nombre, &$mascara, &$real, &$objetivo, &$mascarabruta, &$realbruto)
 {
+ /* lower de 'ü', a saber lo que dará. */
  $cuentavocal = 0;
  $cuentaconsonante = 0;
  $cuentacar = 0;
- foreach(str_split(strtolower($nombre)) as $fila)
+ $nombre2 = strtolower($nombre);
+ foreach(str_split($nombre2) as $fila)
  {
   $cuentacar++;
   if ($fila == 'y')
@@ -152,21 +155,21 @@ function sacarmascararealyobjetivo($nombre, &$mascara, &$real, &$objetivo, &$mas
    if ($cuentacar == 1)
    {
     /* Yrina, Yates. */
-    if (strlen($nombre) == 1)
+    if (strlen($nombre2) == 1)
      $cuentavocal = 7;
       else
       {
-       if (esvocal($nombre[$cuentacar]) == true)
+       if (esvocal($nombre2[$cuentacar]) == true)
         $cuentaconsonante = 7;
          else $cuentavoal = 7;
       }
    }
     else
-    if ($cuentacar == strlen($nombre)) $cuentavocal = $cuentavocal + 7;
+    if ($cuentacar == strlen($nombre2)) $cuentavocal = $cuentavocal + 7;
     else
     {
-     /* Si hay una vocal después, es consonante. */
-     if (esvocal($nombre[$cuentacar]) == true)
+     /* Si hay una vocal después y antes, es consonante. */
+     if ( (esvocal($nombre2[$cuentacar]) == true) && (esvocal($nombre2[$cuentacar-2]) == true) )
       $cuentaconsonante = $cuentaconsonante + 7;
        else $cuentavocal = $cuentavocal + 7;
     }
@@ -174,7 +177,7 @@ function sacarmascararealyobjetivo($nombre, &$mascara, &$real, &$objetivo, &$mas
 
   if ($fila == 'u')
   {
-   if ( ($cuentacar > 1) && ($cuentacar < strlen($nombre)) && (esvocal($nombre[$cuentacar]) == true) && ($nombre[$cuentacar-2] == 'g') )
+   if ( ($cuentacar > 1) && ($cuentacar < strlen($nombre2)) && (($nombre2[$cuentacar] == 'e') || ($nombre2[$cuentacar] == 'i')) && (($nombre2[$cuentacar-2] == 'g') || ($nombre2[$cuentacar-2] == 'q')) )
     {} else $cuentavocal = $cuentavocal + 3;
   }
 
