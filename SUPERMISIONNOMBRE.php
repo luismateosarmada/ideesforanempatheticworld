@@ -42,6 +42,8 @@ Caracteres permitidos (incluye mayúsculas): abcdefghijklmnñopqrstuvwxyz (y esp
 <BR>- E no, porque les gusta viajar y no se comprometen.
 <BR>- Con la i, sí. ¿Son intuitivos y creativos no?
 <BR>- Los "o" me suenan a brutotes, y yo quiero un hijo finolis je je.
+
+<img src="imag.jpg">
   
 </FORM>
 <?php
@@ -149,6 +151,8 @@ function sacarmascararealyobjetivo($nombre, &$mascara, &$real, &$objetivo, &$mas
  $nombre2 = strtolower($nombre);
  foreach(str_split($nombre2) as $fila)
  {
+  $v = 0;
+  $c = 0;
   $cuentacar++;
   if ($fila == 'y')
   {
@@ -156,57 +160,62 @@ function sacarmascararealyobjetivo($nombre, &$mascara, &$real, &$objetivo, &$mas
    {
     /* Yrina, Yates. */
     if (strlen($nombre2) == 1)
-     $cuentavocal = 7;
+     {$cuentavocal = 7; $v = 7;}
       else
       {
        if (esvocal($nombre2[$cuentacar]) == true)
-        $cuentaconsonante = 7;
-         else $cuentavoal = 7;
+        {$cuentaconsonante = 7; $c = 7;}
+         else {$cuentavocal = 7; $v = 7;}
       }
    }
     else
-    if ($cuentacar == strlen($nombre2)) $cuentavocal = $cuentavocal + 7;
+    if ($cuentacar == strlen($nombre2)) {$cuentavocal = $cuentavocal + 7; $v = 7;}
     else
     {
      /* Si hay una vocal después y antes, es consonante. */
      if ( (esvocal($nombre2[$cuentacar]) == true) && (esvocal($nombre2[$cuentacar-2]) == true) )
-      $cuentaconsonante = $cuentaconsonante + 7;
-       else $cuentavocal = $cuentavocal + 7;
+      {$cuentaconsonante = $cuentaconsonante + 7; $c = 7;}
+       else {$cuentavocal = $cuentavocal + 7; $v = 7;}
     }
   }
 
   if ($fila == 'u')
   {
    if ( ($cuentacar > 1) && ($cuentacar < strlen($nombre2)) && (($nombre2[$cuentacar] == 'e') || ($nombre2[$cuentacar] == 'i')) && (($nombre2[$cuentacar-2] == 'g') || ($nombre2[$cuentacar-2] == 'q')) )
-    {} else $cuentavocal = $cuentavocal + 3;
+    {} else {$cuentavocal = $cuentavocal + 3; $v = 7;}
   }
 
   /* 1:ajs, 2:bkt, 3:clu, 4:dmv, 5:enñw, 6:fox, 7:gpy, 8:hqz, 9:ir. */
-  if ($fila == 'a') $cuentavocal = $cuentavocal + 1;
-  if ($fila == 'e') $cuentavocal = $cuentavocal + 5;
-  if ($fila == 'i') $cuentavocal = $cuentavocal + 9;
-  if ($fila == 'o') $cuentavocal = $cuentavocal + 6;
-  if ($fila == 'j') $cuentaconsonante = $cuentaconsonante + 1;
-  if ($fila == 's') $cuentaconsonante = $cuentaconsonante + 1;
-  if ($fila == 'b') $cuentaconsonante = $cuentaconsonante + 2;
-  if ($fila == 'k') $cuentaconsonante = $cuentaconsonante + 2;
-  if ($fila == 't') $cuentaconsonante = $cuentaconsonante + 2;
-  if ($fila == 'c') $cuentaconsonante = $cuentaconsonante + 3;
-  if ($fila == 'l') $cuentaconsonante = $cuentaconsonante + 3;
-  if ($fila == 'd') $cuentaconsonante = $cuentaconsonante + 4;
-  if ($fila == 'm') $cuentaconsonante = $cuentaconsonante + 4;
-  if ($fila == 'v') $cuentaconsonante = $cuentaconsonante + 4;
-  if ($fila == 'n') $cuentaconsonante = $cuentaconsonante + 5;
-  if ($fila == 'ñ') $cuentaconsonante = $cuentaconsonante + 5;
-  if ($fila == 'w') $cuentaconsonante = $cuentaconsonante + 5;
-  if ($fila == 'f') $cuentaconsonante = $cuentaconsonante + 6;
-  if ($fila == 'x') $cuentaconsonante = $cuentaconsonante + 6;
-  if ($fila == 'g') $cuentaconsonante = $cuentaconsonante + 7;
-  if ($fila == 'p') $cuentaconsonante = $cuentaconsonante + 7;
-  if ($fila == 'h') $cuentaconsonante = $cuentaconsonante + 8;
-  if ($fila == 'q') $cuentaconsonante = $cuentaconsonante + 8;
-  if ($fila == 'z') $cuentaconsonante = $cuentaconsonante + 8;
-  if ($fila == 'r') $cuentaconsonante = $cuentaconsonante + 9;
+  if ($fila == 'a') {$cuentavocal = $cuentavocal + 1; $v = 1;}
+  if ($fila == 'e') {$cuentavocal = $cuentavocal + 5; $v = 5;}
+  if ($fila == 'i') {$cuentavocal = $cuentavocal + 9; $v = 9;}
+  if ($fila == 'o') {$cuentavocal = $cuentavocal + 6; $v = 6;}
+  if ($fila == 'j') {$cuentaconsonante = $cuentaconsonante + 1; $c = 1;}
+  if ($fila == 's') {$cuentaconsonante = $cuentaconsonante + 1; $c = 1;}
+  if ($fila == 'b') {$cuentaconsonante = $cuentaconsonante + 2; $c = 2;}
+  if ($fila == 'k') {$cuentaconsonante = $cuentaconsonante + 2; $c = 2;}
+  if ($fila == 't') {$cuentaconsonante = $cuentaconsonante + 2; $c = 2;}
+  if ($fila == 'c') {$cuentaconsonante = $cuentaconsonante + 3; $c = 3;}
+  if ($fila == 'l') {$cuentaconsonante = $cuentaconsonante + 3; $c = 3;}
+  if ($fila == 'd') {$cuentaconsonante = $cuentaconsonante + 4; $c = 4;}
+  if ($fila == 'm') {$cuentaconsonante = $cuentaconsonante + 4; $c = 4;}
+  if ($fila == 'v') {$cuentaconsonante = $cuentaconsonante + 4; $c = 4;}
+  if ($fila == 'n') {$cuentaconsonante = $cuentaconsonante + 5; $c = 5;}
+  if ($fila == 'ñ') {$cuentaconsonante = $cuentaconsonante + 5; $c = 5;}
+  if ($fila == 'w') {$cuentaconsonante = $cuentaconsonante + 5; $c = 5;}
+  if ($fila == 'f') {$cuentaconsonante = $cuentaconsonante + 6; $c = 6;}
+  if ($fila == 'x') {$cuentaconsonante = $cuentaconsonante + 6; $c = 6;}
+  if ($fila == 'g') {$cuentaconsonante = $cuentaconsonante + 7; $c = 7;}
+  if ($fila == 'p') {$cuentaconsonante = $cuentaconsonante + 7; $c = 7;}
+  if ($fila == 'h') {$cuentaconsonante = $cuentaconsonante + 8; $c = 8;}
+  if ($fila == 'q') {$cuentaconsonante = $cuentaconsonante + 8; $c = 8;}
+  if ($fila == 'z') {$cuentaconsonante = $cuentaconsonante + 8; $c = 8;}
+  if ($fila == 'r') {$cuentaconsonante = $cuentaconsonante + 9; $c = 9;}
+
+  if ($c > 0)
+   echo "##".$fila." - conso".$c."  ";
+  if ($v > 0)
+   echo "##".$fila." - vocal".$v."  ";
  }
 
  $mascarabruta = $cuentaconsonante;
