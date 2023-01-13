@@ -1,49 +1,3 @@
-<BR>$nombre = "ÁdkhfÜ";
-<BR>
-<BR>echo mb_strtolower($nombre, 'UTF-8'); /* Lo hace genial. */
-<BR>
-<BR>foreach(str_split($nombre) as $fila) /* \n espacia. NO hay problema en usar esquemas iterativos "caseros" "do-while". */
-<BR> echo $fila."\n"; /* Lo hace de pena (2 caracteres por cada raro), y el webhost, no admite la versión mb (supongamos). */
-<BR>
-<BR>$nombre = mb_strtolower($nombre, 'UTF-8');
-<BR>$encontrado = strstr($nombre, 'ü');
-<BR>if ($encontrado !== false) echo("encontrado"); /* Lo hace genial, no pones nada con 'tü', pero sí con 'fü'. */
-<BR>
-<BR>$permitidos=array('a','b','c','d','e','f','g','h','i','j','k','l','m','n','ñ','o','p','q','r','s','t','u','v','w','x','y','z',' ','ü');
-<BR>if (in_array('ü', $permitidos)) echo("encontrado2"); /* Funciona genial. */
-<BR>
-<BR>echo (substr($nombre, 2, strlen($nombre))); /* Pone la d, porque á ocupa 2 posiciones. */
-<BR>echo (strlen($nombre)); /* Sale 8. */
-<BR>echo (mb_strlen($nombre, 'UTF-8')); /* Sale bien, 6. ¿Admitirá el webhost esta función? */
-<BR>echo (mb_substr($nombre, 1, strlen($nombre), 'UTF-8')); /* Pone la d, ahora está bien. ¿Admitirá el webhost esta función? */
-<BR>
-<BR>$encontrado = strpos(mb_substr($nombre, 0, 1, 'UTF-8'), 'á');
-<BR>if ($encontrado !== false) echo("encontrado3"); /* Va genial. */
-<BR>
-<?php
-$nombre = "ÁdkhfÜ";
-
-echo mb_strtolower($nombre, 'UTF-8'); /* Lo hace genial. */
-
-foreach(str_split($nombre) as $fila) /* \n espacia. NO hay problema en usar esquemas iterativos "caseros" "do-while". */
- echo $fila."\n"; /* Lo hace de pena (2 caracteres por cada raro), y el webhost, no admite la versión mb (supongamos). */
-
-$nombre = mb_strtolower($nombre, 'UTF-8');
-$encontrado = strstr($nombre, 'ü');
-if ($encontrado !== false) echo("encontrado"); /* Lo hace genial, no pones nada con 'tü', pero sí con 'fü'. */
-
-$permitidos=array('a','b','c','d','e','f','g','h','i','j','k','l','m','n','ñ','o','p','q','r','s','t','u','v','w','x','y','z',' ','ü');
-if (in_array('ü', $permitidos)) echo("encontrado2"); /* Funciona genial. */
-
-echo (substr($nombre, 2, strlen($nombre))); /* Pone la d, porque á ocupa 2 posiciones. */
-echo (strlen($nombre)); /* Sale 8. */
-echo (mb_strlen($nombre, 'UTF-8')); /* Sale bien, 6. ¿Admitirá el webhost esta función? */
-echo (mb_substr($nombre, 1, strlen($nombre), 'UTF-8')); /* Pone la d, ahora está bien. ¿Admitirá el webhost esta función? */
-
-$encontrado = strpos(mb_substr($nombre, 0, 1, 'UTF-8'), 'á');
-if ($encontrado !== false) echo("encontrado3"); /* Va genial. */
-?>
-
 <?php
 if (!isset ($_GET["estado"])) 
  Presentar(); 
@@ -65,7 +19,7 @@ function Presentar()
 ?>
 <FORM ACTION="<?php echo $PHP_SELF; ?>" METHOD=GET>
 - Calcula número de alma (lo que ya tenemos en el alma, ¿has desreprimido para acceder?), de máscara (desempeño en mundo material), y número Meta.<BR><BR>
-Caracteres permitidos (incluye mayúsculas, salvo con diéresis): üabcdefghijklmnñopqrstuvwxyz (y espacios). Nada de acentos ortográficos... Quizás mejore el programa con el tiempo.<BR>
+Caracteres permitidos (incluye mayúsculas): üabcdefghijklmnñopqrstuvwxyz (y espacios). Nada de acentos ortográficos... Quizás mejore el programa con el tiempo.<BR>
 <?php if (isset($_GET["error"])) echo $_GET["error"]; ?>
 <INPUT TYPE=TEXT NAME="nombre"><BR>
 <INPUT TYPE=hidden NAME="estado" VALUE="fase1">
@@ -179,14 +133,15 @@ function calcularerror($nombre)
  /* lower de 'ü', a saber lo que dará. */
  $permitidos=array('a','b','c','d','e','f','g','h','i','j','k','l','m','n','ñ','o','p','q','r','s','t','u','v','w','x','y','z',' ','ü');
  
- /* $nombre2 = mb_strtolower($nombre, 'UTF-8'); */
- $nombre2 = aminusculas($nombre);
+ $nombre2 = mb_strtolower($nombre, 'UTF-8');
+ /* $nombre2 = aminusculas($nombre); */
 
- /* El foreach(mb_str_split($nombre2) as $fila) no fuciona en el webhost. */
+ /* El foreach(mb_str_split($nombre2) as $fila) no fuciona en el webhost. O eso creo. me dio error, ¿no puse 'UTF-8'? */
  $i = 0;
  do 
  {
   $fila = $nombre2[$i];
+
   $permitido = false;
   /* ¿Nada de !in_array($fila, $permitidos) por ü? */
   /* %20 = espacio. */
@@ -202,10 +157,15 @@ function calcularerror($nombre)
    $permitido = true;
   if (($fila == 'y') || ($fila == 'z') )
    $permitido = true;
+
   /* $encontrado = strpos(substr($nombre2, 1, strlen($nombre2)), 'ü'); */
-  $encontrado = strstr($nombre2, 'ü'); /* Ta mal, y permite todo tipo de fallos si hay ü. */
-  if ($encontrado !== false) $permitido = true;
-  if ($permitido == false) return("caracter no permitido: ".$fila);
+  /* $encontrado = strstr($nombre2, 'ü'); */ /* Ta mal, y permite todo tipo de fallos si hay ü. */
+  $encontrado = strpos(mb_substr($nombre2, $i, 1, 'UTF-8'), 'ü');
+  if ($encontrado !== false) {$permitido = true; $i++;}
+
+  /* if (in_array($fila, $permitidos) == true) $permitido = true; */
+
+  if ($permitido == false) return("caracter no permitido: ".utf8_encode($fila));
   $i++;
  }
  while ($i < strlen($nombre2));
@@ -217,9 +177,10 @@ function calcularerror($nombre)
 <?php
 function aminusculas($nombre)
 {
+ /* Función deficitaria. */
  $i = 0;
  $devolver = "";
- $mayus='Ü';
+ $mayus='Ü'; /* Un array (para usar "in_array"). */
  do
  {
   $fila = $nombre[$i];
@@ -269,7 +230,8 @@ function sacarmascararealyobjetivo($nombre, &$mascara, &$real, &$objetivo, &$mas
  $cuentavocal = 0;
  $cuentaconsonante = 0;
  $cuentacar = 0;
- $nombre2 = aminusculas($nombre);
+ /* $nombre2 = aminusculas($nombre); */
+ $nombre2 = mb_strtolower($nombre, 'UTF-8');
  echo $nombre2;
  /* El foreach(mb_str_split($nombre2) as $fila) no fuciona en el webhost. */
  do
@@ -339,7 +301,7 @@ function sacarmascararealyobjetivo($nombre, &$mascara, &$real, &$objetivo, &$mas
   {$encontrado = strstr($nombre2, 'ü'); /* Está mal, pero "tira" si sólo hay ü como carácter especial. */
    if ($encontrado != false) {$cuentavocal = $cuentavocal + 3; $v = 3; $cuentacar++;}}
 
-  echo "##".$fila;
+  echo "##".utf8_encode($fila);
   if ($c > 0)
    echo " - conso".$c."  ";
   if ($v > 0)
@@ -376,4 +338,40 @@ function esvocal($letra)
 {
  return (($letra == 'a') || ($letra == 'e') || ($letra == 'i') || ($letra == 'o') || ($letra == 'u'));
 }
+?>
+
+##$nombre = "ÁdkhfÜ"; echo mb_strtolower($nombre, 'UTF-8'); /* Lo hace genial. */
+<BR>##foreach(str_split($nombre) as $fila) /* \n espacia. NO hay problema en usar esquemas iterativos "caseros" "do-while". */
+<BR> echo $fila."\n"; /* Lo hace de pena (2 caracteres por cada raro), y el webhost, no admite la versión mb (supongamos). */
+<BR>##$nombre = mb_strtolower($nombre, 'UTF-8'); $encontrado = strstr($nombre, 'ü');
+<BR>if ($encontrado !== false) echo("encontrado"); /* Lo hace genial, no pones nada con 'tü', pero sí con 'fü'. */
+<BR>##$permitidos=array('a','b','c','d','e','f','g','h','i','j','k','l','m','n','ñ','o','p','q','r','s','t','u','v','w','x','y','z',' ','ü');
+<BR>if (in_array('ü', $permitidos)) echo("encontrado2"); /* Funciona genial. */
+<BR>##echo (substr($nombre, 2, strlen($nombre))); /* Pone la d, porque á ocupa 2 posiciones. */ echo (strlen($nombre)); /* Sale 8. */
+<BR>echo (mb_strlen($nombre, 'UTF-8')); /* Sale bien, 6. ¿Admitirá el webhost esta función? */
+<BR>echo (mb_substr($nombre, 1, strlen($nombre), 'UTF-8')); /* Pone la d, ahora está bien. ¿Admitirá el webhost esta función? */
+<BR>##$encontrado = strpos(mb_substr($nombre, 0, 1, 'UTF-8'), 'á'); if ($encontrado !== false) echo("encontrado3"); /* Va genial. */
+<BR>
+<?php
+$nombre = "ÁdkhfÜ";
+
+echo mb_strtolower($nombre, 'UTF-8'); /* Lo hace genial. */
+
+foreach(str_split($nombre) as $fila) /* \n espacia. NO hay problema en usar esquemas iterativos "caseros" "do-while". */
+ echo $fila."\n"; /* Lo hace de pena (2 caracteres por cada raro), y el webhost, no admite la versión mb (supongamos). */
+
+$nombre = mb_strtolower($nombre, 'UTF-8');
+$encontrado = strstr($nombre, 'ü');
+if ($encontrado !== false) echo("encontrado"); /* Lo hace genial, no pones nada con 'tü', pero sí con 'fü'. */
+
+$permitidos=array('a','b','c','d','e','f','g','h','i','j','k','l','m','n','ñ','o','p','q','r','s','t','u','v','w','x','y','z',' ','ü');
+if (in_array('ü', $permitidos)) echo("encontrado2"); /* Funciona genial. */
+
+echo (substr($nombre, 2, strlen($nombre))); /* Pone la d, porque á ocupa 2 posiciones. */
+echo (strlen($nombre)); /* Sale 8. */
+echo (mb_strlen($nombre, 'UTF-8')); /* Sale bien, 6. ¿Admitirá el webhost esta función? */
+echo (mb_substr($nombre, 1, strlen($nombre), 'UTF-8')); /* Pone la d, ahora está bien. ¿Admitirá el webhost esta función? */
+
+$encontrado = strpos(mb_substr($nombre, 0, 1, 'UTF-8'), 'á');
+if ($encontrado !== false) echo("encontrado3"); /* Va genial. */
 ?>
