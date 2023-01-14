@@ -61,7 +61,12 @@ function Procesar()
  $cadenona1 = $PHP_SELF."?nombrevalor=".$nombre;
  
  if ($nombre != "")
-  $error = calcularerror($nombre);
+ {
+  if (mb_strlen($nombre) <= 100)
+   $error = calcularerror($nombre);
+    else
+     $error = "Demasiado largo: límite, 100 caracteres";
+ }
    else
     $error = "El nombre debe existir";
  $nombrevalido = true;
@@ -165,7 +170,7 @@ function calcularerror($nombre)
 
   /* if (in_array($fila, $permitidos) == true) $permitido = true; */
 
-  if ($permitido == false) return("caracter no permitido: ".utf8_encode($fila));
+  if ($permitido == false) return("caracter no permitido, revisar.");
   $i++;
  }
  while ($i < strlen($nombre2));
@@ -271,6 +276,7 @@ function sacarmascararealyobjetivo($nombre, &$mascara, &$real, &$objetivo, &$mas
     {} else {$cuentavocal = $cuentavocal + 3; $v = 3;}
   }
 
+  $encontrado = false;
   /* 1:ajs, 2:bkt, 3:clu, 4:dmv, 5:enñw, 6:fox, 7:gpy, 8:hqz, 9:ir. */
   if ($fila == 'a') {$cuentavocal = $cuentavocal + 1; $v = 1;}
   elseif ($fila == 'e') {$cuentavocal = $cuentavocal + 5; $v = 5;}
@@ -297,11 +303,17 @@ function sacarmascararealyobjetivo($nombre, &$mascara, &$real, &$objetivo, &$mas
   elseif ($fila == 'q') {$cuentaconsonante = $cuentaconsonante + 8; $c = 8;}
   elseif ($fila == 'z') {$cuentaconsonante = $cuentaconsonante + 8; $c = 8;}
   elseif ($fila == 'r') {$cuentaconsonante = $cuentaconsonante + 9; $c = 9;}
-  else
+  elseif ($fila == ' ') {}
+  elseif (($c == 0) && ($v == 0) )
   {$encontrado = strstr($nombre2, 'ü'); /* Está mal, pero "tira" si sólo hay ü como carácter especial. */
    if ($encontrado != false) {$cuentavocal = $cuentavocal + 3; $v = 3; $cuentacar++;}}
 
-  echo "##".utf8_encode($fila);
+  /* echo utf8_encode($fila); */
+  echo "##";
+  if ($encontrado == false)
+   echo $fila;
+    else
+     echo "ü";
   if ($c > 0)
    echo " - conso".$c."  ";
   if ($v > 0)
