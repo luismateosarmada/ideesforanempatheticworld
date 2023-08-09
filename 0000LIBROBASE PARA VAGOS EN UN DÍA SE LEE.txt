@@ -405,7 +405,7 @@ Tono = 10: fíjate sobre todo en el año; pero si es muy alto, restamos 260 prob
 - A ver 03-11-1977: 3 + 44 + 77 = 124.
 * Raza / familia = número mod 4. Y si da 0, pones 4.
 * 1, 21, 41... tienen de sello 1. 19, 39... tienen de sello 19. 20, 40... tienen de sello 20. Es decir, el sello tiene que ver con la operación "mod 20", pero si da 0, lo conviertes a 20.
-* ¿Y el tono? Tiene que ver con dividir entre 20 y sumar 1 (salvo si el resto es 0).
+* ¿Y el tono? Tiene que ver con dividir entre 20 y sumar 1 (salvo si el resto es 0). En realidad es "mod 13", y si da 0, es 13. Error subsanado.
 - Ahora sólo queda definir razas (familias de 5 sellos), sellos (misiones) y tonos (cómo desarrollas la misión).
 ##Razas:
 - Raza roja (1): energía iniciadora, dirección Este (de ahí viene la energía). Los mejores días para iniciar proyectos e ideas. Dualidad entre conocimiento e ignorancia,
