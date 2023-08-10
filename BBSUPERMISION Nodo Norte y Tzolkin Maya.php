@@ -464,8 +464,9 @@ function tzolkin($anio, $mes, $dia)
  if ($raza == 0) $raza = 4;
  $sello = $cantidad % 20;
  if ($sello == 0) $sello = 20;
- $tono = $cantidad / 20; $tono = intval($tono);
- if ($cantidad % 20 != 0) $tono = $tono + 1; 
+ $tono = $cantidad % 13; // $tono = intval($tono);
+ if ($tono == 0) $tono = 13;
+ // if ($cantidad % 20 != 0) $tono = $tono + 1; 
 ?>
 <FORM METHOD=GET>
 ####Tzolkin Maya:
@@ -507,7 +508,7 @@ function tzolkin($anio, $mes, $dia)
 <BR>- A ver 03-11-1977: 3 + 44 + 77 = 124.
 <BR>* Raza / familia = número mod 4. Y si da 0, pones 4.
 <BR>* 1, 21, 41... tienen de sello 1. 19, 39... tienen de sello 19. 20, 40... tienen de sello 20. Es decir, el sello tiene que ver con la operación "mod 20", pero si da 0, lo conviertes a 20.
-<BR>* ¿Y el tono? Tiene que ver con dividir entre 20 y sumar 1 (salvo si el resto es 0).
+<BR>* ¿Y el tono? Tiene que ver con dividir entre 20 y sumar 1 (salvo si el resto es 0). En realidad es "mod 13", y si da 0, es 13. Error subsanado.
 <BR>- Ahora sólo queda definir razas (familias de 5 sellos), sellos (misiones) y tonos (cómo desarrollas la misión).
 <BR>##Razas:
 <BR>- Raza roja (1): energía iniciadora, dirección Este (de ahí viene la energía). Los mejores días para iniciar proyectos e ideas. Dualidad entre conocimiento e ignorancia,
