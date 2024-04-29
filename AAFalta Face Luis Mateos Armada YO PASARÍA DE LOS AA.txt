@@ -1,3 +1,0 @@
-Tzolkin, tono. En realidad es "mod 13", y si da 0, es 13. Error subsanado.
-NO he cribao ni el libro de Psicología infantil (unos 30.000 caracteres?), ni algunos cánceres. Las imágenes (el grueso), están en Facebook (Luis Mateos Armada, álbum 2022, y el álbum que no son los 2 primos libros; es fácil de encontrar). Por último, el álbum 2023, lógicamente, no está cribao.
-Y en mi Face, hay más cosas de programación, que aquí no tienen cabida (aquí es básicamente pa PHP, aunque tenga en Java el Esperanto a la Luitisa).
