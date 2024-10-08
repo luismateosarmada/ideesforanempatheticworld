@@ -833,6 +833,1938 @@ Generador con Autoridad Emocional
 * Este canal no es inspirador para el que lo tiene, sino para cualquiera que se encuentre con él.
 * Nos habla de que las peculiaridades sean reconocidas por el otro como una contribución.
 
+
+####Los Eneatipos (Gurdjieff):
+##Triada del Instinto (8, 9 y 1), viscerales:
+- Quieren influir en el mundo. Temen ser dominados o explotados. Se vuelcan en la acción y se orientan al presente.
+- Ira: el 8 la expresa, el 9 la niega, pero la expresa evadiéndose, el 1 la reprime.
+##Del Sentimiento (3, 4, 2):
+- Buscan sentirse amados.
+- El 3 busca valor interior mediante logros externos. El 4 reafirma su valía sintiéndose especial. El 2 busca el amor demandando atención. Autovalorarse así NO es quererse (cuidao en general con cómo te autovaloras).
+##Del pensamiento (6, 7, 5):
+- Miedo (de no contar con los recursos necesarios). 6, necesita pautas o normas a seguir. 7, en apariencia valientes y aventureros, temen a su vacío interior. 5, se retiran y aíslan del mundo.
+####supersociología test alma joven o avanzada. El alma vieja (es más que avanzada) prefiere la sabiduría al conocimiento o la estabilidad económica (puntúa bajo), el bosque, al jardín o la playa (puntúa bajo), la espiral, al mandala o la cruz (puntúa bajo), preferir no ver noticias, a verlas por redes sociales o la tele (puntúa bajo), y una sociedad ancestral, a una futurista o la actual (puntúa bajo):
+- Alma bebé / niño. Sentir (a veces con asombro), experimentar, saborear, imaginar un mundo lleno de posibilidades (elevadas o no).
+- Alma Joven. Pasión (energía y entusiasmo) y apreciación por la vida, tanto humana como de todas las especies. Energía para conocer y aprender del mundo que te rodea.
+- Alma Adulta: brindar consejos a las almas más jóvenes. Ideas sumamente innovadoras y transformadoras, resultado de tu capacidad para integrar y de las relaciones adultas. ¿Estoy todavía aquí? Menos mal que quiero estar solo y soy intuitivo, aprendiendo de las situaciones, eso me acerca a las almas viejas.
+- Alma Vieja. Líder capaz de transmitir conocimiento de manera práctica, profunda y hasta telepática. Puedes sanar "espiritualmente" (y psicológicamente, a veces), eres capaz de ver las causas y efectos de toda acción, lo cual te permite alcanzar el desapego para elevarte espiritualmente a ti y a todos quienes te rodean.
+* Cuando tus amigos te digan que pareces mayor de lo que eres, considéralo un cumplido, porque sin duda lo es.
+####Energía de letra inicial de nombre L = lo haces a tu modo. Si es J la inicial, más energía física y mental, podrías marear al prójimo. La L irradia sabiduría, dedicación e imaginación. Da inteligencia, comprensión, conocimiento y honestidad. Hace a las personas terminar todo lo que se proponen y ayudar a los necesitados. Les gusta el hogar y la convivencia familiar, ¿y estar con amigos también?:
+- A. Originalidad, fuerza y espíritu de empresa. Intentará harmonía. Buenos amigos y excelentes consejeros si los necesitas. Pero claro, una persona es muchísimo más que su inicial, así que podría ser mejor o peor.
+- B. Llevar a la práctica los impulsos de otras personas. Intuición imposible de desafiar. A menudo caen en estados melancólicos.
+- C. Gran fuerza y energía vital. Impulsividad y desafíos. Muy proclives a las polémicas y debates y no toleran la injusticia (Carlos el de Pravia).
+- D. Amor incondicional. Si no encuentran estabilidad afectiva, pueden caer en profundas depresiones. Talento artístico y pueden alcanzar la popularidad si se lo proponen fervientemente.
+- E. Organización y espíritu ambicioso. Hacer del servicio su ideal de vida. Cierta tendencia a los excesos.
+- F. Voluntad y lograrán éxitos importantes, trabajan duro por lo que desean. Adoran viajar y conocer lugares exóticos que complazcan todas sus fantasías.
+- G. Brillante intelecto (Mercurio) y necesidad de ampliar conocimientos. Capacidad analítica y son de actuación práctica. Su rica personalidad sobresale en reuniones sociales.
+- H. Plutón: juicio crítico e imparcial. Conocen la forma correcta de actuar en cada situación. Saben imponer límites con autoridad cuando lo ven necesario.
+- I. Venus. Encanto y refinamiento. Carácter un tanto dubitativo. Pueden llevar a cabo grandes empresas, a pesar de tener que soportar enormes sacrificios.
+- J. Mercurio, gran vivacidad y refinado sentido del humor (Javi Pozueco). Nobleza de pensamiento y gran fidelidad a sus ideales. Amigos sinceros que darían todo por quienes aman.
+- K. Éxito seguro, sobre todo material. Mostrarse al público se les da bien: actores, modelos y abogados.
+- L. Sacrificarse por quienes los rodean con carácter fuerte. Buenos trabajadores en puestos donde no deban tomar decisiones por sí mismos.
+- M. Transformación constante de metas. Carácter alegre y buena predisposición para el trabajo mental. Comprenden a sus amigos cercanos.
+- N. Constantes pruebas y obstáculos que deben superar como tarea kármica. Pobrecillos.
+- O. Imaginación e interés en la maternidad / paternidad. Carácter un tanto temeroso ante los desafíos de la vida.
+- P. Pasión, excelente criterio estético y una activa capacidad creadora. Viven romances fogosos y siempre buscan trascender.
+- Q. Confiere experiencia. Capacidad desmedida para superar conflictos y salir airosos de problemas familiares.
+- R. Inteligentes y sagaces, con la respuesta justa en el momento adecuado. Saben detectar errores propios y son muy exigentes con los que los rodean. ¿Mi familia?
+- S. Saben reflexionar y obtener opiniones objetivas. Un tanto inseguros (conflictos de vida), sienten necesidad de pedir consejos antes de confiar en ellos mismos.
+- T. Planes en secreto. Saben esperar.
+- U. Actores por naturaleza. Inconformistas, desean la inalcanzable perfección.
+- V. Inconformistas, desan la inalcanzable perfección (como u). Saben ver la luz al final del túnel.
+- W. Acalorados arrebatos durante toda la vida. Será importante que piensen antes de emprender cualquier acción.
+- X. Éxito económico y financiero, fruto del esfuerzo personal de largos años. Cierta tendencia al egoísmo.
+- Y. Felicidad total o desdicha absoluta. Les cuesta encontrar el término medio. Su necesidad de ser originales les quita el sueño.
+- Z. Marte. Capacidad de sobrellevar duras pruebas. ¿Deben llevar a la práctica todas sus ideas y ambiciones, o de lo contrario sufrirán frustraciones que les pesarán toda la vida?
+####superamenaza los maliciosos:
+- 4 actitudes visibles:
+* Manipulación (encanto...): distorsionan hechos, usan culpa como arma, se victimizan...
+* Dificultades para ponerse en lugar ajeno (pero pueden simular preocupación).
+* Creación de conflictos (dramas, discordias...), incluso con placer e infantil orgullo.
+* Necesidad de control (a veces con seducción) del otro (el hijo no estudiará lo que quiera).
+- Resto:
+* Ven los límites ajenos (privacidad...) como obstáculos.
+* Mentiras o medias verdades (silencios, frases ambiguas...). Mienten con facilidad.
+* Venganza por críticas, rechazo... Difundir rumores, sabotear oportunidades (hacerse pasar por benefactores en redes, o usar a gente inocente contra ti...).
+####PSICOPATÍA:
+- Casi todos los psicópatas se integran bien en la sociedad y son bien considerados (al menos los primarios con poco daño cerebral, que serían realmente perversos narcisistas: se detecta viendo que su parte izquierda está más viva que la mortecina derecha, o las 2 son iguales. Y los secundarios, que imitan a los primarios; el terciario ya empieza a usar la ironía, palabras suaves, para torturar psicológicamente sin que se note mucho).
+* Psicópatas psicópatas son los primarios con gran daño cerebral (casi NO simulan). Y los que van por lo que quieren sin empatía (terciarios con algo más que ironía, algo "bruto"). El resto pueden considerarse "perversos". La gente normal son cuaternarios (el psicópata se engaña a sí mismo).
+- Sé el daño que pueden hacer (mala energía en la Consejería de la EOI de Mieres, con muertes y problemas de salud; NO por el sitio, sino por visitas de "gente" con don de gentes, valga la redundancia).
+####WIKIPEDIA (que algo dice o decía):
+- El perverso narcisista sólo reconoce las necesidades del otro en la medida que sirvan a su propio beneficio. Necesita hacer dependiente al otro, para controlarlo.
+* Sabe cómo seducir al grupo y conseguir que funcione de manera inhabitual; tiene temple (por eso queda bien y tú mal) y frena su acción cuando percibe que puede ser descubierto. La gente defenderá al psicópata, y la víctima podría ser convencida de ser "el agresor". Elude las preguntas directas y al no hablar (usa el silencio para salvarse y para rechazar, acoando moralmente), proyecta una imagen de grandeza o de sabiduría. Yo le preguntaría ¿Quién eres y qué pretendes? Eso lo desarmaría un poco. El mensaje del perverso suele ser voluntariamente vago (no se compromete, no termina algunas frases)
+* El primer día te dicen "estoy aquí para lo que quieras". Luego empieza a martirizarte (alterna palabras buenas con malas), y te vuelves adicto, y crees que necesitas al psicópata.
+* Los hombres los consideran masculinos, cuando simplemente no saben de ternura (a veces la simulan, ¡simulan hasta que son femeninos, y no tienen nada de ello, es más, odian lo femenino!). Pueden ser hermanos mayores que se creen traicionados por la madre al tenerun hermanito. ¿Traumatizan a las feministas (tele...) para que pierdan su esencia? Es que me suena parecido.
+* Se puede poner delante de ti, y probar lo que te duele (las élites nos prueban mucho): ¿a que tu familia NO te quiere? ¿A que NO sabes Francés?
+####Más:
+- De pequeñitos se les ve mejor que son psicópatas, por la expresión fría, que ya a los 8 años cambian por una angelical.
+* La niña psicópata que se curó quería hacer daño a sus hermanos, y de adulta podría haber matao a mucha gente con frases sutiles (psicosomatismo). Se volvió normal en una granja recibiendo amor incondicional y cuidando de animales (se sintió útil). El resultado, pseudoautoestima, suficiente. Con adultos es mucho más difícil.
+- Mujer (hay más psicópatas hombre, la mujer quiere sentir): sólo te curarás si te das cuenta de que no fue amor de verdad, sino un juego macabro.
+- El padre puede hacer inventario de lo que regala al hijo, y recordárselo en el futuro (chantaje emocional). La madre pasa a ser una especie de hermana más (y se quedan con el padre, que además, miente de vicio en el juicio; los primarios, sin despeinarse, por falta de conexiones neuronales). Es difícil que de un psicópata salga un hijo psicópata: serán aniñados, enfermos...
+- Atacan lo bueno, y cuando consiguen engañar (para lo cual necesitas ser un rata y poco más), se sienten bien / superiores.
+* Cuando un perverso está a punto de sentirse emocionalmente feliz, lo rechaza (no soporta tener pensamientos sanos hacia los demás).
+- Pueden llegar a llorar de verdad, sin fingir: cuando su reputación se ve dañada...
+* ¿Cómo le decimos a un psicópata que sienta? Poniéndolo en el centro: imagínate que a ti...
+- Tienen un miedo atroz a la evaluación y se ponen nerviosísimos cuando se encuentran en un medio social amplio.
+- Al no sentirse creadores, ya sea permanente o solo temporalmente, buscan destruir. Viéndose útiles (pueden dar abrazos...)...
+- Las empresas van mucho peor, y "nadie" sabe la causa real.
+- Su novia, el primer año, ni se da cuenta de la manipulacion. Simplemente mandará mensajes inconscientes sobre acoso (Facebook...), y seguirá defendiendo por un tiempo a "su dulce amo".
+- Mi psicopatín de Aboño tenía las manos inmóviles mientras acosaba, era curioso.
+- Parecen grandes profesionales cuando en realidad son incapaces de preocuparse por la calidad del trabajo.
+- ¿Tardan en elegir su ropa y la cuidan bastante? Se ponen el jersey que te pusiste algún día, si te odian (bueno, uno parecido).
+- Pueden considerarse terciarios "brutos" los TPL, ampliando la definición a "falta de empatía temporal como mínimo / hacer sufrir bastante". TPL es enfermedad (curable con sólo quitar 2 focos de Hamer); psicopatía, Zodiaco de bajo nivel... NO.
+####Y más:
+- El psicópata no percibe cuando juegas con él.
+- LOS NARCISISTAS (psicópatas manipuladores) NECESITAN CREAR PROBLEMAS PARA APARECER COMO HÉROES (o ser especialistas en algo y enseñarlo...) y recibir halagos.
+* El sociópata (NO confundir con TPL) suele ser rudo, desagradable, se le nota, es honesto.
+- Cuando un psicópata es cazado in fraganti, posiblemente ni se inmute, por lo que incluso podría dar la sensación de que es inocente.
+- A BART SIMPSON LO AMONESTARON POR HACERLE FRENTE A UN ABUSÓN, Y ES QUE LA ESCUELA TE PREPARA PARA SER ABUSADO.
+- Su pareja le llena de sentimientos que tapan los suyos extremos.
+* El psicopata tiene tendencia a observar cada detalle para poder controlarlo todo, y acaba "dominando el sexo"). Cuidado, son excitantes / buen tacto muchas veces.
+* Por la adicción, incluso se podría seguir adelante con un embarazo producido por el psicópata, para tener algo de él.
+- Los psicópatas no pasan la prueba del bostezo (no les contagias inconscientemente). Tampoco suspiran. Si lo hacen, están actuando. No tienen olfato, pero suele encantarles comer o hablar de comida.
+- ETAPAS DEL DUELO DE UNA RELACIÓN CON UN PSICÓPATA: 
+* Pensamientos suicidas y gran dificultad con tareas triviales. Crees que mereces lo que ha pasado.
+* Negación. Necesitas demostrarle al mundo que estás bien, porque así quizás el psicópata querrá volver contigo. Vas de fiesta...
+* Aprendizaje / Duda: quieres entender lo que ha pasado.
+* Entender cómo trabaja el psicópata. Te sientes llena de asco y rabia. Todo fue calculado e intencionado.
+* Lo mejor, calma, NO decírselo a todo el mundo. Él quiere que te enfades para que crean que estás loca.
+* Depresión (alternada con ira). Te aislas, te rodeas sólo de gente que te entiende.
+* Sanación. Pasas tiempo en compañía de gente a la que le ha pasado lo mismo.
+* Autodescubrimiento. Te das cuenta de que tu compasión, empatía, y amor NO son debilidades. El respeto por ti misma viene de dentro, no de la validación externa.
+- Según la edad:
+* Niños: tiran la piedra y esconden la mano. 
+* Adolescente: fríos, y suelen rodearse por unos 2 amigos, a los que manipulan. Moreira con mi hermano y Falín. Todo encaja.
+* Adultos: gran sed de poder.
+- Voy a imitar a un psicópata: ¡Qué guapa está usted hoy, buenos ojos la vean! ¡Un hurra por nuestro aguerrido equipo de Copa Davis!
+- Iñaki piñuel psicopatía pareja:
+* El psicópata hará creer a la víctima que otras personas están interesadas en él. Eso produce más dependencia.
+* SI LA VÍCTIMA PIENSA QUE QUE NUNCA PODRÁ VOLVER A AMAR, ESO ES LEGÍTIMO, DEJEMOS QUE LO PIENSE SIN PRESIONAR.
+- Algunos científicos hablan de una madre fría o indiferente, con una agresividad encubierta hacia el niño.
+- Enemigos del psicópata en el ambiente laboral:
+* Independientes. El psicópata no los puede apadrinar en su grupo.
+* Siguientes: gente sincera o NO de acuerdo con los temas tabú de la empresa.
+* Gente brillante: NO viven de apariencias.
+* Justos / solidarios: defienden a las víctimas.
+* Organismos de control interno: no tardan en conocer las irregularidades del psicópata: inspectores, técnicos de recursos humanos...
+* Líderes verdaderos.
+####Más:
+- NO entienden la pregunta ¿Cómo estás? aunque responderán.
+- Su ritmo cardiaco en reposo es más bajo.
+- NO dejemos que compitan (no compitamos nosotros).
+- Las lesiones prefrontales (miedo y estrés normal) se traducen en comportamientos osados, irresponsables, con arranques emocionales y agresivos, inmadurez, falta de tacto... Aún así transmiten una imagen impecable, aunque No aprendan.
+* El cuerpo calloso tiene muchas menos fibras blancas en el psicópata. Eso dificulta la expresión de emociones y la comprensión de las consecuencias de una acción o evento a largo plazo. Pero la parte occipital (recompensa) trabaja más.
+* Evitar problemas prefrontales: SER ORGANIZADO CON OBJETIVOS Y REPARTO DEL TIEMPO EN BASE A ESTOS.
+- Cambia el tema de conversación para llevarte a tu terreno (se autoengaña).
+- Evitar psicopatia. Que cuando mamá exprese rabia... ella siga existiendo como madre tolerante y amorosa (eso previene la destructividad). La tendencia antisocial es lo único para un niño desesperado, desdichado e inofensivo con el grifo del amor cortado. La obediencia hace que el niño esconda su ser (sea falso), y germine la semilla del mal.
+- Tipos de narcisista (otra clasificación):
+* "Inadvertido": inmutabilidad frente a la crítica ajena y los sentimientos ajenos. Ego grandioso en espera de ser admirado, envidiado. Internamente hay mucha vergüenza tapada.
+* "Hipervigilante": obsesionado con el sentimiento de devaluación, y ve a los demás como abusadores injustos. Escoge acompañantes críticos o significativos a veces, para quejarse. Otras veces critica haciéndose el superior / perfecto.
+- La postmodernidad es una época narcisista. Todo el mundo quiere ser el mejor, no se admite la diferencia como algo valioso.
+- A los diez minutos de conoceros, cuenta sus dramas más personales de forma repetitiva. Su mensaje oculto es: siente pena por mí. Creerás que son hipersensibles.
+- Apunta lo que dicen (si cambian de versión, NO te sentirás loco). Ellos NO entienden bien "pasado" o "futuro", hoy son un personaje, mañana... Márcalos con olores nauseabundos (no los notaran).
+- No se le puede decir que ya no quieres estar con él (el psicopatín no lo entenderá): contacto 0 es la solución (o por email como mucho).
+- Cuidado con las personas observadoras, pero poco profundas: "tú vas mucho al baño" es una observación superficial.
+####Psicopatía:
+- Quien no puede poner cara cabrón al sonreír es probablemente psicópata primario INTEGRADO. El ojo izquierdo sonríe de mentira, como forzado (a veces chino, a veces triste...). Hay algunos psicópatas que ponen siempre las cejas padentro (falsa cara de cabrón).
+- Las inteligencias del psicópata (con las que pretende deslumbrar), son infrainteligencias. Para hacer daño tras ensayar, con cabeza fresca, no se necesita inteligencia casi.
+- Si sacas al psicópata de "la mafia de machos macarras libres", todos quedan con la cabeza agachada, como si despertaran de una hipnosis.
+- Ya sabéis que el psicópata es el héroe del gañán (casi todo hombre es gañán), porque NO le tiembla el pulso: no es valiente (para ser valiente hay que tener miedo, sentimientos), es insensible.
+- Los psicópatas convierten a algunas víctimas en irónicas (o te perviertes, o puedes darte casi por hundido). Es frecuente que se le den instrucciones a la victima para que a su vez pervierta a otra gente. Y tiene espías el psicopatín, que NO lo conocen.
+- Un psicopatín, cuando faltan pocos segundos para hacer daño, es normal que se muestre todavía más frío que de costumbre si cabe, con esa voz monocorde.
+- Al psicópata le ofende la mente femenina, empática, brillante, y su odio puede crecer por la dominación dialéctica de la mujer en la niñez.
+- Se debe llamar a 9 personas que controlen al psicópata, y un entorno ético (sin competitividad, y con amor incondicional). ¿Entonces "sólo" querrá ser el centro de tención?
+- ¿Fue la perversión narcisista (hacer al otro dependiente para manipularlo) el comienzo de la "pareja" (alejados del resto) y el fin de la tribu?
+- Recuerda que el humor es un arma de las élites para ridiculizar lo que está bien, y una sonrisa puede controlar.
+##El psicópata es muy locuaz, lo cual hace creer erróneamente a la mujer que ellos son especiales porque "comparten emociones".Y aceptan tener sexo prematuramente. La estimulación de la vagina y del cuello del útero durante el acto sexual libera prolactina y oxitocina, fortalece el vínculo.
+##Padres, escuelas y jefes tóxicos. Pilar Baselga, Iñaki Piñuel...:
+- Hay madres tóxicas que viven su embarazo con miedo. Entre las élites hay costumbre de desentenderse del embarazo. Es muy cruel que los médicos se lleven al reciñen nacido, aunque sea para limpiarlo. Mejor parir orgasmando y sin médicos. Y el niño necesita un territorio estable con tutor estable (vive la guardería como el abandono que es; a las élites les gusta esto).
+- Pilar dice que la escuela de Leipzig (consideraba al hombre una simple máquina de impulsos), está en el origen del sistema educativo actual. El conductismo es muy malo (premios y castigos para que te comportes como el sistema quiere).
+- Los abusones han aprendido erróneamente que el mundo es una selva donde aplastas o te aplastan, porque han sido víctimas, o de maltrato directo, o de falta de amor (frialdad). Perciben antes quién es el más vulnerable o bueno del grupo.
+* La protección del débil es lo que ha hecho fuerte a la sociedad.
+####Psicopatía (pómulos...):
+- Su falta de remordimientos radica en la cosificación (atribuir cualidades de objeto a un ser vivo).
+- Suele ser hermano mayor. Debido a celos y faltas emocionales, en el primogénito se va desarrollando una carencia relacional y afectiva, plasmándose en la falta de desarrollo de anchura, a nivel de pómulos (psicópata primario). ¿NO es siempre así NO? ¿Los de pómulos anchos imponen su voluntad de forma agresiva (esto es también malo)? Los narcisistas son estrategas / falsos (aunque de muy pequeños fueran agresivos).
+- Separan perfectamente sentimientos de objetivos (sean buenos o malos), por lo que pueden ser jefes de banco... ¿Su autoconfianza (aunque realmente NO se quieran), falta de escrúpulos y mentir perfecto les permite conseguir lo que quieren? NO son realmente ni felices ni inteligentes (una persona inteligente NO se pierde ciertos útiles y dolorosos sentimientos, porque es fuerte; son débiles mentales). Se pueden emocionar hasta el llanto, pero a los 5 minutos vuelven a sonreír.
+- Más sobre la cara. ¿Frente NO diferenciada (las diferenciadas tendrán bandas digo yo) muchas veces? ¿Nariz átona muchas veces (si es corta y pequeña, tendrán problemas de paciencia con los demás)?
+####Rostros de criminales cazados (los psicópatas suelen ser difíciles de cazar, debido a resultar adorables; y te meten en su "maraña de pensamiento", casi ni te enteras; NO es por inteligencia, es por considerarte un objeto, mentir sin problemas por desconexiones neuronales...) Reglas:
+- 1. La cara (ojos, nariz, boca...) no intenta expandirse. Las cosas les afectan más por lo general. Está "todo junto".
+* ¿Y si además hay problemas para expresar las emociones? Pues hay hipersensibilidad + afán por llevarlo todo al lado de las emociones + falta de empatía.
+- 2. Retraccion lateral: cara de perfil, hay facciones de la cara inclinadas (frente, ¿nariz como pista de saltos de esquí?, parte del bigote tambien, ¿y la barbilla?). Personas lanzadas.
+- 3. Zona de la cara (1. Instinto. Motivaciones materiales. Desde barbilla y sin tocar la nariz; 2. Emocional / nariz; 3. "Inteligencia". Donde empieza la nariz hasta arriba del todo). Prima lo que sienten (2).
+- 4. Retraccion lateronasal por lo general: entre ojo y pomulo la zona esta plana / hundida: cuesta expresar las emociones mas profundas, aunque la persona puede ser muy emocional y expresiva. Esto podria crear peligrosas emociones reprimidas.
+- 5. Receptores grandes (ojos, nariz y boca). Gran "grifo" para la entrada y salida de información, emociones e instintos mas basicos.
+- 6 y 7: boca carnosa (desean la comida, el sexo, la lucha... Yo la tengo un poco carnosa abajo, NO el labio de arriba), y labios hacia delante: lo buscan por sí solos (puede ser con ordenes a otros).
+- 8 y 9. Narices anchas en su extremo inferior (sienten las emociones). Escotadura nasal (se ven bien los agujeros de frente): entrada de un gran caudal de emociones.
+- 10: ojos (¿grandes para observar?): foto de perfil, hundidos más alla de las cejas. Les cuesta entender opiniones diferentes.
+* Caprichosos, violadores, toxicómanos... ¡Caso contrario! Y sus ojos se presentan en muchas ocasiones como globulosos.
+##Pregunta, ¿los psicópatas cumplen bastante de esto?
+####Trump (que está con los bere, los buenos; paciencia), cumplimiento de reglas:
+- NO es demasiado sensible en general (1).
+- Es lanzado (2).
+- Labios carnosos y hacia delante (6 y 7). Si sumamos a esto que es de instintos (3), tenemos a un combativo con aguante.
+##Más:
+- Atonia cárnica mofletes: ordenes a terceros, ¡tráeme mi comida! Le hace todavia mas [instintivo / animal] y materialista.
+- Su frente mide poco (verticalmente): deberia rodearse de especialistas y algún estratega (no tiene suficiente vision de conjunto). Es plana: poco influenciable.
+- Ojos pequeños y a menudo cerrados (al mundo, a opiniones diferentes). Los de cazador estan elevados en los extremos a veces.
+- Nariz no muy grande, no pierde el tiempo en hablar de cosas que no le interesan.
+- Marco exterior grande (paciencia y reservas energéticas).
+- Boca pequeña, tiene la ventaja de gastar pocas energías y estar preparado siempre para el combate.
+####superamenaza casi lo hace sólo el narci encubierto el psicópata bien integrado.
+- Guarda rencor (que no se le note, ya se vengará por detrás, difamando al bueno...).
+- Agresión pasiva:
+* Ley de hielo (el silencio, no responder a alguien que no es malo...).
+* Procastinación. Relacionado: ir a la compra y mostrar descontento dejando una cosa sin comprar, para empapelársela a su hermana.
+* Ironías.
+- Simular inocencia: "no sé hacer esto, qué torpe soy": y a lo mejor lo haces tú y se cuelga él la medalla.
+- Ofrecer una falsa empatía (estoy contigo). Sus bellas palabras no importan.
+- Hacerse la víctima (uy qué desgraciado parece), para ser centro de atención, y ganarse simpatía y compasión.
+- Luz de gas. Yo no dejé tu cuchara en mi sitio, te lo inventas (quiere que enloquezcas). "Sólo quería..." (pa suavizar, pero el daño está hecho).
+- Cumplidos envenenados implícitamente (velado).
+- Compararte con otro a diario (son indirectos).
+- ¿Sabotear "tus momentos"? Para desviar el foco a ellos, y no soportan que seas feliz, aunque parezca que disfrutan de tu éxito.
+- Hacen promesas que saben que no van a cumplir, para tranquilizarte en el momento... Los políticos usan esto.
+- Yo añado hacerse fotos con niños.
+####superamenaza narci no puede responder a estas preguntas. Le confrontan consigo mismo:
+- Si te molesto tanto, ¿por qué sigues buscándome?
+- ¿Por qué te resulta difícil admitir errores y soportar diferencias con los demás?
+* ¿Por qué crees que tus opiniones son superiores a las de los demás / las anulan?
+- ¿Por qué quieres impresionar a los extraños?
+- ¿Qué quieres cambiar de ti, cuales son tus heridas? Hazla delante de mucha gente.
+* NO te hablará quizás de su "perfecto" interior.
+- ¿Por qué te quedas callado (pasivo agresivos, para jugar contigo)?
+####superamenaza traducción de frases de narcisistas.
+- Nunca entiendes lo que digo: eres inferior, esfuérzate por ser mejor para conservarme (pero al final no quiere que te vayas, eres su combustible, y gastó mucha energía en conquistarte).
+- Eras demasiado sensible: eres dramático y envidio tu sensibilidad, debe morir.
+- Nadie te querrá como yo: eres poco y no encontrarás nada igual.
+- NO estás bien: estás loca, todo es tu culpa.
+- Eres poco humilde (proyección de ausencia de modestia del narci; el narci cree que el modesto no es nada...): no progreses, mantente en el fondo, quiero manipularte.
+- Era una broma: me salgo con la mía, porque no sabes qué contestar.
+####01413amenaza ponerología política.txt  Los psicópatas primarios (con deficiencias cerebrales peligrosas) son +- el 4% de la población, expertos en manipular (sonriendo con simpatía o NO) y torturar psicológicamente (no van por ahí con un hacha, al menos el 99%; cuando engañan, se sienten bien condigo mimos, lo cual les ayuda a tapar su penosa verdad: mentes muy débiles, con mucho complejo de inferioridad / superioridad, que tienen que ser mejores que tú hasta en el número de enfermedades; tienen que bucear en su infancia con mucho dolor, y aceptarse tal y como son, para ser POR FIN felices).
+##Ponerología: estudio del mal; trata de grupos y de cómo se corrompen cuando los anormales patológicos se insinúan en estos con el disfraz de la normalidad. Los presidentes de empresas fomentan comportamientos en sus subordinados (para poder sobrevivir y avanzar si son "normaluchos"):
+- El truco del psicópata: hacernos creer que el mal viene de otros. Se ha logrado entender cómo sucede que personas locas, ideólogos y poderes represivos, a pesar de su inhumanidad, obtengan el apoyo de las masas:
+* Te convencen de darles otra oportunidad, y de no decirle a nadie lo que han hecho (tú debes airearlo todo, por bondad). Fingen muy bien que tienen emociones humanas, cuando en realidad son pura rabia, envidia, sexo... Deseos inmediatos (son "de presente" sobre todo, aunque pueden simular estar interesados en el pasado o el futuro).
+* Son expertos en saber "cómo presionar nuestros botones", parece que nos lanzan un hechizo. Un régimen político patológico localiza a individuos narcisistas (por lo general científicos muy mediocres) o a crédulos / tonticos con labia, facilita sus estudios y grados académicos y la obtención de posiciones clave para la supervisión de organizaciones científicas y culturales, privando al resto de científicos de buena literatura.
+* Tienen una pobre discriminación olfativa. Al no tener emociones propias, agitan las emociones de otros (los hace sentirse superiores "a los que sienten").
+* Hay sólo dos cosas que pueden someter a un psicópata: un psicópata más poderoso y el rechazo absoluto y no-violento de todos los demás a someterse a sus controles sin importar las consecuencias.
+* Ellos necesitan los conflictos para existir, e incluso para ser vistos como héroes, pero son nuestros depredadores naturales. Crean el problema, dan la "solución", ¡y son héroes! Ningún movimiento político (mejor los psicológicos iniciáticos) tiene éxito si no integra la psicopatía.
+- Más:
+* Psicopatía esquizoidal. Están atraídos a ideas que suenan elevadas, pero su pobre naturaleza psicológica limita su percepción y desvían sus llamadas "buenas intenciones" a influencias en pos del mal. Aceptan la idea de "controlar rebaños" de "gente mala", ¿Pablo Iglesias Turrión?:
+* Chávez murió (probablemente por cosas de santería, para salvar a Castro; la santería funciona, es básicamente satanismo encubierto, y Gloria Estefan, Perales... no se dan cuenta). ¿Lo estaban manejando? Todo era un plan, hasta su excarcelación y victoria. ¿NO era malo? Bolívar sí, malo malo.
+* No intelectualizar al niño (causa psicopatía o asperger), ni vivir en un ambiente formal (psicopatía o esquizofrenia).
+- Armas silenciosas para guerras tranquilas. Algunas formas de control:
+* Fomentar las emociones. Tratarnos como si tuviéramos 12 años (tele), para que reaccionemos así. Así, nos hemos acostumbrado a no pensar cómo organizarnos para sobrevivir (ellos son "ángeles guardianes", y aceptamos, porque nos llevan a nuestra infancia, cuando nos cuidaban).
+* Ocupados para no pensar: cursos, trabajo (a menos paro, menos se piensa)...
+* Conformismo social (hay que soñar algo elevado, que case con ser FELIZMENTE sabio y tener pocas necesidades).
+* La calidad de la educación dada a las clases inferiores debe ser de la más pobre (enseñarnos a protestar en vez de a desear, NO sabiendo cuál es realmente el problema: el miedo que produce la tele...).
+* Los padres deben estar preocupados por perder el trabajo y hay que competir por él. La madre, si trabaja, deja desprotegido al niño por lo general. ¿Las huelgas permiten "estudiar" a la gente y son trampas para ir contra el menos malo?
+* Existe una relación cuantitativa medible entre el precio de la gasolina y la probabilidad de que una persona sufra de dolor de cabeza, sienta ganas de ver una película violenta, fumar un cigarrillo, o ir a un bar para tomar un par de cervezas. ¡HALA, DEPRESIÓN CAUSADA!
+* Hollywood no hace películas sobre costumbres sanas. Los videojuegos actuales fomentan vicios y violencia. El telediario te hace creer negativamente, y creer es crear.
+####Libro psicópatas 01. Hablaremos de esas criaturitas de Dios (generalmente simpáticas y muy amadas, por ser encantadoras, pero negras por dentro) que necesitan ser foco de atención y maltratar psicológicamente sin que se note para autoreafirmarse, por tener traumas de pequeños SOLUCIONABLES. ¿Pueden enfrentarse a su vacío y complejos de inferioridad? Dejémosles decir "soy mejor que tú en...", o se asfixiarán:
+- Psicópatas primarios (problemas neuronales): sus ojos, fíjate en sus ojos (tapa la parte derecha de su cara, y luego la izquierda; el ojo izquierdo suele estar más muerto, o estar los 2 iguales).
+* La gente que se fija en ti como si fueses un personaje de videojuego (a las 17:00 hace esto... Cuando eso no es profundizar), son peligrosos y muy poco inteligentes integralmente. Esto incluye secundarios (imitadores de primarios) y terciarios.
+- Es la gente que ha sufrido a estos seres falsos (encanto superficial, "las más bellas personas"...) quien mejor puede hablarte de ellos. Lo enredan tanto todo... y su presa puede tardar meses en darse cuenta de la tortura. Dirán que quieren saberlo todo de ti para ayudarte... Te cruzas con decenas a diario. Los vendedores a domicilio suelen adoptar algunas de sus técnicas para vender (los del teléfono también).
+* ¿Empieza la mayor parte de las veces por el nacimiento de un hermanito / a, y el futuro psicópata se ve débil al no retener el 100% de la dedicación de mamá? Y luego no quieres sentir, por debilidad / supervivencia (hay menos mujeres psicópata, porque no suelen renunciar a los bellos sentimientos o al amor).
+- La mayor parte de los psicópatas están integrados (el más querido de la oficina...), no muestran una gran ira en público.
+* El psicópata quiere hacer lo que desea a toda costa, sin importar los demás, pero claro, los integrados torturan sólo cuando pueden hacerlo... Las series y películas sobre asesinos en serie, no hacen más que empañar el conocimiento científico. El psicópata ha aprendido desde niño, que es mejor ser relativaente suave, para no ser cazado, y que la violencia psicológica disfrazada y no mancharse las manos de sangre, son clave. Es nuestro problema socioeconómico mayor, sin duda casi. De peques, se los puede detectar, pero ya a los 8 / 9 años, se vuelven sutiles tramposos.
+* Ejemplos: hombre que aceleró la muerte de su madre y luego la llora y le dedica un discurso en la Iglesia. Difícilmente los accionistas de un banco pueden saber que su director es un psicópata que está llevando a la empresa a la ruina. ¿Y algunos de los que piden dinero?
+- Hay que ver "dentro del corazón" (cuidado con palabras y caras amables). Se harán la víctima, y tú quedarás como el malo (pueden hacerte de rabiar, y tienen temple, y mienten sin problemas los primarios integrados). Te tocan para que "los eches de menos", o incluso para ejercer poder (que vayas a su fiesta...):
+* Puede aparentar ser un padre abnegado (e incluso inventarse que tiene un hijo). Ejemplo: un psicópata (Andrés) se gana la confianza de su jefa, ella acaba encantada con él, pero él no trabaja, y la llaman y ella dice que se dio cuenta tarde de lo de Andrés (su psicopatía), pero Andrés ya les había dicho primero: "ella va a intentar desprestigiarme", y le creyeron a él.
+* Busca el control de su ambiente (y probar que puede engañar a cualquiera, empezando por la entrevista de trabajo. Los retos, la adrenalina... les van. En el trabajo no busca la excelencia laboral (ya robará méritos y acusará), sino ampliar su radio de influencia (número de acólitos / monos voladores de la Bruja del Oeste que informan). Pueden guardar secretos sin problemas (políticos).
+* Matan sólo con estar con ellos, inducen cánceres...
+####Libro psicópatas 02.
+- NO ve razón para cambiar, él se ve PERFECTO, y se preocupa por lo que los demás piensen de él, y si ve que pueden estar hablando de él a metros de distancia, podría acercarse para "cortar un poco la conversación". Mira si usa palabras "corteses", con citas de famosos, si cuenta historias que le dejan bien... ¿Y si no consiguen convencer, tratarán de meter miedo (sólo su voz monocorde ya la da si te fijas)? Los aspergers no son malos genuinamente, pero cuanto menos nos parezcamos a ellos (disfrutan de la tecnología NO pensando sólo en objetivos profundos y elevados) y a los psicópatas, mejor.
+* ¿Basta con que alguien no reaccione eléctricamente / con susto o que no sea capaz de suspirar, para considerarlo peligroso?
+- Más:
+* Pueden perder los estribos por un momento de tiempo muy pequeño. ¿Cuantos son soldados que matan por reconocimiento?
+* Leo un caso de alguien que finge ser médico ante su familia (no pasó de segundo curso, y se dedica a leer en cafeterías, pero engañó a varias personas para que les prestase dinero, y así vivir de la nada unas pocas décadas). El niño que se escapa de la Escuela y el adolescente que se hace pasar por ATS (o el ATS que se hace pasar por ginecólogo)... son claros ejemplos. NO cambiará mucho de profesión al fingir. Y pensarán que son los más inteligentes (y querrán rodearse de gente "inferior").
+* Es "tranquilote" tras cometer actos terribles, duerme bien, como Zapatero. Para ver mis puntos débiles, José Manuel Díaz Fernández se me acercó cuando estaba sólo yo en el Departamento de Informática (Aboño), y se puso tieso y sonriente, a decirme, ¿a que tu familia no te quiere? ¿A que tu carrera no sirve para nada? Luego, I. Jáuregui, "nos" confirmó que era psicópata.
+## LECCIÓN 5, LA LUCHA CONTRA EL PSICÓPATA (VAMOS A ESTA LECCIÓN DIRECTAMENTE): ##
+- El psicópata introduce el caos y estrés continuos en la vida de las víctimas (personas, empresas... La empresa debe contar con paso de información vertical y horizontal):
+* Las súplicas no van con ellos ("por favor, para"). Y se sufre impotencia al ver que todos quieren al agresor. El psicópata se integrará en tu grupo, te apartará de él y tu familia después, y mezclando momentos dulces con torturas, te hará dependiente (hablamos de la pareja). Un día se cansará de hacer todo tipo de teatro contigo...
+* A Pablo (que no es primario, pongamos que es terciario con atribuciones de secundario) lo llaman "el pipas", y un psicópata del libro las come.
+- ¿Qué se puede hacer en cada etapa del psicópata?
+* Vulnerabilidad: el psicópata estudia el escenario buscando "objetos útiles". Sé precavido / a, usa la intuición, y busca apoyos externos.
+* Seducción. Él manipula fingiendo lo que no es, imitando sentimientos, hablando de "cuentos de hadas"... Hacerse preguntas (¿sé algo de él realmente?). Ámbito empresa: ¿por qué alguien nuevo intenta caer bien a todo el mundo, no quiere hablar de lo que hacía antes, me presiona para hablar sin que nos vean, siempre coincide con ciertos jefes y me cuenta cosas indiscretas de otros?
+* Explotación. La culpa la devalúa... Refúgiate en tus apoyos, evita la desesperación, busca asociaciones de ayuda.
+* Revelación. Se consolida la explotación. Proyecta su hostilidad. La víctima se horroriza por fin (hay esperanza). ¿Qué motiva al psicópata (sexo, dinero, imagen púbica, ser su criada...)? ¿Cómo puede dañarte a ti y los tuyos si lo abandonas? ¿Con qué recursos se puede neutralizar los ataques? ¿Y los recursos sociales? Elabora un plan de actuación.
+####Libro psicópatas 03. Más lección 5:
+- El psicópata no sólo te obliga a deshumanizarte (si tu mente no está muy trabajada, bajarás a su nivel, o perecerás), sino que te desvía de tus objetivos actuales, no pudiendo crear tu destino.
+* Su felicidad es sentirse superior por lograr engañar y explotar.
+* ¿La gente sigue trabajando y no dice basta porque trabajar oficialmente (comemierdas ganapanes en gran parte...) no es un objetivo noble en el 90% de los casos? Buscar objetivos nobles "cura las dependencias". El fuerte mentalmente es noble (para el psicópata, un tonto)
+- Recomendaciones:
+* Si va a ver a una sobrina al hospital, no es por amor, es imagen...
+* Puede pensar con lógica, pero actuar dañínamente (sin tener en cuenta lo que pensó).
+* La pregunta "¿quién eres y qué pretendes?" suele descolocarlos (pero harán como que no pasa nada o intentarán llamarte "mala persona"...).
+- Recomendaciones si convives con psicópatas moderados:
+* No desesperación, hipervigilancia o lucha de poderes.
+* Sus progresos pueden no ser reales (sólo imagen).
+* Quien de pequeño no teme, desarrolla la conciencia peor (el "esto mejor no hacerlo", puede ser bueno).
+* ¿Permitirlo sentirse superior cuando no haga daño? Picasso y Warhol canalizaban su psicopatía, y a la vez eran admirados.
+* ¡Ay de quien quiera hacerse notar y no ayude a las tablas rasas!
+####Libro psicópatas 04. Detectando al psicópata:
+- SIMULAN LA NORMALIDAD BASTANTE BIEN. Emociones REALES del psicópata (un alumnno modelo puede ser psicópata...; y tienen frustración, asociándolos así con la personalidad de verdugo sobre todo):
+* Miedo, ¿y ansiedad? Será "ansiedad psicópata". Siente menos miedo al castigo. ¿Si le despidieron, seguirá sin miedo al despido? ¿Que sabe "anestesiarse" y prepararse para futuras penas, pero no inmediatas?
+* Ira. Cuando se frustran los deseos (pero podrá incluso sonreír / simular). ¿Y entonces necesita autoreafirmarse pasando por encima de los demás o comprobando que tiene el control sobre su entorno (que le prestan atención...)? Hipersensible a la crítica. 
+* Difícilmente se deprimirá (él es Dios, ha logrado lo que ha querido; está loco). Eso sí, pueden llorar si las cosas salen mal (son descubiertos). Pero dura poco.
+* El placer de otros le provoca envidia y codicia, pero disfrutan provocando situaciones de riesgo, incertidumbre y tensión.
+* Tienen capacidad para comprender lo que otro está pensando (incluso sintiendo; el sentimiento puede ser visto como la capacidad de una máquina de reaccionar, nosotros como objeto / máquina). El psicópata joven tiene más dificultades para leer el rostro.
+- Conductas del psicópata
+* Cuando no es muy valorado, puede optar más por el desprecio y el engaño.
+*Si el ataque se vio por casualidad, explicación de por qué la víctima es "responsable". Quitar importancia y apoyar a la víctima.
+* Nunca lamenta nada profundamente (es chantaje emocional...).
+* NO se observan cambios PERMANENTES.
+####El discurso del psicópata integrado. Ellos quieren estar por encima de los demás, aunque casi ni se nota, porque dan imagen de bellísimas personas, pero fíjate bien sin quieren ser admirados / honrados / bien calificados, en vez de admitir debilidades con honestidad... Debemos dejar de competir y ser extremadamente modestos, para que se los detecte un poquitín bien. Decir, que son seres sociales y poco profundos, aunque aparenten lo contrario. Les encantan las citas de "nobles famosos". Analizan (observan para controlar, y pueden darte detalles en los que un sabio no se fijaría), pero no profundizan "en lo del alma". Pueden dar respuestas vagas, sin mojarse, o quedarse en silencio. Y por último, les gusta hablar de lo que dominan, de su terreno. Defienden al especialista, tan cerrado. ¿Y si les pedimos que sean humanos / flexibles? ¡Ah, se me olvidaba, diles que ellos están en el lugar del oprimido, para que tengan un poco de empatía real, no simulada! Un ejemplo de frase psicópata: me duele en el alma... ¿A que parecen humanos? ¿A que parecen humanos? ¡Y son el 5% de la población! NO compitas ni te vendas nunca más, para que ellos estén detectables. Ellos mataron a sus padres (pueden inducir cánceres, al menos con palabras educadas que duelen; su energía...), y luego dan discursos emotivos en el entierro. Se ceban sobre todo con lo femenino (que simulan adorar).
+####superamenaza los narcis no se dan mucha cuenta de estas características suyas. Malos perdedores / ganadores. Si no se alcanza la grandiosidad en la actividad o la veneración que creen se merecen, tienden a ser hipersensibles, ansiosos, falsos introvertidos y defensivos (en el otro lado está el narci ruidoso por así decirlo). Muchos son sabelotodos o hacen gestos exagerados con las manos al hablar. Infundir miedo para controlar. NO quieren mostrar emociones (no admiten que han sido influenciados). Tienen a algunos "exitosos" en un pedestal, pero al conocerlos se desilusionan (esperaban a alguien perfecto, cuando ellos no lo son). El + popular de la oficina, hará "favores" y adulará.
+####superrenacer el karma negativo del narcisista. La vida les pasa factura. NO hay cargos de conciencia pero...:
+- Profundo miedo a perder a las personas (inconscientes, de mentira...) que los validan, admiran (cuidado con quien hace ostentación de profesión)... o lo simulan. Miedo a la soledad.
+* ¿Con el tiempo, la gente los conoce un poco y se aleja?
+- Desprecio interno, y para no llegar a su interior, mostrarse por encima (pueden autodañarse, ¿tratando de mostrarse "valientes", por ejemplo?), y maltratar suavemente con palabras (de jóvenes, la violencia era más física).
+* Cuidado con alguien que parece bueno, que quizás aparenta femineidad, pero que es fríamente masculino (aunque tenga cara de chino "femenina").
+- Soledad en la vejez. El encanto desaparece.
+- Eterna infelicidad por falta de emociones positivas (es un superdiscapacitado para vivir), de amor incondicional, de gusto por quedarse quieto y solo...
+####superrenacer el narci te tiene miedo por qué. Le dije a Pablo (G. de la Puente) el narci (simpático, le gusta decir cosas feas disimuladamente, para estar contento consigo mismo / autoreafirmarse, sin ver su negrura interna), que tenía un poco de barriga, ¡y se lo tomó en serio, preocupándose para no tener grasa! ¡Tenemos el poder para debilitarlos lo suficiente (a los psicópatas)!:
+##Al narci: tú, mucho de máquina del bar, pero es porque tu inteligencia es "de mirar afuera", de obrero, ¿te acuerdas de cuando ni pudiste empezar el examen de esa asignatura profunda? Por la inteligencia robótica, falta de intuición, mente fresca de tontico... se pueden sacar 2 cursos a la vez.
+- Puedes llorar, sentir dolor... pero sabes que eso al final acaba contigo más fuerte y el psicópata muy mal parado, porque ya vas sabiendo cómo matarlo psicológicamente (son más débiles que tú).
+* El "más bueno" a matao a 2 (con sus palabras...).
+- La clave para mejorar uno, y entonces mejora la sociedad, es saber lo que es un narci y alejarse mucho de su forma de ser.
+* El narci suele tener 3 años de edad mental o así (como muchos universitarios, y no lo digo en broma). Yo creo que ya he alcanzao los 12 de edad mental, pero como lo que manda son las chismosas y la tradición obsoleta...
+##Cómo es una persona buena, no un psicópata (el champú es malísimo, pero él quiere imagen) :
+- Te respetas a ti mismo (pones límites; no como yo con mis amigos, que iba donde querían para conservalrlos).
+- Identidad y creencias propias, y razonas (puedes contestar "¿por qué?").
+* Tu poder viene de dentro, no de la aprobación externa. No pueden apelar a tu culpa o vergüenza
+* Ves que los errores sirven para mejorar, y te alegras de encontrarlos en ti.
+- Eres independiente (emocionalmente... Sabes que no necesitas el afecto de nadie en especial), ¿introvertido?
+- Sabes lo que te hace feliz, y para levantarte de la cama, están los objetivos nobles.
+- Tú puedes ver sus juegos y manipulaciones.
+##Los seres no sociales, no es que seamos ángeles, pero desde luego, estamos exentos de toda sospecha (no somos narcis integrados, que son varios millones en España, ¿menos de 5?).
+########Antes del grueso de las canciones:
+####El arte es una canción que te da salud, es tu forma de reaccionar al arte, tu creatividad...
+- Canción: harmonía, elegancia, sofisticación, moralidad, matemática, sana energía erótica... ¡Más cantar y menos empollón instrumento! Entender la letra sobra (canciones de los 80, incluyendo maxisingles / versiones por lo general menos frenéticas; ejemplo, Heaven 17, Let me Go). Los blancos (Hall y Oates, Pet Shop Boys rapeando) reinventan lo negro.
+- Videojuego: que dé a la imaginación (como los de los 80) y no sea 3D / extravertido, con portadas bonitas. Y para despertar el cerebrín, basta con 5 minutos de Outrun... ¡Instrucciones cortas o inexistentes!
+- La poesía más simple (describir al burro Platero...) incluye la verdad sin más, contada con la mayor sencillez posible, que requiera lo mínimo del hemisferio izquierdo (pocos artificios o ninguno).
+####Dirs:
+- Pink Floyd Cymbaline.
+- Dragon Ball 191 gohan my son 191 cantante yuka.
+- Ándale cotó. Vídeo Manga Nippon Mukashi Banashi (JODE-TV, 12/09/89).
+- Tienda de juguetes viejos BARRIO DEL NATAHOYO GIJÓN 8mil90.
+- Battle gear 4 tunned.txt
+- Documentales:
+* Miguel Rix, La Organización, Yerma 2030...
+- Vídeos Youtube:
+* Fabián C. Barrio, La Importancia de Mirar las Nubes.
+- Canciones:
+* Sálvarez (Y si no Tienes Dinero).
+* Marta Sánchez (Dime la Verdad).
+* Timex Social Club (Rumours).
+* Cómplices (Cuando Duermes).
+* Pet Shop Boys (King's Cross).
+* Miguel Bosé (Aire Soy): por la sofisticación...
+####Enlaces y nombres:
+- JMDLAManhui (sanalaenergía).
+- Link Rescate Atlántida (ZX Spectrum 128 kb). Este vídeo incluye la música de presentación (2:08). Resto: TROCITOS ELEGIDOS ALEATORIAMENTE; la melodía final puede ser dabbc... https://www.youtube.com/watch?v=mofMHGS2hLg
+- https://archive.org/stream/MicromaniaPrimerEpocaspanishIssue21
+- Link a Renegade 3 (que dure más de 20 minutos).
+- Link el planeta libre comemierda (los empleos son para las estadísticas, no útiles).
+- Francis Pelletier (música).
+##Candidatos a cumpleañeros:
+Aznavour: Buen Aniversario.
+Duran Duran: New Moon on Monday. ***** (Simon Lebon)
+Hall y Oates: Private Eyes.
+Julio Iglesias: La Carretera.
+Machín: Corazón Loco.
+Revólver: Dentro de ti (básico).
+Roxy Music: Same Old Scene. ***** (Bryan Ferry)
+Tina Turner: Two People.
+Spandau Ballet: True. **** (Tony Hadley y Gary Kemp)
+* José Antonio Martín Tello: Rescate Atlántida (ZX Spectrum 128 kb).
+* David Whittaker: Shadow of the Beast I (Commodore Amiga).
+* Hiroshi Kawaguchi: Outrun (SEGA arcade).
+##Cumpleañeros:
+- Mark Hollis		04 Enero	1955 Talk Talk: I Believe in you.- 
+- David Bowie		08 Enero	1947 Ashes to Ashes.
+- José Luis Perales	18 Enero	1945 Tú, como yo.
+- Phil Collins 		30 Enero 	1951 Father to Son; Genesis: Jesus he Knows me.
+- Peter Gabriel		13 Febrero	1950 Come, Talk to me (directo, Paula Cole).
+- Mikel Erentxun		23 Febrero	1965 1+1 son 7 (directo, Fran Perea). Duncan Dhu: La Herida.
+- Martin Fry 		09 Marzo	1958 ABC: The Look of Love.
+- Graham Coxon		12 Marzo 	1969 Bittersweet Bundle of Misery.
+- Franco Battiato		23 Marzo	1945 Nómadas (Bola de Cristal).
+- Damon Albarn		23 Marzo	1968 Blur: The Universal.
+- Richard Coles		26 Marzo	1962 Communards: For a Friend.
+- Tony Banks		27 Marzo 	1950 I Wanna Change the Score (Nick Kershaw).
+- Diego Vasallo		02 Abril	1966 Rastros de ti.
+- Billy Joel		09 Mayo		1949 All about Soul (6 minutos, versión disco).
+- Martyn Ware 		19 Mayo		1956 Heaven 17: Let me Go (maxi 12 pulgadas).
+- Morrisey		22 Mayo		1959 The more you Ignore me, the Closer I Get.
+- Tony Hadley		02 Junio	¿58? Spandau Ballet: Through the Barricades (12 pulgadas).
+- Paddy McAloon		07 Junio	1957 Prefab Sprout: The Sound of Crying.
+- Mick Hucknald		08 Junio	1960 Simply Red: For your Babies.
+- Jimmy Somerville	22 Junio	1961 Communards: So Cold the Night (vídeo o versión larga).
+- Neil Tennant		10 Julio 	1954 Pet Shop Boys: Why don't we Live Together?
+- Nacho Goberna		30 Julio	1964 La Dama se Esconde: Aventuras.
+- Miguel Rix		101 Agosto?	7071 Rix: Niños S.A..
+- Fritz McIntyre		02 Septiembre	1952 Simply Red: 
+- Mike Rutherford		02 Octubre 	1950 Genesis: In too Deep. Mike Mechanics: The Living Years.
+- Chris Lowe		04 Octubre	1959 Pet Shop Boys: Rent.
+- Gary Kemp		16 Octubre	1959 Spandau Ballet: True.
+- Johnny Marr		31 Octubre	1963 Smiths: There's a Light. Bryan Ferry: The Right Stuff.
+####inventario varios:
+- Blur 2 temas: TOPMAN, End of the Century.
+- No: Génesis directo, 1985hits, 1988hits, 1989hits.
+- Canciones Real: Moi Lolita, ¡Qué Barbaridad!, El Tiempo Medianoche, Europe's Living a celebration (me gusta).
+- WMP: Penthouse and Pavement (extended), Great Wall of China, The Blues, Thing Called Love (The Darkness).
+- La Bola de Cristal:
+* Liko Veneno: Me Siento tan Feliz.
+* Radio Futura: Siempre Seré un Niño.
+* Alaska, Dinarama y Emma Suárez: El Fin del Mundo.
+* Radio Futura: Hola, ¡qué tal?
+- SAW1: I Should Be so Lucky, Together Forever, Guilty, Cross my Broken Heart (Cross my Heart es Eight Wonder), Never Stop me.
+- SAW5: Shattered Glass (Laura Branigan), las gordas (franceses), Love (bailarines negros), Everlasting Love (versión de Sandra y Michel Cretú), Voyage Voyage.
+- SAW6: We Have no Memory, Dressed for Success (Sigue Sigue Sputnik), Baby Bay (Eight Wonder), That's what Love Can Do (Boy Krazy), Mon Amour (Dollar). 
+####Nombres de canciones:
+##Kalimba de luna
+##PWL megamix 6
+##Gorilla Drummer Phil Collins  
+##Janet Runaway 1995  
+##Michael MacDonald Sweet Freedom
+##Jimmy Nail Ain't no Doubt
+##Steve Arrington Fell so Real (12 extended)
+##Alan Parson's Project Separate lives
+##Survivor Is this Love
+##alan parsons time  
+##chopin nocturne op 9punto2  
+##dir fast gypsy violin castillo barba azul
+##Sarasate Aires Gitanos (3 últimos minutos de 8)
+##Collective Soul, Shine
+##S. Arrington, Feel so Real
+##Glamour, Imágenes
+##Santi Auserón, Sueños en Televisión
+##Barón Rojo, Tierra de Nadie
+##Yann Tiersen: Porz Goret
+##Dorian con León Larregui: Duele
+##Morrissey: the more you ignore me, the closer I get
+##Cómplices: cuando duermes
+##ABC - When smokey sings (1987 The Miami mix), entre 5:10 y 5:15. London mix dura como 7 minutos.
+##PSB:
+- She's Madonna, Hallo Spaceboy, I'm not Scared, Losing my Mind, West End Girls, DJ culture, Home and Dry, How Can You..., Pandemonium, Left to my own..., Jealousy.
+- Liberation, So Hard, Being Boring, Love Comes Quickly, Why don't we..., Suburbia, Domino Dancing, It's a Sin, Rent, What have I Done..., Heart, King's Cross.
+- Before, Seavidae, Dontknowwhatyouwant, Beautifulpeople, Canyouforgiveher, mezclas de Shep Pettibone de Oportunitieslotsofmoney, Alright, Alwaysonmymind, Gowest, Yesterdayiwasmad, Miracles, Flamboyant.
+- Red Letter Day, I Get along, New York City Boy, Bilingual, One in a Million, Wouldn't Normally Do...
+##lo mejor del Soul:
+A1	Otis Reddingâ€“	Sittin' On The Dock Of The Bay
+Written-By â€“ Redding*, Cropper*
+A2	Ben E. Kingâ€“	Spanish Harlem
+Written-By â€“ Leiber*, Spector*
+A3	The Plattersâ€“	Only You
+Written-By â€“ Rand*, Ram*
+A4	Percy Sledgeâ€“	When A Man Loves A Woman
+Written-By â€“ Wright*, Lewis*
+A5	Louis Armstrongâ€“	What A Wonderful World
+Written-By â€“ Weiss*, Douglas*
+A6	The Driftersâ€“	Up On The Roof
+Written-By â€“ Goffin/King*
+A7	Sam & Daveâ€“	Bring It On Home To Me
+Written-By â€“ Cooke*
+A8	Jerry Butlerâ€“	He Will Break Your Heart
+Written-By â€“ Carter*, Mayfield*, Butler*
+B1	Sam Cookeâ€“	You Send Me
+Written-By â€“ Cooke*
+B2	Righteous Brothers*â€“	Unchained Melody
+Written-By â€“ North*, Zaret*
+B3	Joe Texâ€“	I've Got To Do A Little Bit Better
+Written-By â€“ Tex*
+B4	Brook Bentonâ€“	A Rainy Night In Georgia
+Written-By â€“ White*
+B5	Gene Chandlerâ€“	Daddy's Home
+Written-By â€“ Sheppard*
+B6	Paul & Paulaâ€“	Hey Paula
+Written-By â€“ Hildebrand*
+B7	Nina Simoneâ€“	My Baby Just Cares For Me
+Written-By â€“ Kahn*, Donaldson*
+C1	Ben E. King & The Driftersâ€“	Stand By Me
+Written-By â€“ King*, Leiber*, Stoller*
+C2	Percy Sledgeâ€“	Warm And Tender Love
+Written-By â€“ Robinson*
+C3	Otis Reddingâ€“	These Arms Of Mine
+Written-By â€“ Redding*
+C4	The Dellsâ€“	Oh What A Night
+Written-By â€“ Funches*, Junior*
+C5	Harold Melvin & The Blue Notes*â€“	If You Don't Know Me By Now
+Written-By â€“ Gamble/Huff*
+C6	Bobby Vintonâ€“	Blue Velvet
+Written-By â€“ Wayne*, Morris*
+C7	The Plattersâ€“	The Great Pretender
+Written-By â€“ Ram*
+D1	Gladys Knight And The Pipsâ€“	Every Beat Of My Heart
+Written-By â€“ Otis*
+D2	Bobby Womackâ€“	Love The Time Is Now
+Written-By â€“ Womack*
+D3	Aaron Nevilleâ€“	Tell It Like It Is
+Written-By â€“ Davis*, Diamond*
+D4	The Fleetwoodsâ€“	Come Softly To Me
+Written-By â€“ Ellis*, Troxel*, Christopher*
+D5	Ray Charlesâ€“	Georgia On My Mind
+Written-By â€“ Carmichael*, Gorrell*
+D6	Lee Dorseyâ€“	Working In A Coalmine
+Written-By â€“ Toussaint*
+D7	Gene Chandlerâ€“	Duke Of Earl
+Written-By â€“ Williams*, Edwards*
+D8	Sam Cookeâ€“	Wonderful World
+Written-By â€“ Albert*, Adler*, Cooke*
+####Selección por año. Hay errores posiblemente:
+##Principal (* significa elegida):
+- 1994: You Owe it all to me, *Casi nunca Bailáis, Sleeping in my Car, Somos el Futuro, Capricornio.
+- 1993: Sólo por un Día, Rastros de ti, Cosas de la vida, *Both sides of the Story, Ella.
+- 1992: No Son of Mine, *The One, Smells like Teen Spirit, Historias de Amor, Otro día más sin verte.
+- 1991: Have you seen her, *Volver a Casa, El Peón del Rey de Negras, Are you Dreaming, Bailar Pegados.
+- 1990: Enjoy the Silence, Espaldas mojadas, *Praying for Time, I Can't Stand it, NO me importa Nada.
+- 1989 (I): Left to my Own Devices, Baby don't forget my number, She drives me crazy, *Like a Prayer, Más y más.
+- 1989 (II): Lullaby, *Te dejé marchar, Aquí no hay Playa, Loco Mía, Los amigos de mis amigas.
+- 1988: GTO, Una fiesta especial (La Década), Im nin'alu 1988, Father figure, *Nothing's Gonna Change...
+- 1987: One love to give, With or Without you, *In the Army now, Ellos las prefieren gordas, Nothing's gonna stop me now.
+- 1986 (I): Janey don't you lose heart, El imperio contraataca, *Broken wings, Living in another World, This is my life.
+- 1986 (II): La puerta de Alcalá, El tomavistas, Dancing in Paris, Easy Lady, *Atlantis is Calling.
+- 1985: *Lay your hands on me, Cabaret, Grité una noche, How Much, The Lady don't mind.
+- 1984: *Union of the snake, Una de dos, Piel de terciopelo, Joanna, All of you.
+- 1983 (I): *Y cómo es él, The night, Embrujada, Genetic Engineering, Fame.
+- 1983 (II): Tiempo de amor, Scotland the brave, Dolce Vita, Un Paso Adelante, *True.
+- 1982: Las leandras, Felicidad, *Souvenir, Me estoy volviendo loco (de verdad), 2 enamorados.
+- 1981: Johnny and Mary, Rapture, Hold on Tight, *Salta, Márchate ya.
+- 1979: Terciopelo y fuego, *Too much Heaven, Gloria, Soy un corazón tendido al sol, Me vuelvo loco.
+- 1976: *Esa eres tú, El Sur, Don't go breaking my heart, Si tu fueras mi mujer, Tú y yo.
+- 1973: *Amor amar, Pardon me sir, Forever and ever, Eva María, América América.
+##Más (aparte de Ciudad Jardín), para poder relacionar canción y artista (están los difíciles de relacionar, y por orden). * significa desconocido hasta ahora se puede decir:
+*Valera, Viceversa, MC Hammer, Mecano, Twenty for 7, Joe Cocker, The Cure, Ofra, Estefanía de Mónaco, Bruce, Paolo Salvatore, Modern Talking, La Unión, Nacha Pop, *Gary Low, Talkinh Heads, Pato de Goma, Azul y Negro, OMD, Danza Invisible, *The Royal Philharmonic Orchestra, Emilio José, Luis Cobos, Pedro Marín, Palmer, ELO, Bosé, *Falcons (79), Danny Daniel (76), *Los Puntos (76), Lorenzo Santamaría (76), Cecilia (76), Russos (73).
+####canciones:
+00plocky71280 Spin Doctors y M People.MP3
+091 - Cuando Pierdo el Equilibrio.mp3
+091 - Qu‚ Fue del Siglo XX.mp3
+17_RIX_Ya vivimos en el N.O.M.mp3
+18_RIX_ Despierta YA.mp3
+19_RIX_Psiquiatr¡a la industria de la muerte.mp3
+A-ha - HUnting High and Low.mp3
+ABC Alphabet City - The Night You Murdered Love.mp3
+ABC Lexicon of Love - All of my Heart.mp3
+ABC Lexicon of Love - Shoot that Poison Arrow.mp3
+ABC Lexicon of Love - Tears Are not Enough.mp3
+ABC Lexicon of Love - The Look of Love.mp3
+ABC mezclas - The Look of Love (extended).mp3
+ABC mezclas - The Look of Love (instrumental).mp3
+Ace Of Base - All That She Wants.mp3
+Ace of Base - The Sign.mpg.MP3
+Ace of Base - wheelfortune.flv.MP3
+Aerol¡neas Federales - no_satisfaces.flv.MP3
+Aha - Take on Me.mp3
+Aha - The Sun Always Shines On TV.mp3
+Air Supply - goodbye.MP3
+Al Jarreau - Moonlighting.mp3
+Alan Parsons - One More River.mp3
+Alan Parsons - Shadow of a Lonely Man.mp3
+Alanis Morissette - Hand in my Pocket.mp3
+Alanis Morissette - Hands Clean .mp3
+Alanis Morissette - Head Over Feet.mp3
+Alaska - No se R¡a de la Bruja Aver¡a.mp3
+Alaska y Loquillo - Hola, qu‚ tal.mp3
+Alaska y Loquillo - La Bola de Cristal.mp3
+Alaska y Loquillo - Ni un D¡a m s.mp3
+Alaska y Loquillo - Nosotros Somos los Electroduendes.mp3
+Alaska y Loquillo - Soy Profesional.mp3
+Alaska y Loquillo - Soy un Electroduende.mp3
+Alaska y Loquillo - Vacaciones Infernales.mp3
+Alb‚niz Triana para orquesta.mp3
+Alejandra Guzm n - M¡ralo, M¡ralo.mp3
+Alex y Cristina - Chas y aparezco a tu lado.mp3
+Alexander O'Neal y Cherelle - Never Knew Love Like This.mp3
+Alexander O'neal y Cherelle - Saturday Love.Mp3
+Alice in Chains No Excuses.mp3
+Almodovar y McNamara - Suck It to Me.mp3
+Alphaville - Sounds like a melody.mp3
+Amaral - Sin Ti no Soy Nada.mp3
+Amaral - Te necesito.mp3
+Amistades Peligrosas - Casi Nunca Bail is.MP3
+Amistades Peligrosas - Me Haces Tanto Bien.mp3
+ana torroja - sirenas.mp3
+Andrea Bocelli - L'attesa.avi.MP3
+Angel - Dancing in Paris (Qu‚ Pasa).mp3
+Anita Baker - Caught Up in the Rapture.mp3
+Anita Baker - Sweet Love.mp3
+Annabel Lee.mp3
+Annie Lennox - Medusa - A Whither Shade of Pale.mp3
+Annie Lennox - Medusa - Donït Let It Bring You down.mp3
+Annie Lennox - Medusa - Thin Line between Love and Hate.mp3
+Annie Lennox - Medusa - Versi¢n No more -I Love Youïs-.mp3
+Antonio Flores cuerpomujer.mp3
+Antonio Mach¡n - A Las Doce En Punto.mp3
+Antonio Mach¡n - Coraz¢n Loco.mp3
+Antonio Mach¡n - Envidia .mp3
+Antonio tello - rescate1.mp3
+Antonio Tello - rescate2.mp3
+Antonio Vega - Mi hogar en cualquier sitio.mp3
+Antonio Vega - Oc‚ano de Sol.mp3
+an¢nimo - avistapajaro.MP3
+An¢nimo - candycandy.flv.MP3
+An¢nimo - chciho.flv.MP3
+An¢nimo - chichocierre.flv.MP3
+An¢nimo - chispas.flv.MP3
+An¢nimo - commodore100.flv.MP3
+An¢nimo - Isidoro.mp3
+an¢nimo - la tia de frankenstein cierre.avi.MP3
+An¢nimo - Los Aurones (extendida).mp3
+An¢nimo - McGyver.mp3
+An¢nimo - memole.flv.MP3
+an¢nimo - pennies 1981 yes.avi.MP3
+an¢nimo - pennies from heaven 1981.avi.MP3
+An¢nimo - quijotesintonia.flv.MP3
+An¢nimo - samedcanciones.mp3
+An¢nimo - sherlockholmes.flv.MP3
+An¢nimo - TV Theme Songs - Growing Pains.mp3
+aqua barbie girl.mp4.MP3
+Arcadia - Election Day.mp3
+Arkarna - House On Fire.mp3
+Ashford And Simpson - Solid.mp3
+Associatesext_Waiting For The Loveboat.mp3
+Astrud - bailando.flv.MP3
+Astrud - todonospareceunamierda.flv.MP3
+Aswad - Don't Turn Around.mp3
+Auld Lang Syne bagpipes.avi.MP3
+Avalanches - sinceileftyou.flv.MP3
+Aviador Dro - La Ciudad en Movimiento.mp3
+aviador dro la zona fantasma.avi.MP3
+aznavour debes saber.mp3
+aznavour y por eso.mp3
+aznavour-02-AudioTrack 02.mp3
+aznavour03-AudioTrack 03.mp3
+aznavour05-AudioTrack 05.mp3
+aznavour07-AudioTrack 07.mp3
+Aztec Camera - Walk Out to Winter.mp3
+Azul y Negro - Habana - No Smoking.mp3
+Azul y Negro - notengotiempo.flv.MP3
+B Movies - Nowhere Girl (extended).mp3
+B. J. Thomas - Rain drops keep falling on my head.mp3
+Baltimora -Tarz n Boy.flv.MP3
+Bananarama - guilty.flv.MP3
+Beck Loser.MP3
+Bee  Gees - I Started a Joke.mp3
+Bee Gees - You Win Again.mp3
+Belouis Some - Imagination.mp3
+Belouis Some - Some People.mp3
+Besh O Drom - Meggyujtom a Pipam.mp4.MP3
+Beth - Dime.mp3
+Beth - Parando el tiempo.mp3
+Beyond Brother - theharderitry.flv.MP3
+Bill Withers - Lovely Day.mp3
+Billy Idol - Eyes Without A Face.mp3
+Billy Joel directo - billy elton road.mp3
+Billy Joel directo - Don't Worry Baby (Homenaje a Wilson y los Beach Boys).MP3
+Billy Joel disco An Innocent Man - Uptown Girl.mp3
+Billy Joel disco Fantasies and Delusions - Air (Dublinesque).mp3
+Billy Joel disco Fiftysecond Street - My Life.mp3
+Billy Joel disco Glass Houses - All For Leyna.mp3
+Billy Joel disco Greatest Hits Volumen 1 y 2 - While the Night Is Still Young.mp3
+Billy Joel disco Greatest Hits Volumen 1 y 2 - You're Only Human.mp3
+Billy Joel disco Greatest Hits Volumen 3 - To make you feel my love.mp3
+Billy Joel disco Piano Man - Piano man.MP3
+Billy Joel disco Piano Man - You're My Home.mp3
+Billy Joel disco River of Dreams - All about Soul.mp3
+Billy Joel disco River of Dreams - Blond Over Blue.mp3
+Billy Joel disco River of Dreams - Famous Last Words.mp3
+Billy Joel disco River of Dreams - The River of Dreams.mp3
+Billy Joel disco Songs in the Attic - I've Loved these Days.mp3
+Billy Joel disco Songs in the Attic - Say Goodbye to Hollywood.mp3
+Billy Joel disco Storm Front - And So It Goes.mp3
+Billy Joel disco Storm Front - Downeaster Alexa.mp3
+Billy Joel disco Storm Front - Leningrad.mp3
+Billy Joel disco Streetlife Serenader - Streetlife Serenader.mp3
+Billy Joel disco Streetlife Serenader - The Great Suburban Showdown.mp3
+Billy Joel disco The Bridge - Running on Ice.mp3
+Billy Joel disco The Bridge - Temptation.mp3
+Billy Joel disco The Nylon Curtain - Allentown.mp3
+Billy Joel disco The Nylon Curtain - Sheïs Right on Time.mp3
+Billy Joel disco The Nylon Curtain - Surprises.mp3
+Billy Joel disco The Nylon Curtain - Whereïs the Orchestra.mp3
+Billy Joel disco The Stranger - Scenes from an Italian Restaurant.mp3
+Billy Joel disco The Stranger - She's Always a  Woman to Me.mp3
+Billy Joel disco The Stranger - Vienna.mp3
+Billy Joel disco Turnstyles - New York State of Mind.mp3
+billy Joel disco Turnstyles - Summer, Highland Falls.mp3
+Billy Joel Hassles - Four o'clock in the Morning.MP3
+Billy Joel varios en un disco Mad about the Mouse (Disney) - When You Wish Upon A Star.mp3
+billy leave_tender.avi.MP3
+Billy Ocean - Sad Songs.avi.MP3
+Billy Ocean - When the Going Gets Tough the Tough Get Going.MP3
+Black - Everything is coming up roses.mp3
+Black - Paradise.mp3
+Black - Sweetest Smile.mp3
+Black - Wonderful Life.mp3
+Black Box - Ride on Time.mp3
+Blow Monkeys - digging your scene.mp3
+blur - girls and boys.avi.MP3
+Blur - Parklife.mp3
+Blur - Song 2.mp3
+blur - theres no other way.avi.MP3
+Blur - theuniversal.flv.MP3
+blur 1 01-AudioTrack 01.mp3
+blur 1 07-AudioTrack 07.mp3
+blur 2 08-AudioTrack 08.mp3
+blur 2 16-AudioTrack 16.mp3
+Blur 2 temas de blur encadenados extraer mp3.avi.MP3
+blur chrmless man.MP3
+blur i don't need.MP3
+blur she.MP3
+bobgeldof crazy.mp3
+Bon Jovi - Always.mp3
+Bon Jovi - Dead or Alive.mp3
+Bon Jovi - Lay your Hands on Me.mp3
+Boston - Amanda.mp3
+Boy George - The Crying Game.mp3
+Boy Krazy - That's What Love Can Do.mp3
+Boyz II Men - End of the Road.mp3
+Brainstorm - Maybe.mp3
+Bravo - Lady Lady.mp3
+Brian Adams - Heaven.mp3
+Bronsky Beat - Ain't Necessarily So.mp3
+Bruce Springsteen - Hungry Heart.mp3
+Bruce Springsteen - Streets of Philadelphia.mp3
+Bruce Springsteen - The River.mp3
+Bruce Springsteen - Tunnel Of Love.mp3
+bruno lauzi ritornerae.avi.MP3
+Bryan Ferry - Slave To Love.mp3
+Buggles - Video Killed the Radio Star.mp3
+Caifanes - Afuera.mp3
+Cameo - Word up (extended).MP3
+Cameo - Word Up.mp3
+Campesinos.avi.MP3
+Cantores de Hispalis - a bailar sevillanas - YouTube.mp3
+Carlos Gardel - Caminito.mp3
+Carlos Gardel - El d¡a que me quieras.mp3
+Carlos Gardel - Volver.mp3
+Carlos N£¤ez - El Pozo de Ar n.mp3
+Carpenters gold - 03-Raini Days and Mondays.mp3
+Carpenters gold - 05-Itïs Going to Take Me Some Time.mp3
+Carpenters gold - 10-Please Mr. Postman.mp3
+Carpenters gold - 14-Close to You (They Long to Be).mp3
+Cars - Heartbeat City.mp3
+CC Catch - heartbreakhotel.flv.MP3
+CC Catch - Jump In My Car.mp3
+Cecilia - Amor de Medianoche.mp3
+Chafino - Hombre de papel - video -.mpg.MP3
+Charles and Eddie - Would I Lie to You Baby.mp3
+Cheap Trick - The Flame.mp3
+Chicago - Hard Habit To Break.mp3
+Chicago - Look Away.mp3
+China Crisis - King in a Catholic Style.mp3
+China Crisis - Working With Fire And Steel.mp3
+Chopin - Tristesse.mp3
+Chris De Burgh - Lady In Red.mp3
+Chris Rea - On the Beach (Extended).mp3
+Christians - Forgotten Town.mp3
+Christians - Harvest For The World.mp3
+Christians - Hooverville.mp3
+Christians - When the Fingers Point.mp3
+Christians - Words.mp3
+Christopher Cross - All right.mp3
+Christopher Cross - Caught Between the Moon and NYC.mp3
+Christopher Cross - Sailing.mp3
+Cindy Lauper - True Colors.mp3
+Classix Nouveaux - Is It a Dream.mp3
+Cliff Richard - mendahort.flv.MP3
+Climie Fisher - Love changes everything.mp3
+Cock Robin - When your Heart Is Weak.mp3
+cock robin corner.avi.MP3
+Communards - Donït leave me this way.mp3
+Communards - So Cold the Night.mp3
+Communards - Tomorrow.mp3
+Communards - You Are My World.mp3
+Compositores Espa¤oles  - Salvador Bacarisse.mp3
+Compositores Espa¤oles - Francisco T rrega.mp3
+Compositores Espa¤oles - Granados.mp3
+Counting Crows - Round Here.mpg.MP3
+Cousteau - The Last Good Day of the Year.mp4.MP3
+Cramberries - myfamily.avi.MP3
+Crash Test Dummies - God Shuffled His Feet.mp3
+Crash Test Dummies - Mmmmm.mpg.MP3
+Cristina y los Subterr neos - Dile a papa.mp3
+Cristina y los Subterr neos - Mil pedazos.mp3
+Cristina y los Subterr neos - Ni una maldita florecita.mp3
+Cristina y los Subterr neos - Pulgas en el coraz¢n.mp3
+Cristina y los Subterr neos - P lido.mp3
+Cristina y los Subterr neos - T£ por mi.mp3
+Crowded House - 15 Distant Sun.mp3
+Culture Club - Church Of The Poison Mind.mp3
+Culture Club - Do You Really Want To Hurt Me.mp3
+Culture Club - Karma Chameleon.mp3
+Culture Club - Time (Clock Of The Heart).mp3
+Culture Club - White Boy.mp3
+Cyndi Lauper - Girls Just Wanna Have Fun.mp3
+Cyndi Lauper - Goonies Theme.mp3
+Cyndi Lauper - Time After Time.mp3
+Cyndi Lauper - What's Going on.MP3
+C¢mplices - Duende.mp3
+C¢mplices - El Pintor del Arco Iris.mp3
+C¢mplices - Hoy Necesito.mp3
+C¢mplices - Preguntas y Flores.mp3
+Danny Wilson - Mary's Prayer.mp3
+Dave Mathews Band - Satelite.mp3
+Dave Matthews Band - Everyday.flv.MP3
+Dave Stewart - Heart of Stone.mp3
+David Bisbal - Coraz¢n Latino - Ave Mar¡a.mp3
+David Bisbal - Coraz¢n Latino - Coraz¢n Latino.mp3
+David Bisbal - Coraz¢n Latino - D¡gale.mp3
+David Bisbal - Coraz¢n Latino - Quiero Perderme en tu Cuerpo.mp3
+David Bisbal - Coraz¢n Latino - Un Amor que Viene y Va.mp3
+David Bisbal mehundo.flv.MP3
+david bowie 1 03-AudioTrack 03.mp3
+david bowie 1 06-AudioTrack 06.mp3
+david bowie 1 08-AudioTrack 08.mp3
+david bowie 1 15-AudioTrack 15.mp3
+david bowie 1 19-AudioTrack 19.mp3
+david bowie 2 10-AudioTrack 10.mp3
+david bowie 2 11-AudioTrack 11.mp3
+david bowie 2 13-AudioTrack 13.mp3
+david bowie 2 15-AudioTrack 15.mp3
+david bowie 2 17-AudioTrack 17.mp3
+david bowie Ashes to Ashes.mp3
+david bowie heroes.mp3
+David Bowie video - Thrusday's Child.mp4.MP3
+david bowie y Queen Under Pressure.mp3
+Deacon Blue - Dignity.mp3
+Deacon Blue - realgonekid.flv.MP3
+Deacon Blue - When will You Make my Telephone Ring.mp3
+Dead or alive - 2.flv.MP3
+Dead or alive - otro.flv.MP3
+Dead or Alive - spin.flv.MP3
+Depeche Mode - Everything Counts.mp3
+Depeche Mode - Just Can't Get Enough.mp3
+Derribos Arias - A Fl£or.mp3
+Derribos Arias - Branquias bajo el Agua.avi.MP3
+Desireless - Voyage Voyage.mp3
+desree you've gotta be.mp3
+Dexy's Midnight Runners - Come On Eileen.mp3
+Dexy's Midnight Runners - The Celtic Soul Brothers.mp3
+Diana Ross - Upside Down.mp3
+Diego Vasallo - El Peine De Los Vientos.mp3
+Diego Vasallo - Juegos De Amor.mp3
+Diego Vasallo - Rastros de ti.mp3
+Diego Vasallo y El Cabaret Pop - Polaroids.mp3
+Dinamita pa los Pollos - Un Agujero en el Bolsillo.mp3
+Dionne Warwick - Heartbreaker.mp3
+Dire Straits - Brothers in arms.mp3
+Dire Straits - Money for Nothing.MP3
+Dire Straits - Portobello belle.mp3
+Dire Straits - So far away.mp3
+Dire Straits - Tunnel Of Love.mp3
+Dire Straits - Twisting by the pool.mp3
+Dire Straits - Walk of life.mp3
+Dire Straits - Your latest trick.mp3
+Dirty Dancing - I've Had The Time Of My Life.mp3
+Donna Summer - gethurt.flv.MP3
+Double - The Captain Of Her Heart.mp3
+Drifters - Up on a roof.mp3
+Duncan Dhu disco Colecci¢n 1985-1998 - C¢rdoba.mp3
+Duncan Dhu disco Colecci¢n 1985-1998 - En Alg£n Lugar (directo).mp3
+Duncan Dhu disco Colecci¢n 1985-1998 - La Herida.mp3
+Duncan Dhu disco Colecci¢n 1985-1998 y Piedras - A Tientas.mp3
+Duncan Dhu disco Colecci¢n 1985-1998 y Piedras - Capricornio.mp3
+Duncan Dhu disco Colecci¢n 1985-1998 y Piedras - Si no Eres T£.mp3
+Duncan Dhu disco Colecci¢n 1985-1998 y Supernova - La Casa Azul.mp3
+Duncan Dhu disco Colecci¢n 1985-1998 y Supernova - Mundo de Cristal.mp3
+Duncan Dhu disco Colecci¢n 1985-1998 y Supernova - Oro Blanco.mp3
+Duncan Dhu disco Colecci¢n 1985-1998 y Supernova - Rose.mp3
+Duncan Dhu disco Colecci¢n 1985-1998 y Supernova - Sombra de Ti.mp3
+dunMikel erentxun - A Pleno Sol.mp3
+dunMikel Erentxun - A un minuto de ti.mp3
+dunMikel Erentxun - California.mp3
+dunMikel Erentxun - Grandes xitos.mp3
+dunMikel Erentxun - Ma¤ana.mp3
+Duran Duran - Come Undone.mp3
+Duran Duran - Is there Something.mp3
+Duran Duran - Ordinary World.mp3
+Duran Duran - The Reflex.mp3
+Eartha Kitt - This Is my Life.mp3
+EarthWindandFire01-AudioTrack 01.mp3
+Echo and the Bunnymen - Bring on the Dancing Horses.mp3
+Echo And The Bunnymen - Silver.mp3
+Echo and the Bunnymen - The Cutter.mp3
+Echo and The Bunnymen - The Killing Moon.mp3
+Eddie Grant - Gimme Hope Joanna.mp3
+Eduardo armenteros - corona magica.mp4.MP3
+Eight Wonder - im_not_scared.flv.MP3
+El Barrio - pamadrid.flv.MP3
+el kiosco tve baby disco.avi.AVI.MP3
+El norte - Un diamante es para siempre.mp3
+El £ltimo de la fila - Como un burro.mp3
+El £ltimo de la fila - Insurrecci¢n.mp3
+El £ltimo de la fila - L piz y tinta.mp3
+El £ltimo de la fila - Mar antiguo.mp3
+El éltimo de la Fila - Ruge Mistral.mp3
+Elefantes - Azul.mp3
+Elefantes - Piedad.mp3
+ELO - Last Train To London.mp3
+ELO - Moment in Paradise.mp3
+elo - sweet is the night.avi.MP3
+Elton Jhon - Iïm Still Standing.mp3
+Elton John - I Guess That's Why They Call It the Blues.mp3
+Elton John - I Want Love.mp3
+Elton John - Nikita.mp3
+Elton John - Sacrifice.mp3
+Elton john - theone.flv.MP3
+Elton John - Your Song.mp3
+Elton John y Billy Joel - Goodbye Yellow Brick Road.mp3
+Elvis Costello - Everyday I Write The Book.mp3
+Elvis Costello - the only flame.avi.MP3
+EMF - Unbelievable.mp3
+Emilio jos‚ directo - Soledad.avi.MP3
+Enrique Iglesias - dimelo.flv.MP3
+Enrique Iglesias - hero.flv.MP3
+Enrique iglesias - quizas.flv.MP3
+Enrique Y Ana - Abuelito.mp3
+EnVogue.mp3
+Enya - Orinoco Flow.MP3
+Enya 1 only time.avi.MP3
+Enya 2 evening falls.avi.MP3
+Enya 3 anywhere.avi.MP3
+Enya 4 caribbean blue.avi.MP3
+Erasure - A Little Respect.mp3
+Eric Burdon - The Night.mp3
+Eric Clapton - Change the World.mp3
+Eros Ramazoti - Fuego en el fuego.mp3
+Eros Ramazoti - La Cosa m s Bella.mp3
+Eros Ramazoti - Otra como t£.mp3
+Europe - The Final Countdown.mp3
+Eurythmics - All Right, my Babyïs comming back.mp3
+Eurythmics - Here Comes The Rain Again.mp3
+Eurythmics - Sweet Dreams.mp3
+Eurythmics - There Must Be An Angel.mp3
+Eurythmics - Thorn in my Side.mp3
+Eurythmics - When Tomorrow Comes.mp3
+Eurythmics - Who's That Girl.mp3
+Everly Brothers - All I have to do is dream.mp3
+Expose - Seasons Change.mp3
+Extreme - More Than Words.mp3
+Fairground Attraction - Perfect.MP3
+Falcon Crest Theme 1.mp3
+father figure.avi.MP3
+Feargal Sharkey - A Good Heart.mp3
+Feargal Sharkey - You Little Thief.mp3
+fernando valle roso sones.AVI.MP3
+Fiction Factory - Feels like Heaven.mp3
+Fire Inc. - Tonight Is What It Means to Be Young.mp3
+Flash and the Pan - Waiting for a Train.mp3
+Fleetwood Mac - Gypsy.mp3
+Flock of Seagulls - Wishing I Had a Photograph of You.mp3
+Foreigner - I Wanna Know What Love Is.mp3
+Foreigner - Urgent.mp3
+Foreigner - Waiting For A Girl Like You.mp3
+Four Non Blondes - Whatïs up.mp3
+Franco Battiato - Bandera blanca.mp3
+Franco Battiato - N¢madas.mp3
+Franco Battiato - Perspectiva Nevski.mp3
+Frankie Goes to Hollywood - Power of Love.mp3
+Frankie Goes To Hollywood - Relax.mp3
+Frankie Goes to Hollywood - San Jos‚.mp3
+Frankie Goes to Hollywood - Two Tribes.mp3
+Frankie Valli & The Four Seasons - Can't Take My Eyes Off You.mp3
+Frankie Valli & The Four Seasons - My Eyes Adored You 60s.mp3
+Frankie Valli & The Four Seasons - Stay (Just A Little Bit Longer).mp3
+Frankie Valli & The Four Seasons - Walk Like a Man.mp3
+Franky Valli - Oh What a Night - versi¢n corta.mp3
+funfactorycelebration.flv.MP3
+Gabinete Caligari - Camino Soria.mp3
+Gabinete Caligari - Cien Mil Vueltas.mp3
+Gabinete Caligari - La Sangre de tu Tristeza.mp3
+Gabriele l¢pez - lavida deseada.mp3
+Gary Barlow - Forever Love.mp3
+Gary Moore - Still got the blues.mp3
+Gary Numan - Cars.mp3
+Gary Numan arefriendselectric.flv.MP3
+Gazebo - I Like Chopin.mp3
+Genesis - Never a Time.avi.MP3
+Genesis - Snowbound.mp4.MP3
+Genesis - You Taking It All Too Hard.avi.MP3
+Genesis directo - Domino.avi.MP3
+Genesis directo - Squonk.mp3
+Genesis directo - Your Own Special Way.mp3
+Genesis directo 1980 - Down Into the Motherlode.mp3
+Genesis directo 2007 - When in Rome - Ripples.mp3
+Genesis directo disco Live Over Europe - Afterglow.mp3
+Genesis directo disco Live Over Europe - Follow You, Follow Me.mp3
+Genesis disco A Trick of the Tail - Ripples.mp3
+Genesis disco A Trick of the Tail - tott.mp3
+Genesis disco Abacab - Keep It Dark.mp3
+Genesis disco Abacab - Man on the Corner.mp3
+Genesis disco Abacab - No Reply.mp3
+Genesis disco And then There Where Three - Follow You Follow Me.mp3
+Genesis disco And then There Where Three - Many Too Many.mp3
+Genesis disco Duke - Duchess.mp3
+Genesis disco Duke - Misunderstanding.mp3
+Genesis disco Genesis - Home By the Sea.mp3
+Genesis disco Genesis - Mama.mp3
+Genesis disco Genesis - That's All.mp3
+Genesis disco Invisible Touch - In Too Deep.mp3
+Genesis disco Invisible Touch - Invisible Touch.mp3
+Genesis disco Invisible Touch - Land Of Confusion.mp3
+Genesis disco Invisible Touch - Tonight.mp3
+Genesis disco We Can't Dance - Hold on My Heart.mp3
+Genesis disco We Can't Dance - No Son Of Mine.mp3
+Genesis EP 3 x 3 - Paperlate.mp3
+Genesis mezclas Rick Astley (SAW) - Paperlate Together Forever (Paperlate Mix).mp3
+Genesis videoclip - Throwing It All Away.mp3
+Genesis zzzz Peter single - Carpet Crawlers 99.mp3
+Genesis zzzzzz Peter disco Foxtrot - Horizon's.mp3
+George Benson - 20-20.mp3
+George Benson - Give Me The Night.mp3
+George Michael - I Want your Sex .mp3
+George Michael - One More Try.mp3
+George Michael praying for time.MP3
+Glenn Frey - You Belong To The City.mp3
+Glenn Medeiros - Nothing's Gonna Change My Love For You.mp3
+Gloria Estefan - Anything For You.mp3
+Gloria Estefan Don't Wanna Lose you Now.mp3
+Go West - Call Me.mp3
+Go West - We Close Our Eyes.mp3
+Gominolas - grandezadestino.flv.MP3
+Good charlotte.flv.MP3
+Guns and Roses - Knocking On Heavens Door.mp3
+Guns and Roses - Sweet Child of Mine.mp3
+Haddaway - What Is Love.mp3
+Haircut 100 - Love Plus One.mp3
+Hall & Oates - 12 inch collection - 10 - Say It Isn't So (Remix).mp3
+Hall and John Oates - One on One.mp3
+Hall And Oates - Ican't go for that (no can do).mp3
+Hall and Oates - Private Eyes.mp3
+Hall and Oates - She's A Man Eater.mp3
+Hall and Oates - Your Kiss Is On My List.mp3
+Hall and Oats - Out of Touch.mp3
+Harold Melvin and The Blue Notes - The Love I Have Lost.mp3
+Harry Belafonte - Banana Boat Song.mp3
+Hazel dean - whosleavingwho.flv.MP3
+hazteindustrial.avi.MP3
+Heart - Alone.mp3
+Heart - These Dreams.mp3
+Heaven 17 disco How men Are - This Is Mine.mp3
+Heaven 17 disco Penthouse and Pavement - Play to Win.mp3
+Heaven 17 disco The Luxury Gap - Come Live with Me.mp3
+Heaven 17 disco The Luxury Gap - Let Me Go (extended).mp3
+Heaven 17 disco The Luxury Gap - Temptation.mp3
+Heaven 17 disco The Luxury Gap - We Live So Fast.mp3
+Heaven 17 Pleasure One - Trouble.mp3
+Henry Mancini - Desayuno con Diamantes.mp3
+Henry Mancini - The Windmills of Your Mind.avi.MP3
+hidrogenesse - Eres mac eres pc.avi.MP3
+Hipsway - the Honey Thief.MP3
+Hollies - He Ain't Heavy He's My Brother.mp3
+House Martins - Happy Hour.mp3
+Howard Jones - wislove.flv.MP3
+Huey Lewis and the News - If This Is It.mp3
+Huey Lewis and the News - The Power of Love.mp3
+Human League - Don't You Want Me.mp3
+Human League - Fascination.mpg.MP3
+Human League - Human.mp3
+Human League - Love Action.mp3
+Human League - Mirror Man.mp3
+Human League - oneman.flv.MP3
+Human League - tell me when video.flv.MP3
+Human League - Together In Electric Dreams.mp3
+Ian Dury and the Blockheads - Hit Me With Your Rythym Stick.mp3
+Imagination - Changes.mp3
+Imagination - In the Heat of the Night [Extended Version].mp3
+Imagination - Just An Illusion [Extended].mp3
+INXS - Devil Inside.mp3
+INXS - Listen like Thieves.mp3
+INXS - New Sensation [extended].mp3
+Irene Kara - What a Feeling.mp3
+Itïs Immaterial -  Driving Away from Home.mp3
+Ivan - Fotonovela.mp3
+Jacksons - Torture (extended).mp3
+Jaime T - monos.flv.MP3
+Jaime Urrutia y Loquillo - caray.flv.MP3
+James Ingram & Michael McDonald - Yah Mo Be There.mp3
+Jamie Lidell Multiply piano Chilly Gozales.avi.MP3
+Janet Jackson - Escapade.mp3
+Janet Jackson - That's The Way Love Goes.mp3
+Janet Jackson - When I Think Of You.mp3
+Jarvis Cocker - Don't Let Him Waste Your Time.avi.MP3
+Jarvis Cocker - Temptation.avi.MP3
+Jason donovan - anothernight.flv.MP3
+Jason donovan - everyday.flv.MP3
+Jason donovan - nothing can divide us.flv.MP3
+Jason donovan - rain.flv.MP3
+Jason Donovan - Too Many Broken Hearts (extended).mp3
+Jefferson Starship - Sarah.mp3
+Jefferson Starship - We Built This City.mp3
+jethro tull too old to rock and roll too young to die.avi.MP3
+jhonny hates jazz - dont say its love.avi.MP3
+Jim Diamond - I Should Have Known Better.mp3
+Jimmy Cliff icanseeclearlynow.mp3
+Joaqu¡n Rodrigo - Fantas¡a para un Gentilhombre - Villano y .mp3
+Joe cocker shelter me.MP3
+Joelle Ursull - White and Black Blues.mp3
+John Cougar Mellencamp - Hurts So Good.mp3
+John Cougar Mellencamp - Jack and Diane.mp3
+John Farnham - You're The Voice.mp3
+John Lennon - Just like Starting over.mp3
+John Parr - St. Elmo's Fire (Man in Motion).mp3
+John Secada - µngel.mp3
+John Waite - Missing You.mp3
+johnny hates jazz - i don't want to be a hero.mp3
+Johnny Hates Jazz - Shattered Dreams (extended).mp3
+Johnny Lang y Wilson Pickett - Call Me.mp3
+Johny Hates Jazz - Turn back the Clock.mp3
+Jon Secada - If You Go.mp3
+Jos‚ Carreras Turandot.avi.MP3
+Jos‚ Luis Perales directo - Ay Coraz¢n directo.mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - A M s de Mil Kil¢metros de T¡.mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - Amigo.mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - Ay Amor (con la participaci¢n de Mocedades).mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - Brindaremos por l.mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - C¢mo Ha Pasado el Tiempo.mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - El Escultor y Ella.mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - El Hombre y la Sirena.mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - El Loco.mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - Entre T£ y Yo.mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - Hoy Me Acord‚ de T¡.mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - La C rcel del Amor (con Ana Gabriel).mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - La Llamaban Loca.mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - La M£sica.mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - Me Ir‚ Calladamente.mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - Mi éltimo Espectador.mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - Por Qu‚ esta Soledad (con Alejandro Fern ndez).mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - Por Qu‚ Te Vas.mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - Si no Estuvieras T£.mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - Supervivientes.mp3
+Jos‚ Luis perales disco 30 Grandes Canciones - T£ como Yo.mp3
+Jos‚ Luis Perales disco Amaneciendo en Ti - A Ti Mujer.mp3
+Jos‚ Luis Perales disco Am‚rica - Am‚rica.MP3
+Jos‚ Luis Perales disco Con el Paso del Tiempo - No Resulta F cil.mp3
+Jos‚ Luis Perales disco Con el Paso del Tiempo - Que Canten los Ni¤os.mp3
+Jos‚ Luis Perales disco El Preg¢n - A mi Padre.mp3
+Jos‚ Luis Perales disco En Directo - 35 a¤os - Amada M¡a.mp3
+Jos‚ Luis Perales disco En Directo - 35 a¤os - La Espera.mp3
+Jos‚ Luis Perales disco Entre el Agua y el Fuego - Canci¢n de Oto¤o.mp3
+Jos‚ Luis Perales disco Entre el Agua y el Fuego - Y C¢mo Es l.mp3
+Jos‚ Luis Perales disco Gente Maravillosa - Amor sin L¡mite.mp3
+Jos‚ Luis Perales disco La Espera - Amarte As¡.mp3
+Jos‚ Luis Perales disco La Espera - Navidad.mp3
+Jos‚ Luis Perales disco Me Han Contado que Existe un Para¡so - Para¡so.MP3
+Jos‚ Luis Perales disco Nido de µguilas - Balada para una Despedida.mp3
+Jos‚ Luis Perales disco Nido de µguilas - Te Quiero.mp3
+Jos‚ Luis perales disco Qu‚date Conmigo - Qu‚date Conmigo.mp3
+Jos‚ Luis Perales disco Sue¤o de Libertad - Me Gusta la Palabra Libertad.mp3
+Jos‚ Luis Perales disco Tiempo de Oto¤o - Me Llamas.mp3
+Jos‚ Luis Perales disco Tiempo de Oto¤o - Un Velero Llamado Libertad.mp3
+Jos‚ Luis Perales single - Se Cans¢ de Esperar.mp3
+Journey - Escape - Donït Stop believinï.mp3
+Journey - Escape - Open Arms.mp3
+Journey - Escape - Still They Ride.mp3
+Journey - Escape - Whoïs crying now.mp3
+Juan Luis Guerra - Quisiera Ser un Pez.mp3
+Judy Garland - Somewhere Over The Rainbow.mp3
+julioiglesias05-MOMENTOS.mp3
+julioiglesias07-MANUELA (SPANISH).mp3
+julioiglesias08-ALL OF YOU (DUET WITH DIANA ROSS).mp3
+julioiglesias09-AE, AO.mp3
+julioiglesias12-LA CARRETERA.mp3
+julioiglesias13-LO MEJOR DE TU VIDA.mp3
+julioiglesias19-ME VA, ME VA.mp3
+Kajagoogoo - Too shy.mp3
+Kate Bush - Running up that Hill.mp3
+Keane - Everybodys Changing.mp3
+Keane - Somewhere Only We Know.mp3
+Keane - This Is The Last Time.mp3
+Keane bend and break imagenes.avi.MP3
+Kid Creole and the Coconuts - I'm a Wonderful Thing, Baby.mp3
+Kiko Veneno - 06-Fuego.mp3
+Kiko Veneno - chate un Cantecito - Echo de Menos.mp3
+Killers - Bones.mp3
+Kim Carnes - Bette Davis Eyes.mp3
+King - Love and Pride.mp3
+King - Taste of your Tears.mp3
+Kylie - beet the devil you know.avi.MP3
+Kylie Minogue - backintime.flv.MP3
+Kylie Minogue - gottobecertain.flv.MP3
+Kylie Minogue - I Should Be So Lucky.mp3
+l-kan todo lo que no.flv.MP3
+La casa azul- revoluci¢n sexuel.flv.MP3
+La dama Nacho 04-Alamedas.mp3
+La dama Nacho Goerna un_rio.wav.MP3
+La Dama se Esconde disco Antolog¡a Completa single - A A¤os Luz.mp3
+La Dama se Esconde disco Antolog¡a Completa single - Colecci¢name.mp3
+La Dama se Esconde disco Antolog¡a Completa y Armarios y Camas - Tarde LLuviosa.mp3
+La Dama se Esconde disco Antolog¡a Completa y Armarios y Camas - Un Error de Apreciaci¢n.mp3
+La Dama se Esconde disco Antolog¡a Completa y Armarios y Camas- Amenazas.mp3
+La Dama se Esconde disco Antolog¡a Completa y Avestruces - Un Avestruz.mp3
+La Dama se Esconde disco Antolog¡a Completa y Avestruces - Un Regalo.mp3
+La Dama se Esconde disco Antolog¡a Completa y Coge el Viento - Capturado.mp3
+La Dama se Esconde disco Antolog¡a Completa y Coge el Viento - Desafi ndote.mp3
+La Dama se Esconde disco Antolog¡a Completa y Coge el Viento - Princesa.mp3
+La Dama se Esconde disco Antolog¡a Completa y Hoy - Fugaces.mp3
+La Dama se Esconde disco Antolog¡a Completa y La Tierra de los Sue¤os - Cuatro Direcciones.mp3
+La Dama se Esconde disco Antolog¡a Completa y La Tierra de los Sue¤os - La Tierra de los Sue¤os.mp3
+La Dama se Esconde disco Antolog¡a Completa y La Tierra de los Sue¤os - Nunca He Entendido a las Sirenas.mp3
+La Dama se Esconde disco Antolog¡a Completa y Lejos del Puerto - Ciudad Fuego.mp3
+La Dama Se Esconde disco Hoy - Cant brico.mp3
+La Dama Se Esconde disco Lejos del Puerto videoclip - No Tienen.mp3
+La Frontera - En el L¡mite del Bien y del Mal.mp3
+Las Ketchup - Asereje.mp3
+las ni¤as - el mundo a mis pies.mp3
+Laura Pausini - Entre T£ y Mil Mares.avi.MP3
+Laura Pausini - La Soledad.mp3
+Laura Pausini - Se Fue.mp3
+La_guardia_nose.mp3
+Lenny Kravitz heavenhelp.mp3
+Leo Sayer - When I Need You.mp3
+Level 42 - It's Over.mp3
+Level 42 - Lessons In Love.mp3
+Level 42 - Something About You.mp3
+Level 42 - The Chinese Way.mp3
+Level 42 - The Sun Goes down.mp3
+Level 42 - To Be With You Again.mp3
+Lightning Seeds - Lucky You.mp3
+Limah - Neverending Story.mp3
+Linda Mirada - San Valent¡n.mp4.MP3
+Linkin Park - In The End.mp3
+Lionel Richie - All Night Long.mp3
+Lionel Richie - Hello.mp3
+Lionel Richie - Penny Lover.mp3
+Lionel Richie - Running With The Night.mp3
+Lionel Richie - Say You Say Me.mp3
+Lionel Richie - Stuck On You.mp3
+Lionel Richie - You Are The Sun.mp3
+Lionel Rtchie - Truly.mp3
+Lisa Lisa and the Cult Jam - Head to Toe.mp3
+Lloyd Cole & The Commotions - Forest Fire.mp3
+Lloyd Cole & The Commotions - Perfect Skin.mp3
+Lloyd Cole & The Commotions - Rattlesnakes.MP3
+Lonnie gordon - happening all over again.flv.MP3
+Los Brincos - Anduri¤a.mp3
+Los Happines - AmoALaura.mpg.MP3
+Los Locos - Algo Salvaje - cd 1 - As¡ Cayeron los Dados.mp3
+Los Locos - Algo Salvaje - cd 2 - Alguien Trama lo Peor.mp3
+Los Locos - Algo Salvaje - cd 2 - Camisa de Fuerza.mp3
+Los Locos - Algo Salvaje - cd 2 - Lecci¢n de Baile (remix).mp3
+Los Locos - Algo Salvaje - cd 3 - Cora.mp3
+Los Pecos - Hablame de t¡.mp3
+Los Pecos - Mentira para Dos.mp3
+Los pecos - Y decir que te quiero.mp3
+Los rebeldes - Dias de lluvia.mp3
+Los Rebeldes- Bajo la Luz de la Luna.mp3
+Los Refrescos - Aqui no hay playa.mp3
+Los Rodr¡guez - Dulce condena.mp3
+Los Secretos - Pero A Tu Lado.mp3
+Los Secretos y CIA - D‚jame.mp3
+losmitos_esmuyf cil.AVI.MP3
+lossencillos doctor amor.mp3
+Luis Aguil‚ directo.avi.MP3
+Luther Vandross - Give Me The Reason.mp3
+Luz Casal - 02-Te Dej‚ Marchar.mp3
+Luz Casal - 04-Amigo M¡o.mp3
+Luz Casal - 07-Es Como Es.mp3
+Luz Casal - 08-No Me Importa Nada.mp3
+Madness - Michael Caine.mp3
+Madonna - Angel (Extended).mp3
+Madonna - badgirl.flv.MP3
+Madonna - Cherish.mp3
+Madonna - Crazy For You.mp3
+Madonna - Express Yourself.mp3
+Madonna - Get Into The Groove.mp3
+Madonna - Holiday.mp3
+Madonna - Justify My Love.mp3
+Madonna - La Isla Bonita.mp3
+Madonna - Like A Virg¡n.mp3
+Madonna - likeprayer.flv.MP3
+Madonna - Live To Tell.mp3
+Madonna - Lucky Star.mp3
+Madonna - Material Girl.mp3
+Madonna - Open Your Heart.mp3
+Madonna - Papa donït Preach.mp3
+Madonna - Rain.mpg.MP3
+Madonna - Secret.mp3
+Madonna - Take A Bow.mp3
+Madonna - True Blue.mp3
+Madonna - Vogue.mp3
+Madonna - Who's That Girl.mp3
+madre del topo - mariposas.flv.MP3
+Maercury Rev - inafunnyway.flv.MP3
+Manic Street Preachers - Motorcycle Emptiness.mp3
+manos de topo es feo.mp4.MP3
+Mariah Carey -  Without You.mp3
+Mariah Carey - All I Want For Christmas Is You.mp3
+Mariah Carey - Dreamlover.mpg.MP3
+Mariah Carey - Emotions.mp3
+Mariah Carey - I'll Never Forget You.mp3
+marillion_kayleigh.avi.MP3
+Maritrini - Algo As¡.mp3
+Maritrini - Decir.mp3
+Maritrini - El Alma no Vender‚.mp3
+Maritrini - Si no Te Vas con la Tarde.mp3
+Marvin Gaye - Sexual healin.MP3
+Marvin Gaye - What's Going On.mp3
+Mar¡a Dolores Pardera Carlos Cano-A las 5 de un 5 de Junio.mp3
+Mar¡a Dolores Pardera Carlos Cano-Habaneras de C diz.mp3
+Mar¡a Isabel - Antes Muerta que Sencilla.mp3
+Matt Bianco - Half A Minute.mp3
+Matthew Wilder - Break My Stride.mp3
+Meat Loaf - I would Do Anything for Love.mpg.MP3
+Meat Loaf - Rock' N Roll Dreams.asf.MP3
+Mecano - 7 de Septiembre.mp3
+Mecano - Aire.mp3
+Mecano - Alfonsina y el Mar.mp3
+Mecano - Ay Dalai.mp3
+Mecano - Barco a Venus.mp3
+Mecano - Cruz de Navajas.mp3
+Mecano - Dal¡.mp3
+Mecano - Droga.mp3
+Mecano - Estereosexual.mp3
+Mecano - Fiesta.mp3
+Mecano - Hawai Bombay.mp3
+Mecano - Hijo de la Luna.mp3
+Mecano - Hoy no me puedo Levantar.mp3
+Mecano - La Fuerza del Destino.mp3
+Mecano - La Llama de la Libertad.mp3
+Mecano - La Tortilla da la Vuelta.mp3
+Mecano - Me Cuesta tanto Olvidarte.mp3
+Mecano - Mujer contra Mujer.mp3
+Mecano - Mundo Futuro.mp3
+Mecano - No Es Serio este Cementerio.mp3
+Mecano - No hay Marcha en Nueva York.mp3
+Mecano - No me Mires.mp3
+Mecano - Pasado.mp3
+Mecano - Perdido.mp3
+Mecano - Un a¤o m s.mp3
+Mecano - Una Rosa.mp3
+Mecano - Yo ya no s‚.mp3
+Mel Brooks - It's Good to be the King.mp3
+Men At Work - Land Down Under.mp3
+Men At Work - Who Can It Be now.mp3
+Mercury Rev - Black Forest (lorelei).mp3
+Mercury y Caball‚ - Barcelona.mp3
+Mezzoforte - Garden Party.mp3
+Michael Jackson - Black or White.mp3
+Michael Jackson - I Wanna Rock With You.mp3
+Michael Jackson - Just can't stop lovin' you.mp3
+Michael Jackson - Man In The Mirror.mp3
+Michael Jackson - Off The Wall.mp3
+Michael Jackson - The Way You Make Me Feel.mp3
+Michael Sembelo - She's A Maniac.mp3
+Midge Ure - Breathe.mp3
+Miguel Bos‚ - autoradio.flv.MP3
+Miguel Bos‚ - May Day.avi.MP3
+Miguel Bos‚ - Morena M¡a.mp3
+Miguel Bos‚ - Sevilla.mp3
+Miguel Bos‚ - Si T£ no Vuelves.mp3
+Miguel Bos‚ - tesoro.flv.MP3
+Miguel Bos‚ y Ana Torroja - duende.flv.MP3
+Miguel Bos‚ y Paulina Rubio - nena.flv.MP3
+Miguel mateos - obsesion.mp3
+Mika - Grace Kelly.flv.MP3
+Mike And The Mechanics - All I Need Is A Miracle.mp3
+Mike and The Mechanics - Silent Running --Can you hear me-.mp3
+Mike and the Mechanics - The Living Yeras.mp3
+Mike and the Mechanics directo - Over my Shoulder.mp3
+Mike Oldfield - Etude.mp3
+Mike Oldfield - Family man.mp3
+Mike Oldfield - Five miles out.mp3
+Mike Oldfield - Foreign Affair.mp3
+Mike Oldfield - Heavenïs open.mp3
+Mike Oldfield - In dulci jubilo.mp3
+Mike Oldfield - Incantation (Part four excerpt).mp3
+Mike Oldfield - Innocent.mp3
+Mike Oldfield - Islands.mp3
+mike oldfield - magic touch.avi.MP3
+Mike Oldfield - Moonlight shadow.mp3
+Mike Oldfield - Pictures in the dark.mp3
+Mike Oldfield - Shadow on the wall.mp3
+Mike Oldfield - To France.mp3
+Mike oldfield Y Carlos Finaly grandes La Campana.mp3
+mike reno ann wilson almost paradise.mp4.MP3
+Mikel Erentxun - Suelta Las Riendas.mp3
+Mina y Celentano - acqua e sale.avi.MP3
+Miranda - Perfecta.MP3
+Mocedades - Am‚rica rara.mp3
+Mocedades - S¡lbame (completa).mp3
+Mocedades - Willy Fog rara.mp3
+Mocedades Y Nino Bravo - Am‚rica.mp3
+Monano y su Banda - aldeaarce.MP3
+Moody Blues - Nights In White Satin.mp3
+Mr. Mister - Kyrie.mp3
+Nacha Pop - La chica de ayer.mp3
+Neil Young - Heart of Gold.mp3
+New Kids On The Block - Step By Step.mp3
+New Order - Bizarre Love Triangle (Extended Dance Mix).mp3
+Nick Heyguard - Weezer than the Wind.mp3
+Nick Kershaw - somebodyloveyou.mp3
+Nick Kershaw - The Riddle.mp3
+Nick Kershaw - wideboy.mp3
+Nick Kershaw - Wouldn't It Be Good.mp3
+Nick Kershaw y Toni Banks - changethescore.mp3
+Nina Simone - My Baby Just Cares for Me.mp3
+Nino Bravo - Noelia.Mp3
+Oasis - Hindu Times.mp3
+Oasis - wonderwall.avi.MP3
+Objetivo Birmania - Desidia.mp3
+Objetivo Birmania - Todos los Hombres Son Iguales.mp3
+OBK - El Cielo no Entiende.mp3
+OBK - Robarle al Tiempo.mp3
+omd - dream of me.avi.MP3
+OMD - dreaming.MP3
+Omd - Joan of Arc.mp3
+omd - milky way.avi.MP3
+Omd - Souvenir.mp3
+omd secrets.avi.MP3
+omd so in love.avi.MP3
+ORCHESTRAL MANOEUVRES IN THE DARK _ IF YOU WANT IT.mp3
+Pablito Ruiz - Ella Me Ha besado.mp3
+Paloma San Basilio - Juntos.mp3
+Paloma San Basilio - La Hiedra.mp3
+Paloma San Basilio - Luna De Miel.mp3
+Paloma San Basilio - Por Culpa de Una Noche Enamorada.mp3
+Pasadenas - Riding On A Train.mp3
+Pat Benatar - We Belong.mp3
+Pat y Mik - kichibari.flv.MP3
+Pato de Goma - Chicos Malos.mp3
+Patti Austin & James Ingram - Baby Come To Me.mp3
+Paul maccartneyranas.avi.MP3
+Paul McArtney - From a Lover to a Friend.mp3
+Paul McArtney - No More Lonely Nights.mp3
+Paul Young - Come Back And Stay.mp3
+Paul Young - Every Time You Go Away.mp3
+Paul Young - Wherever I Lay my Hat.mp3
+Paula Abdul - Straight Up.mp3
+Pearl Jam - Animal.mp3
+Pedro Guerra - Debajo del puente.mp3
+Pet losing mind ultimix.avi.MP3
+Pet Shop Boys - Being Boring.mp3
+Pet Shop Boys - How Can You Expect.mp3
+Pet Shop Boys disco Actually - Always on My Mind.mp3
+Pet Shop Boys disco Actually - It's a Sin.mp3
+Pet Shop Boys disco Actually - Rent.mp3
+Pet Shop Boys disco Actually - What Have I Done to Deserve This.mp3
+Pet Shop Boys disco Introspective - Domino Dancing.mp3
+Pet Shop Boys disco Please - Love Comes Quickly.mp3
+Pet Shop Boys disco Please - West End Girls.mp3
+Pet Shop Boys disco Release - Home and Dry.mp3
+Pet Shop Boys disco Very - Liberation.mp3
+Pet Shop Boys mezclas - Left to My Own Devices (maxisingle).mp3
+Pet Shop Boys videoclip - Heart.MP3
+Peter Cetera - Glory of Love.mp3
+Peter Cetera y Amy Grant - Next Time I Fall in Love.mp3
+Peter Gabriel red Rain.mp3
+pgabhits04-AudioTrack 04.mp3
+pgabhits05-AudioTrack 05.mp3
+pgabhits10-AudioTrack 10.mp3
+pgabmiss08-AudioTrack 08.mp3
+phil - head held right.avi.MP3
+Phil Collins - Another Time.avi.MP3
+Phil Collins - Both Sides of the Story maqueta.avi.MP3
+Phil Collins and Anthony Philips and Mike Rutherford - Wich Way the Wild Blows.mp4.MP3
+Phil Collins Big Band directo - After You've Gone.mp4.MP3
+Phil Collins bso Against All Odds - Against All Odds.mp3
+Phil Collins bso brother Bear - En Marcha Estoy.mp3
+Phil Collins bso brother Bear - Look Through My Eyes.mp3
+Phil Collins bso brother Bear - There's No Way Out.mp3
+Phil Collins bso Buster - 2 Hearts.mp3
+Phil Collins bso Buster- A Groovy Kind of Love.mp3
+Phil Collins bso Tarz n 1 - Everything That I Am (directo).mp3
+Phil Collins bso Tarz n 1 - Strangers Like Me.mp3
+Phil Collins bso Tarz n 1 - You'll Be In My Heart.mp3
+Phil Collins bso White Nights D£o - Separate Lives (con Marilyn Martin).mp3
+Phil Collins directo - Can't Turn Back the Years.mp4.MP3
+Phil Collins directo - Find a Way to My Heart.mp3
+Phil Collins directo - Helpless Heart.mp4.MP3
+Phil Collins directo - Least You Can Do.mp3
+Phil Collins directo - Wear my Hat.mp3
+Phil Collins directo 1 - One More Night.mp4.MP3
+Phil Collins directo d£o - The Same Moon (directo, con Laura Pausini).mp3
+Phil Collins directo Perkins Palace 1982 venta 1984 - I Cannot Believe It's True.mp3
+Phil Collins disco 12ers - Don't Lose My Number (12'' Mix).mp3
+Phil Collins disco 12ers - One More Night (12'' Mix).mp3
+Phil Collins disco 12ers - Take Me Home (12'' Mix).mp3
+Phil Collins disco Both Sides- Both Sides of the Story.mp3
+Phil Collins disco Both Sides- Canït Turn Back the Years.mp3
+Phil Collins disco Both Sides- Everyday.mp3
+Phil Collins disco Both Sides- Iïve Been Trying.mp3
+Phil Collins disco Both Sides- Please Come Out Tonight.mp3
+Phil Collins disco Both Sides- Survivors.mp3
+Phil Collins disco Both Sides- Thereïs a Place for Us.mp3
+Phil Collins disco Both Sides- We Fly So Close.mp3
+Phil Collins disco Both Sides- We Wait and We Wonder.mp3
+Phil Collins disco Both Sides- Weïre Sons of Our Fathers.mp3
+Phil Collins disco But Seriuously - All of My Life.mp3
+Phil Collins disco But Seriuously - Do You Remember.mp3
+Phil Collins disco But Seriuously - Father to Son.mp3
+Phil Collins disco But Seriuously - Find a Way to My Heart.mp3
+Phil Collins disco But Seriuously - I Wish It Would Rain Down.mp3
+Phil Collins disco But Seriuously - Something Happened on The Way to Heaven.mp3
+Phil Collins disco But Seriuously - That's Just the Way It Is.mp3
+Phil Collins disco Dance Into the Light - Dance Into the Light.mp3
+Phil Collins disco Dance Into the Light - It's in Your Eyes.mp3
+Phil Collins disco Dance Into the Light - Love Police.mp3
+Phil Collins disco Dance Into the Light - No Matter Who.mp3
+Phil Collins disco Dance Into the Light - The Same Moon.mp3
+Phil Collins disco Dance Into the Light - The Times They Are A-Changing.mp3
+Phil Collins disco face Value - Hand in Hand.mp3
+Phil Collins disco face Value - I Missed Again.mp3
+Phil Collins disco face Value - If Leaving Me Is Easy.mp3
+Phil Collins disco face Value - In the Air Tonight.mp3
+Phil Collins disco face Value - Thunder and Lightning.mp3
+Phil Collins disco Going Back - Heathwave.mp3
+Phil Collins disco Going Back - Never Dreamed You'd Leave in Summer.mp3
+Phil Collins disco Going Back - Uptight.mp3
+Phil Collins disco Hello, I Must Be Going - Do You Know, Do You Care .mp3
+Phil Collins disco Hello, I Must Be Going - Don't Let Him Steal Your Heart.mp3
+Phil Collins disco Hello, I Must Be Going - I Don't Care Anymore.mp3
+Phil Collins disco Hello, I Must Be Going - It Doesn't Matter to Me.mp3
+Phil Collins disco Hello, I Must Be Going - Like China.mp3
+Phil Collins disco Hello, I Must Be Going - Thru These Walls.mp3
+Phil Collins disco Love Songs, a Compilation - Always (Live).mp3
+Phil Collins disco Love Songs, a Compilation - Somewhere.mp3
+Phil Collins disco No Jacket Required - Doesn't Anybody Stay Together Anymore.mp3
+Phil Collins disco No Jacket Required - I Don't Wanna Know.mp3
+Phil Collins disco No Jacket Required - Inside Out.mp3
+Phil Collins disco No Jacket Required - Long Long Way to Go.mp3
+Phil Collins disco No Jacket Required - One More Night.mp3
+Phil Collins disco No Jacket Required - Sussudio.mp3
+Phil Collins disco No Jacket Required - Take Me Home.mp3
+Phil Collins disco No Jacket Required - We Said Hello Goodbye.mp3
+Phil Collins disco Testify - Can't Stop Loving You.mp3
+Phil Collins disco Testify - Get Started.mp3
+Phil Collins disco Testify - Swing Low.mp3
+Phil Collins disco Testify - Testify.mp3
+Phil Collins disco Testify - Thru My Eyes.mp3
+phil collins maqueta - everyday.mp4.MP3
+Phil Collins single - The Man with the Horn.mp3
+Phil Collins single - You've Been in Love.mp3
+Phil Collins single d£o - Easy Lover (con Philip Bailey; del disco de Philip Bayley).mp3
+Phil Collins videoclip - All of My Life.mp3
+Phil Collins videoclip - True Colors (la versi¢n m s agradable de Phil, con diferencia).mp3
+Phil Collins videoclip - Wake Up Call.mp3
+Phil Collins y Frida - Here We'll Stay.mp4.MP3
+phil demo - same moon.avi.MP3
+phil demo do you remember.avi.MP3
+phil demo i wish.avi.MP3
+phil demo something happened.avi.MP3
+Phil fearon.flv.MP3
+phil Flaming Youth directo disco Ark 2 - Changes.mp3
+phil Flaming Youth directo disco Ark 2 - Earthglow.mp3
+phil Flaming Youth disco Ark 2 - Planets 1.mp3
+phil forafriend.avi.MP3
+phil hero.avi.MP3
+phil high fly angel.avi.MP3
+phil Simon Collins disco All of Who You Are - Pride.mp3
+phil Simon Collins disco U-Catastrophe - Powerless.mp3
+phil Simon Collins disco U-Catastrophe - Unconditional.mp3
+phil take me with you.avi.MP3
+Pimpinela - D¢nde Est n los Hombres.mp3
+Pimpinela y Dyango - Ese Hombre.mp3
+Pink Floyd - Arnold Layne.mp3
+Pink Floyd - High Hopes.mp3
+Pink Floyd - Learning to Fly.mp3
+Pixies - Velouria.mp3
+Plastic Ono Band - Happy Christmas.mp3
+Pointer Sisters - Automatic.mp3
+Poison - Every Rose Has Its Thorn.mp3
+Police - Every breath you take.mp3
+Police - Every Little Thing She Does Is Magic.mpg.MP3
+Police - King of pain.mp3
+Police - Message in a bottle.mp3
+Police - Spirits in the material World.mp3
+Police - Tea in The Sahara.mp3
+Police - Walking on the Moon.mp3
+Police - Wrapped around your finger.mp3
+Prefab Sprout - disco Let's Change the World with Music - Earth The Story So Far.mp3
+Prefab Sprout - disco Let's Change the World with Music - Falling in Love.mp3
+Prefab Sprout - disco Let's Change the World with Music - God Watch Over You.mp3
+Prefab Sprout - disco Let's Change the World with Music - I Love Music.mp3
+Prefab Sprout - disco Let's Change the World with Music - Last of the Great Romantics.mp3
+Prefab Sprout - disco Let's Change the World with Music - Let There Be Music.mp3
+Prefab Sprout - disco Let's Change the World with Music - Music Is a Princess.mp3
+Prefab Sprout - disco Let's Change the World with Music - Ride.mp3
+Prefab Sprout - The Sound of Crying.avi.MP3
+Prefab Sprout disco Andromeda heights - Andromeda Heights.mp3
+Prefab Sprout disco Andromeda heights - Avenue of Stars.mp3
+Prefab Sprout disco Andromeda heights - Electric Guitars.mp3
+Prefab Sprout disco Andromeda heights - Lifeïs a Miracle.mp3
+Prefab Sprout disco Andromeda heights - Prisoner of the Past.mp3
+Prefab Sprout disco Andromeda heights - Swans.mp3
+Prefab Sprout disco Andromeda heights - Weightless.mp3
+Prefab Sprout disco From Langley Park to Memphis - Cars And Girls.mp3
+Prefab Sprout disco From Langley Park to Memphis - Hey Manhattan!.mp3
+Prefab Sprout disco From Langley Park to Memphis - The King of Rock 'n Roll.mp3
+Prefab Sprout disco Jordan the Comeback - We Let the Stars Go.mp4.MP3
+Prefab Sprout disco Steve McQueen - When Love Breaks Down.mp3
+Prefab Sprout video - Cawboy Dreams.avi.MP3
+Prefab Sprout video - I Remember That.avi.MP3
+Pretenders - 2000 Miles.mp3
+Pretenders - Brass In Pocket.mp3
+Pretenders - Don't Get Me Wrong.mp3
+Pretenders - Stop your Sobbing.mp3
+Primal Scream - Jailbird.mp3
+Prince - Gold.mp3
+Prince - I would Die for You.mp3
+Prince - If I Was your Girlfriend.mp3
+Prince - Kiss.mp3
+Prince - Pop Life.mp3
+Prince - Raspberry Beret.mp3
+Prince - The Most Beautiful Girl in the World.mp3
+Prince - When Doves Cry.mp3
+Prince and Nona Gaye - Love Sign.mp3
+Prince and Sheena Easton - You've Got The Look.mp3
+Prince morningpapers.mp3
+Psychedelic Furs - Heaven.mp3
+Psychedelic Furs - The Ghost In You.mp3
+Pulp - A Walk.mp3
+Pulp - Conmon People.mp3
+Pulp - I Spy a Boy.mp3
+Pulp - Pencil Skirt.mp3
+Pulp - She Doesïnt Have to Go to Work.mp3
+Pulp - Something Changed.mp3
+Pulp - Tomorrow Morning.mp3
+Pulp - Your House Was very Small.mp3
+Pulp - Your Underwear.mp3
+Queen - Friends Will Be Friends.mp3
+Queen - The Show Must Go On.mp3
+Quinta estacion - sueniosrotos.flv.MP3
+Quique Gonz lez - ciudadviento.flv.MP3
+Qun Qun - Y Bail‚ Con El Pecado.mp3
+Rafael Farina - Sendas del viento.mp3
+Rah Band - Sorry Doesn't Make It anymore.mp3
+Re-flex - The Politics of Dancing.mp3
+Real macoy - love.flv.MP3
+Real Macoy -itsonyou.flv.MP3
+Real McCoy - Another Night.mp3
+Red Hot Chili Peppers - Soul to Squeeze.mpg.MP3
+Regina Belle and Peabo Bryson - A Whole New World.mp3
+REM - All the Way to Reno.mp3
+REM - Imitation Of Life.mp3
+REM - Loosing My Religion.mp3
+REM - Man On The Moon.mp3
+REM - Shiny Happy People.mp3
+REM - What's The Frequency Kenneth.mp3
+renegade 3 fase 3 medieval.mp3
+Rev¢lver - Como énico Equipaje.mp3
+Rev¢lver - Dentro de T¡.mp3
+Rev¢lver - El Roce de tu Piel.mp3
+Rev¢lver - Esclavo de tu Amor.mp3
+Rev¢lver - Si s tan S¢lo Amor.mp3
+Rev¢lver - siestansoloamor.avi.MP3
+Rev¢lver - Tu Noche y la M¡a.mp3
+Richard cleiderman adelina.mp3
+Richard Marx Angelia.mp3
+Rick Astley - Never Gonna Give You Up .mp3
+Rick Astley - takemetoyourheart.flv.MP3
+Rick Astley - Together Forever.mp3
+Rick Astley - Whenever You Need Somebody.mp3
+Righeira - notengodinero.flv.MP3
+Rix 06 MonSanta Garmendia.mp3
+Rix 06_Como el ganado.mp3
+Rix 08_Despierta.mp3
+Rix 12 Mi gente.mp3
+Rix 12_Los ni¤os, los arboles y los ancianos.mp3
+Rix 13 Yo s¡ s‚ lo que quiero.mp3
+Rix 14_Farmacia vs. Medicina.mp3
+Rix 15_Network.mp3
+Rix 16_Enemigo.mp3
+Rix 18_Sapiens.mp3
+Rix 19_Aburridos.mp3
+Rix 20_Dime.mp3
+Rix 24_Esto no es un videojuego.mp3
+Rix 27_Somos la voz.mp3
+Robert Palmer - You Ought To Know By Now.mp3
+Roberto Carlos - Amigo.mp3
+Roberto Carlos - La Distancia - Roberto Carlos En Espanol [1988] - 06.mp3
+Roberto carlos - lady laura.mp3
+Roberto Carlos - Yo Quisiera Ser Civilizado Como Los Animales el progreso.mp3
+Roberto Carlos-Un millon de Amigos.mp3
+Rod Stewart - Every Beat Of My Heart.mp3
+Rosario Flores - Qu‚ Bonito.mp3
+Rosario Flores y Antonio Vega - En el Mismo Lugar.mp3
+Roxette - It must have been love.mp3
+Roxette - Listen to your heart.mp3
+Roxette - The look.mp3
+Roxy Music - Jealous Guy.mp3
+roxy music - old scene.avi.AVI.MP3
+Roxy Music avalon.mp3
+roxy music more than this.avi.AVI.MP3
+Rubi y los Casinos - Te Podr.mp3
+Rupert Holmes - him.flv.MP3
+Rupert Holmes - The Pi¤a Colada Song.mp3
+Rxi 05 Ni¤os S.A..mp3
+Ryan Adams - Anybody Wanna Take Me Home.mp3
+Ryan Adams - Hotel Chelsea Nights.mp3
+Ryan Adams - I See Monsters.mp3
+Ryan Adams - Love Is Hell.mp3
+Sade - The Sweetest Taboo.mp3
+salvarez - si no tienes dinero.mp3
+Sam Cooke - What a Wonderful World It Would Be.mp3
+Samantha Fox - stopmenow.flv.MP3
+Santuario - El mismo de ayer.mp3
+Santuario - La puerta del Placer [Spanish Techno Pop'93 by G.mp3
+Santuario - No volver s.mp3
+saw packjammed.flv.MP3
+Scissor Sisters - It Canït Come quickly enough.mp3
+Scissor Sisters - Mary.mp3
+Scissor Sisters - Return to Oz.mp3
+Scissor Sisters - Take your Mama.mp3
+Scritti Politti - Absolute.mp3
+Scritti Politti - Wood Beez.mp3
+Seal - Killer.MP3
+Seal - Prayer For The Dying.mp3
+Semen up - Lo est s haciendo muy bien.mp3
+Sergio Dalma - Bailar Pegados.mp3
+Sergio Rivero - Sandy (Directo).mp3
+Shakira - Suerte.mp3
+Siete 7 Black - Somos el Futuro.mp3
+Siete 7 Black - Te Quedas o te Vas.mp3
+Simple Minds - Alive And Kicking.mp3
+Simple Minds - All The Things She Said.mp3
+Simple Minds - Ghost Dancing.mp3
+Simple Minds - Someone, somewhere, in Summer Time.mp3
+Simple Minds - Waterfront.mp3
+Simpleminds - Promised You a Miracle.mp3
+Simply Red - If You Don't Know Me By Now.mpg.MP3
+Simply Red directo - Say You Love Me.MP3
+Simply Red disco A New Flame - It's Only Love.mp3
+Simply Red disco Blue - The Air That I Breathe.mp3
+Simply Red disco Home - Sunrise.MP3
+Simply Red disco Life - Fairground.mp3
+Simply Red disco Life - Never Never Love.mp3
+Simply Red disco Men and Women - Every Time We Say Goodbye.mp3
+Simply Red disco Men and Women - Infidelity.mp3
+Simply Red disco Men and Women - The Right Thing.mp3
+Simply Red disco Picture Book - Heaven.mp3
+Simply Red disco Picture Book - Hericho.mp3
+Simply Red disco Picture Book - Holding Back the Years.mp3
+Simply Red disco Stars - For Your Babies.mp3
+Simply Red disco Stars - Something Got Me Started.mp3
+Simply Red disco Stars - Stars.mp3
+Simply red fake.avi.MP3
+Simply Red mezclas - Come to My AID (mezclas japonesas, Survivor Mix).MP3
+Sinead O'Connor - Nothing Compares To You.mp3
+sinitta - cross_my_broken_heart.flv.MP3
+sinitta - gto.flv.MP3
+sinitta - miracles.flv.MP3
+Sinitta - toyboy.flv.MP3
+Small Faces - My Mindïs Eye.mp3
+Small Faces - Runaway.mp3
+Small Faces - Take this Hurt off Me.mp3
+Small Faces - Tell Me Have You ever Seen Me.mp3
+Snap - Believe The Hype.mp3
+Snap - Mary Had A Little Boy.mp3
+Snap - Oops Up.mp3
+Snap - Rhythm Is A Dancer.mp3
+Snap - The Power.mp3
+Sofia Vossou - Anixi.mp3
+Soft Cell - Bedsitter.mp3
+Soft Cell - Torch.mp3
+Soft Cell - What.mp3
+Sole jimenez silba.flv.MP3
+sonia - endworld.flv.MP3
+sonia - listen.flv.MP3
+Sonia - neverstopme.flv.MP3a.mp3
+Spagna - Call Me.avi.MP3
+Spagna - Easy Lady.mp3
+Spandau Ballet - Gold.mp3
+Spandau Ballet - Only When You Leave.mp3
+Spandau Ballet - Through The Barricades.mp3
+Spandau Ballet - True.mp3
+Spandau Ballet 2009 Barricades.avi.AVI.MP3
+Spandau_ballet - I'll Fly for You.mp3
+Status Quo - In the Army now.mp3
+Status Quo - Rollin' Home.mp3
+Status Quo - The Wanderer.mp3
+Steve Miller Band Give It Up.mp3
+Steve Winwood - Back In The High Life Again.mp3
+Steve Winwood - Higher Love.mp3
+Steve Winwood - Roll With It.mp3
+Steve Winwood - Valerie.mp3
+Steve Winwood - While You See a Chance.mp3
+Stevie Wonder - I Just Called To Say I Love You.MP3
+Stevie Wonder - Part Time Lover.mp3
+Stevie Wonder - That Girl.mp3
+Stevie Wonder - That's What Friends Are For.mp3
+Sting - Englishman in New York.mp3
+Sting - Fields Of Gold.mp3
+Sting - If I Ever Lose My Faith In You.mp3
+Sting - Shape of my Heart.mp3
+Stone Temple Pilots - Vasoline.mpg.MP3
+Stranglers alwaysthesun.mp3
+Style Council - Have You Ever Had It Blue - Entera.mp3
+Style Council - It Didn't Matter.mp3
+Style Council - Long Hot Summer.mp3
+Style Council - Shout to the T.mp3
+Style Council - Speak Like A Child.mp3
+Style Council - thebestthing.flv.MP3
+Style Council - wanted.flv.MP3
+Suede - So Young.avi.MP3
+Supertramp - It's Raining Again.mp3
+Swing Out Sister - Breakout.mp3
+Swing Out Sister - Surrender (extended).mp3
+Take That - Back For Good.mp3
+Take That - Pray.mp3
+Talk 01-It's You.mp3
+Talk 04-It's My Life.mp3
+Talk 05-My Foolish Friend.mp3
+Talk 05-Such A Shame.mp3
+Talk 08-Does Caroline Know.mp3
+Talk Mark Hollis disco Mark Hollies - Colour of Spring.mp3
+Talk Talk - ibelieveinyouextended.flv.MP3
+Talk Talk disco Laughing Stock - Runeii.mp3
+Talk Talk disco Spirit of Eden - Inheritance.mp3
+Talk Talk disco The Very Best y single - For What Itïs Worth.mp3
+Talk Talk disco The Very Best y single - John Cope.mp3
+Talk Talk disco The Very Best y Spirit of Eden - Eden.mp3
+Talk Talk disco The Very Best y Spirit of Eden - I Believe in You.mp3
+Talk Talk disco The Very Best y Spirit of Eden - Wealth.mp3
+Talk Talk disco The Very Best y Talk Talk - Have You Heard the News.mp3
+Talk Talk disco The Very Best y Talk Talk - Talk, Talk.mp3
+Talk Talk disco The Very Best y Talk Talk - Today.mp3
+Talk Talk disco The Very Best y The Colour of Spring - April the 5th.mp3
+Talk Talk disco The Very Best y The Colour of Spring - Give It Up.mp3
+Talk Talk disco The Very Best y The Colour of Spring - Lifeïs What You Make It.mp3
+Talk Talk disco The Very Best y The Colour of Spring - Living in Another World.mp3
+Talk Talk disco The Very Best y The Colour of Spring - Time, Itïs Time.mp3
+Talk Talk disco The Very Best y The Party's Over - Dum Dum Girl.mp3
+Talk Talk disco The Very Best y The Party's Over - Itïs My Life.mp3
+Talk Talk disco The Very Best y The Party's Over - Such a Shame.mp3
+Talking Heads - Burning Down The House.mp3
+Tanita Tikaram - Good Tradition.mp3
+Tears for Fears - Advice for the Young at Heart.mp3
+Tears For Fears - Change.mp3
+Tears For Fears - Everybody Wants to Rule the World.mp3
+Tears For Fears - Head Over Heels.mp3
+Tears For Fears - Mad World.mp3
+Tears For Fears - Pale Shelter.mp3
+Tears For Fears - Shout.mp3
+Tears For Fears - Woman In Chains.mp3
+Tenesse - La Vi Correr.mp3
+Tequila - Mira esa chica.mp3
+Tequila - N£mero uno.mp3
+Terence Trent D'Arby - If You Let Me Stay.mp3
+Terence Trent D'Arby - Sign Your Name.mp3
+Terence Trent D'Arby - Wishing Well.mp3
+Texas - You Owe It All To Me.mp3
+The Assembley - It Never Happens To Me.mp3
+The Bluebells - Young at Heart.mp3
+The Cure - Close To Me.mp3
+The Cure - Cut Here.mp3
+The Cure - Friday I'm In Love.mp3
+The Cure.- With You.avi.MP3
+The Damned - Eloise.mp3
+The Farm - All Together Now.mp3
+The Romantics - Talking in your Sleep.mp3
+The Smiths disco Singles single - Heaven Knows Iïm Misserable Now.mp3
+The Smiths disco Singles single - Panic.mp3
+The Smiths disco Singles single - Shoplifters of the World Unite.mp3
+The Smiths disco Singles single - William, It Was Really Nothing.mp3
+The Smiths disco Singles y Meat Is Murder - That Joke Isnït Funny Any More.mp3
+The Smiths disco Singles y Strangeways, Here We Come - Girlfriend in a Coma.mp3
+The Smiths disco Singles y The Queen Is Dead - The Boy with the Thorn in His Side.mp3
+The Smiths disco Singles y The Queen Is Dead - There Is a Light That Never Goes Out.mp3
+The Smiths disco Singles y The Smiths - This Charming Man.mp3
+The Smiths disco Singles y The Smiths - What Difference Does It Make!.mp3
+The Smiths Morrisey - I'm so Sorry.mp3
+The Stranglers - European Female.mp3
+The The - Perfect day (Single de 12 Pulgadas).mp3
+The The - This Is The day.mp3
+Thompson Twins - Hold Me Now (extended).mp3
+Thompson Twins - Love on your Side.mp3
+tim mcgraw - my little girl.avi.MP3
+Timbiriche - corrovuelomeacelero.flv.MP3
+Tina Turner - Break Every Rule.mp3
+Tina Turner - Simply the Best.mp3
+Tina Turner - Two People.mp3
+Tina Turner - Typical Male.mp3
+Tina Turner - We Don't Need another Hero (Extended).mp3
+Tina Turner - What's Love Got To Do With It.mp3
+TLC - No Scrubs.mp3
+Toad the Wet Sprocket - When Will We Fall Down.mp3
+Tokens - The Lion Sleeps tonight.mp3
+Tom Petty Free Falling.mp3
+Tone Loc - Funky Cold Medina.mp3
+Toni Braxton - Another Sad Love Song.mpg.MP3
+Toni Braxton - Breathe Again.mp3
+Toni Braxton - You Mean The World To Me.mp3
+Tony Bennett - I Left My Heart in San Francisco.mp3
+Topogiggio - Hasta Ma¤ana.avi.MP3
+Toto - Africa.mp3
+Toto - Holyanna.avi.MP3
+Toto ¡ll be over you.mp4.MP3
+tpau - ch.avi.MP3
+tpau heart and soul.avi.MP3
+Travis - Side.mp3
+Travis - Sing.mp3
+Travis - Why Does It Always Rain On Me.mp3
+Two Unlimited - Faces.mp3
+Two Unlimited - The Real Thing.mp3
+tzaboo qui‚n soy.mp3
+U2 & Johnny Cash - The Wanderer.mp3
+U2 -  Even Better Than The Real Thing.mpg.MP3
+U2 - Angel of Harlem.mp3
+U2 - Babyface.mp3
+U2 - Daddy's Gonna Pay For Your Crashed Car.mp3
+U2 - Desire.mp3
+U2 - I still havenït found what Iïm looking for.mp3
+U2 - Lemon.mp3
+U2 - New York.mp3
+U2 - Pride.mp3
+U2 - Some Days Are Better Than Others.mp3
+U2 - Stay (Far Away, So Close).mp3
+U2 - Sunday bloody sunday.mp3
+U2 - The Fly.mp3
+U2 - Where the streets have no name.mp3
+U2 - With or without you.mp3
+UB40 - Falling In Love With You.mp3
+UB40 - Higher Ground.mp3
+Ultravox - Dancing With Tears In My Eyes.mp3
+Ultravox - Hymn.mp3
+Ultravox - If I Was.mp3
+Ultravox - Reap the Wild Wind.mp3
+Ultravox - Vienna.mp3
+Van bran 2000 - drinkingLA.flv.MP3
+Van Hallen - Jump.mp3
+vanexxa - superguay.flv.MP3
+Vangelis - Chariots Of Fire.mp3
+vega - mejor ma¤ana.avi.MP3
+Vega quierosertu.flv.MP3
+Veronica - besame_ya.flv.MP3
+Victor Manuel - S¢lo Pienso en T¡.mp3
+Video Kids - Woodpeckers from Space.mp3
+Viola Wills - Gonna Get Along without You Now.mp3
+Visage - Fade to Grey.MP3
+Vivaldi 4 estaciones01.mp3
+Vivaldi 4 estaciones03.mp3
+Vivaldi 4 estaciones10.mp3
+Vivaldi 4 estaciones11.mp3
+V¡ctor Coyote - Jaguarundi.mp3
+Wet Wet Wet - Angel Eyes.mp3
+Wet Wet Wet - Temptation.mp3
+Wet Wet Wet - With A Little Help From My Friends.mp3
+Wet, Wet, Wet - Wishing I Was Lucky.mp3
+Wham - Freedom.mp3
+Wham - Last Christmas.mp3
+Wham - The edge of Heaven.mp3
+White Snake - Is This Love.mp3
+Whitney Houston - I Get So Emotional.mp3
+Whitney Houston - I Wanna Dance With Somebody.mp3
+Whitney Houston - Where Do Broken Hearts Go.mp3
+Wilfred y La Ganga - Mi Abuela.mp3
+Wilson Philips - Hold On.mp3
+Wilson Philips - Release Me.MP3
+Win Mertens - Close Cover.mp3
+Witney Houston - Saving all my Love for You.mp3
+Yazz and the Plastic Population - The Only Way Is Up.mp3
+Yess - Owner Of A Lonely Heart.mp3
+yuridia ya te olvid‚.avi.AVI.MP3
+Zarzuela Pl cido Domingo a recoletos con los beb‚s.mp3
+Zarzuela Pl cido Domingo amor de hombre.mp3
+Zarzuela Pl cido Domingo bella enamorada.mp3
+Zarzuela Pl cido Domingo cantar mis amores.mp3
+Zarzuela Pl cido Domingo esa mujer es buena.mp3
+Zarzuela Pl cido Domingo fiel espada triunfadora.mp3
+
+
+
 #################################################
 ############ANEXOS PSICOLOGÍA Y SALUD############
 #################################################
