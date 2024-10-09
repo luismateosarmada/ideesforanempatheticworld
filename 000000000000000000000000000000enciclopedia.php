@@ -675,6 +675,505 @@ Generador con Autoridad Emocional
 - Una última vuelta de tuerca, mezclándolo todo:
 * Para solucionar problemas de Transgenealogía, la vida te lleva a distintas profesiones. Por ejemplo, si tu abuelo NO se sentía guapo, tú podrías terminar siendo decorador. ¿Y si mi abuelo NO se quería / sentía guapo? Lo digo porque mi toc (o lo que sea) es en parte decorativo (busco cierta harmonía, NO cosas bonitas como butacas... y al producirme ansiedad casi cualquier configuración de mi habitación, llego a configuraciones muy extrañas, que sí me aportan paz, tras un trabajo arduo para percibir por fin harmonía (tengo cierta hipersensibilidad "asociativa"). He llegado a poner gomas donde la gente cuelga cuadros, y a explorar todas las combinaciones de cuadros posibles; fue agotador muchas veces; y peor que mi tendencia a las crisis comiciales, y por supuesto, que el asma y falta de oxígeno durante unos pocos minutos. Menos mal que el asma se puede controlar bastante psicológicamente, ¡como el toc! Para los desmayos, quizás ayude pensar que cuando alguien es muy pesado hablándote, NO importa mucho que NO le puedas seguir).
 * ¿Y si para mi toc, que NO es una enfermedad, sino un transtorno que depende de muchos factores (como el Zodiaco, sí), la vida me llevó primero a "la enfermedad del orden", a través de 2 traumas (así se enferma)?
+
+####Transgenealogía, Hamer y Jung (desreprimir). Yo (Hamer): ¿tras ciertas experiencias, estás preparado para comprender la causa de la enfermedad, ya que te fue viniendo con el tiempo la información del trauma (o traumas) gracias a las alergias, que dan pistas sobre "la escena traumática", y empieza la fase de síntomas / curación (que es cíclica, volviendo al principio, pero siendo cada vez más fuerte)?
+####Hamer:
+* 1. La enfermedad tiene 2 fases, una activa (realmente no hay muchos síntomas por lo general), y otra de curación (con más hambre de lo habitual), cuando reconstruyes la escena del trauma y sabes el origen psicológico. Las alergias son muchísimas veces pistas para reconstruir la escena (algunas son estacionales, por lo que te ves "despistado" el resto del año). Los síntomas no deberían cortarse, al menos mucho, y por eso falla la medicina: cuando estás curando, te paran la fase de curación, y hasta te pueden decir que te vas a morir, ¡y hala, otra enfermedad (las enfermedades son psicológicas, NO simples desequilibrios)! Para llegar a la fase de curación, puede que tengas que desreprimir leyes familiares pasadas en la infancia (es algo normal). Nota: mientras que en fase de enfermedad hay actividad y más frío, en la de curación ocurre lo contrario, salvo en la subfase de curación crítica, que es muy rara E INTENSA (puede durar hasta unas 72 horas, dependiendo de la gravedad del trauma PSICOLÓGICO, y aquí es donde intervienen médicos y enfermeros), encuadrada entre la primera fase de dolor, y la tercera de expulsión de tóxicos.
+* 2. ¿Cuantos médicos saben que al dar la noticia de un cáncer pueden disparar otro por impacto? Se ve haciendo un tac, hay un FOCO nuevo en el cerebro. Los síntomas son en fase de curación, por eso la gripe no se cura, ¡es la cura, y los medicamentos sólo la retrasan, la mayoría son "anticura" y "proactividad"! Cuidado con los mensajes a los pacientes.
+####Más:
+- El saber popular relaciona psique y cuerpo:
+* Susto de muerte (tipo de trauma de pánico, laringe). El "pánico en la nuca" es a examen próximo, operación próxima, perder el trabajo... ¿El miedo territorial (tipo de trauma) es a que te quiten algo que ya tienes? ¿Se puede considerar pánico?
+* Tengo las manos atadas (el trauma correspondiente afecta a los conductos tiroideos).
+- Ahora bien, ¿de qué se ocupa la Nueva Medicina Germánica (Hamer)? Lo que no viene de la psique, sino de comer mucho... se llama desequilibrios; créeme, engordar tiene mucho más que ver con la psique y sus traumas, y de esto trata la NMGHamer. 
+- Ejemplo para saber algunos tipos de trauma. Un hombre pierde a su mujer (camión choca contra el coche de ella). El conflicto será pequeño si no la quería. Si la quería, lo normal es una fase activa con programa físico de testículos (programa especial; recibes + testosterona para encontrar amigos... ¿Ni tumor ni úlcera?). Pero puede haber otros tipos de conflicto / trauma:
+* No acepta / "no puede ser verdad" (trauma de miedo y resistencia, diabetes).
+* No para de imaginarse el choque (miedo frontal, arco braquial).
+* Si la mujer era su autoestima (dependía de ella): desvalorización, problema lumbar en este caso de desvalorización, ¿menos densidad ósea?. La epilepsia está en la cura de un conflicto motor (desvalorización), que no es el caso concreto.
+* Su mujer era parte de él (pérdida de territorio, angina de pecho).
+##Más:
+- ¿El TOC también surge de la ampliación de los pensamientos intrusivos del final de la fase activa?
+- El teatro es bueno tanto para traumas (salud) como para represiones (leyes no soportadas; maldad genuina, pues te hacen incoherente). El primer acto muestra la debilidad, y en el segundo se arregla todo (eso sí, a veces tardas mucho, tiene que ser así).
+- El primer contacto con la Nueva Medicina Germánica del Doctor Hamer lo tuve leyendo el libro de Marco (La Última ReEvolución), así como el primer (y bien nutrido) contacto con la Transgenealogía (resolver problemas de ancestros para hacer mejor tu vida), lo tuve con Pablo Lema (pupilo de Cristian Zeballos):
+- Yo creo que al llamarme Luis, por Transgenealogía, el alma del abuelo Luis, ¡me ha pasao lo que él no pudo resolver (y juraría que éramos 2 almas en el mismo cuerpo, opinando diferente)!
+####Hamer Intentando finalizar mi diagnóstico respiratorio.txt  Asma (2 traumas territoriales): me falta libertad (y estamos en Acuario, que necesita libertad, curioso; ¿las obras de teatro me parecían esclavizantes?), el ambiente es tóxico, prefiero mi aire al de otros... Cómo lo solucioné: tras el primer sueño, mascar cebolla y hacer Buteiko.
+- Mocos: varios pañuelos de tela (cuando uno se humidifique, no lo tiro, voy al que esté seco).
+- ¿Y si es Marte atacando a Piscis? ¿Y si acallo a Marte femineizando (digo "eeeee", hago el nadi shódena pa equilibrar masculino y femenino, tras "ladrar un poco").
+- Más (ojo, la curación son síntomas):
+* Que si los jóvenes olían mal de "caerse mi monóculo".
+* Tabique desviao, ¿por falta de mi madre?; ¿me faltó la respiración cuando me quitaron el chupete? Y está lo de dejar de mamar...
+####supersalud parte técnica de mi dolor de muelas NMGHamer.txt  2023 09 22. Hubo que sacar una muela, que estaba horrible (no descarto reunión de bacterias benéficas, por NMGHamer). Causa psicológica:
+- Dentina: no poder morder literalmente (tener dificultades físicas) o no poder "morder" o "atacar", porque me encuentro en una posición más débil (un empleado frente a jefe, un nuevo cónyuge frente a hijastro, tú frente a funcionario). Causas (más): opresión, abusos, castigos, restricciones, provocaciones, regaños, peleas verbales, discusiones constantes alguien...
+* El de morder relacionado con el hueso dental es de desvalorización (más intenso con mandíbula implicada)
+- Esmalte: no tener permitido morder literalmente o figurativamente ("atacar" a alguien). Estás por encima, pero las normas y tu ética... Causas (más): evitar decir algo para no herir, "no tener permitido o no poder sujetar algo" (conflicto de separación)...
+- Músculos mandibulares: desvalorización de no poder o no tener permitido "morder" a un oponente (competidor, colega, familiar, vecino...) o "atrapar" algo que uno desea, o no poder decir algo o expresarse.
+##Fase de curación:
+- Dentina: los odontoblastos de la pulpa rellenan cavidades produciendo callo blando que luego se endurece.
+* El periodonto que cubre el diente se estira debido a la hinchazón. Puede causar fuerte dolor (la capa epitelial escamosa que cubre el periodonto tiene nervios muy sensibles). Si la caries se ha formado en el interior del diente, la inflamación podría presionar la pulpa, y el dolor puede ser insoportable. Presión prolongada, puede dañar nervios.
+* El dolor del absceso dental (por actividad bacteriana) se debe a la acumulación de presión en el interior del diente (si la caries ha creado apertura externa, llamada fístula dental, el pus saldrá, ¿gris?). En combinación con restos de comida y saliva, sustancia pegajosa se adhiere a la superficie de los dientes (sarro, una forma de placa dental; y la placa dental no causa caries).
+- El esmalte se repone (el área curada será más oscura).
+- Músculos mandibulares (crisis Epileptoide en ellos). Bruxismo, rechinar, apretamiento... durante el sueño.
+##############################################
+########LAS ENFERMEDADES VAN EN EL ANEXO######
+##############################################
+########VAMOS CON TRANSGENEALOGÍA ANTES DE SEGUIR CON HAMER.########
+####Diagnóstico ancestros Transgenealogía lo no tratado en Hamer:
+##INTRODUCCIÓN (¿los trastornos neuróticos son muchas veces toques de atención para estudiar tu árbol genealógico?):
+- Tu familia te pasa sus creencias, y una forma, es directamente, relacionándote en el mundo 3D. Luego reprimes algunas las leyes familiares (no las soportas). Reprimir hace que tengas reacciones incivilizadas (tú, a lo mejor, ves culpables a tu alrededor, por enfadarte TÚ con la gente que no cumple esas leyes, muchas de ellas absurdas).
+* Aparte de eso, hay influencias no visibles de los ancestros en tu psique. Los nuevos de la familia nacerán libres si consigues desreprimir lo de tu familia. La gente menos evolucionada, te pondrá pruebas (si eres el elevado encargado de "resolver tu árbol familiar"; resolver psíquicamente lo que los ancestros no pudieron). Tu familia astral determina el vínculo en el momento de nacer (si cargas con tu abuelo...).
+* Ejemplo: el abuelo murió injustamente, la familia lo idealiza, y TE PONE SU NOMBRE. ¡Y a cargar con el muerto y lo no resuelto! ¡Y otro ejemplo! Una familia evita que los nietos se suiciden, como el abuelo, yendo al cementerio a honrarlo, con discurso y ofrenda.
+* LOS SECRETOS FAMILIARES, ENVENENAN A LAS SIGUIENTES GENERACIONES. ¿Por qué a veces nos resulta tan complicado llegar más lejos que nuestros padres, hay barreras psíquicas?
+* Si cumples la misión (desreprimir por Jung, sabiendo lo que es una proyección psicológica de tu roña en los otros, cambiar creencias si hay que hacerlo...), habrá autoestima. Si no, culpabilidad. El trabajo transgeneracional te acerca a las memorias ancestrales. Es bueno hacerlo (árboles genealógicos...). Tú sólo empieza, y con ilusión. Ser excluido del clan físico implica la posibilidad de ataque o de morir de hambre (no todos los que piden son "actores"; podrían ser almas avanzadas que lo hicieron mal, ¿incluso que están pasando pruebas sabidas antes de nacer?).
+- Fechas clave. Contar +- 7 días a partir de la fecha en la que pasa algo raro (a ti o tu familia; una muerte...). Ejemplos:
+* El síndrome "de aniversario" (0, 3, 6, 9 meses) se relaciona, no sólo con muertes o duelos pendientes (yo tuve que hacer un ritual para que toda la familia aceptase la muerte de mi madre; me dolió "el diente de la madre" previamente), sino también con secretos, traumas... De todo. Incluye vergüenza ancestral (sientes vergüenza como tu ancestro).
+* La madre de H. murió 9 meses antes de nacer él. Es un mensaje para H, seguramente. Mi madre, 9 meses antes de nacer mi padre. Fecha de concepción: restar 9 meses aunque el niño sea prematuro. Lo de los 9, viene de memorias ancestrales. Fecha de muerte: 9 meses tras nacer (o 3 antes).
+* Si la Concepción (y ahora contamos los años también) se da 3 meses o menos tras la muerte: efectos mayores (o si naces en el primer aniversario de la muerte). Si nacen varios, el primero sufre más.
+- Enfermedades de origen ancestral:
+* En general, patologías de movimiento, sobrepeso y retención de gases (¿cuestión de tiroides?). ¿La tiroides "gestiona el tiempo"?
+* Más: respiración y apneas, parásitos intestinales, algunas diabetes, autismo y esquizofrenia (estas 2 últimas indican muchas veces que el origen es el bisabuelo o el tatarabuelo, no el abuelo).
+##Conceptos básicos (¿La unión al clan es a los 3 meses de la concepción real?). Los dobles:
+- El parecido físico o personal con algún familiar, podría significar obstaculos en tu realización personal (independencia...).
+- Si te llamas Mariana, tendrás afinidad con María y con Ana (si son familia).
+* Si tus padres te ponen el nombre de un familiar, ¿puede ser por una relación disfuncional con él?
+* Tus padres pudieron haber tenido parejas con tu nombre antes de casarse.
+- Por profesión (yo diría actividad, que la profesión indica poca flexibilidad en principio; algún día se acabará lo oficial, el "estar colocado": no sueles aprovechar todas las horas del día, suelen ser trabajos para engordar las estadísticas...):
+* Vigilante, poli... Búsqueda de la figura paterna.
+* Político: la familia sufrió desprestigio (y no lo aceptaron, o se quedó como un secreto...).
+* Traducción / Lingüística: conflicto de comunicación ancestral.
+* Agricultor: hambrunas. ¿Y cocinero, restaurador...?
+* Química: conflicto de unión de elementos, madre.
+* Coser: separación, conflictos de piel.
+* Electricidad, energía: conflictos de padre.
+* Ciencias: padre incógnita, ¿por ser la madre una fresca? ¿Por irse el padre?
+* Piloto, azafato: ir al encuentro con el muerto.
+* Enseñanza: falta de estudios en la familia.
+* Bailarín: conflicto de movimiento. La misión es "aprender a moverse".
+* Fisioterapia: falta de contacto, ¿sanarlo por medio de rehabilitar a otras personas tocándolas?
+* Hostelería: complejo de alojamiento.
+* Decoración: desvalorización estética, ¿mi abuelo Luis se veía feo?
+* Libros: para conservar la Historia.
+* Fotografía: temor a perder la Historia.
+* Servicios sociales: abandono.
+* Servicios bancarios: problemas de herencias, de dinero...
+* Abogado: conflictos con la justicia.
+* Medicina: conflicto de enfermedad, muerte...
+##Ejemplos:
+- Una niña tiene asma / disnea (por crecer en ambiente tóxico):
+* Mujer sin menstruación entre los 21 y 29 años de su vida (es la menor de 5 niñas, y nació cuando la abuela tenía 29). La abuela, embarazada, fue obligada a casarse (¿vergüenza sufrida por las 2 familias implicadas?). Ninguna hija fue planificada / deseada. Ella recuerda discusiones, infidelidades... y la abuela les decía que habían venido al mundo a padecer.
+* ¡Es un rechazo de la femineidad pasado entre generaciones! Creencia peligrosa: la mujer no es femenina, no nació para el amor erótico, es una coneja... Curioso, la creencia viene de los abuelos (supongamos), los padres tienen "accidentes" relacionados con ello, y los hijos lo sufren.
+- Mujer adopta 2 niños de 5 y 7 años. El padre adoptivo de la mujer cuidaba niños de entre 5 y 7 años cuando era joven. Ella padece ahora lo que él (no especifico).
+- El abuelo sintió impotencia preso. La nieta, impotencia (bloqueo de actividades económicas; por ciertas casualidades, no llegaba a cobrar), que dio lugar a hipotiroidismo.
+- Mujer nacida tras varón muerto. Ella no es reconocida (ya hay una niña mayor en la familia), y trata de agradar ocultando su femineidad, con lo que "pilla" amenorrea.
+####NO tan básico:
+##HEREDERO (DE MAESTRO) Y YACIENTE:
+- Heredero: debes ser concebido (nacimiento real - 9 meses) cuando el muerto vivía. El fallecido confía en ti. Puede haber varios herederos (cómplices / identificándose entre ellos).
+- Yaciente: reemplazas a alguien cuya muerte no ha sido aceptada:
+* El yaciente se siente más indefenso (carga con...). Su vida, entre la melancolía y ausencias mentales (¿inexplicables?) Cuanto le toca decidir, es como si una parte reprobase a la otra. Si se murió joven, la carga es mayor, por el silencio familiar, por esa muerte rara...
+* Solitarios, ropa oscura, ambientes oscuros (sobre todo para dormir). No suele avanzar en la vida, disfrutar (produce culpa). Bruxismo o mandíbula tensa y bloqueada (al negar el placer). Rabia y agresividad reprimidas. Suelen tener tono de voz bajo. Otras veces, en lugar de freno, agitación e inquietud insufrible. Hay enfermedades, problemas de identidad: no te reconoces; inmovilidad (no reaccionar).
+* Cuando es por hermanos, hay que suplir y además aliviar a los padres, y sufres mucho. Cuando es por aborto (la madre abortó a hermano mayor), queda memoria negativa en el útero, y al no haber dado tareas al muerto, la confusión es total, y no sabes con quién vincularte... Hijo de repuesto: el mayor enferma, y los padres deciden tener otro hijo. Si al final no muere, ¿tus padres te ignoran? Fiestamanía: un hijo murió (o va a morir), y hay sexo compulsivo. Gemelo perdido (en las 10 primeras semanas de gestación). El vivo: soledad, culpa, espera...
+##Más:
+- Sobre hijos:
+* Hijo de polarización: es para alcanzar el éxito que los padres no pudieron alcanzar.
+* Hijo sanador (alma avanzada): difícil tener hijos o el triunfo, ¿habitualmente nacen con enfermedades congénitas o discapacidades? ¿Su misión es saber secretos guardados por generaciones?
+- Complejos de Edipo y Electra: se atrae a personas "padre" o "madre" con la fecha de nacimiento o concepción de ambos padres como referencia.
+* Relaciones de pareja confusas, puesto que buscas un papá y una mamá.
+- Incesto ANCESTRAL (¿incluye simple adulterio o maltrato?): causa que la relación de pareja de los descendientes se bloquee / frustre. Los embarazos son difíciles (abortos, muertes prontas...).
+- Hígado: mareos, rabia... ¿El médico debería buscar ancestros que murieron de hambre, en carencia (el hígado es la reserva de ahorros del cuerpo), o sufrieron envenenamiento (tóxicos; el hígado lidia con tóxicos como función normal)? Es un enfoque un tanto diferente a Hamer (apunta: conflictología; psicoterapia integrativa, que va de desreprimir a secas se puede decir... ; descodificación biológica original).
+- ¿El corazón tiene que ver con abuelos fríos?
+####Flecos de Transgenealogía:
+- Si quiero disfrutar, significa prohibición de placer, deseo... Si queremos amar, el clan nos limitará las emociones.
+- El afecto es la felicidad por la prosperidad del prójimo.
+- Una familia fue al cementerio a honrar a un muerto, y sus descendientes no corrieron su misma mala suerte.
+- Tras el shock de descubrir la verdad sobre el ancestro, ¿7 días "acostado" con el ancestro involucrado, y así evitas el enfado con él?
+- Los vicios pueden ser ancestrales. ¡Hasta se puede heredar la culpa por ellos!
+####Arbolismo. Un árbol genealógico te permite detectar mejor las "casualidades", y "es mágico" (encuentras fricciones entre ancestros, informa "al Universo" de que quieres solucionar problemas transgeneracionales, y te ayuda y protege...):
+- Busca fotos de padres, tíos y abuelos como mínimo (o cartulinas con nombre y parentesco). Poner en piso o en pared (en piso es más fácil, en pared necesitas quizás un tablón de corcho y chinchetas...):
+* ¿Yo estaría abajo?
+* ¿Qué sientes al emparejar ciertos ancestros? Rearma el árbol hasta que no dé "fricciones", y apunta lo que te venga a la cabeza.
+* Pregúntate sobre las cosas que faltan (además, la falta puede dar pistas). Deja que el subconsciente rellene los huecos.
+* Y cuando logres expresar tu Norte (objetivo de mejora interior para sanar al clan), éste coronará el árbol.
+- Datos. ¿Ir al registro civil y al parroquial (yo me sé mi identificador de registro civil)?:
+* Nombre, apellidos, fecha de nacimiento, casamiento y muerte (con causa exacta).
+* Profesión.
+* Relación de nuestros padres con sus padres.
+* Hijos muertos. Abortos (voluntarios o no) y enfermedades.
+* Efemérides (ruinas, éxitos, divorcios, secretos, anécdotas, accidentes, cambios de país, cárcel...).
+##Un buen arbolista terapeuta será comprensivo:
+- Primero pregunta por lo que no has conseguido en la vida todavía (pareja, hijos, casa propia...).
+* ¿Qué quieres hacer? Séneca: no hay viento favorable para quien no sabe dónde va. Si no fuiste tenido en cuenta de niño, quizás no tengas finalidad.
+* ¿Tu mundo ideal? ¿Qué 3 deseos pedirías a un hada?
+- La voz del terapeuta debe ser emocional como mínimo. Otras:
+* Libidinal (para conectar con el placer, ¿hablar paseando por una sala desde el sexo, con avidez de algo?).
+* Intelectual. La peor, más sosa / baja, junto con la material. Inmorales casi.
+- Más:
+* El arbolista no cobra, ¿si él mismo no sube de conciencia tras la consulta? No juzga, limpia de "familia" y de CUltuRA.
+* Analiza si el paciente se resiste (o si sufre y eso le empuja a colaborar).
+- Preguntas para TI MISMO:
+* Origen ancestral de mi nombre. ¿Fui deseado? ¿Esperaban a alguien de mi sexo?
+* Parto. ¿Fue sencillo? ¿Tenías prisa por salir o fuiste diezmesino (retenido contra mi voluntad)? ¿Cesárea? ¿Mamá murió? ¿Me dieron de mamar el tiempo justo?
+* Nacimiento mío y de otros: sumar 3, 6 y 9 meses. ¿A qué se acerca)?
+* Convivencia con hermanos y actual. ¿Cooperación y fluidez o lucha territorial? ¿Tienen hijos? ¿En qué trabajan?
+* Tu infancia: acontecimientos y salud. ¿Se separaron los padres? ¿Cambiaron de país, vivieron una guerra o un accidente de los que marcan? Personas de las que recibí cuidados, afecto y educación. Mascotas.
+* Lugar del hijo, ¿Funcionaste como único? Parejas de hermanos, ¿Uno listo y otro torpe? ¿Uno simpático y el otro serio?
+##Ejemplo. Árbol de Jung:
+- Su abuelo paterno se casó con Sophia, que se llama como la madre del mismo. ¿Nudo incestuoso que heredaría Jung?
+- Augusta es nombre medio masculino (esperaban un hombre).
+- Mujeres consideradas "conejo":
+* Los niños mayores no tenían infancia (cuidaban de los otros).
+* Los más jóvenes eran considerados inmaduros por parte de los padres. ¡Marcados!
+- Jung es tratado como hijo único (su hermano ya tenía 9 años).
+* Tras una generación abundante, viene otra no abundante (es lo normal).
+- Su conflicto ciencia - espiritualidad, viene de médicos (rama del padre) y sacerdotes (rama de la madre).
+##Mi árbol:
+- Padres:
+* Amor de los Dolores (vaya nombrecito) Armada Álvarez, 21-04-1940. Ama de casa. Muerte, 19-11-1989.
+* Rafael Mateos Castaño, 21-08-1937 (cuando nací, el ya tenía cierta edad). Trabajador de supermercado.
+- Hermanos:
+* Eduardo (mellizo).
+* Rafael, 11-10-1971. Paga por toc y limpiezas.
+- Tíos:
+* Por parte de padre, destaco a Deme. Muy buena en clase, pero sus padres le cortaron un poco las alas (hacer un Bachillerato...). Ama de casa.
+* Por parte de madre, destaco a Maruja. Algo depresiva y un poco en contra del "inmovilismo" de mi padre con sus hijos. La verdad es que los Armada, eran de mucho criticar, mucho acomplejar, y poco ayudar.
+- Abuelos paternos:
+* Lorenza (de la que ya hablé), nació en, ¿1909?
+* Virgilio, que murió en, ¿1981?
+####¿Qué datos pongo sobre mí?
+- Quiero ser una persona capaz de ganarme el sustento, pero en una sociedad posterior a ésta (con la gente mejor).
+- Me mueven los proyectos de concienciación sobre la roña / debilidad interior de la gente.
+- En un mundo ideal no hay jerarquías artificiales casi (naturales sigue habiendo, por supuesto, padre - hijo...), se consume poco, hay mucho tiempo para estar quieto.
+- Más datos:
+* Nombre de mi abuelo materno.
+* Mi mellizo y yo, vinimos tras mi hermano Rafael, tratado por mi madre como una niña un poco (mi hermana mayor fue raptada por monjas al nacer). Fui sietemesino, y salí el primero, ¿para tener mi difícil carta astral, sin importar mi mellizo? Me dieron de mamar muy poquito, quizás no llegó al año.
+* Hermanos. NO tienen hijos ni trabajan. La relación con mi mellizo era algo territorial.
+* Infancia: cada poco estaba en el médico. A los 3 años se murió mi "amigo" Virgilio (abuelo paterno). Mi madre no recibía suficiente cariño de mi padre, y se preocupaba mucho por nuestro éxito (lógicamente, murió de Cáncer; cuando yo tenía 12 años recién cumplidos). Mi padre tuvo una infancia bastante dura y austera. Mi abuela no era muy amorosa. Mi tía Deme, lo era más.
+* ¿Ingeniero Informático? ¿Actor pedagógico (para que desreprimas)? ¿Limpiador, decorador, ordenador compulsivo?
+- Efemérides (ruinas, éxitos, secretos, anécdotas, accidentes):
+* Ruinas. 2003: Renée Ribacoba me da Topamax, no puedo casi levantarme de la cama, y Fanjul me toma por drogata cuando empezaba a subir la dosis. 2007 / 2008, Biblioteca de Proyectos, tortura oculta (con ironía) de JPM. EDP: el dejarlo (yo sé muy bien ocultar las lágrimas); en Aboño tenía todo el cariño tierno, y tardé muchos años en recuperarme. En 2012 (el año siguiente) pedía muchos trabajos, y nada, dificilísimo con la superdepre que tenía (suma a eso los rechazos). Me faltaba, por otra parte, mejorar como persona.
+* Éxitos: he hecho programillas bastante interesantes (Paint para Windowes, que te limita a los colores del Spectrum...). Hay 2 cosas en los últimos años que me gusta recordar como éxitos: el teatro de idiomas, y la Cutreenciclopedia (dar luz psicológica...).
+* Secretos: a los 16 años veía a los Tauro (los amores de Escorpio) con barba como figuras paternas, ¿o maternas? Da igual: homosexualidad leve (¿por morir Virgilio siendo yo niño?) y superficialidad. En la adolescencia "había" que hacer lo que hacía el resto, y terminé odiando las discotecas (y un poco a las mujeres; no sé, las veía muy difíciles).
+* Anécdotas. En 2012, los de Delegación (colegas míos, aunque Pepe me dijese siempre "¿tú entiendes no?"; que si soy homosexual) pusieron mis vídeos tontos, y pensaban que no iba a aparecer por el Salón de Actos (lo tenia to aprobao), pero aparecí con Solares: cuchichearon, y decidieron darme la banda de Rey de la Politécnica.
+* Accidentes: lo del Tiatordos, que tuvo que venir el 112 con cazadoras térmicas a rescatarnos! Por lo general yo no iba rápido en bici bajando, así que los que tenían accidentes eran los que venían detrás de mi, ¡aparta, que te trago (me decían)!
+##############################################
+########LO ÚLTIMO DE HAMER, TRAS JUNG.######## INCLUYE REGRESIÓN Y AL GRAN TXUMARI.
+##############################################
+####Carl Jung (el del Trío Mágico Jung-Gurjieff-Castaneda):
+- El daño social surge de tus represiones (te hacen sentir indeseadamente, manejándote a ti y tus opiniones; y las proyectas: ejemplo, ves una persona obesa y reprimiste la creencia NO soportada "los obesos suelen ser irresponsables", y te enfadas, y eso es ser NO civilizado):
+* La zona de represiones y el ego malo (tretas para autoengañarte / protegerte) son como hermanos, cuando uno crece, el otro también.
+* Si estás siempre con una sonrisa (para dar una imagen), reprimirás mucho, no serás coherente, serás palpablemente narcisista.
+* También se puede reprimir "a los políticos". ¿ES QUE NO SABES QUE LA SUMA DE NUESTRAS PSIQUES (INCLUYE LA TUYA, "CÚLPATE" BIEN) ES LA QUE DETERMINA LOS POLÍTICOS QUE TENEMOS?
+- INTRODUCCIÓN AL RESUMEN DEL LIBRO DE LA SOMBRA. MIS AGRADECIMIENTOS A EL HEREJE. ¿Está la memoria alojada en el cerebro? NO (cuando el cerebro se daña la memoria puede seguir). El inconsciente colectivo es una memoria terráquea / de tribu... que nos afecta enormemente. Creencias normalizadas van allí. Y para cambiarlo...
+* Las represiones están en el camino para curar enfermedades (toda enfermedad es psíquica)... 
+* Emociones. Un exceso de ira daña el hígado; miedo, riñones y vejiga; alegría / híperexcitación, corazón e intestino delgado. Tristeza, pulmones; ansiedad, estómago, bazo y páncreas; dominio y autoridad sobre los demás, intestino grueso. Al revés también se da: Si tu bazo es débil, es probable que te entristezcas. Alcohólicos y drogadictos (mal hígado): enojos. Riñones: tímidos y nerviosos, o miedosos.
+* Cuando el ego malo es pequeño, el "transporte" de inconsciente a consciente es mejor.
+- PEDRO RIBA ENTREVISTA A ISAAC JAULI:
+* ¿Qué es la sombra? Es nuestro mal, y produce vergüenza, miedo, culpa, ser más manipulable... Suele aparecer en sueños en forma de persona del mismo sexo. Un chaval soñaba con un lobo (la sombra; su pasado No aceptado) que lo amenazaba (solución: imaginar que lleva el lobo a un lado siempre).
+* Si no aceptas la realidad social (mente débil), ¿reprimes / eso te somete? ¿Puedes aceptar algo como falso o como verdadero sin sufrir y entonces ya no reprimes?
+* Imagínate frente a tu parte oscura en una silla (los 2 sentados). Puedes ser tú o una persona que te insultó... ¿Qué tengo que cambiar en mí para no atraer a esa persona?
+- Luego están los entes negativos: parásitos (babosas cerebrales que manejan tu mente, "medusas", seres tulpa creados por ti para fastidiar a otros...), cáscaras de humanos fallecidos (chupan un poco de energía), demonios (chupan bastante).
+- Más (con pocas represiones / locura te acercas al alma, y a ver a la gente como monstruos, y a comprenderlos):
+* Siempre miramos hacia afuera buscando aprobación. Así que, ¿para qué preocuparse? Las máscaras tras reprimir para encajar socialmente: el encantador, la buena chica, el intelectual, el bromista, el que lo consigue todo, la seductora, la dura de pelar, los supercool... El de cara bueno al final reprime...
+* Las distracciones, jornada laboral larga, antidepresivos (e incluyo ciertos chutes de poesia)... postergan nuestro necesario encuentro con la sombra. Necesitamos mucho tiempo a solas con nosotros mismos para aspirar a ser buena gente.
+* Cuando alguien tropieza con un platano, es la sombra (represiones) la que rie. Si no te ríes nada, quizas tu sombra este demasiao inaccesible (eso seria todavia peor). Reirte de ti mismo puede acabar con sentimientos de culpa y vergüenza.
+* Connie Zweig: "los demonios internos se disfrazan. Yo pensaba que los habia destruido al hacer practicas espirituales, y no hablaba con la gente que consideraba inferior".
+* Una persona muy limpia, se vera atraida por guarros, ¡porque ha reprimido la suciedad!
+##Cuando tenemos una aspiracion elevada y la desterramos, nos condenamos a buscar gratificaciones instantaneas (o acabamos en las drogas).
+####001aGithub00notas17.txt  ##¿Para qué exactamente haces las cosas?, ¿por qué profundísima razón (y no me digas que ensamblas componentes para lograr tal producto)? ¿De qué retorcido planeta vienen los del "talk shop" (hablar del trabajo tras el trabajo, incluso con gusto)? Mejor se hablaba de ser feliz con lo mínimo, buscando tener una buena psique.
+- Jóvenes que han hecho muchos cursos, ¿han perdido el Norte?
+##Hay para quien salir de la zona de confort es saber hacer otras cosas, en vez de quitar la roña psicológica conscientemente: todo vale, pero los primeros están en "la Prehistoria".
+##Beneficios energía Libra. Con ella, comienza la locura sana (que previene la locura real).
+##Cuando quitas hierro a los asuntos, estás en disposición de comprender mejor al otro.
+##Más sobre la sombra = saco de represiones. En los momentos decisivos (peligro...), es la sombra la que manda (está más próxima al impulso creativo):
+1. Robert Bly: nuestros padres nos critican (estate quieto de una vez...), y entonces, arrojamos nuestra personalidad auténtica al inconsciente, para seguir siendo merecedores del amor de los padres (y por NO ser fuertes 100%). Ahora somos imagen y copia.
+- Cuando a los 40 los hombres intentan retomar el contacto con su mujer interior, ésta se ha vuelto hostil. Y las mujeres no deben reprimir su lado masculino, u odiarán a los hombres.
+2. Oli: la culpa no sirve de nada, y la penitencia nos hace sentir bien sin haber pensado en lo que hemos hecho.
+3. Anthony Stevens. Fausto: el Diablo representa su incapacidad de dialogar con la sombra. Fausto quiso solucionar su problema con más conocimiento vacio. Si tu gente es buena, NO temas que descubran tu sombra.
+4. Marie-Louise von Franz. Si sueñas que el sótano de tu casa tiene pasadizos, habitaciones y puertas abiertas, podría referirse a un despertar próximo. Si hay muchas habitaciones de la casa (en el sueño) que no conoces, es que desconoces mucho de tu psiquismo.
+5. William A. Miller. 5 métodos para aprender de nuestra sombra:
+- Que los demás nos digan cómo nos ven: es más fácil ver la sombra en los demás.
+- Haz una lista de lo que más te fastidia de los demas.
+- Examinar nuestros "lapsus" (queremos decir una cosa, pero nuestra sombra habla por nosotros).
+- Analizar sueños y fantasías.
+- Investigar nuestro sentido del humor.
+* Al final de un chiste, podríamos reírnos porque estamos de acuerdo "sombríamente", no conscientemente.
+* Reírse con un resbalón ajeno evidencia nuestro sadismo reprimido.
+* ¿Nos reímos en situaciones ridículas porque hemos reprimido el ridículo?
+##Más de la sombra:
+- La oveja negra percibió la sombra familiar, y la familia cargará contra él.
+- Un niño criado por una madre distante y sexualmente represiva, puede convertirse en un "chico duro" (máscara) o alguien que pide auxilio: que alguien me cuide.
+- Defensa cobarde. ¿Hedonista yo? Tú sí que eres hedonista.
+- Robert M. Stein. O aceptas a la madre negativa (la mandas al inconsciente porque ves a tu madre omniprotectora, nutricia, y aceptando tus flaquezas; es normal), o sigues siendo un niño, ¿y te será difícil agradecer a papá? ¿Cada vez que alguien quiera intimar contigo, harás algo para que te rechacen, pero buscarás parejas (para dejarlas)?
+####16 personalidades (basadas en Jung; yo, INFJ, aunque a veces soy INTJ). La chispa surge con los complementarios, somos muy diferentes. Lo principal no es "estar colocao en un trabajo oficial", sino ser comprensivo:
+- Características:
+* Introversión (I) vs chupaenergías (E). Es importante que sean introspectivos (tanto I como E).
+* Percepción sutil o 3D (baja). Intuición (N) vs sensación (S, 5 sentidos).
+* Reflexión (T) vs emoción (F, más impulsivos). Los 2 me gustan.
+* Juicio (J) vs percepción (P). Los "J" siguen con sus planes. Los 2 pueden ser útiles.
+- INFJ1.5. La luz de la humanidad. Van por lo imposible. Diplomáticos y profundos.
+- INFP4.4. Necesitan tener una cruzada o misión en la vida. Ven señales en todo. Imaginativos, solitarios. Les cuesta hablar de sí mismos con desconocidos.
+- INTJ2.1. Líderes naturales. Confiados y originales pensadores. Mente maestra. Pueden estar solos. Trazan elaborados planes, y si fracasan... duele.
+- INTP3.3. Intelectuales (el pensador). Nuevas teorías. Si les das salida para su inteligencia creativa...
+- ISFJ13.8. Cálidos, generosos y muy formales. Servicial, el que nutre. Sacan lo mejor de quien les rodea.
+- ISFP8.8. Piensan que conocer gente nueva enseña. Artistas, problemas de autoestima.
+- ISTJ11.6. Reservado, muy responsable y formal. Inspector. ¿Intimidantes? Tranquilos y tradicionales por lo general.
+- ISTP5.4. Artesano. Reservados (aunque a veces sorprende su espontaneidad).
+- ENFJ2.5. Realizan sus sueños y los de los demás. Guiado por sentimientos. Éticos e idealistas. Confían bastante en su instinto e intuición.
+- ENFP8.1. Encantadores, efervescentes y orientados a la gente. El campeón (ganador nato). Sociables. Se guían por sentimientos, pero son reflexivos y perspicaces.
+- ENTJ1.8. Líderes naturales. Profundos. Equilibrio. Decisiones rápidas.
+- ENTP3.2. Dinámicos. Si no triunfas a la primera, busca otra manera o "arrastra el error". El visionario. Odian las conversaciones banales. No rehuyen debates. ¿Vienen a revolucionar el mundo, con su comprensión más profunda / compleja?
+- ESFJ12.3. Amistosos y cálidamente interesados en los otros. Proveedor. Centro de atención. Ayuda a débiles.
+- ESFP8.5. Divertidos, aprovechan el momento. El actor (buenos captando nuestra atención). Preocupados por el bienestar ajeno.
+- ESTJ8.7. Sencillos y directos. Supervisor / organizador. Orientación. Desafíos (les gustan).
+- ESTP4.3. Aventureros. El hacedor (poca capacidad de abstracción). Aquí y ahora, y sus decisiones rápidas sin titubear pueden generar problemas.
+####Mar Zatie (Carl Jung, oscuridad permite ver claro dentro):
+Había una vez un hombre que vivía en el extremo del mundo, en un lugar tan, pero tan frío, que el sol, entumido, casi se había detenido y, por lo tanto, desde que el hombre tenía memoria, era siempre de día. * Era friísimo a pesar del sol.
+El frío había vuelto blanca su alguna vez, sonrosada y tibia piel, tan blanca como las lejanas estrellas de la Vía Láctea y como la nieve que cubría el suelo de las proximidades. Sus rubios y lacios cabellos habían comenzado a caer desde hacía mucho tiempo, tiempo cuyo paso era casi imperceptible, toda vez que las gélidas temperaturas alteraban dicha percepción haciéndolo cada vez más lento. Su delgado cuerpo parecía alargarse tanto como los altos y escarchados árboles que, formando un cerco, protegían su hogar de la mirada curiosa del mundo y de la intromisión de todo extraño. Sus ojos, que habían sido de un profundo verde esmeralda, habían perdido luz e intensidad porque al ser siempre de día, él no había conciliado jamás el sueño a pesar de desearlo tanto, así que ahora eran de un pálido color gris que amenazaba con volverse blanco como el paisaje que lo rodeaba y entonces cegarlo para siempre. Él había aprendido a mimetizarse con su entorno, o quizá fue el entorno quien se mimetizó con él.
+A pesar de vivir en esa tierra donde era siempre de día, el sol no lograba calentar su corazón, un corazón que alguna vez había latido tan fuerte y tan rápido como el galope de un corcel y del que ahora sólo quedaba un helado y frágil cristal que, en consecuencia, latía cada vez más despacio, porque a cada nuevo latido corría el riesgo de estallar en tantos fragmentos como estrellas en el universo.
+A sus oídos había llegado, transportado por el viento, el rumor de que se acercaba la luz que danza, una mítica luz que concedía deseos y que sólo aparecía una vez en una vida. Él no tenía nada qué pedir, tenía todo lo que deseaba porque él se lo procuraba a sí mismo, era autónomo y no necesitaba nada ni a nadie, pero sabía que la luz bailarina viajaba en compañía de la oscuridad, ya que, de otra forma, no podía ser vista. Eso era lo que él realmente deseaba, la oscuridad. La oscuridad y dormir. Dormir por primera vez en una eternidad. Darle reposo a su mirada y a su corazón. Así que tenía que encontrar la forma de ir al encuentro de la luz porque era poco probable que ella llegara a encontrarlo en su morada. Pero ¿a dónde ir? ¿Qué rumbo debía tomar? Ahora que lo pensaba bien, no recordaba haber salido nunca de ahí y una aguda punzada se clavó en su pecho. Su fatigado corazón no resistiría un latido más, no con la luz del día. 
+Paradójico, una luz le traería oscuridad, no tenía sentido, pero eso ya no importaba más. Era el momento de pensar en el enigma que representaba el exterior y que él había procurado tanto mantener alejado. Ya no era sólo la luz y en qué dirección ir como creyó al principio, ahora era también enfrentar lo desconocido, pero ¿no era la oscuridad algo igualmente desconocido?
+Lento, muy lento como siempre, aunque sin detenerse, el sol seguía avanzando mientras el hombre con un cristal en el sitio donde alguna vez tuvo un corazón, no dejaba de pensar en su dilema; sin embargo, ensimismado como estaba, no se percató de que sus pasos lo acercaban peligrosamente al círculo de árboles que rodeaba el lugar, su lugar, y mórbidamente, sin darse cuenta, dio un paso hacia el exterior.
+Cuando comprendió lo que había sucedido, ya no había marcha atrás, dio unos pasos más y había cruzado completamente la barrera protectora. Miró embelesado a su alrededor y por un momento no logró distinguir nada. ¿Era eso la oscuridad? Miró hacia arriba y de inmediato comenzó a distinguir algo. La luz que apareció en el cielo tenía un color muy familiar, un color que le había pertenecido y del que solía conocer el nombre, pero que ahora no podía recordar. Volando, danzando, girando, la luz comenzó a bajar hacia él, ella sí lo había reconocido.
+Cuando la luz que baila encontró el pálido gris de su mirada, ya no pudo reflejarse más como lo hace toda luz, porque ese tenue gris tan lleno de anhelo por la oscuridad, la absorbió completamente y entonces sus ojos, los ojos del hombre del extremo del mundo, volvieron a ser verde esmeralda. La luz danzarina no volvería a conceder deseos, la noche había llegado.
+##Busca salir de la zona de confort, y allí está la luz asociada a la oscuridad.
+###########################
+########Hamer (más)########
+###########################:
+##Principio básico: la psique influye en lo emocional, y luego viene lo material (el órgano). La enfermedad (traumas por shock en tu vida, ¿secretos y traumas ancestrales influyendo en el ADN?...) está en la psique (si te tragas una tuerca y se te inflama todo, eso se llama desequilibrio).
+- Es un error garrafal asociar el mal físico con lo material, salvo en unos pocos casos:
+* Quemadura solar.
+* Callo por zapato (aprieta).
+* Digestión mala por comer en exceso o combinar mal.
+* Talón de Aquiles rojo (como prevención por estar sin entrenar) y similar.
+* Algunos más, supongo, ¿como cortes?...
+- Por cada enfermedad, uno o varios focos de Hamer en el cerebro (creo que estoy repitiendo, pero merece la pena).
+* La enfermedad tiene 2 fases: la activa (cuando no sabes lo que te pasa, y la vida intenta ponerte pruebas para que lo sepas; no, no son casualidades). La de curación, donde suelen estar los síntomas (y por eso la Medicina Universitaria es tan torpe; las farmacéuticas compraron la Universidad, y se acabó el curar), las manos están calientes...
+* Aceptar o reprimir, impiden que muramos de agotamiento por fase activa (tu estado general es menos activo / masculino, y más de reparación / femenino). ¿Y vuelves a fase activa cuando a tu alma le parezca?
+* En la fase de curación, hay una "de curación aguda", en la que podría ser preciso usar los métodos de la medicina oficial, puesto que los síntomas se disparan. Tras esta fase, los síntomas son incluso menores que en la primera parte de la fase de curación, y echas sangre, mocos...
+* La escena que produce el trauma tiene unos detalles, incluso una comida (que luego generarán alergias, que te hablan de esa escena traumática; imagínate que eres alérgico a los cacahuetes; un cacahuete podría causarte inflamaciones, pero también podría guardar una información muy importante). No te curarás del todo hasta que no recompongas la escena, con sus detalles importantes, ¡y se te podría mandar a la fase activa otra vez! ¿Vuelves porque te faltan pistas por encontrar? Bueno, ahora las pruebas serán más fáciles.
+####Seguimos:
+- Los ambientes tóxicos (electromagnetismo...) pueden generar lo nunca visto; problemas psíquicos desde lo "material".
+- Nuestro cuerpo está superpreparado para hacer frente a cualquier cuerpo extraño. Ya sabes que los síntomas como inflamaciones... suelen ser una defensa del cuerpo que funciona bien. Lo realmente peligroso es tener miedo (el miedo acorta conductos, las células ya no reciben alimento... El miedo es un artista en enfermedades respiratorias).
+* Bacterias... se encargan del trabajo de reparación.
+* Virus (proteína + ácido nucleico), ¿regeneran el ectodermo / la mucosa?.
+- Tumor (fase activa), viene de 2 posibles partes del cerebro:
+* Tronco cerebral / endodermo (no te trago / acepto... Conflictos de presa, generalizando, como no poder deshacerse de algo, o hacerse con algo).
+* Cerebelo / mesodermo antiguo: conflictos sobre la integridad (física...): desfiguración (¿orgullo / imagen heridos se incluyen aquí?), preocupación (afecta a las mamas...), pelea...
+- Pérdida celular (úlcera... en fase activa):
+* Substancia blanca / mesodermo moderno (huesos: desvalorización... ¿hasta los tropezones están programados?): algo sale mal / has fallado en algo, te han despreciado / criticado... y te desvalorizas.
+* Corteza cerebral / ectodermo (conflictos sociales "avanzados"): de separación, de territorio, impotencia, miedo a peligro... Fase activa: dolores de garganta y su mucosa, y similar.
+##Algunos flecos:
+- Meningitis: desvalorización moral o intelectual, ¿no te ves bondadoso o capaz?
+* O por desfiguración (¿ser herido o sentirse atacado?)
+* Aparece con el trigémino (ya lo veremos quizás y lo vimos por encima) en fase activa, y en fases de curación.
+- Los pasotas son mentes débiles, necesitan la protección de la represión.
+- La alergia (pistas) puede manifestarse como enfados repetidos (en el trabajo...).
+- ¿Sólo en las enfermedades no psicológicas (que son muy pocas) se reducen significativamente los centrómeros celulares?
+* ¿Podrían alargarse si curas de verdad (la psique)?
+- Dolor: es para que no te muevas. ¡Así que no te muevas, cura!
+- ¿A + fase activa, más miedo y más vello?
+- Agotamiento: es protección, como un freno de emergencia de la gente sana (la muy activa... puede morir joven).
+- Ante conflictos prolongados, se pueden alterar genes que hagan que "te levantes del sillón".
+- Aborígenes curan fracturas en minutos, ¿herramientas imaginadas de realismo infantil? ¿Y una cuadrilla de espíritus?
+####FINALIZANDO LO BÁSICO (ÚLTIMO TERCIO)
+##Los médicos.
+- Se protegen complicando términos (Latín = LOT-in... Cosas de paios loteros, ¡sí, relacionados con la Diosa Kali!). Autocurarnos sabiendo lo que nos pasa a nivel psicológico, es parte de nuestra misión de vida, es nuestra responsabilidad.
+* Que hagan tests de cáncer a la sangre arterial: da negativo. Según la idea oficial de cáncer, lo sería un embrión, los pechos sanos de una mujer en determinadas circunstancias, o una herida curando. ¡DARÍAN POSITIVO EN EL TEST!
+* + Mitos. La hipertensión casi nunca supone peligro vascular. ¿Usar diuréticos sólo como último recurso? Antibióticos (dañan genes): no terminar la caja. Radioterapia: para tumor inaccesible, o como último recurso. ¿Y antes tomar MMS y energizarse con energía escalar? Píldora (nunca, como la morfina): cambia lados cerebrales (esto es traumático), es una ruleta de conflictos y curaciones.
+##Proceso de fase activa a fase de curación:
+* Tras algunas experiencias, la información negativa sale a la luz (el trauma). ¿Pero también habrás tenido experiencias hasta darte cuenta de que reaccionas mal no? Quizás tengas que desreprimir varias veces por trauma / enfermedad, y decir varias veces, ¡basta ya (seguido de saber cual es el problema psicológico asociado a la reacción, y que se repite en varios aspectos de tu vida)!
+* Pensamientos intrusivos (no necesariamente TOC) te acercan un poco más a lo que te pasa. ¿Mi padre me pintaba la habitación a traición para que me pusiese a decorar compulsivamente (para verme por fin bello; ¿mi abuelo Luis no se sentía bello?)?
+* Curación: retener líquido, con síntomas "severos"; luego viene la fase de "urgencias", con escalofríos, epilepsias y fallos de corazón (fase de curación aguda, que no suele pasar de las 50 horas); la tercera de curación trata de expulsar líquido + cicatrizar (síntomas más suaves). A veces, con la epilepsia, se rememora el conflicto. Cuando venía de la Universidad, tenía epilepsias (sufría: mucha tarlla mental, dormir poco...).
+##PROCEDIMIENTO BORRAR-NUEVO (para borrar un trauma que ya se ha solucionado; suena a la Psicología Energética Cuántica, que se mete en las células, los cuerpos sutiles...). ¿NO se borra la experiencia no (habría que repetir las pruebas de vida)?:
+- 9 pasos:
+1. Pedir asistencia, ¿a tu "ser superior" (tú en el futuro, más evolucionao)?
+2. Nombra conflicto. Di al terapeuta si estás preparao.
+3. Recostar en atmósfera agradable. Cerrar ojos. Reactivar conflicto (debe durar poco, para no volver a fase activa). Homeopatía, ¿moderna no? Pulverizar Uranium metallicum D60 (diluido en agua o alcohol) sobre órgano, ¿y región cerebral? Por fuera claro. ELECTRODO (centrífugo, para olvidar) SOBRE ELLOS 5 minutos (intensidad media). Al final, se ve / imagina el conflicto, como un nubarrón sobre ti.
+4. 1 minuto. Gracias por aprender de la situación (puedes decirlo para ti mismo).
+5. 3 minutos. Imaginar nubarrón alejado por viento, se deshace en cielo azul. Sientes libertad y ligereza.
+6. 15 minutos (sentir de forma gozosa e intensa, en cuerpo y alma). "Confío en mí" (la frase que explica cómo has mejorado interiormente... Concretar más que yo) + música que llegue al alma del paciente + ¿estímulos luminosos que salen de gafas, sobre los ojos? ¿Siguen cerrados no?
+* Adamas D6 (pulverizar sobre órgano y región cerebral), ¿para recordar?
+* A los lados de la cabeza, aros magnéticos (centrípetos) de ferrita, con polo sur hacia dentro (que se dé cierta repulsión). ¿Para recordar?
+7. 3 minutos. Imaginar situación adecuada para usar lo nuevo (todos me insultan, pero "confío en mí").
+8. Dar gracias a quien te ayudó (del "mundo" espiritual; pongamos que no hay varios mundos / planos, hay uno, y ves o no ves lo inmaterial; ES ESENCIAL QUE CONCIBAMOS UN SOLO PLANO).
+9. 3 semanas: pensar / sentir lo nuevo cada mañana tarde ("confío en mí", o la frase que toque).
+####Repaso:
+##Cuestiones consulta:
+- ¿Manos frias o calientes? ¿Frio en calle o shock por la propia consulta? Diestro o zurdo. Edad: menopausia (45-55), a lado masculino (cambian las enfermedades). Hombres 70-75 a lado femenino, izquierdo.
+* Hombre "femenino": zurdos sin constelacion o problema testículos.
+* Mujer "masculina": zurda + territorial (ovario)...
+- ¿Cual es la fase? Activo (gastritis, angina pecho, diabetes...). Curacion: hernia discal, neumonia... Tiene que suceder algo bueno (en tu interior) para la fase de curacion: jubilacion, examen aprobado, reconocimiento del jefe, ya no...
+- ¿Peor suceso en ese tiempo? ¿Que te estresaba / daba + miedo? ¿Que te gustaria cambiar en tu vida y de que depende tu felicidad?
+- El autor de violencia que no piensa en lo que hizo, no comenzara SBS, pero el destino podria pasarle factura. Si hay mala conciencia: SBS hombro.
+- Lo ideal es aceptar que hiciste aljo "malo", y la culpa desaparece.
+##En fase activa, nivel animico sólo (el origen es siempre la psique). ¿Significa que la neurolojia es un cero a la izquierda?
+- Solo en su parte superficial el teatro es entretener. Las tragedias griegas tenian 2 fases (conflicto, vuelves a sentirlo, y curacion). La novelas deben ser así, y blancas.
+* El teatro moderno esta vacio de sentido. Falta la unión con la naturaleza y la espiritualidad, y responsabilidad para curar.
+##Procedimiento BORRAR-NUEVO (del propio Bjoorn, repasamos un poquitín de na):
+- 2. Nombrar conflicto + ¿tas preparao? Responder voz alta.
+- 6. Sustituir vacio por algo positivo. Sentir, ¡y pensar! De forma intensa...:
+* A izquierda y derecha de cabeza, aros magnéticos (centripetos, para grabar) de ferrita.
+- 9: 3 semanas, pensar / sentir lo nuevo cada mañada y tarde para fundirse.
+##Varios:
+- ¿Pérdida de ser querido afecta al testículo con frecuencia?
+- Los huesos (sobre todo los planos) forman sangre, y si estan malitos...
+- Desvalorizacion porque hija no cumple su ambicion deportiva.
+- Niña 4 años, eccemas todo cuerpo. Conflicto inicial, el parto (separación, cesárea). Consecuencia: ataques dermatitis en curación.
+- ¿Conflicto de decepcion por querer él separarse? ¿Tarda mucho en aparecer, si ella echa mucho de menos al principio?
+- Miedo teritorial (mucosa larínea) cuando la agenda esta completa. Se decide no fijar fechas.
+- Unico conflicto con el que no adelgazas: refugiado. Colectores del riñón, por tener miedo a perder... Materialismo en general.
+- Mal alimentado: desvalorizacion, debil para mantener el territorio...
+- Con alimentacion mala, si tienes buen humor... el PH es genial. PH: si te pasas, parásitos (envejeces, ¿a menos que uses cebolla...?).
+- Con presion en meninges se produce el dolor de cabeza. Medidas: cabeza fria (baños frios...), pasear al fresco, protejer cabeza de sol y calor, glucosa "orgánica", sobre todo por la noche. Simpaticotonicos (vitamina C...). Mojar pies descarga la cabeza. Poca sal, para no retener ajua (aljo que empeora todos los SBSs). MMS es oxidante (tomar poco tiempo).
+* Mucho dolor o fiebre, simpaticotonizar también: analgésicos naturales, duchas frio calor (o frias), bolsas hielo, especias picantes.
+##Refugiado + SBS de otro conflicto, se llama "sindrome": heces solidas, tendencia al estreñimiento para aprovechar / ahorrar agua, retencion agua.
+####Biografía del Doctor Hamer. NO la pongo, pero es muy interesante. ¡Los médicos "que defienden sólo la Universidad", al salón de reciclado pero ya!
+####LAS MEDIDAS TERAPÉUTICAS EN LA NUEVA MEDICINA GERMÁNICA REQUIEREN SENTIDO COMÚN:
+- Nuestros ancestros solían seleccionar a los individuos más sabios (no los más memorísticos, sino los psicológicos, álmicos) para servir como hechiceros y hombres de medicina.
+* Ahora el paciente asume la responsabilidad de resolver un conflicto psicológico. ¡El médico tiene que ser un poco psicólogo, decirle las fases! El paciente percibe (debería) como aceptable el estar cansado y falto de energía por varias semanas en la fase de curación.
+* ¿La gente no muere del cáncer, sino del pánico (suyo o producido por un ignorante), que dispara otros problemas? NADIE DEBE DEFENDER LO SUYO SI ES MALO, AUNQUE LES DÉ DE COMER, AUNQUE SEA DURO ACEPTAR QUE LLEVAN TODA LA VIDA HACIENDO MAL. Se necesitan neurocirujanos y expertos en cuidados intensivos eso sí. Para terminar, NO todo paciente deshauciado por la medicina oficial (muchos en las últimas) puede ser curado por la NMG, sólo la gran mayoría.
+- Las reparaciones:
+* Un animal en la fase de curación se mantiene quieto, duerme mucho y espera calmadamente hasta que alcanza el estado de salud. Y no se expone al Sol con edema. ¡BUENA INFORMACIÓN! ¡Abajo las empresas actuales!
+* Los pacientes en la fase de curación sufren más durante la noche, hasta las 3 o 4 de la mañana (el día se acerca).
+* Recordad que el temblor de manos es un buen síntoma (Parkinson; conflicto pendiente; no lo hay por desgracia).
+- Más cosas:
+* Bajo ninguna circunstancia debemos estar tentados a dividir la Nueva Medicina Germánica en subespecialidades.
+* Cuando el conflicto del paciente ha sido resuelto (fin de fase activa), es importante llevar a cabo un TAC tan pronto como sea posible debido a la inminente crisis epileptoide. El ataque cardiaco ocurre aproximadamente de 2 a 6 semanas después de la solución del conflicto.
+* Alzheimer: conflicto de separación en cada hemisferio. ¿A que guarda relación con los geriátricos? ¿Qué es lo primero, el geriátrico, o el Alzheimer? Bueno, también está la carencia de vitamina B12, y más cosillas (un no aceptar, negarse a ver la realidad...).
+- El TOC. Dos conflictos activos (¿que provocan pequeña curbatura del estomago, cólera, gran miedo y autismo?). 
+* Pongo mi ejemplo personal: primero un problema de territorio (no me dejan decorar mi propio cuarto, o se meten a cambiarlo sin mi permiso pintando y agudizando el asma). El segundo puede ser asco (al ver la habitación; ¿ayuda que tenga mucho de Libra en la carta astral? ¿Y los que tengan mucho Virgo, en vez de decorar, se lavarán las manos?) o impotencia quizás.
+* Las cuatro reglas: 1. Psicología. ¿Problemas de autoestima en mi abuelo Luis? ¿Cuanto más me quiera REALMENTE o más bello me vea, menos decoraré? El cuarto es mi agujerito / refugio, no un enfermizo palacio suntuoso, doy gracias, y comprendo a quien se metió en mis cosillas. 2. El problema es el núcleo caudado, que lo tengo muy chiquitín, cada vez más, y hace que no pueda pasar de las cosas. 3. Cuando me dé por decorar, hago algo productivo (resumir, por ejemplo). 4. Cuando ya está uno más o menos bien, decir "yo no soy el TOC, el TOC viene a verme de vez en cuando, el hemisferio izquierdo hace jugarretas a veces". Yo no soy lo que el cerebro piensa en el momento.
+* Miles de hámsteres fueron expuestos constantemente a humo de cigarrillo. Ninguno manifestó carcinoma bronquial o cáncer de pulmón.
+* ¿Qué pasa si siempre tenemos miedo (por la tele...)? Que la célula trabajará siempre en modo simpáticotónico (activo), no vagotónico, vamos, que no se regenera.
+* ¿Un foco de Hamer es un vórtice, un regenerador cuántico? Parece que sí.
+####Y más:
+- Tumor en ventriculos cerebrales:
+* Lado derecho cerebro: no obtener algo. Lado izquierdo: no poder deshacerse de algo.
+- Conflicto: por creer que no se puede pensar lo suficiente (adenocarcinoma en red vascular para suministrar mas liquido cerebral, quizás porque piensas que no puedes memorizar nada al estudiar o entender los problemas de matemáticas).
+- Conflicto de presa: muy poca luz, esta muy oscuro:
+* Se sufre por falta de luz del dia (mineros...). Uno se siente separado de Dios y abandonado por los ángeles. Entonces se produce mas melatonina para podernoslas arreglar con menos luz.
+* Terapia: se debe dormir lo suficiente, y cuidar el ritmo de sueño. Tomar enerjia del sol (la que puedas). Mirar al sol al atardecer. Visualizar, ser creativo, meditar (quedarse embobao). Evitar flúor, cafeína, azucar y demas venenos. IDEA CENTRAL: SOY SIEMPRE CONSCIENTE DE MI ORIJEN DIVINO. SU LUZ ME ILUMINA.
+##Insomnio:
+- Causas:
+* Fuerte actividad conflicto (estres). Estas despierto para resolver el conflicto.
+* Fuerte curacion. Por el dia tas cansao, no te duermes hasta muy tarde, bien porque el cuerpo quiere que estes vigilante por la noche (por estar débil), bien para no caer en una supervagotonía (de supercuración) por la noche. El café puede ayudar en fase de curacion (aunque suene increíble), ¡pero por el día cede y echa siesta por el dia!
+* Pausas nocturnas de respiracion por relajacion del paladar (impide paso aire, y es mas frecuente en obesos). Fuertes ronquidos se alternan con larjas pausas de respiracion.
+* Hipertiroidismo o Hiperfuncion de corteza / medula suprarrenal.
+* Miedo a la muerte.
+- Terapia:
+* Mantener pies calientes (baño, calcetines).
+* Movimiento abundante. Pasar tarde tranquilamente (sin TV / ordi?). No cenar tarde.
+* Acostarse siempre a la misma hora y no muy tarde.
+* Rituales de desconexion: respiraciones profundas en la cama, pasar revista del dia, "despedirse" del dia y desconectar.
+####Ojo:
+- Blefaritis, conjuntivitis:
+* Perder a aljuien de vista. Separacion visual. Un niño permanece con los abuelos durante las vacaciones de sus padres. Al rejresar estos, curacion (conjuntivitis).
+* Otro ejemplo: distanciamiento de intereses con la pareja. Ella lo -a perdido de vista. Cuando deja de importarle el asunto, conjuntivitis (curacion).
+* El ultimo: costumbre reunirse todos juntos dia Difuntos (te encanta). Desde -ace 8 años no ocurre la reunion. De repente vuelve, y -ay conjuntivitis (curacion).
+- Ojos secos, causas:
+* Efectos secundarios pildora, duireticos, para la presion arterial, antidepresivos, colirios vasoconstrictores...
+* Falta de estrojenos con la edad. La falta de -ormonas des-idrata.
+* Trabajar ordenador o ver tele: se parpadea con menos frecuencia, -ay menos "lajrima".
+* Pocos estimulos de la naturaleza: luz, ajua, aire...
+* La falta de movimiento reduce el metabolismo en jeneral.
+- Sensibilidad a la luz, dilatacion excesiva pupila, cejuera duirna, pupila irrejular:
+* Presa. Ojo derec-o, no consijo aljo por estar oscuro. Izquierdo: no me des-ajo de aljo / no puedo evitar aljo desajradable o pelijroso. Esta oscuro. En sentido fijurado: no se recibe suficiente atencion. Quizas no poder encontrar lo espiritual (que se encuentra en tu oscuridad, basicamente), lo luminoso, la claridad.
+* Ejemplo: obrero competente y cualificado con muc-a experiencia compite por un puesto en la oficina de empleo con auxiliares no cualificados. "NO recae suficiente luz sobre su cualificacion".
+- Estrabismo:
+* Converjente: no querer ver mas a aljuien o contemplar uan situacion insoportable. No poder -uir de una situacion sin esperanza. Ejemplo: el ojo "pareja" se desvia al interior para acojer al padre, que tras el divorcio, esta lejos.
+* Diverjente: se ec-a de menos a aljuien / aljo y se busca "-acia fuera". NO poder o no querer ver a aljuien / aljo. Ejemplo: el ojo desviado busca al padre en la distancia. ¿Antes del divorcio ya empiezan a distanciarse los ojos del niño (los padres discuten y se da cuenta...)?
+* -ipertropia, ciclotropia: no poder, deber o querer mirar -acia arriba o -acia abajo. No poder, deber o querer mirar -acia dentro y abajo o -acia fuera y arriba, o bien jirar el ojo. En la practica, no querer ver a aljuien o aljo. Jeneralmente conflicto activo-pendiente.
+####+ del cerebro:
+##Ictus (ataque cerebrovascular):
+- Conflicto motor: frio (paralisis, menos frecuente) o caliente (fulminante fase de curacion).
+- Frio. Miedo de ser inmovilizado. NO poder, deber o querer moverse.
+* Musculatura facial: quedar en ridiculo.
+* Musculatura -ombros y espalda: no poder evitar aljo / a aljuien.
+* Abductores flexores (brazos y piernas): no poder sujetar aljo, acercar o abrazar a aljuien. ¡Que cabrones los del coronavirus! Saben y actuan sibilinamente.
+* Abductores extensores: no librarse, apartarse de aljuien / aljo; empujarlo o rec-azarlo, sacudirlo. A mi me da cuando aljuien -abla mas de lo normal (sin duda falta de empatia).
+* Pierna en jeneral: no saber como sejuir. NO poder correr suficientemente rapido, escalar, subir, bailar, saltar, mantener el equilibrio... ¿Y si no -as consejuido todavia -acer malabares?
+* Sentido biolojico: reflejo de -acerse el muerto. En el mundo animal, al terminar el pelijro, termina la paralisis.
+* Suele considerarse erroneamente debilidad muscular, EM o ELA. Si el paciente tiene problemas del -abla, -ay un conflicto en curacion de panico, o de no poder -ablar. Lajunas mentales pueden llevar al ictus (separacion en crisis de curacion).
+- Caliente.
+* Ejemplos. Un paciente es retenido desde niño por su madre dominante. Es -ijo unico y se escapa. Durante toda su vida se siente responsable de su madre y culpable porque no la visita lo suficiente (conflicto motor al no poder "des-acerse" de la madre). Tras la muerte de la madre, le da un jrave ictus (al fin y al cabo, curacion). otro: no poder sejuir el camino que uno quiere, no abandonar la empresa.
+* fase de curacion: lo mas frecuente es en brazo o pierna en un lado.
+* Terapia: aceptar la situacion como es y tener fe en curacion o mejora, si no, + conflictos probablemente (motor / desvalorizacion).
+##Mas:
+- Encefalitis (cerebro y / o meninjes):
+* Conflicto: se corresponde con la localizacion del tumor.
+* Fase de curacion: cada foco -amer en curacion causa encefalitis (mayor si -ay varios conflictos en curacion). La encefalitis no tiene nada que ver con uan infeccion.
+- Meninjitis, meninjoencefalitis:
+* Desvalorizacion moral-intelectual.
+* Fase de curacion: -uesos craneo producen liquido intersticial: separacion de meninjes "en direccion al cerebro". Fuertes dolores de cabeza.
+* Otras posibles causas: SBS del trijemino o als meninjes (en curacion). Relacion con conflicto de desfijuracion (ser -erido o sentirse atacado).
+- -idrocefalia:
+* Debido a obstruccion, al acumulacion de liquido -ace aumentar el tamaño ventricular.
+* Conflicto: refujiado activo o [refujiado + curacion de otro].
+* Fase: curacion intensiva. ¿Esto no es la crisis de curacion?
+* Terapia: como ultimo recurso, -acer como la medicina oficial: tubo plastico en cerebro para que pueda salir liquido cefalorraquideo.
+- Neurofibroma (tumor del nervio), "lobanillo":
+* Conflicto: contacto o dolor. Se percibe un contacto como doloroso, molesto o no deseado. Empujon, jolpe, caida, dolores -uesos... El orjanismo puede anular la sensibilidad periferica (dolor). Con la -inc.azon del recubrimiento de los nervios se atenua el dolor. En fase de curacion posible -ipersensibilidad inicial.
+* Terapia: "Una capa protectora me proteje. Solo dejo que se acerquen personas o cosas que me -acen bien". Esto me suena a fatija cronica. Operar es arriesjado.
+####Autismo (no he dicho asperger / cabeza fresca por usar básicamente el hemisferio izquierdo / tonto exactamente). Conflicto de pánico o de no poder hablar y conflicto de enojo territorial (diestro / a: conductos biliares con cálculos como primer conflicto). Sentido biológico: trabajador aplicado que no para hasta el final, para la manada:
+- Parte derecha temporal atrás, parte izquierda delante. Eso, si es un hombre heterosexual. Un hombre homosexual actuaría como una mujer (creo), y una mujer lesbiana, como un hombre (pero una mujer madura actúa como un hombre, y...).
+* Muchos olvidan, ¿por crisis de ausencia no epiléptica? ¿Y tienes que empezar de cero a explicarles? LA "MUJER" (EQUIVALENTE) TIENE UN CONFLICTO DE IDENTIDAD (y primero, el conflicto asociado a la laringe). Cuantas más pruebas les haces, más los traumatizas.
+* Los autistas maniacos ("no puedo, estoy ocupado"; y así no contactan con la gente; yo no contacto, porque no saben mucho de moralidad), me suenan a enojados. Si a alguien le va la tecnología...
+* Investigación. ¿Cómo vivió el feto lo que le pasó a la madre (un robo...)? ¿Dónde empieza el retraso madurativo (tu cabeza almacena información y quizás saques dieces, pero no aprendes muy bien de la experiencia)? Grandes peleas entre padres, padre ausente, violencia, gritos... Cuando nacen en el hospital y los separan momentáneamente de mamá... Y con la cesárea, otro trauma (ni nacen; psicológicamente, pueden tener marcado "que algo falta", ¿y eso se relaciona con el hígado, puede ser un problema territorial?).
+####La homosexualidad, Hamer (Nueva Medicina Germánica):
+- HOMOSEXUALIDAD. Hombres (hemisferio derecho): pérdida territorial (de una persona). Arterias coronarias (zurdo, más masculino: venas). Mujeres: frustración sexual (¿o venas?). El mecanismo de supervivencia de los homosexuales protege los asociados cerebrales y órganos implicados.
+* Cuanto más reprimas tu parte femenina, más teatro de macho harás, y más homosexual serás. ¡Casi todos los hombres que conozco son homosexuales de alguna u otra forma!
+* ¿Las almas viejas tienden a la bisexualidad por ser avanzadas y haber encarnado tantas vidas como hombre y mujer?
+* Se produce antes de la madurez biológica (¿14-16 años?), y originalmente antes de los 7 años.
+- El conflicto de "miedo" es propiamente femenino y el de "territorio", masculino (yo perdí a mi abuelo Virgilio, y me femineicé). Ciertos pares de traumas, pueden femineizar al hombre (masculinizarlo si es zurdo), y tras parir un varón, la madre femeneizará en el útero a los siguientes varones SEGUIDOS:
+* La castración no se trata sólo de la pérdida de pequeños órganos.
+* Un trauma emocional con el sexo opuesto (que te rechacen las muy...), puede provocar que el individuo cambie el centro rector de su sexualidad para evitar "toparse" con la repetición de su trauma. Una humillación constante y una minusvaloración de su virilidad, hace que el hombre se feminice y, ulteriormente, desarrolle fobia por las mujeres.
+* Con el cambio de hemisferios, se produce una disociación mental "esquizofrénica" (el hemisferio no apagado no se puede hacer cargo por completo de la situación).
+* El empate hormonal (andrógino) es perfectamente natural en la especie humana y se vive cuando las mujeres alcanzan la menopausia y los hombres la andropausia física.
+####Caso completo: Carcinoma de esófago (tercio inferior):
+- CONTENIDO DEL CONFLICTO BIOLÓGICO. No sentirse capaz de tragar un bocado. Frecuentemente relacionado al hogar, vehículo, o algo similar. El bocado es algo que uno quiere "incorporar", pero de repente no es capaz. El cáncer de esófago significa que uno quiere tragar el bocado pero no puede. En contraste, en el cáncer de epitelio escamoso, uno es forzado a tragar algo, pero no es deseado, uno se siente como si fuera a escupirlo. Esta diferencia, en principio, aplica a la totalidad del área oral y nasofaríngea.
+- FOCO DE HAMER (FH) EN EL CEREBRO. FH en bulbo (puente troncoencefálico), región lateral, derecha.
+- FASE ACTIVA = SIMPATICOTONÍA = CRECIMIENTO TUMORAL.
+* Tipo secretor: aumento celular para digerir y tragar el bocado.
+* Tipo plano reabsortivo: para probar la consistencia de la comida (igual que la boca).
+- FASE DE RESOLUCIÓN DE CONFLICTO = VAGOTONÍA. Destrucción del tumor mediante degradación caseosa.
+* Los residuos a menudo son mal interpretados como "varices esofágicas". Previamente, estaba mal interpretado también como un indicador de cirrosis hepática con mal pronóstico.
+* Junto con el "síndrome" (retención de agua), los tumores esofágicos pueden producir sangrados amenazantes, particularmente cuando se sangra al intestino. Típicamente, el paciente tiene sudoraciones nocturnas y se encuentra extremadamente cansado. Los pacientes pueden hacer frente mucho mejor cuando conocen que las complicaciones son temporales, y que el sangrado puede ser regulado con, ¿transfusiones eventuales (agua de mar siempre, agua de mar)? hasta que se complete el proceso de sanación.
+####Terminando:
+- Epilepsia ACTIVA: no poder moverse o seguir a los demás incluso al hablar.
+* Si de repente pasas de ellos o ya no estás con ellos, ¿llega el desmayo?
+- Enojo territorial (conflicto de presa podría ser): el puesto (bocado podría ser) era para ti, y en el último momento se lo lleva otro, ¿o se lo lleva alguien que crees que se lo merece menos?
+* Miedo territorial (conflicto de ectodermo podría ser), ¿alguien te puede quitar algo que es tuyo, pero no lo ha hecho todavía?
+####REGRESION CON AYUDA, por Brian Weiss: 
+- Todo lo que esa hermosa luz que imaginas toque, cuando se vaya esparciendo por tu cuerpo, todos los tejidos y órganos, cada fibra, cada célula de tu cuerpo, se relajará completamente, liberándose de todos los dolores y de todas las molestias.
+* Ya te sientes profundamente apacible y tranquilo. Ahora siente o imagina que la luz se esparce desde lo alto de tu cabeza hacia abajo, por la frente, por detrás de los ojos... ¡Menudo tostón hasta llegar a los pies! 
+- Dentro de un momento voy a contar hacia atrás, de cinco a uno. Cuando llegue a uno te encontrarás en un estado muy profundo, tu mente se habrá liberado de los límites normales del espacio y el tiempo. Puedes recordarlo todo.
+* Basta con que abras los ojos y regresarás inmediatamente a tu estado normal, con pleno control, sintiéndote relajado y descansado.
+- Si quieres continuar, imagina o siente que desciendes lentamente por una hermosa escalinata. Al pie hay una entrada con una luz intensa al otro lado. Caminas hacia la entrada, sabiendo que tu mente ya no está limitada por el tiempo ni por el espacio. Puedes recordar absolutamente todo lo que te ha ocurrido.
+* Cuando cruces, estarás en otro momento. Deja que tu mente elija el momento, de esta vida o de cualquier otra. Puedes regresar a un momento en el que surgió un síntoma, un sentimiento o una relación turbulenta.
+* Emerges a la luz. Primero te miras los pies. Miras qué calzado usas: zapatos, sandalias, descalzo... Ahora subes la vista por el cuerpo. Mira la ropa, manos. Ves cómo eres, si es de día o de noche, si estás adentro o afuera. Trata de saber la fecha.
+* Mira a tu alrededor, observa la geografía, la arquitectura, las plantas y los árboles, si hay otras personas allí (podéis preguntaros cosas).
+* Busca las respuestas a tus preguntas, a tus síntomas. Si hace falta, puedes retroceder o avanzar en el tiempo. Si sientes alguna inquietud, basta con que flotes por encima de tu cuerpo, observando sin sentir ni participar activamente. O si prefieres, abre los ojos y pon fin al ejercicio.
+- Si no has puesto fin todavía. Tu mayor perspectiva te permite comprender por qué ocurrieron los acontecimientos y qué significan en realidad. Mira si alguna persona de esa vida está contigo en tu vida actual. Si quieres, ve al final de esa vida y experimenta tu muerte.
+* Flota por encima del cuerpo y repasa tu vida. ¿Qué lecciones tuviste que aprender?
+- Fin del evento. Ya es hora de regresar. Dentro de un momento voy a contar de uno a cinco. Cuando llegue a cinco, abre los ojos y estarás plenamente despierto, alerta y descansado. Lo recordarás todo.
+* Uno: Todos los músculos, todos los nervios del cuerpo, completamente relajados. Dos: Despiertas poco a poco, te sientes muy bien. Tres: Más y más despierto y alerta. Cuatro: Casi despierto, te sientes estupendamente. Cinco: Abres los ojos completamente despierto y alerta, sintiéndote muy bien.
+####AUTO REGRESION: 
+- Lugar tranquilo y cómodo. Recuestese (no se acueste, que podría dormirse). Cierre los ojos y relajese (busca en tu cuerpo y mente la ausencia total de tension. Evita los pensamientos). 
+* Respire profunda y lentamente. Concentrese absolutamente en el ritmo de su respiracion. 
+* Relaje su cuerpo a la vez que respira. Con cada inspiracion guarde el aire dentro suyo antes de exhalar y cuente mentalmente hasta 5. Es importante que la inhalacion se realice de la forma mas lenta y profunda posible. Con cada repeticion piense que su cuerpo se va relajando. 
+* Parece uan copia. Concentrese en el sonido de su respiracion y evite todo pensamiento. Su respiracion debe ser profunda y constante. 
+- Imaginese a Ud flotando y deje que el agua lo lleve. Deje que los recuerdos lleguen a Ud.
+####Txumari, nuestro boticario de la abuela, con la NUEVA MEDICINA GERMÁNICA. Hay personas que jamás prueban la grasa y tienen colesterol. Aquí hay algo emocional. Txumari curó a mucha gente fuera de su consulta con esta pregunta, ¿has tenido algún shock? Alguno se desmayó y dio las gracias:
+- ¿Ahora te sienta mal lo que antes te sentaba bien? Puede ser falta de amor que se espera. Cuando comprendas por qué esa necesidad de amor... sanarás en gran parte:
+* ¿Si tienes cubiertas tus necesidades de amor tienes mejor flora intestinal, y ésta trabaja mejor (pues hala, a hacerse introvertido je je)? Lo mejor es tener unas necesidades ínfimas, eso es ser buena gente.
+- Diabetes: no suelen dejar entrar el amor a sus vidas (se cierran, como la célula).
+- Tumor en el ano porque su familia no le puso silla en Nochebuena (el ano representa la identidad, lugar que ocupo en mi clan).
+- Una sinusitis puede ser por necesidades excesivas de comunicación e ira reprimida (no diste opinión sobre un plato que no te gustaba...).
+- El polen es la parte masculina de las plantas, ¿el novio? MIENTRAS LA PERSONA ESTÁ PREOCUPADA DE SU ALERGIA, EL DOLOR PSÍQUICO BAJA.
+-  Un chaval tenía un problema con el hueso radio, y su radio de acción era pequeño (su padre no le dejaba ser lo que él quería).
+- Cuando un niño (0-8 años) tiene muchos mocos, es porque "no huele a la madre" (está ocupada...).
+- El tumor en un perro puede ser simpático (mismas enfermedades que sus dueños). El perro podría tener un tumor también si ya no le dejas dormir en la cama, si cambia de lugar...
+- Un mioma es el deseo inconsciente de ser madre, pero no es el momento, o no encuentro con quién...
+- Obesidad: por ser niño no deseado, quieres hacerte notar con los kilos (por ejemplo). Pon una nota en los dulces que diga: aquí no está la verdadera dulzura.
+- Lupus heritomastoso sistémico: me he sentido agredido y no he podido defenderme. Caso 1 (Lupus estomacal): no puedes digerir que no puedas defenderte del jefe. Caso 2 (pulmón): te asfixia estar cerca de alguien, sientes el aire venenoso.
+##Iridología: el ojo izquierdo habla del pasado y lo emocionalmente no superado. El derecho, del presente.
 ####00303sociosuenos.txt  
 ####00404histoactualidad.txt  
 ####00505tecnicas.txt  
@@ -2934,3 +3433,410 @@ Zarzuela Pl cido Domingo fiel espada triunfadora.mp3
 - Comió 24 huevos en un día (o al día), y su salud mejoró. ¡Lo del colesterol es un mito! Haz la prueba (con muchos menos huevos, claro), si crees en muchos malos médicos, es tu responsabilidad.
 - TAL PARECE QUE LAS DIRECTRICES PARA SANARNOS... SEAN PARA TODO LO CONTRARIO. LITROS DE AGUA EMBOTELLADA SIN MINERALES NI ELECTRÓLITOS, FUERA LA SAL Y LA GRASA... ¡SENTENCIA DE MUERTE, SI TE QUITAN LA SAL Y... Pa terminar, ¡los síntomas son sobre todo de fase de curación (el paradigma médico correcto es el de NMGHamer)! Deja de quejarte y autocúrate con Hamer, buceando en tu psique (que es lo que hay que hacer), deja de delegar, que habrá un médico que se entere de cada diez. Toda enfermedad ( = algo permanente, que NO depende de los hábitos saludables, como todo cáncer) tiene causa psicológica.
 - ¿Grafeno en la anestesia de algunos dentistas? NO hay que tomar azúcar, por si las intervenciones médicas te matan en pocos años. Deja el dentista pa la persona horrible e inconsciente que toma azúcar sin un "miedo terrible". Yo lo siento por amigos que venden dulces pero... están matando a la gente, y algunos dentistas rematan. NO olvides que los dientes frenan energía negativa con destino a los órganos. La gente avanzada, con misiones difíciles, tiene problemas de dientes, pero con el tiempo (ver tu problema de psique, y por lo tanto, curar), la cosa va a menos. Si das dulces al perro (sobaos...) aléjate de mí, estás quitándole años de vida.
+
+####ENFERMEDADES####
+####Ramón Maristani sabe más o menos el trauma que tienes, y si viene de algo ancestral, con sólo mirar a la cara, ¿y si usamos un programa de IA civilizada? Quien sabe de Nueva medicina germánica (Hamer NMG), diagnostica mejor que un médico (incluyo traumas psicóticos).
+####Psicosomáticos:
+- Depresión: se usa para no sentir presión, sobre todo afectiva (se ha llegado a un límite). Tendencias depresivas: conflictos pendientes de resolver con progenitor de género contrario; y se sufrió aislado (sin ser escuchado); tampoco se aprendió a confiar en los demás; y deseos bloqueados y cerradez.
+- Sinusitis (bloquea la intuición): necesidad de caricias, algo me tiene "hasta las narices"... Confrontar a quien se le ha dado por mucho tiempo la autoridad. Puede que aceptemos por fuera sólo.
+- No hablar lleva a ansiedad y asma.
+- ¿Por qué los médicos que tratan los resfriados no se resfrían y no usan máscaras? ¿LO QUE SE CONTAGIA SON LAS EMOCIONES Y EL RESFRIADO ES UNA EXPRESIÓN DE ELLAS?
+* En Invierno, en lugares cerrados, aumentan los deseos de ser cobijados, acogidos y acariciados, y con ello las decepciones, desatándose entonces el resfrío. Además: al perder libertad (lugar cerrado, gente), el pulmón sufre.
+- Fiebre es inflexibilidad para poder ver vías alternativas (quieres controlar a alguien...).
+- Estornudo: poderosa herramienta para apartar a todos.
+- Bronquios: conflictos en la familia.
+- Diarrea: no ve la utilidad de lo malo que le pasa (la enseñanza, por ejemplo). ¿Acaba con ingratitud? Más posibilidades:
+* Miedo de no tener algo o de no hacer lo suficiente, de hacerlo mal o de hacer demasiado.
+* Rechazar rápidamente una situación que te confronta con miedos, en lugar de experimentarlos.
+- Alzheimer: deseo inconsciente de acabar con la vida, o de huir de la realidad. El entorno, las emociones... son incómodos:
+* Las viejas ideas NO cambian. Miedo extremo de la vejez o del acercamiento de la muerte (implica comportamiento infantil).
+* Preparar para morir si se acerca la hora.
+- Ansiedad: cierto miedo a lo desconocido. Desconexión entre el mundo material y el inmaterial. Solución: las crisis son útiles.
+- Asma (inspiro con facilidad pero espiro con dificultad; solución: valorar y trabajar en consecuencia).
+* ¿Me engancho a ciertas personas o cosas que rehuso soltar? ¿Tomar de otros sin dar? Uso el asma para atraer amor, atención. Siento dificultades en desatarme de mis padres. Me siento rechazado por la llegada de alguien más. No concibo separarme de la imagen de mi madre, dulce y confortante, casarme, o ver cómo se divorcian mis padres.
+* Una especie de amor que interpreté como agobiante (generalmente materno), o una tristeza de la primera infancia. O un miedo recordando la primera respiración en mi nacimiento, en que me sentí ahogado o asustado por mi madre.
+* ¿Me ahogo con la rabia, al punto que esto me coge la garganta? ¿Rehuso ver mi agresividad?
+* Me dejo invadir por los demás en mi espacio vital, me impresiono fácilmente por el poder de los demás.
+* Quiero complacer en vez tener ambiciones propias.
+- Autismo (retracción): 
+* El mundo exterior es hostil y amenazador. Siento que los criterios que debo alcanzar son tan altos, que es más fácil encerrarme.
+- Cancer, ¿odio escondido? Ejemplo: eres servicial, pero muy en el fondo quieres hacer otras cosas.
+* Me conforto encontrando satisfacción en el exterior, pues tengo baja autoestima. Evito darme amor y aprecio porque creo que no lo merezco. Me siento inútil.
+- ¿Los anoréxicos prefieren morir a aceptar el amor?
+- Epilepsia (date cuenta del amor y salud que se te brinda desde fuera, agradece):
+* Tengo la sensación de siempre tener que luchar (demasiado trabajo, NO elijo...). Me siento perseguido.
+* Me siento culpable de la agresividad en mí y la rechazo. Quiero volverme insensible y cerrarme.
+* Miedo atroz (muerte, enfermedad, a perder a alguien...).
+- Esquizofrenia: frecuentemente se creció en un marco familiar muy rígido en el cual se perdió la identidad. Es un rechazo de mi yo: fuerte intelecto. Sol: tener interés en volver a descubrir el ser maravilloso que soy.
+- Hemorroides: con dolor, se relaciona con estrés, con hemorragia, con pérdida de alegría. Puede ocurrir en niños abusados por sus padres (pero el niño quiere retenerlos, que se queden con él).
+* Culpabilidad o vieja tensión mal o no expresada, que vivo frente a una persona o situación que "me parte el trasero" (me molesta mucho...). ¿Un abusón por ejemplo? ¿Y un sentimiento de sumisión que me hace sentir disminuido? O no pedir ayuda a nadie (llevo el peso).
+- Hipertiroidía:
+* Decepción porque respondo a las expectativas de los demás.
+* Me doy plazos muy cortos (me apresuro).
+- El mareo: los acontecimientos de la vida me desbordan (como lo desconocido). Miedo a morir en ciertos transportes (avión...).
+- Parkinson (merezco vivir): miedo a perder el control (de la vida de otros por desconfianza...), o impotencia para progresar en la vida.
+* Si están afectados piernas y pies, con ellos me habría gustado rechazar o volver a traer a cierta persona, cosa o acontecimiento. 
+- Testículos: miedo a ser juzgado según mis resultados "de macho".
+- El dolor de huesos puede reflejar rebelión ante la autoridad, ante la cual me siento impotente.
+- Alergia a los gatos: el gato simboliza la sexualidad femenina, la dulzura, el encanto y la ternura. ¡Acepta tu yo real!
+- Relación muy estrecha entre enfermedades alérgicas y erupciones cutáneas en todo el cuerpo y edemas en las mucosas: eliminar el café, el chocolate, el azúcar, el tabaco y el alcohol.
+####Dientes informan. Dientes mapa 1padre 2madre 3hogar 4trabajo. Los dientes amortiguan los mensajes del cerebro para que un órgano enferme (la enfermedad es una indicación de que algo va mal a nivel emocional). A los esclavos les miraban los dientes: menos dolor en los órganos / emocional:
+11- Padre. El papel que tiene el padre.
+21- Madre. El papel que tiene la madre.
+31- Acción de la madre.
+41- Agresividad masculina. Memória de violencia.
+#Si el 11 y el 21 están separados, quiere decir que en nuestra genealogía había un padre y una madre que estaban separados, y esa persona arrastra la información por lo que ha vivido el mismo conflicto o lo ha vivido en sus padres.
+Si uno de los dos está recto y el otro torcido, había un padre y una madre que no se miraban.
+Si el 21 está mas adelantado que el 11, había una madre que estaba por encima del padre.
+12- Mi relación con el padre. Cómo me veo a mí mismo respecto a mi padre.
+22- Mi relación con la madre.
+32- La protección de la madre.
+42 – La protección del padre.
+#11 encima del 12 es una memoria de un padre déspota, que está por encima mío.
+#Una patología en el 32 es una memoria de falta de protección de la madre.
+#Una patología en la 42 es memoria de un padre déspota. Me tengo que proteger de él.
+13- Representa las reglas, las leyes. Capacidad de obedecer.
+23- Representa la moral, el bien y el mal. Tradiciones y costumbres. Capacidad de someterse.
+33-Memorias de esclavitud, de servidumbre.
+43- Cuando no está recto, memorias de caída (real o simbólica). Recuperar una propiedad.
+14- Memoria de niño que se queda sin papá. Pérdida del amor del padre.
+24- Conflicto de falta, de vacío, desconexión de la familia. Amor de la madre.
+34- Memoria de pérdida. Amor de pareja.
+44- Pérdida de hermanos.
+15- Memoria de traición. Alguien traicionó o ha sido traicionado. Desesperación.
+25- Memoria de engaño y de rechazo. Injusticia.
+35- Memoria de rechazo.
+45- Memoria de frustración. Tener rabia pos sentirse frustrado.
+16- Nuestros sueños; lo que buscamos en la vida. Mi clan, mi padre, no se ocupa de mi.
+26- Necesidad de ser una persona equilibrada. Habla de lo que quiero ser.
+36- El reconocimiento, los apellidos, los apodos. Memoria de niño abandonado. Extracción del útero. El hogar.
+46- Deseo. Conflicto de la potencia masculina. Memoria de vergüenza. Mi padre siempre duda de lo que hago.
+17- Exclusión del clan. Si las raíces están soldadas, hay memoria de exilio.
+27- Pertenencia a la familia. Alianza familiar. La tradición.
+37- El merecimiento; el rechazo. No valgo. Memorias de ahogo.
+47- Memoria de destierro, de no poder volver. No ser perfecto. Sufrimiento por el éxito. Ser el primero, el mejor. Objetivo conseguido.
+18- Cumplir el objetivo de vida. Obedecer al jefe.
+28- Memorias de pecado con las leyes de la iglesia. Relaciones prohibidas moralmente. Asentir.
+38- Memorias de penitencia, de perdón.
+48- Conflicto con el pudor, con la sexualidad. Secretos (en la mayoría de casos, sexuales).
+####Ejemplos (relación psique / trauma y enfermedad; no olvidemos que el tumorcillo benigno del cerebro, impide que por ahí vayan los mensajes sinápticos):
+- Dolor de cabeza:
+* Por hipoglucemia en fase de curación, resistencia ("no puede ser verdad"...), miedo, repugnancia...
+* + fresco, - sol, glucosa (por la noche...). Poca sal (retener agua es malo). Substancias simpaticotónicas / activadoras / "masculinizadoras" (vitamina C...). Con mucho dolor o fiebre: duchas frío-calor (o frías), especias picantes (aunque afecte un poco a la vista lo picante)...
+* Migraña / dolor de cabeza "serio". El trauma depende de si eres o no diestro: impotencia o miedo frontal.
+- Autismo (¿lo he definido sólo para los diestros?): conflicto de pánico o no poder hablar y enojo territorial. 2 posibles estados / tonos:
+* Tono depresivo: meditativo, mirada apática al vacío... Con esta gente podría yo llevarme bien.
+* Maniático: dinamismo, puede sumergirse mucho en el trabajo y criticar sin sentido.
+- Meningitis: desvalorización moral o intelectual, ¿no te ves bondadoso o capaz?
+* O por desfiguración (ser herido o sentirse atacado, ¿todo eso incluye al final?)
+* Aparece también con el trigémino (ahora lo vemos), y en fases de curación.
+- Nervio trigémino (ridículo), 3 posibles trastornos (alguno se relaciona con la parálisis):
+1. Por no ser tomado en serio... Baños de pies calientes (como en 3; ridículo con familia, amigos, compis...).
+2. Alguien recibe "bofetada" o golpea en la cara. El frío y el entumecimiento hacen olvidar el ridículo.
+- Confusión, Alzheimer, acumulación compulsiva: conflictos de presa (no aceptar...).
+* Alzheimer (y la demenia en general) puede ser también por separación (pobres abuelos en los geriátricos).
+- Postmortal: pensar mucho en después de morir, piensas que estás de más en el mundo 3D, contactas con fallecidos, tienes buena conexión con animales... Pérdida territorial "sexual".
+- Verborrea (políticos...): identidad (¿quién soy? ¿Miro dentro en serio por una vez?) + miedo territorial.
+- Megalomanía: conflictos de desvalorización.
+- Agorafobia / claustrofocia, mojar cama (problemas de demarcación territorial).
+- Más: iluminado / gurú; Comportamiento antisocial / quieres soledad (no antisociable) o demasiado social; ninfomanía y Casanova.
+-¡Hasta la homosexualidad suele tener un origen en traumas (muerte de un ser querido cuando eres pequeño y hombre; frustración sexual si eres mujer; tal vez algo de identidad posterior...)! Y una humillación constante y una minusvaloración de su virilidad, hace que el hombre se feminice y, ulteriormente, desarrolle fobia por las mujeres.
+- Epilepsia ACTIVA: no poder moverse o seguir a los demás (al hablar...). Epilepsia en fase de curación: cuando te desmayas... Por supuesto, en la fase de curación crítica. ¿Y si no te importa que la gente hable rápido y sin consideración? ¿Y si no te ves inferior ante esta gente con poca inteligencia integral (suelen tener poca)?
+- Cansancio crónico: puede venir de victimizarse: agradece, por favor, agradece. Cuando te quejes, mira en tu interior, no luches hacia afuera. Imagina un futuro bonito.
+- Embarazo: madre dice "me siento sola": el niño podría sentirse solo tras nacer. Más prenatal:
+* Si dices al marido "no te enteras", el feto podría pensar que es para él (desvalorización).
+* Madre se autoengaña, y niño no quiere aprender, leer o escribir.
+* Miedo a parto - miedo a examen.
+* Madre da puñetazos si su feto está inmóvil (no está tan loca, perdió a un niño, que dejó de moverse, lo que hacemos todos al morir): el niño sale hiperactivo (o me muevo, o me muero).
+* Cesárea: mensaje de "dependo de ayuda externa".
+- Mala conciencia: SBS (programa físico) de hombro.
+- Ansiedad anticipativa (terminarlo todo ya...), ¿qué querías que terminase de pequeño es una buena pregunta?
+- ¿Miedo territorial incluye "creer que no están tratándote según tu valía profesional"?
+- Tu hijo no cumple tus ambiciones, ¿te desvalorizas (huesos) y tienes anemia (los huesos planos producen mucha sangre)?
+- Un hombre dejó de fijar fechas (agenda completa), y mejoró.
+- Si te alimentas mal, ¿es por desvalorización? ¿Y por una mala defensa territorial? ¡Mi cuerpo es mi templo, yo no caigo en trampas de maltratarme, me respeto (no he dicho "me quiero", que el "me quiero" lleva mucha desrepresión)!
+- Alzheimer: un conflicto de separación en cada hemisferio. ¿A que guarda relación con los geriátricos? ¿Qué es lo primero, el geriátrico, o el Alzheimer? Bueno, también está la carencia de vitamina B12, y más cosillas (un no aceptar, negarse a ver la realidad, por ejemplo, la maldad de las élites a fecha de 2.023...).
+##Ojos (recuperar mirada curiosa del niño):
+- Belleza: en un azulejo... NO busques paisajes idílicos.
+- ¿Borrosa por estrés?
+- Sensibilidad a la luz: no me deshago de algo, demando atención adecuada a "mi destreza"...
+- Escuela, trabajo... vuelven la mirada rutinaria / tiesa. ¿Que no te maravillas de nada? Hasta 1850 (año paio ya), las gafas eran muy mal consideradas (atrofian).
+- Enfermedades comunes:
+* Miopía (asustadizos, expectantes... Contrario a Hipermetropía, por así decirlo): me gustaría tenerte en mi rango visual. O miedo a ver algo en la lejanía (¿incluye tiempo?). O separación visual (de algo...) fuerte.
+* Presbicia: miedo al futuro (crisis 40...). ¿Tendré sustento en la vejez? ¿Mi puesto es seguro?
+* Astigmatismo: al ver borroso, estás protegido de la realidad y las decepciones (tu pensabas que tu padre era militar, y lo ves un día en el hospital haciendo su diálisis DIARIA y...). Algo cercano da miedo, y no quiero detalles. Quiero librarme al instante de gente ofensiva, o esconder algo (sexualidad...). Rechazo a acomodarme. Ira y miedo en la juventud. Decepcionado con los demás, creo que sólo puedo contar conmigo, ¿falta de confianza?
+- Dejar de ser tan corto de vista. Procastinar (te hace corto de vista): miedo a fracasar (o tener éxito), al juicio ajeno, al cambio, a lo desconocido. ¿Ansiedad o frustración asociadas? ¿Psicología Energética Cuántica pa limpiar mi parte sutil? ¿Cómo hago para vivirlo todo con menos intensidad escorpiana, y así ver mejor de lejos? Estar tranquilo, muchas veces depende de quererse. LA PRISA TE LA METE LA ESCUELA, Y CLARO, TE AYUDA A DEJARLO TODO PARA EL ÚLTIMO MOMENTO (SER CORTO DE VISTA).
+- ¿Oír mal (por calor, "espiritualidad"...) puede afectar a la vista?
+##Tengo muchísimo más, pero ahora, con esto basta.<BR>
+####cáncer:
+##CÁNCER DE PRÓSTATA (tallo cerebral): conflicto relacionado con la procreación...:
+- Causas posibles:
+* Una hija lleva a su padre a juicio por un tema de herencias.
+* Un esposo encuentra a su pareja en la cama con un amante.
+- En paralelo al tumor, crecen las "cirujanas" bacterias (si se puede). El paciente no siente dolor u otra incomodidad aparte de síntomas como pérdidas de sueño, de apetito o de peso. La excepción, si el tumor presiona en la uretra, causando una disminución del flujo de orina... El cáncer de próstata tampoco es doloroso durante la fase de curación.
+* En la fase de curación la orina se hace turbia y olorosa. Se podría requerir de una sonda para orinar.
+* La eyaculación vuelve poco a poco a niveles anteriores. Creo que si no se echan venenos al organismo (medicación, hamburguesas...) no faltarán las bacterias, nuestras amigas.
+##Cáncer bronquial (ulceración): miedo en el territorio (sólo puede ser experimentado por hombres o mujeres posmenopáusicas o zurdas jóvenes por conflicto femenino de susto-miedo; ¿y si se toman anticonceptivos?).
+- Problema motor o sensorial. El miedo territorial sensorial se manifiesta durante la fase de curación como neumonía y como una lisis neumónica en la crisis epileptoide.
+- El asma involucra a la musculatura bronquial, la cual responde a un conflicto de miedo territorial motor, por ejemplo, no ser capaz de moverse o maniobrar. ¿Habalmos aquí de cáncer o no?
+##Cáncer de pulmón: susto de muerte. Se descompone en la fase de curación por mico bacterias como las tuberculares (sólo si están presentes), se caseifica (caseína) y es expectorado en la tos. Todo lo que queda son cavernas (agujeros).
+- Ejemplo: familiar que se ha accidentado (o una mascota).
+- Los nódulos pulmonares son diagnosticados cada vez más como cáncer pulmonar (bien), y menos como tuberculosis.
+- Los nuevos cánceres por susto son llamados "metástasis", principalmente causadas por diagnósticos / pronósticos del doctor, que actúa como un televisor con malas noticias. Por otra parte, una célula cancerígena no viaja por el torrente sanguíneo para ser parte de otro cáncer.
+##Carcinoma pleural (cerebelo):
+- Muy a menudo, los pacientes experimentan un SIMPLE DIAGNÓSTICO (no significa que lo tengas) de "cáncer de mama" o uno de "cáncer de pulmón" como "un conflicto en contra del área del tórax", y como resultado desarrollan un cáncer de pleura.
+* El diagnóstico de "carcinoma pleural" muy probablemente dispara un nuevo choque, por ejemplo, un conflicto de miedo al cáncer o un conflicto de miedo frontal, el cual causa ulceración en los conductos faríngeos.
+- En la fase de curación, la mucosa epitelial escamosa en el área ulcerada, se inflama, y se forman los quistes llenos de fluido seroso. La medicina convencional llama a esto erróneamente un "linfoma".
+- Muchos pacientes morirán por meterles miedo el médico, y por la terapia.
+##Cáncer en sistema digestivo (tallo cerebral):
+- NO podemos ingerir, tragar, digerir o eliminar un BOCADO (perdimos algo valioso...).
+* Enojo indigesto desagradable (colon) o conflicto de suciedad o porquería desagradable o innoble (recto) o conflicto de suciedad o porquería asqueroso o mal intencionado (sigmoides). Si crees que has ganado la lotería pero al final no, el tumor estaría en el paladar: sentir "que te arrancan un bocado".
+- Carcinoma peritoneal (mesodermo, es unaa excepción):
+* En el momento de un diagnóstico CUALQUIERA: un ataque mental en contra de el abdomen que esta a punto de ser cortado por dentro (carcinoma peritoneal); ¿y siempre un carcinoma hepático derecho dorsal?: miedo biológico de que debido al tumor, la comida no pueda pasar más por el intestino (miedo arcaico a morir de hambre).
+* Si pasa algún tiempo entre el diagnóstico y la operación, el cirujano usualmente encuentra "metástasis" (falsa) en el peritoneo.
+- Cancer del intestino delgado:
+* Conflicto: incapacidad de digerir el bocado o de bocado indigesto.
+* La fase de curación del cáncer del íleon, durante la cual son expulsadas membrana mucosa y sangre con los excrementos, es también conocida como enfermedad de Crohn.
+- Molestia rectal (incluye tumor palpable pero no visible):
+* Cuando el tumor subyacente a la mucosa rectal se va, aparece un absceso submucoso. Un buen número de tales abscesos son rutinariamente considerados como "hemorroides". Hemorroides (en general): no saber qué posición ocupar en un grupo, no saber qué decisión o resolución tomar (conflicto de indecisión), no saber adónde ir.
+##El de mama (de eso murió mi madre, exceso de procupación por sus niños; pero no somos asesinos mi mellizo y yo; ¿y sueños rotos y falta de amor?):
+- La Nueva Medicina Germánica reconoce dos tipos: carcinoma mamario adenoide, perceptible como un sólido abultamiento compacto (mesodermo); y cáncer del conducto galactóforo (ectodermo), el cual no es perceptible durante la fase activa: la mujer podrá percibir solamente una ligera sensación de ¿calambre? (jaloneo) en el área afectada; adicionalmente, la piel exterior de la mama puede desarrollar neurodermatitis (separación de piel).
+* Una mujer puede considerar a los niños pequeños o animales como "sus hijos". Si una mujer diestra desarrolla cáncer de la glándula mamaria en su seno izquierdo, es hijo, madre o nido (pelea o preocupación). Si hay ulceración del conducto galactóforo, ella esta en conflicto activo de separación de su hijo, madre o nido. El derecho eran amigos, jefes... Y se invierte (* -1) con las zurdas y las postmenopáusicas (creo).
+* El problema de los médicos es que piensan que todo lo que hagan los microbios es malo, así que en fase de curación pueden hacer atrocidades con la paciente.
+- Cáncer glandular mamario (mesodermo):
+* El propósito biológico de incrementar tejido glandular mamario adicional (por preocupación por los hijos...) es asistir a los bebés al proveer más leche maternal que antes. Pasa también con los no lactantes.
+- Cáncer de mama intraductal:
+* Una vez que el conflicto de separación es resuelto, el bebé succionará con normalidad la mama seca (estará seca). La secreción de la herida a menudo no tiene salida y entonces, la mama se torna caliente, roja brillante, y aumenta de volumen rápidamente (hablamos del inicio de la fase de curación).
+* La sensibilidad regresa después, a veces casi de forma excesiva (hipersensibilidad o hiperestesia).
+- Se debería operar un cáncer de mama solo si pareciera aconsejable: ¿cuando una mujer se siente desfigurada debido al abultamiento? Cuando se desarrolla un melanoma. Cuando la capa de epitelio estalla...
+##Tengo muchísimo más, pero ahora, con esto basta.<BR>
+####Psicología A:
+- Aborto espontáneo: miedo al futuro...
+- Accidentes: incapacidad de hacerse valer. Rebelión contra la autoridad.
+- Achaques: ansia de amor, deseo de ser abrazado.
+- Acné: no autoaceptarse / gustarse.
+- Adicciones: enfado por tomr decisiones equivocadas. Alcoholismo: sensación de NO ser importante, culpa e incapacidad. Autorechazo.
+- Aliento malo: rabia e ideas de venganza.
+- Alzheimer: negarse a enfrentar la vida. Desamparo y desesperanza.
+- Amigdalitis: miedo, emociones reprimidas. Creatividad aplastada.
+- Amnesia: miedo. Huída de la vida, incapacidad de defenderse.
+- Anemia: "sí, pero...". Falta de alegría. Miedo a la vida. Autodesvalorización.
+####Psicología A-B:
+- Ano: absceso (cólera realtiva a lo que NO se quiere soltar), dolor (culpa, deseo de castigo, NO valgo), Comezón (remordimiento, culpa por el pasado), fístula (aferrarse a las basuras del pasado).
+- Anorexia: mucho miedo. Rechazo y odio hacia uno mismo. NO a la vida.
+- Apatía: resistencia a sentir. Miedo.
+- Apendicitis: miedo a la vida. Bloqueado "el flujo del bien".
+- Sin apetito. Desconfianza de la vida. Exceso: necesidad de protección, juzgar las emociones.
+- Arañazos: sentir que la vida estafa / desgarra.
+- Arrugas: pensamientos depresivos...
+- Arterias: relacionadas con el júbilo de la vida.
+- Artritis reumatoidefuerte crítica a la autoridad, sensación de ser explotado. ¿Incluye resentimiento y NO ser amado (artritis normal)?
+- Asfixia: temor, desconfianza en el proceso de la vida, estancado en la infancia.
+- Asma (adultos): amor sofocado, incapacidad de respirar solo, "ahogo", llanto reprimido.
+- Astigmatismo: temor a verse realmente.
+- Cálculos biliares: amargura, pensamientos rígidos, juicios condenatorios, orgullo del malo.
+- Bazo: obsesión, tendencia a abandonarse.
+- Boca: apertura. Opiniones rígidas / cerradas. Llagas: tendencia a culpar y a retener palabras violentas.
+####Psicología B-C:
+- Bocio: odio por haber sido agraviado. Victimización. Frustración e insatisfacción.
+- Brazos: abrazar las experiencias de la vida.
+- Bronquitis: ambiente familiar conflictivo (peleas, gritos, mal silencio...).
+- Bulimia: terror desesperado. ¿Odio a uno mismo?
+- Cabello: libertad, poder. Calvicie: miedo y tensión. Intento de controlarlo todo. Desconfianza en el proceso de la vida.
+* Canas: estrés. Presión machacante y esfuerzo excesivo.
+- Dolor de cabeza: invalidación de uno mismo (mala autocrítica). Miedo.
+- Calambres: tensión y miedo. Aferramiento.
+- Callos: aferramiento terco al dolor del pasado.
+* Callosidades: miedo. Ideas "endurecidas" (¿NO flexibles?).
+- Cáncer: herida profunda. Rencor que se mantiene mucho tiempo. Secreto o aflicción profunda que carcome. Odios. Creer que todo es inútil.
+- Cansancio, fatiga: resistencia, aburrimiento. Falta de amor por lo que se hace.
+####Psicología C (to desordenao, ¡pa que lo leas to je je!):
+- Cataratas: incapacidad de mirar adelante con alegría.
+- Celulitis: cólera acumulada y autocastigo.
+- Cerebro: aquí hay como mínimo un tumor por enfermedad.
+- Accidente cerebrovascular: rendición. Resistencia. Rechazo a la vida. "Antes morir que cambiar".
+- Ciática: hipocresía. Temor por cuestión de dinero y al futuro.
+- Joroba (cifosis): NO poder fluir con la vida (desconfiar...). Temor y aferrarse a ideas viejas. Falta de valentía en las convicciones o de integridad.
+- Circulación: sentir o expresar emociones de forma negativa.
+- Colesterol malo: miedo de aceptar la alegría.
+- Cólicos: irritación emocional, impaciencia. Molestia por el entorno.
+- Mucosidad en colon: revolcarse en el fango del pasado.
+* Colon irritable: temor a relajarse, inseguridad.
+- Columna: ¿falta de flexibilidad?
+- Coma: miedo. Intento de escapar de alguien o algo.
+- Conjuntivitis: enfado y frustración por lo que se ve en la vida.
+####Psicología C-D:
+- Convulsiones: deso de huír de la familia, uno mismo o la vida.
+- Corazón:
+* Ataque: por ganar dinero o posición se ha arrancado la alegría del corazón.
+* Problemas: entrega al esfuerzo y el estrés. Falta de alegría. Endurecimiento del corazón.
+- Cuello: negativa a ver otros aspectos de un asunto (NO flexibilidad).
+- Cuerpo. Derecho: donación, el padre. Izquierdo: recibir, comprender.
+- Debilidad: cansancio mental.
+- Dedos: pulgar (intelecto e inquietud), índice (miedo), medio (cólera y sexualidad), anular (uniones y aflicción), meñique (familia y falsedad). Artríticos: deseo de castigar. Acusar.
+- Demencia: negativa a enfrentar el mundo tal como es (la gente normal en 2.023 es demente). Desesperanza y rabia.
+####Psicología D-E:
+- Depresión: enfado que NO se tiene derecho a sentir (tú lo crees).
+- Desmayos: incapacidad de afrontar una situación.
+- Hiperglucemia (diabetes): nostalgia de lo que pudo haber sido. Necesidad de controlar. Tristeza profunda. Falta de dulzura.
+- Dientes: indecisión mantenida mucho tiempo. Incapacidad de analizar las ideas para decidir.
+- Distrofia muscular: "NO vale la pena crecer".
+- Dolor: culpa.
+- Eccema: antagonismo intenso.
+- Edema: despréndete de algo para sanar.
+- Encías: falta de confianza, problemas para mantener decisiones, indiferencia ante la vida. Sangre = falta de alegría en las decisiones.
+- Endometriosis: inseguridad, decepción y frustración. Sustitución del amor a uno mismo por azúcar. Tendencia a culpar.
+####Psicología E:
+- Enfermedad de transmisión sexual: culpa por la sexualidad. Idea de que los genitales son algo sucio. Maltrato a otra persona.
+- Entumecimiento u hormigueo: represión en la manifestación de amor y consideración...
+- Envejecimiento: vieja forma de pensar. Miedo a ser uno mismo. Rechazo del presente.
+- Envenenamiento por alimento: permitir que otros asuman el control. Sentir indefensión.
+- Epilepsia: sensación de ser perseguido, de pugna intensa. Rechazo de la vida. Violencia contra uno mismo.
+- Equilibrio: pensamiendo disperso.
+- Eructos: ¿quemar etapas demasiado rápido?
+- Escalofríos: deseo de retirarse. "Déjenme en paz".
+- Esclerodermia: autoprotección contra la vida. Desconfianza de la capacidad de autocuidarse.
+- Esclerosis lateral amiotrópica: resistencia a aceptar al propia valía. Negación del éxito.
+* E. múltiple: rigidez mental, dureza de corazón, miedo, ¿voluntad de hierro?
+- Espalda (yo pensaba que la parte de arriba era la familia, y la de abajo la sexualidad):
+* Parte superior: falta de apoyo emocional. Sensación de NO ser amado. Freno manifestando amor.
+* Media: culpa. Atascamiento en el pasado. Sensación de carga.
+* Inferior: miedo al dinero. Falta de apoyo económico.
+* Inclinada: transporta las cargas de la vida. Desesperanza. Desamparo.
+####Psicología E-G:
+- Espasmos: tensión debida al miedo.
+- Espinilla: ideales rotos.
+- Esqueleto: ¿desvalorización? La estructura de la vida se desmorona.
+- Esterilidad: miedo y resistencia al proceso de la vida. NO tener la necesidad de la experiencia de tener hijos.
+- Estómago: temor a lo nuevo / incapacidad de asimilarlo.
+- Estrabismo:
+* Convergente: deseo de NO ver el exterior. Objetivos contradictorios.
+* Divergente: temor a mirar el presente.
+- Estreñimiento: negativa a abandonar viejas ideas. Mezquindad, tacañería. Estancamiento en el pasado.
+- Fibromas y quistes: rencor contra novio / marido...
+* Fibrosis quística: firme convicción de que la vida NO resultará bien. "Pobre de mí".
+- Fiebre: ¿colera? Aparece mucho en fase de curación.
+- Fístula: bloqueo intentando liberarte.
+- Flebitis: rabia y frustración. Culpar a otros de la limitación y la falta de alegría.
+- Frigidez: negación del placer. Creer que la sexualidad (el erotismo...) es mala (lo que es malo es mirarme con ojos libidinosos). Parejas sexuales insensibles. Temor al padre.
+- Furúnculo: furia.
+- Gangrena: pensamientos ponzoñosos que ahogan la alegría.
+- Garganta (angustia?):
+* Dolor, irritación: represión del enfado. Sentirse incapaz de expresarse.
+* Nudo: miedo. Desconfianza del proceso de la vida.
+* Problemas: incapacidad de hacerse valer (hacer que te respeten o tengan en consideración). Rabia reprimida y tragada. Creatividad sofocada, ¿por otro? Negativa a cambiar.
+####Psicología G-H:
+- Gastritis: incertidumbre prolongada. Fatalismo.
+- Genitales: preocupación por NO sentirse valioso. NO es necesario sentirse valioso (hay tramos y tramos en la vida; y además, muchos tramos son de preparación).
+- Glándulas: mala distribución de las ideas para organizarse y actuar. Autocontención.
+- Glaucoma: necesidad de castigo por ser mala persona.
+- Gota: necesidad de dominar. Impaciencia. Ira.
+- Gripe: reacción ante creencias populares negativas. Miedo. Fé en las estadísticas (¿de gripe?).
+- Hemorragias: se marcha la alegría. Fastidio.
+- Hemorroides: miedo a los plazos establecidos. Rabia por el pasado. Temor a "aflojar". Sensación de carga.
+- Hepatitis: resistencia al cambio. Miedo, ira, odio, indignación.
+- Heridas: enfado con uno mismo y sentirse culpable.
+- Hernia: relaciones rotas. tensiones, cargas. Expresión creativa incorrecta.
+* Discal: sensación de NO recibir apoyos. Indecisión (hacer tests de misión espiritual: Nodo Norte, Tzolkin Maya, Diseño Humano...).
+- Herpes genital: creencia popular en la culpa sexual y la necesidad de castigo (fé en un Dios que castiga...). Escarmiento público. Rechazo de lso genitales.
+* Labial: enfado que carcome y temor de expresarlo.
+####Psicología H-I (ten en cuenta que hay más causas psicológicas, y que lo oficial y además bueno, aquí van los 2 unidos... es la NMGHamer):
+- Hígado: hábito de quejarse. Justificación de las críticas para autoengañarse.
+- Hiperactividad: temor. Sensación de estar presionado y frenético.
+- Hipermetropía: temor al presente.
+- Hipertiroidismo: rabia por haber sido dejado de lado.
+- Hombros: con nuestra actitud NO positiva ante lo que nos sucede (puedes aprender...), hacemos de la vida una carga.
+- Infecciones de hongos (el patógeno crece en "un mal terreno", NO soy de los que piensan que va por el aire): creencias estancadas (te aferras al pasado). Negación de las propias necesidades (no te autoapoyas).
+* Infección (general): ciertas dudas, ¡las decisiones liberan! El parásito depende del "tipo de duda".
+- Huesos / fracturas: rebelión contra la autoridad... NO hemos venido a hacer eso, sino a autocriticarnos con cariño (tras un poco de angustia).
+- Incontinencia: exceso emocional que rebosa. Años de represión de las emociones.
+- Indigestión: miedo visceral, terror, quejas, gruñidos...
+####Psicología I-M (recuerda que muchas enfermedades pueden darse en fase de curación, invalidando estas causas):
+- Insomnio: miedo a soltar el control consciente.
+- Intestinos: terror de liberar lo ya NO necesario.
+- Juanete: falta de alegría ante las experiencias de la vida. ¿Incluye las pruebas?
+- Laringitis: furia que impide hablar. Miedo de hacerse valer. Resentimiento contra la autoridad.
+- Lengua: enfado con uno mismo, culpabilidad.
+- Retención de líquido: miedo a perderse algo.
+- Llagas, irritaciones: rabia sin expresar.
+- Malaria: ¿desequilibrio con la naturaleza y la vida?
+- Mamas: negativa a cuidar de sí misma (en favor de los demás).
+####Psicología M:
+- Quistes, bultos, mastitis...: cuidados maternales exagerados, sobreproteger, actitud autoritaria.
+- Mareo en barcos: miedo a la muerte, ¿ganas de tenerlo todo controlado?
+- Mareo en coche: miedo. Sensación de estar cautivo.
+- Mareo al moverse: miedo. Temor de NO estar al mando.
+- Matriz: ¿que NO te entregas al xx%?
+- Meningitis: rabia contra la vida.
+- Menopausia: miedo a dejar de ser deseable o envejecer, autorechazo o sensación de valer poco.
+- Migraña: aversión a ser manejado, resistencia al fluir de la sabia vida (da lecciones si sabes verlas; a veces, simplemente pagas karma o la vida te mete por ciertos caminos para hacer tiempo o que no vayas por otros), temores sexuales (prueba a masturbarte entonces, ¿sin necesidad de eyacular NO?).
+- Miopía: miedo al futuro, desconfianza en el porvenir.
+- Mordeduras: cólera o, ¿necesidad de castigo por creer en él?
+####Psicología M-O:
+- Nalgas flácidas: pérdida de poder.
+- Nariz: goteo continuo (necesidad de ayuda, "llanto"), hemorragia (necesidad de reconocimiento, sensación de NO ser valorado, ansia de amor), moqueo hacia dentro ("llanto", puerilidad, victimismo), cargada (autodesvalorización).
+- Náuseas: rechazo de una idea o una experiencia.
+- Nerviosismo: desconfianza del proceso de la vida (NO es igual que la resistencia a lo que te pasa digo yo). Miedo, angustia, esfuerzo, precipitación. ¿Mucho esfuerzo es antiético? ¿Y si tu vida es de pagar karma?
+- Neuralgia: castigo por una culpa. Angustia por razones de comunicación (¿con gargantas veloces o asperger?).
+- Obesidad (sensibilidad exagerada, necesidad de protección, resistencia a perdonar):
+* Brazos (rabia por falta / necesidad de amor).
+* Caderas: terca cólera contra los padres.
+* Muslos: cólera desde la infancia (contra el padre...).
+* Vientre: rabia por falta de sustento (¿en un sentido amplio?).
+####Psicología O-P:
+- Oídos: obediencia (NO siempre es positiva).
+- Ojos: capacidad de ver pasado, presente y futuro en su justa medida.
+- Olor corporal: miedo (a la suegra je je). Disgusto consigo mismo. Despecho.
+- Osteoporosis: sensación de No contar con apoyos.
+- Pancreatitis: rechazo. Enfado y frustración porque la vida ya NO es dulce.
+- Parálisis facial: control excesivo de la ira. Resistencia a expresar sentimientos.
+- Parásitos: entrega del poder a otras personas.
+- Parkinson: intenso deseo de controlarlo todo (por miedo).
+- Pene: ¿energía?
+- Picaduras: culpa por cosas pequeñas (lo simbólico produce lo material).
+####Psicología P-R:
+- Piel: angustia, miedo. Antigua repugnancia encubierta. Sensación de amenaza.
+- Piernas: miedo al futuro. Deseo de NO moverse.
+- Pies: miedo al futuro y de NO avanzar en la vida.
+- Próstata: ¿temores sobre la masculinidad?. Renuncia. Presión y culpa sexual. Creencia en el envejecimiento (¿curioso NO?).
+- Pulmones: depresión. Aflicción. Sensación de NO ser digno de vivir plenamente.
+- Quemaduras, rabia o furia ardientes.
+- Rabia: fé en que la violencia es la respuesta.
+- Raquitismo: falta de amor y seguridad.
+- Cálculos renales: enfado / s NO resuelto / s.
+- Resfriados, catarros: suceden demasiadas cosas a la vez. Confusión, desorden mental. Pequeños agravios. ¿Y ganas de que nos cuiden? Creencia en "los 3 resfriados cada Invierno" (creer es crear, y vibrar es atraer. Decir "contra el cáncer" es atraer el cáncer; el "medio" se queda con "cáncer", NO con "no" o "contra").
+####Psicología R-S:
+- Respiración: miedo o resistencia a aceptar al vida plenamente. Sensación de NO tener derecho a ocupar espacio o a existir.
+- Reumatismo: sentirse víctima. Falta de amor. Amargura crónica. Resentimiento.
+- Rigidez: pensamientos rígidos o cerrados.
+- Riñones: decepción, fracaso, vergüenza, ser criticado. Reacciones pueriles.
+- Rodillas: orgullo y obstinación. Incapacidad de inclinarse. Temor. Inflexibilidad. Terquedad.
+- Ronquidos: terca negativa a abandonar viejas pautas mentales.
+- Sangre: falta de alegría. Las ideas NO circulan.
+- Sarna: pensamientos infectados. Permitir que otras personas nos acaparen el pensamiento.
+- Sarpullido: irritación por los retrasos. Forma pueril de llamar la atención.
+- Senilidad (regreso a la supuesta seguridad de la infancia): exigencia de cuidados y atención. Escapismo. Forma de controlar a quienes nos rodean.
+####Psicología S-T:
+- Síndrome premenstrual: confusión que domina. Entrega del poder a influencias externas. Rechazo de los procesos femeninos.
+- Sinusitis: irritación contra persona muy cercana?
+- Sobrepeso: miedo, necesidad de protección. Huida de los sentimientos. Inseguridad. Autorechazo. Búsqueda de satisfacción.
+- Somnolencia: miedo a asumir las responsabilidades del día.
+- Sordera: rechazo, terquedad, aislamiento ("no me molesten"...).
+- Suicidio: negativa a ver otra salida.
+- Suprarrenales: derrotismo, angustia. Renuncia a cuidar de uno mismo.
+- Tétanos: necesidad de liberar sentimientos de cólera.
+- Tics: miedo, sensación de ser observado por los demás.
+- Tiroides: humillación. "¿Nunca puedo hacer lo que deseo?" Sí, no te victimices. "¿Cuando llegará mi turno"?
+- Torceduras tobillos: ira y resistencia. NO querer avanzar en cierta dirección.
+- Tos: deseo de decir al mundo: "escúchenme".
+####Psicología T-Z:
+- Tuberculosis: egoísmo que carcome. Pensamientos crueles. Posesividad. Deseo de venganza.
+- Úlceras: miedo, creer (estar convencido) que no se vale lo suficiente.
+- Urticaria: pequeños temores ocultos. Hacer una montaña de un grano de arena.
+- Útero: creatividad.
+- Varicela: se piensa en el siguiente problema o disgusto (hay que volver al presente tras planificar). Temor y tensión. Sensibilidad exagerada.
+- Verrugas: manifestaciones de odio pequeñas. Creencia en la fealdad, ¿externa?
+- Vértigo: fuga y dispersión de pensamiento. Negativa a mirar.
+- Vitiligo: sensación de estar fuera de sitio, de no pertenecer al grupo.
+- Vómitos: violento rechazo de ideas. Temor a lo nuevo.
+- Zumbidos: negativa a escuchar. Tozudez. No oír la voz interior.
