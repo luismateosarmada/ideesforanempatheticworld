@@ -1191,637 +1191,726 @@ Cuando la luz que baila encontró el pálido gris de su mirada, ya no pudo refle
 - Obesidad: por ser niño no deseado, quieres hacerte notar con los kilos (por ejemplo). Pon una nota en los dulces que diga: aquí no está la verdadera dulzura.
 - Lupus heritomastoso sistémico: me he sentido agredido y no he podido defenderme. Caso 1 (Lupus estomacal): no puedes digerir que no puedas defenderte del jefe. Caso 2 (pulmón): te asfixia estar cerca de alguien, sientes el aire venenoso.
 ##Iridología: el ojo izquierdo habla del pasado y lo emocionalmente no superado. El derecho, del presente.
-
-####PSICOLOGÍA Y VARIOS.
-####ESTO PARECE DE "IMPORTANTE" (MISIÓN): Algunas pruebas que se te pueden presentar (dependiendo de tu misión de vida, sufrirás más abandono de gente poco avanzada / injustamente, incluso porque tú has subido de nivel de consciencia... Pero si lo sufres, piensa en qué tienes que mejorar en ti: independencia, autoconfianza para hacer cosas maravillosas y ser "protegido" si te curas psicológicamente con ganas, que no te importe lo que digan los demás y sí tus objetivos nobles NADA MODERNOS, comprender al otro aunque haga ruido...):
-- Desvalorizacion, poco reconocimiento, personas que abusan de tu generosidad, estrechez material, gente que con toda justicia no acata tus órdenes, gente avanzada a tu alrededor a los que ves como locos...
-####Si te llaman algo de lo que no estás seguro, hay más posibilidades de sufrir.
-####Cuando creas que las cosas empiezan a ir bien, probablemente irán mejor. Nada tiene más inercia que las buenas noticias (Rafael Vidac).
-####disfrutar la soledad es un superplus de inteligencia. Aquel que disfruta su soledad, escoge mejor las compañías, quien NO puede estar solo, escoge cualquier cosa, por desesperación. ¡Menudos cretinos pesaos!
-####¡Todos los no inconscientes, al psicólogo por así decirlo! LOS CONSCIENTES VAN MÁS VECES AL PSICÓLOGO. LOS INCONSCIENTES NO DAN MUCHA IMPORTANCIA A SU LIMPIEZA DE PSIQUE. SE CREEN MÁS O MENOS COMPLETOS, ¡PERO QUÉ "SOBERBIA"! ¿Y LOS QUE CONOCEN EL MEDIO Y SUS MANIPULACIONES PERO NO SU INTERIOR?
-####Condición necesaria amar a otros (Thayah Elim): amo tu sombra y tu parte luminosa porque he aprendido a amarlas en mí misma antes.
-####Neurosis:
-- Cuando no estamos a la altura (cargamos con muertos astrales, no hemos sido bien educados...) de los problemas, experimentamos ansiedad. Cuando experimentamos en repetidas ocasiones estrés y ansiedad, comenzamos a desarrollar patrones de conducta para evitar o mitigar el problema, tales como vigilancia, conductas de escape (me suena a rituales toc), y pensamiento defensivo.
-* ¡PERO LOS NEURÓTICOS ACABAN SIENDO MÁS FUERTES SI LO COMPRENDEN Y SUPERAN! ¡Y LOS BRUTOTES EXITOSOS SIN MISIONES DE SANAR EL ÁRBOL FAMILIAR, REALMENTE, LLEVAN VIDAS RÁPIDAS... Y FRACASADAS, NO MEJORAN POR DENTRO, Y EL ALMA VIVE MUCHAS VIDAS, ESO SE APROVECHA!
-* Si el niño no percibe amor (incluso si existe realmente), él o ella se quedará con una considerable ansiedad muy general, así como sentimientos de incompetencia y de no ser deseado.
-* El adolescente rechazado (muy superficial, la adolescencia, NO debería vivirse) se queda con la sensación de aislamiento y odio a sí mismo (los rechazados son personas más bellas que los que rechazan, con misiones de voda más difíciles / almas más avanzadas).
-* Luego viene la competencia / el éxito: en la Universidad, en el lugar de trabajo... Estúpidas ganas de respeto social en vez de autocomprenderte y amarte...
-- Timidez enfermiza:
-* Has empezado la preadolescencia y ya nadie te pasa la mano por el pelo, y tienes miedo de quedar mal con los vecinos del pueblo. Un día coges la bici y te vas al concejo vecino, es un alivio, allí casi nadie te conoce.
-* El Verano era lo peor: unos días sin ir a clase, y ya te da miedo todo. La vuelta a clase, con bronceado "antártico", era espeluznante. 
-* Llevarlo bien lejos y que allí recupere autoestima. El "es muy fácil, la calle no come" o el "eso son tonterías" son de brutos.
-##Toc: el exceso de adrenalina lo empeora. Se libera adrenalina para deshacernos de: trigo (cadena de gluten larga), lácteos, huevos, soja, azúcar, cacahuetes y maíz. La ordenación compulsiva puede venir muchas veces de un enfado pasivo.
-##neuroplasticidad para trastornos psíquicos:
-- El TOC es muy desagradable y continuo: el cíngulo anterior produce angustia por el error (hasta que aceptas). La información pasa al cíngulo caudado, que nos permite pasar a otra cosa. A largo plazo, ¿el cíngulo caudado se vuelve chiquitín? Pasos: 1. La cosa está bien. 2. ¡Es mi cíngulo! 3. Si "empieza la cosa", hago algo productivo. 4. Cuando puedes ignorar las compulsiones. Tú no eres el TOC.
-- Desorden del estrés postraumático: todo te recuerda al episodio (es el infierno). Terapia: tomar Propanolol (supongo que hace que los recuerdos NO sean terribles) y poner por escrito el relato de su trauma con todo detalle (menos de 10 minutos). A la semana siguiente vuelven a tomar el propanolol, y leen su relato.
-- Esquizofrenia (poquito tengo): ¿Están la capacidad de atención y la espiritualidad enfrentadas? Juego con botones de arriba y abajo, según lo que oigas, para la velocidad de procesamiento.
-####Prebrindis 2022 (fuerza: conservar la parte femenina. Y NO te olvides de mostrar debilidades para ser coherente).
-##Nota: incluir es como ser devorado. Hay que integrar a los diferentes (no hablo de las modas del siglo XXI, vomitivas).
-- 2022:
-* Lo mejor: valorar mis objetivos nobles por encima de agradar a los demás. Me he metido con lo peor de Figaredo, y he aprendido a caer mal. El Universo protege a quienes son como yo.
-* Lo peor: seguir pensando en la gente normal como en bestias robóticas (por sus sueños poco sabios). Ellos pueden ayudar y "lavarme los pies".
-* Hábito automatico: NO esperar a tener ganas para relacionarme con la gente, ver la vida demasiado como una obligación.
-- ¿Con que emocion me quiero caracterizar en 2023? Afecto...
-- BRINDAR POR OBJETIVO PARA EL 2023: dejar de ser tan corto de vista. Procastinar (te hace corto de vista): miedo a fracasar (o tener éxito), al juicio ajeno, al cambio, a lo desconocido. ¿Ansiedad o frustración asociadas? ¿Psicología Energética Cuántica pa limpiar mi parte sutil? ¿Menos intensidad escorpiana, quererme para tranquilizarme? LA PRISA TE LA METE LA ESCUELA, Y CLARO, TE AYUDA A DEJARLO TODO PARA EL ÚLTIMO MOMENTO (SER CORTO DE VISTA).
-- Deseo años sucesivos: ser buen terapeuta (acompañar a otros con Psicología, tras ver mi misión de Nodo Norte...).
-##Brindis:
-- Agradezco lo recorrido (lo negativo hace que esté aqui tambien), y digo donde quiero ir (decretos: escribir, pensar, decir... NADA DE "no sé si lo conseguiré", es ruido. Algo que te guste y te dé cierto miedo cosquilleante).
-- Reconocer fallos actuales, brindarlos al Universo, y contar a tu gente los más importantes.
-####psi hermetismo Pablo Lema. En nuestra infancia, nos han enseñado (mal) que para lograr algo y tomar decisiones, primero hay que saber, tener dinero...:
-- Te propongo que mañana te levantes una hora y media antes de lo habitual y emplees el tiempo en lo que Más Desees para ti. ¿Qué pensamientos y sensaciones has tenido?
-* ¿Cómo podría interponerse el ego en tu camino? ¡EL EGO SE LLAMA MONO, UNO, EL NÚMERO DE LOS PAIOS! ¿Piensas tu vida desde el costo o desde el Valor? Confía en tu capacidad de creación y tírate, la alfombra mágica estará ahí para recogerte.
-####Hermetismo iniciático desde Argentina:
-- Pablo: el caos es un proceso previo a crecer internamente (ves como reaccionas caóticamente, y de donde vienen tus reacciones no deseadas). En tiempos de crisis solemos conectar con la personalidad de los ancestros (emociones y pensamientos negativos...). ¿Cómo las pasaron los ancestros al tener que crear algo (ser un buen cantante...)?
-* Honrar a tus ancestros es reescribir la histroia. Ellos torpezaron, tú... no pienses que superarlos es manchar la familia. 
-- Cristian: si vas por la supervivencia, desconectas del exito, se acabo la "suerte". Cuando conectas con el futuro / los objetivos, conectas con la vida (eso si, vive el presente tras planificar).
-* NO ahorres por asi decirlo, sigue el principio universal de la circulacion, sin miedo.
-- LeoMB: la pandemia es el efecto de nuestra baja calidad como individuos (lo sutil se materializa).
-* Introspeccion no es meditar a ver qué te sale, es un proceso largo de ver conscientemente como reaccionas, y qué hay detrás. Ilume = muerte del ser. ¡Nos han engañao!
-- Caro: las personas Acuario (creativas, espontáneas) son lo contrario a las Tauro (comodidad).
-- Sofia: divide tu casa / habitacion (si vives con tus padres...) en 9 cuadrados. El cuadrado del centro es el de la salud; tiene que estar vacio, para libertad de movimientos...
-- Gabi. Yo puedo ser muy positivo: "puedo con todo", pero si no considero mis debilidades a la vez, atraigo lo negativo. Con juicio, ¡vaya, que gordo estoy, qué mala suerte tengo! Sin juicio: estoy un poco gordo, voy a comer mejor y mejorar para no tener miedo de las pérdidas materiales...
-- Yo (aunque no estuve en el encuentro): hay un rollo "cósmico", como de planes ilógicos / jodidos del Universo para hartarnos y ver que lo mejor es cambiar de sistema (pero de base). Quizás el último paso sea quitar el dinero y vivir todos como una gran familia, con tareas, no contratos (implican horas infértiles en el trabajo). Puede que duela, pero quizás la única forma de salir de aquí, sea que todos admitamos que tenemos un monstruito adentro que se llama sombra (las represiones), y que hasta que no nos libremos de ella (por Carl Jung...), no volveremos a ser realmente una sociedad inocente (en el buen sentido).
-- LeoenP-i: esta pandemia era necesaria. Hay mas amor por el bien comun. Crisis: crisalida (gusano se convierte en mariposa). Kairoos, Dios de la oportunidad, aparecia y desaparecia en un santiamen. Tenias que agarrar su mechón de pelo de delante para aprovechar la oportunidad. ¿Es que NO nos vamos a poder cambiar tan facilmente tras el confinamiento? ¡Ordena el cuarto (esto es mio), y te conocerás!
-* Aprende a entender lo que dicen los sueños, escribe el mensaje sin adornos, aunque no tenga sentido. ¿NO recordamos / queremos recordar los sueños porque hay una parte nuestra que cree que no lo va a soportar? ¿Acostarse sin mirar la tele antes?
-####Ejercicio del espejo:
-- Anota en una lista los aspectos (virtudes, habilidades, conocimientos...) con los que te sientes satisfecho / te encuentras bien. Apunta: seres queridos, experiencias cotidianas... y agradece.
-* Un ejemplo: soy disciplinado, soy empático... Tengo una pareja maravillosa (gracias), un trabajo ameno (gracias), doy gracias por mi situación financiera...
-- Luego, todas las mañanas te miras al espejo enfocándote en los ojos (espejo del alma). Habla con tus ojos: muéstrate respeto y cariño, verbalizando tu lista con sentimientos, desde lo más íntimo de tu corazón. Esto prepara el terreno para nuevas experiencias.
-####Desarrollar intuición. No trabajes como una mula (al menos con el cerebro), pues hay que relajarse. Y la intuición será la inteligencia del futuro (y no el hemisferio izquierdo, tan monstruoso):
-1. ESCUCHA TU VOZ INTERNA: arroja al aire una moneda. En el aire, repentinamente deseamos que caiga de un lado, y ésa es la decisión del corazón.
-2. TOMATE TIEMPO PARA ESTAR SOLO, alejado del teléfono...
-3. ESTIMULA TU CREATIVIDAD. La creatividad y la intuición están íntimamente ligadas.
-4. MEDITA. Las prácticas de meditación pueden despertar algo la intuición.
-5. VUÉLVETE OBSERVADOR. Las personas intuitivas son más perceptivas, y eso tiene mucho que ver con que sean observadoras. Puedes empezar a llevar un diario en el que registres cosas que te resultan sorprendentes, novedosas o extrañas. De a poco comenzarás a encontrar coincidencias, conexiones sorprendentes o intuiciones precisas en tu vida diaria.
-6. ESCUCHA A TU CUERPO. El cuerpo, la mente y el alma son un todo (toda enfermedad viene de la psique; los desequilibrios puramente físicos / "menores", no).
-7. CONECTA PROFUNDAMENTE CON LOS DEMÁS. La intuición está ligada a la empatía, que es la capacidad de ponerse en el lugar del otro. Dedica tiempo a observar y escuchar a otros cara a cara, a comprender a tus seres queridos y a todos los que te rodean.
-8. PRESTA ATENCIÓN A TUS SUEâ€˜OS. Puedes leer cuál es el significado de los 10 sueños más comunes.
-9. TÓMATE TIEMPO PARA RELAJARTE. El trabajo constante que agota el cerebro y hacer varias cosas a la vez son dos cosas que arruinan la intuición. Sólo en los momentos de relajación somos realmente intuitivos.
-10. DEJA IR LAS EMOCIONES NEGATIVAS (será fácil si observas las 9 reglas anteriores). Las emociones como el enojo o la frustración nublan la intuición.
-####psi (no sé si tará repetío):
-- Mandíbula ancha: se necesita llevar la teoría a la práctica.
-- Mentón muy fino: se bloquea la salida del individuo (si es grande, te agotas rápidamente).
-- El pectoral derecho es nuestro padre, ¿si me lo rasco es que mi padre no pudo lograr algo?
-* Alguien llenaba su vida con trabajo para no recordar que su padre casi nunca estaba en casa.
-- Tal vez no te casarás si le pusieron los cuernos a tu abuela...
-####Gestología (Ramón Maristani...):
-- Psicomorfología del rostro:
-* Cuadrado (optimistas e impacientes). Trapezoidal (inteligentes y explosivos).
-* Redondo (optimistas y vulnerables). Ovalado (idealistas y orgullosos).
-* Triangular (adivinación y astucia). Rombo (emotivos).
-* Mentón fino: bloquea la salida del individuo, ¡falsedad! Grande: te agota en nada.
-- Cabeza:
-* Evitar contacto visual directo: no sé si estoy o no de acuerdo, ¡dame tiempo!
-* Mirar hacia abajo: no entiendes tal vez lo que se te dice.
-* Jugar con el pelo: falta de autoconfianza e incertidumbre.
-* Jugar con la oreja: falta de atención o interés.
-* Tirón a la oreja: inseguridad.
-* Apretar nariz: evaluación negativa.
-* Barbilla sobre puño: inseguridad.
-- Extremidades:
-* Delante del jefe, cruzar brazos o piernas: miedo a que él sepa lo que piensas.
-* + sobre piernas. Unir tobillos: temor. Piernas estiradas y apoyadas sobre el escritorio: prepotencia e inseguridad. ¿A más abiertas en general, más agresividad? Sentados: paralelas y unidas, ordenado; cruzar por la rodilla torciendo, ansiedad, perfeccionismo e inseguridad; sobre una pierna (se esconde la otra), conformismo, dificultad para tomar decisiones.
-* Cruzar dedos y manos: por delante, frustración o desengaño; por detrás, ira, temor, frustración...
-- Nivel sexual. Cónyuges se tocan continuamente en público: inseguridad en una relación débil. Hombre se toca sus partes: a la hora de la verdad, es de los que escapan. Mujer pone objeto sobre los senos, ¿tiene un complejo de inferioridad por el tamaño de sus senos? ¿El objeto le da seguridad, la defiende de algo que da miedo, o de algo puramente psicológico?
+####00303sociosuenos.txt  ####Imaginar un futuro civilizado, y hacer imaginar a los demás.
+####¿Sueño la sociedad más civilizada (tiene que ser equilibrada, y dormir mucho, pues quien tiene salud, duerme como un adolescente, y quien duerme, tiene más salud)? ¿Se puede debatir en una cafetería a la que vaya gente a la que la imagen le importe un bledo?:
+- Casi no habrá limpiadores obsesivos, no se usará jabón más que para las manos y las axilas. Las duchas son para abrir poros, y ducharse muy a menudo fastidia la piel.
+* Pies ¡pasar las manos 2 veces al día y lavárselas (teniendo cuidao de no comer nada justo a continuación, ya se encarga la naturaleza de que todo vuelva al equilibrio con unos pocos minutos)!
+* La ropa, si la aireas (meneándola...), pasa a oler mejor (si llevas tiempo sin ponerla...).
+* ¡Hasta los de pelo graso pueden hacer lo de la manos! ¿Y dónde se limpian las manos de protectora / rejuvenecedora grasa? NO sé, de rodillas p'abajo (el cuerpo se recupera).
+- Ahora tenemos una psicopatocracia (2022). La meritocracia está mal, pues el meritorio, tiene que saber algo de moralidad / ética. Lo ideal, es una sabiocracia (sabio de la montaña...).
+* ¿Y cómo consultamos en caso de buscar soluciones técnicas? ¡Por llamada "desde arriba", y hala, al bien común, que las empresas de hoy sólo entienden de ganancias, y el amor y las ganas de simple poder, son contrarios se puede decir!
+- Corresponde a las familias el educar a los hijos, y a los maestros, mejorar lo de las familias, y además, enseñar alguna actividad...
+* Los vecinos y familiares cuidarán de los niños, no unos locos adoctrinados.
+* NO olvidarse de 2 cosas del Budismo: el sufrimiento lo causa el deseo vehemente (que causa apego, a que lo agradable continúe, a que lo desagradable pare...). Cuidado con cómo manejamos la frustración, que nos lleva al deseo.
+* Toda la información será gratis y accesible. ¡Los secretos hacen daño, generan enfermedades! El que tenga el mejor "batido de chocolate", expandirá la receta.
+- Las apariencias engañan:
+* Los trabajadores maniáticos, suelen tener síndrome de asperger, así que, en cuanto se curen, trabajaran menos, se les irá el "poder tecnológico"... Los trabajos oficiales podrían desaparecer, porque estar "colocado" va en contra de hacer cosas útiles para gente elevada.
+* La simpatía / imagen es propia del psicópata: profundiza, no eres un cuadro.
 - Más:
-* Sentarse con manos agarrando cabeza por detrás: ínfulas de superioridad...
-* Hacer preguntas necias para exhibir conocimientos: problemas con la autoridad.
-* Ligera reverencia al estrechar la mano o despedirnos: consideración y cortesía.
-####varios####
-####Los 4 temperamentos, ¿e iridiología (NO la veo por ninguna parte)?:
-1. Personas sanguíneas: alegres, optimistas, cálidas, buscan siempre la compañía de los demás, de sentimientos más que racionales. Cambian de parecer con facilidad y se guían por la búsqueda del placer inmediato. Su elemento asociado es el aire.
-2. Temperamento flemático: sereno y tranquilo, perseverante y poco impulsivo. Valoran mucho la exactitud, raramente se enfadan y no muestran demasiado sus emociones, llegando a parecer algo fríos. Algo tímidos a veces, pueden evitar ser el centro de atención o sostener un rol de liderazgo. Elemento tierra.
-3. Temperamento colérico: enérgicas, proactivas e independientes. Defienden con ahínco sus opiniones. Confían en su propio criterio (en vez de hablar con sabios antes). Elemento fuego.
-4. Temperamento melancólico: emocionalmente sensibles, creativos, introvertidos. ¿Les cuesta decidirse a la hora de iniciar proyectos (inseguridad de no saber lo que va a pasar y perfeccionismo)? Propensión a la tristeza. Elemento agua.
-##Constitución biliar: entre linfática (ojos azules) y sanguínea (ojos marrones).
-* Trastornos gastrointestinales. Hipoglucemia. Las patas de gallo pueden ser una señal para desintoxicar el hígado.
-####supersociología de infancia a forma de amar.
-- Complaciente / empático (evitan conclictos). ¿Padres sobreprotectores?
-- Indeciso. Los padres no tenían muy en cuenta tus necesidades ("hemos salido a bailar..."), con lo que el miedo al abandono crece, y podrías pensar que a la más mínima señal, la gente te quiere abandonar.
-- Amor evasivo. Hogar sin ternura / consolación, ¿demasiado "pragmático"? Dejas de prestar atención a tus sentimientos para no repetir situaciones de desamparo emocional.
-- Controlador. No percibías seguridad en el hogar. Buscas seguridad, volviéndote emocionalmente duro (y cuidando de ti mismo; suena a verdugo), para no sentir miedo, humillación, impotencia... Ira si las cosas no salen como quieres.
-* Víctima propiamente dicho. ¿Hogar caótico con padres enfadados? Ser obediente te ayudó a no llamar mucho la atención. ¿Escapar con la imaginación del dolor del hogar?
-####Meridiano84 magia blanca y más.
-- El 23 lo usan las élites hasta reventar.
-- Mudra del Señor Burns (te atenderán): palabras adecuadas a ideas, para vender... Para contrarrestar, gesto de "disipar pedo" o similar.
-* También mejora la atención.
-- Si encuentras 5 céntimos y los valoras (soy 5 céntimos + rico), es posible que algo grande esté por venir.
-- Cartera:
-* Libre de facturas (no son alegres).
-* Equilibrio yin (el dinero) yang (cinta roja...).
-* Mantén mínimo un billete.
-* Lugar limpio y ordenado, nunca poses en el suelo adrede.
-* Algo de color verde (laurel...) para crecimiento y vitalidad.
-* Aceite de ungir (Luna Nueva), pulgar, contrario agujas reloj, círculos mientras: doy permiso a que el dinero fluya en mi vida y que este contenedor funcione como su casa. Libertad y seguridad siempre, gracias.
-####Ol Alexandro comandos especiales.  Lamentablemente, hay más sed de obediencia que de "tengo el deseo de crear una sociedad mejor". El Sistema corrompe a los ciudadadanos, a los que les cuesta oír la verdad. Y todavía les queda ser buenas personas (cambiar la psique, eso sí que cuesta). COMANDOS ESENCIALES:
-1. Tendrás lealtad a la Ley Natural (el instinto / la intuición moral).
-2. La causa del sufrimiento es el apego.
-3. En cada encuentro hay una oportunidad para el enriquecimiento mutuo. Te enfocarás en los puntos que te unen al otro.
-4. Nos definen los actos (dañar con suaves palabras o silencios por placer psicópata, es un acto), nunca las palabras.
-5. Si defiendes a quien debe reprogramar su psique, la prueba para él será mayor la próxima vez.
-####Es muy importante tener la inocencia infantil, por Ol Alexandro (no me refiero a ser tonto, sino a ser puro; y tal vez así disfrutemos más de las cosas que da la naturaleza).
-####Varios:
-##Primero está la incertidumbre: no se puede planificar todo (poner citas y citas y citas, puede desencadenar enfermedades, ¿del ectodermo?), ni sufrir por lo malo que podría pasar, pero puedes tener una estrategia "social": si te viene a visitar "un monstruo que no esperabas", siempre puedes aprender a cortar "su juego", aunque a veces no haya más remedio que "ser devorado y aguantar". Y luego está la evaluación de fallos de la prueba social.
-##Sentido del teatro: sientes el conflicto ("primer acto") y lo curas con el "segundo acto":
-* Ejemplo del teatro más burdo / tosco: Papá Noel le da miedo a un niño. Un día su padre se disfraza de Papá Noel, y la madre dice que es muy fácil pegarle. El niño "vence", y ya no tiene miedo a Papá Noel.
-* Bebé: sus padres sujetan brazos y piernas para limpiarle el culito. El niño genera un conflicto "de estar preso", que provoca rigidez de piernas (ese es el programa especial físico). Primera representación (reactivar conflicto): el padre sujeta las piernas, la madre masajea el culito con un ungüento: el niño se pone tenso. Segunda representación: el padre deja las manos más sueltas, y luego las alza, retrocediendo suavemente. Última: piernas más sueltas de entrada.
-* La cosa va así en general (teatro de verdad, novela blanca...): alguien no consigue algo, y lo intenta por medios materiales, hasta que recuerda un camino psicológico (más o menos complicado / profundo: Transgenealogía, Hamer, Jung a secas, simplemente cambiar creencias...). Y entonces, "lo consigue", y no sólo es más feliz, es más fuerte y buena persona.
-##"El Señor de las Moscas" nos enseña que las reglas producen salvajes (en ausencia de éstas). Siempre será mejor la inteligencia moral.
-##Imagina lo que valoras. ¿Con ello serías más equilibrado, saludable, feliz...?
-##¿Qué me impide hacer una llamada telefónica? Pensamientos, sentimientos... ¿Qué pasaría si la hiciese de todos modos (imagínatelo)? ¿Y si no hubiese esos pensamientos...?
-- Visualiza la situación temida (y que fallaste en el pasado) desarrollándose bien. Ansiedad: 5-4-10 (respirar abdomen).
-##Reprogramación cuántica (2015): me pusieron una pieza que me faltaba en el corazón (espíritus cirujanos), ¿por lo de la Térmica de Aboño (abandonos)?
-##Di a otro una palabra doble (Corte - Inglés...) para hipnosis conversacional, ¿y sus abuelos podrán hablar por él? ¿Milton Erikson?
-##Laín. Si estás años enfocado en un tema, al final accedes al éter. Y para conseguir más, ¡tranquilidaad! Piensa en grande y empieza pequeñito. ¿NO contar proyectos o logros? Mmmmm. En una sociedad buena, o si no eres débil, no creo que haga falta tener enfermantes secretos. Laín no me parece muy sabio, pero ayuda.
-####Fin varios####
-
-########Espiritualidad (básicamente es sentido de la vida, misión personal e introspección, cosas escorpianas; luego está lo de la energía, propio del signo de Tauro).
-####Cuando realizas ejercicios espirituales: acelera el parto, sufrirás menos (y una yogi abrió las manos, mandó el dolor para "allí".
-####Introducción:
-- Las enfermedades tienen una causa psíquica, y hasta es posible que los golpes y caídas también estén programados, porque te sentías culpable, te infravalorabas...
-* Hay que cuidar los flujos de energía (los chacras se pueden limpiar, y se puede mejorar "la pila que eres").
-* La práctica espiritual puede aumentar la intuición elevada, ser incorruptible (sabes si alguien quiere venderte algo que no necesitas)... ¿Pero quita el ruido en la comunicación con el todo, o sólo da potencia? Las represiones (de ideas, NO de sentimientos) producen ruido (¿algo más lo produce?). Bueno, tú, haz introspección para limpiar la psique, que eso es lo que hay que valorar en una persona, las ganas de cambiar por dentro. ¿Algo más?
-- Boom de falsa espiritualidad en los últimos años: el mensaje de Nueva Era (flotar, fluir, ser vago en la introspección) se transmite muy rápido, y hay muchos escritores famosos que la defienden, como Eckart Tolle (son del gusto de las élites, que son satánicas).
-- ¿Hay relación entre tu misión y lo que te hace sentir bien y no te daña en cada etapa de tu vida? Eso sí, recuerda, tú eres la herramienta del placer, NO necesitas pasarte ni de cosas ni de consumir. Te quedas parao aceptando / comprendiendo.
-- La zona instintiva es la línea horizontal justo por debajo de la nariz (¿si la tienes muy larga, te controlas, como un psicópata?). Debajo de los ojos, la emocional (si es muy larga, ¿quieres ser centro de atención? NO sé). Mitad de la frente, "racional" (para ser racional hace falta intuición y consultar "a las tripas", aparte de ser lógico).
-####Valdeande letras hebreas.
-- Las palabras son números, y los números crean fórmulas. ¿Y esas fórmulas influyen en planos sutiles?
-* ¿Que si pones una letra en la estrella de David, se acciona un nosequé? En algunas letras hay polos (antenas; el agua tiene 2 antenas, y crea vida).
-- Hay 24 letras (2 silencio; y la ligadura suma 1/4). ¿En nuestro ADN "basura" hay textos exactos de la Torá (las letras representan los aminoácidos)?
-* Si formamos uno de los 72 nombres de Dios y lo meditamos, ¿tenemos acceso a un programa / algoritmo curativo?
-##Los 72 nombres de Dios. Se recorren de derecha a izquierda. Píntalos antes. La primera letra es una carga positiva, la segunda negativa y la tercera es un cable a tierra (circuito de poder). Mirando las letras o cerrando tus ojos y visualizándolas, puedes conectarte con frecuencias beneficiosas.
-- Ejemplo, 1. Viaje en el tiempo:
-* VAV (Una T sin el bichito de la derecha) HEI (parece PI) VAV. Tauro Aries Tauro. 6 + 5 + 6 = 17 = 8
-* La tecnología para volver a la causa original (crimen cometido por ti / tu alma, ¿en otra vida sólo?). Nos encontraremos cara a cara con nosotros mismos.
-* Meditación: despertar el remordimiento de nuestro corazón (angustia podría ser) por malas acciones anteriores. Aceptar la franca verdad espiritual de que los problemas en nuestra vida son el resultado de nuestras acciones pasadas (o de aprendizajes actuales).
-####Libro del monje vietnamita sobre meditación cotidiana. Yo aconsejo primero ser feliz, ¿y ser comprensivo, sería después de reaccionar negativamente unas cuantas veces y desreprimir?
-- libro01:
-* El individuo (MEJORADO REALMENTE) puede mejorar la familia, la familia, la comunidad... El vecino criticón...
-* Parar ante un semáforo es bueno para descansar, recordar el objetivo...
-- libro02:
-* Si no eres dichoso, nada podrá hacerte realmente dichoso hasta mejorar tu interior (además, la psique determina tu éxito).
-* Inspira y piensa: inspirando tranquilizo mi cuerpo, espirando sonrío, vivo el momento presente, sabiendo que es un momento bello. Ser de hemisferio izquierdo y necesidad de estimulación sensorial son los demonios de nuestro tiempo.
-- libro03:
-* Comer. Piensa en abundancia, que puedes desperdiciar algo de comida (y yo comía rápido para comprobar si el pan y la comida estaban equilibrados en cantidad). Sonreírse un poco.
-* Lavar platos: se sufre más pensando en que tienes que lavar los platos, que lavándolos.
-* La gente que maneja la guadaña (instrumento) acompasa el uso con la respiración.
-- libro04:
-* Sala de respiración. No muy iluminada, decorada con sencillez. Cojines o sillas, un florero que evoque la naturaleza. Imaginaos una discusión conyugal: el marido hace sonar una campanilla en la habitación. La familia llegan poco a poco, la reconciliación está servida. ¿Pero luego a dialogar elevado no?
-- libro05:
-* Ni te aferres ni rechaces los sentimientos desagradables, afróntalos ("hola miedo"...).
-* Cuando nos enfadamos nos centramos en aspectos odiosos de la otra persona... y más aumenta la ira entonces. Cuando exteriorizamos la ira, a veces sólo sirve para interiorizarla aún más. ¿Entonces habría que llorar?
-- libro06:
-* Abraza e inspira y espira tres veces: tu alegría se multiplicará por diez. Antes de abrazar, volver al presente (3 respiraciones). Si al abrazar sientes un vacío, puedes golpear suavemente la espalda de tu amigo. Concéntrate, si no no valdrá.
-* Los pies deberían estar en contacto con el suelo.
-- libro07:
-* Si no podemos ser paz, no podremos hacer nada por la paz. NO tomar partido por bandos que...
-* No acumules riquezas. Reserva tiempo, energía y recursos materiales para los demás, ¿nada de agendas apretadas?
-* Trabaja con las manos (es naturaleza).
-####LIBRO DE MARC:
-- Conglomerao 1:
-* Calmado, la energía se usa mejor. ENTONCES, ¿TAURO NOS LLEVA VENTAJA?
-* Puedes librate de los "pegañosos" menos poderosos alargando los brazos juntos, e imaginando que lanzas energía con los puños?
-- Conglomerao 2:
-* Chemtrails: la porquería que queda en el cielo puede servir para producir hologramas (dar miedo en el futuro, un Cristo gigante...).
-* Canalización: un paciente obtiene datos sobre su misión (u otro tipo de información) con la ayuda de un terapeuta y varios seres incorpóreos. Terapeuta y paciente, están echados. El guía espiritual muestra al terapeuta cierta imagen que estimula al paciente (un cuadro...), y éste lo describe. Seres incorpóreos pueden activar el chacra corona del paciente y transmiten al guía ideas, sentimientos, imágenes... Más: paracirujanos (hacen que la energía fluya correctamente, armonizan chacras... según lo que diga el terapeuta), anestesistas, enfermeras, e incluso chamanes con animales extrafísicos. ¿Y máquinas dando energía a las 2 personas?
-- Conglomerao 3:
-* Proyección astral (viaje). Una emoción puede hacer que se regrese. Una ayuda puede ser la descoincidencia miembro a miembro del cuerpo. ¿Que primero pienso en las piernas, y se van desprendiendo?
-* A 1000 km de profundidad hay humanos muy evolucionados. El interior es un paraíso.
-- Conglomerao 4. Mensajes (matrículas de coche, la hora...) a los que los guías quieren que prestemos atención. ¿No debemos esperarlos, pensar en ellos, sino que surgen de casualidad?:
-* 123 (tus pensamientos son evolutivos / buenos), 3344... son ascendentes (bien). Treses solos significa "lánzate". Cuatros es el NO.... 0 algo se ha completao, 1 atraerás lo que pienses, 2 vas bien (777 es felicidades), 5 va a haber cambios, 6 no te preocupes por lo material, 8 no pienses trabaja, 9 haz el esfuerzo final.
-##Cosas de Marc:
-- Una persona manda energía a otra. Con la intención basta. Puedes retraer y soltar las manos cuan mago de película. Incluso podemos imaginarnos una pelotita entre las manos.
-- La gente no sabe estar consigo misma (grandísimo gozo...), busca otros para llenar su vacío.
-- Chacra mental: puedes dejar lúcido a alguien con alzheimer por un rato, para que haga introspección...
-- Los árboles tienen miedo, sienten. Algunos pequeños tienen complejo de inferioridad. Se comunican entre ellos y aprenden. Marc les hace preguntas.
-- Un ente espiritual puede corresponder a varias piedras, briznas de hierba... Todo está espiritualizado.
-- ¿Las ciudades son trampas antiespirituales? Pero adorar a la naturaleza también es una trampa (Nueva Era).
-- ¡Y los guías pueden hacer que recuerdes mejor el sueño!
-- Algunos ancianos antes de morir se espiritualizan un poco (maestros)
-* Si se muere en paz, no hay residuos energéticos, ¿cáscaras? Tras morir va a ser poquito lo que te chupen, y es + fácil mover energía (fundir bombillas...).
-- Reprogramación cuántica:
-* La zona de trabajo son 50 cm (rodeándote), y hay otra donde los guías descargan energía de varios tipos para que el terapeuta trabaje con ella (aspiradora de energía densa... La intencionalidad...). La araña tejedora repara, el hormigón rellena con buena energía, electroimanes para alinear neuronas y no dar tantas vueltas a las cosas. Un minisol para el corazón (quererte).
-* Diagnóstico: energía densa en la barriga y un trozo de corazón que falta (EDP...), y que me pusieron.
-##Cosas de Marco (La Última ReEvolución):
-- Einstein dijo que la mayor parte de las ideas científicas básicas eran sencillas, fácilmente expresables y comprensibles. ¿Quién quiere engañarnos para que sólo creamos en frikis y expertos? Piensa y júntate en la calle.
-- Un chino construyó una nave y la destruyó, pues sería una distracción (debilita porque te acomoda).
-##Cosas de Marko (el del violín): escapó de los muros reales de Nueva Era. Sentir (hedonismo...), estar alegre... ¡paparruchas para que te creas "etéreo y bueno"! Los sabios de verdad son más bien serios y quietos.
-####Sanar:
-- Podología reflexiva: glándula pineal... Hay que tocarse los pies, ¡gracias Corte!
-- Cosa de Marco y Valdeande. Vivir del prana (aire y sol) unos días (el cuarto día entras en beneficioso modo protección). Supongamos que son 3 partes, cada una de 3 días. La primera parte bebe agua, la segunda, nada, tu cuerpo empieza a saber que comer y beber es sólo una costumbre por así decirlo (al final es todo energía). Tercera parte: zumo de mala calidad. Para que el cuerpo siga pensando lo mismo.
-- Fatiga crónica: NO deben ni culpar ni quejarse.
-- Relación cielo - tierra. Palmas p'arriba recogiendo energía, palmas p'abajo expulsar hacia los pies. ¿Y lo de subir y bajar la energía?
-- Mi sesión RQ (más):
-* Vida actual: primera etapa Informática, segunda con conflicto interior y resolución, tercera parecida a la primera.
-* Vida que explica mi miedo / culpa (todos me van a dañar...): romana rica (marido mató a un esclavo por mirarme mientras me bañaba). Ya pagué por ello, me tranquilizaré.
-* Lecciones del alma: 30, algo técnico grande, pero con relación interpersonal. 31, me respeto, sigo mis reglas...
-- Ronroneo gatuno doméstico sana de todo se puede decir (tú quita electrodomésticos por él):
-* Si duerme en tu cama de día, los espíritus malos no vendrán de noche fácilmente. Puede acompañarte en los viajes astrales. ¡Lo femenino (gatos...) incluye lo más avanzado!
-* El gato te dejará solo si su función ha terminado.
-- Subir la vibración (matas parásitos astrales...):
-* El ejercicio (en la naturaleza...) es más importante que la comida.
-* Reducir la actividad mental.
-* Coherencia (pensar, sentir, decir, hacer). Aprende a pasar de lo inútil que dicen.
-* Si tas saturao: palmas altura frente y como a 10 cm. Bajas lentamente, y vuelves. 2 ciclos.
-- Casa sucia energéticamente (incluye constructores disharmónicos): mover muebles con frecuencia; mejor que no sean pesados, vive frugalmente:
-* Causas: violencia, enfermedades durante mucho tiempo, hacinamiento, desorden, suciedad, cosas que no usamos o rotas. Los espejos negativos (feng shui: puerta de casa, reflejando cama o estufa...) absorben bajos astrales. Casa sobre: cementerio, restos arqueológicos, campos de batalla, funerarias, hospitales, mataderos, geriátricos, cárceles, tanatorios... Gente que nos envidia entra en nuestro hogar a "matarlo". Cenizas de los difuntos (o velas por ellos). Animales enterrados pueden atraer carcasas de animales. Nada de disecados.
-* Señales: mucho frío siempre (hay seres). Mal olor fuerte sin motivo aparente. Humedades. Las plantas mueren rápido. Los niños se vuelven muy rebeldes. La economía empieza a declinar. Bajones emocionales. Dificultad al respirar, dolores de cabeza sobre todo en la coronilla, cansancio excesivo, dolores de espalda.
-* Consejos: ventila y que entren los rayos del sol. Frutas frescas en la cocina o el comedor. Plantas dentro. Limpia el piso con sal y agua, aprox. 6 cucharadas en el cubo. Cactus sin pinchos en interior, con pinchos, fuera. Música relajante. Aromaterapia, ¿sirven los pulgos de naranja frescos?
-* Consecuencias: confusión mental, menor potencial de trabajo, creatividad...
-####Comportamiento:
-- Sobre gatos: nos enseñan que el amor es NO sumiso, respetador de las diferencias y lo ajeno:
-* Primero, conquista la confianza del gato. Luego, aprende a respetarlo. Él te demostrará afecto cuando esté preparado. Si tienes alergia a los gatos, tienes dificultad para dejar entrar el afecto a tu vida.
-- NO comuniques tus insatisfacciones al momento. Primero reposa, y verás cómo el problema es menos problema (y "mirar las nubes", hará que llegue algún tipo de solución). Luego sí puedes contarlo.
-- Steven Spielberg: el Mensaje de ET es profundo. Concibe al niño como la supremacía del ser humano (y tiene razón, no tiene prejuicios, está menos contaminao, capta más cosas que el adulto). Todos somos uno (ET y Elliot).
-####Energía:
-- El agua graba las intenciones. ¿Bastará con mostrarle gratitud, o hay que hablarle? El agua No quiere Heavy ni música estridente. Le gusta la clásica EN GENERAL (sobre todo Mozart). ¿Su canción favorita es "Blanca y Radiante Va la Novia"?
-* Le encanta brincar (la de manantial es la mejor).
-- El ambiente debe vibrar con la frecuencia Schumman, ni más, ni menos (nada de subirla). ¿Y tú, con muchas unidades bobis, como 20.000?
-- Necesito que el otro perciba mi fé para ayudarlo.
-- Mal: sentimiento de deseo exacerbado de contacto, relación, atención, sexo (amor en la sociedad occidental).
-- Sanar con cuenco tibetano. Se usa dando un pequeño golpe y haciendo girar la baqueta alrededor del borde (pero flotando un poco ésta).
-* Podemos sostener una vela con una mano y ponerla dentro del cuenco sin tocarlo y, con la otra mano, hacer sonar el cuenco, así la vela se viste de esa energía positiva.
-* ¿Descargar el cuenco? Agua al sol o velas alrededor.
-* Elegir uno: fiarse de la intuición (que harmonice). Sobre mesa cubierta con paño: dejarlo inmóvil, y poner 2 dedos en el centro. Cuando esté quieto, golpéalo sobre el borde externo con su baqueta.
-####¿Dar las cosas que ya no te son útiles, y recibirás lo que necesitas?
-####Meditación en general y viajes astrales:
-- Meditación limpiando: se debe hacer a primera hora de la mañana. Si empezamos en silencio, habrá paz en el corazón y la mente estará despejada.
-- Rezar un rosario es saludable: na na na na na (timbre alto) contigo señor (timbre bajo); ni ni ni ni ni contigo señor... Al final se hace una especie de yoga. Tiene un efecto parecido a cantar OM. ¿Curioso NO? Este mundo masón quiere borrar del mapa, NO sólo los valores cristianos, sino también la Iglesia (su predecesora paioMaléfica).
-- Técnicas viajes astrales. Los depresivos atrerán malas energías en el viaje. Estando el cordón oscuro (o vibrando), hay que volver (peligro muerte):
-* 1. Tumbarse cama brazos separados, respiración cada vez más lenta (siempre profunda), muy relajao pero bien consciente. Empiezo por cabeza a contraer todos los músculos. Podemos visualizar ir a un lugar (mar, por ejemplo) + sentir (olor yodo, agua pies...). Una vez hecho visualizas que te hundes en el colchón o que levitas hacia arriba, pero buscando sensación de livianidad. Perderemos los sentidos.
-* 2. ¿Para hacer antes de 1., o tienen suficiente fuerza?
-- Centra atención en punto cuerpo, como el tercer ojo. Podemos visualizar un cono de energía que gira muy rápido.
-- Girar sobre uno mismo, sentir vértigo y tumbarse. ¡Lo hacíamos de niños!
-- Visualizar en una pared una puerta que se abre poco a poco y despide una gran luz. Requiere dedicación y perseverancia.
-- Japonesa: visualizar el lugar de la persona amada con mucha intensidad.
-- ¿Y lo de desparejar miembro a miembro cuerpo sutil / cuerpo material?
-####Chacras, equilibrado con mantras. Relajado, ojos cerrados, columna recta; centra tu atención en el color y la ubicación. La primera pronunciación / vez es en voz alta, y el resto en baja. Importante: deja girar en el chacra un torbellino de luz (sentido reloj; te lo imaginas) del mismo color que el chacra hasta que te encuentres mejor:
-- 1. Rojo oscuro, entre genitales y ano. Da estabilidad y seguridad. El miedo lo bloquea, con desconexión de la comunidad, la familia, o de ti mismo. Eso provoca frustración, auto-indulgencia, inestabilidad emocional, baja autoestima, conflicto entre el apego y el dejar ir.
-* Afirmación para equilibrar: yo soy uno con todo lo que es yo; estoy seguro de que soy amado. LAM (prolongar la m).
-- 2. Rosa naranja. Base columna lumbar (entre hueso púbico y ombligo). Superar los obstáculos y actuar con integridad. La culpa lo bloquea, produciendo ansiedad, miedo, preocupación, luchas de poder, problemas financieros y de trabajo, celos, desconfianza, problemas emocionales límite.
-* Yo me amo y me honro a mí mismo y toda la vida. MAM.
-- 3. Amarillo / dorado. Justo encima del ombligo. Confiar en ti mismo y tomar plena responsabilidad en tu vida. Lo bloquea la vergüenza, creando victimización, necesidad de aprobación, estrés, enojo, frustración, miedo a la responsabilidad, culpa, preocupación, duda, problemas con el compromiso.
-* Yo soy el creador de gran alcance de mi realidad y me encanta. RAM.
-- 4. Verde esmeralda. Justo detrás del corazón. Compasión. Se bloquea con dolor y pena, provocando insensibilidad emocional, pasividad, imposibilidad de perdonar, sensación de pérdida, dolor.
-* Yo soy amor y aceptación incondicional. IAM.
-- 5. Azul zafiro, parte posterior de la garganta. Creatividad y expresión. Se bloquea con las mentiras que nos contamos a nosotros mismos (¿aceptamos mentiras porque casan con lo que tenemos dentro, que no podemos cambiar?) creando estancamiento, obsesión, falta de expresión, indecisión, miedos y fobias.
-* El poder de la elección es mío. Puedo aceptar algo como verdadero o falso en vez de tragármelo. JAM.
-- 6. Azul índigo, frente. Intuición. Se bloquea con la ilusión de que estamos separados: miedos, fobias, falta de concentración y disciplina, falta de juicio, confusión, pesadillas, ¡esquizofrenia!
-* La verdad es para bien, es seguridad a largo plazo, no debería doler. OM / AUM (elige).
-- 7. Violeta blanco, corona de la cabeza (por encima de la física). Te une al todo. Se bloquea con el apego a todo lo que pertenece al mundo de las formas: pérdida de propósito y de conexión con el todo, mente cerrada, depresión, preocupación.
-* Yo soy uno con el momento presente. SILENCIO.
-####Lazos emocionales etéricos (¿seguir tras la muerte incluso?). Con apego estás "bajo un hechizo" (NO hay nadie mejor...); antes eras libre. Podremos sentir lo que siente el otro. CORTAR LAZOS:
-- Cuándo es imprescindible cortarlos:
-* Cónyuge fallece. Separación (también padres e hijos, y entre amigos) muy dura. Un ser muy importante para nosotros muere, y creemos que no hemos hecho lo suficiente por ese ser.
-* El amor se acaba y ha habido maltrato (incluye psíquico claro).
-* Hemos sufrido de chicos por las relaciones familiares.
-* La relación sana (NO te ves responsable de la felicidadajena... El lazo se corta con facilidad) nace de los chacras superiores (4-7).
-- MÉTODO ROMPER LAZOS:
-* Silla, sentado cómodamente. Silencio, luz muy tenue. Profunda inspiración y cuenta mentalmente del 10 al 1, ¿en la espiración?).
-* Visualiza al otro frente a ti, e imagina sus chacras iluminaos (y los tuyos). ¿Qué te llega?
-* Visualiza el cordón con [tus manos o unas tijeras]. Antes de cortar di: ahora corto este cordón que nos une, para que ambos seamos libres. Mira directamente "al otro" a los ojos y di: ahora te dejo partir desde el amor incondicional, para que tú continúes con tu vida y yo continúe la mía. Eres libre, al igual que yo soy libre. Es bueno visualizar que ambos sonreís, con afecto y aceptación, y luego cómo el otro se da la vuelta y lo ves alejarse.
-* Realiza una profunda inspiración y abre los ojos.
-####Mejorar relación con el padre (cuidado con tener a mamá en un pedestal): le dices sin odio y si lo necesitas, lo que te dolió de la crianza (a lo mejor sería bueno hablarlo antes con los hermanos). Date cuenta de que tus padres son buenos para tu misión de vida (calcúlala) antes (y haz trabajo psicológico).
-####EL JARDÍN ZEN:
-- Nombrar cada elemento es dotarlo de significado (isla de la tranquilidad, jardín de la armonía, roca del atardecer...). ¿Y ves mejor al hacerlo?
-- Al mirar árbol sin flores, percíbelas (futuro). Y al revés. ¡Movimiento!
-####Libro de geometría sagrada.
-##La materia está formada por toroides. El básico es un donut con "numeritos distintos" (ifotones). Con ayuda del éter, 2 ifotones crean un vórtice, y luego viene el toroide. ¿Antes del toroide viene "el tubo"? Unas pocas leyes:
-- Construir "con phi" (número de oro) favorecería la paz mundial, la agricultura, la armonía corazón-cerebro, curación... El ombligo se relaciona con fi (tu estatura).
-- La Tierra late (como cuerpo sutil): explosión + implosión (y es como un átomo: como es abajo, es arriba, y viceversa: Kybalión). La vida de una persona puede ser explosiva para su misión / aprendizaje (busca tenerlo todo, saberlo todo...) o implosiva (más sabia: introspectiva, usa sólo lo necesario).
-- Líneas rectas e impares es masculino, curvas y pares, femenino.
-##Conceptos básicos:
-- Estructuras de orden y expansión:
-* Pentaflor (5, femenina / implosión: ADN, centro de un huracán...): ordena energía y materia. Las escuelas basadas en este principio son abiertas y no jerárquicas. NO hay un camino fijo, por lo que puedes conocerte a ti mismo (comprometiéndote con ello).
-* Flor de la vida (6): burda acumulación (femenino) y replicación, solar (lo solar puede ser también masculino).
-- Estructuras sanas (árbol y fruta de la vida...):
-* Metatrón: dodecaedro, cubriéndolo, icosaedro, luego octaedro, tetraedro y cubo. Forma del átomo de oro y del paladio, que reestablecen la fractalidad (curan el ADN) al ser disueltos en agua o sangre (forma monoatómica).
-* Sólidos platónicos: tetraedro (fuego), cubo (tierra), octaedro (aire), icosaedro (agua) y dodecaedro (madera).
-- El cuerpo electromagnético se cura con luz y sonido. El cuerpo físico, con poliedros. Los 13 toroides horizontales del cuerpo están vinculados a los 13 sólidos arquimedianos. El método Internal Coherence, indica el lugar y geometría necesarios. Sanar es lograr la interconexión entre ondas de cerebro y corazón (los serios indios lakota lo saben).
-- Los órganos sensoriales captan la [geometría / topología] infinitesimal. La salud depende de la harmonía. Pero poneos a decorar vibrando alto, con ilusión, NO necesidad. Tú dale afecto al agua (ideal para la vida, por crear tantos vórtices): fractal icosaédrico.
-- Gravedad: sabemos que la succión / pentaflor (aceleración de ondas electromagnéticas) nos da la masa / gravedad.
-* Towsend Brown: en un condensador, los "gravitones" tan orientaos a la placa positiva (y si está encima, podemos lograr dispositivos antigravitacionales).
-####DIMENSIÓN SUTIL (fíjate en ciertas pelis con actores muertos...).
-- Demostración mundo sutil:
-* Daniel Douglas Home (documentado por William Crookes) levitaba, cruzaba paredes y puertas (desmaterialización física).
-* Militares saben exactamente lo que una persona siente y piensa (entrenan).
-- Cuerpos sutiles y áura:
-* Si empuñas un vaso con licor, tu aura se resiente. Si bebes, es peor aún. Te dañas con tus pensamientos al quejarte...
-* El cuerpo etéreo (sostiene al físico) refleja la salud física.
-* Algunos albergan memorias de otras vidas o de experiencias extracorporales. Hay uno que mide lo unido que estás al todo.
-- Espíritus y similar:
-* No se puede ¿o debe? someter a un anciano a regresión hipnótica.
-* Muchos poseídos se suelen reír a carcajadas (y ser fuertes).
-* Espíritus mojos. Evita sitios donde predomine el alcohol (en árabe significa "diablillo"), y Algool es una estrella maligna. ¿Pueden formar quistes en forma de feto?
-* Los malos piden, hablan pasionalmente (arrogancia...) y con seguridad, y si ofrecen, piden cosas raras a cambio (para crear discordia...). Ornamentan para disimular la falta de contenido. Estimulan tu vanidad con elogios. Los buenos dicen mucho en pocas palabras, simple e inteligible, y sugieren, no imponen.
-####Alta tecnología:
-- Sabemos que las élites tienen YA la tecnología que nos van a ofrecer dentro de unos 30 años (para pervertir...). Nos ocultan viajes espaciales (¿el aire marciano es respirable, y el cielo azul en la puesta de sol?)
-* ¿Los cohetes serían tecnología pa despistar, habiendo teleportación...? ¿La guerra de Vietnam fue un lavado de dinero pa financiar carísimos proyectos espaciales?
-* Ocultación (Venus...). ¿La NASA usa tecnología del año 69 para fotografiar MAL a propósito y las fotos se retocan?
-- Pirámides (NO hay momias dentro):
-* ¿Para levantar piedras se podrían usar rayos tractores gravitacionales en vez de ultrasonidos? Y hay piedras ablandadas por todo el mundo (calor o método subatómico).
-* Vaticano, USA e Israel, pidieron a Egipto que no pusiese un piramidón, ¿como un capuchón? encima de Keops, porque podría activar la pirámide, y entonces, los libros de Historia, se notaría a la legua que mienten. #### :33, tengo que hacerlo en 2 tiempos.
-####VARIOS:
-- ¿Morir con sedantes es antiespiritual?
-- La envidia te empobrece. Si dices: mi vecino tiene mucho y yo poco, me siento indigno... mandas un mensaje al Universo para que le dé a tu vecino.
-- Es bueno expresar los sueños antes de dormir (el subconsciente trabaja por la noche).
-- Formulando deseos (quiero, puedo, estoy dispuesto, voy a...) 
-* Si piensas negativamente (NO quiero...), se activa lo NO querido ("fuera ocupas" los atrae; A no se toca hará que A se toque).
-* Si implica cambio de actitud en otra persona, el deseo fracasará.
-- Dar el pecho psicológico. ¿Es ponerse cerca del pecho del otro para equilibrarse?
-- Seres tulpa (creaciones de mi imaginación que podrían "materializarse"). Blanqueadín (se carga entes negativos) es primo de Ijí, el Dios de la risa.
-- Expresando preferencias: no decir A es bueno / malo, o A es mejor que B. Sí que puedes concretar: A es más propicio que B para... el sabor / endorfinas je je (creo que puedes decir "A sabe mejor que B").
-- Luna llena: bueno para meditar (luz del Sol reflejada en la Luna).
-- Win Hoff escaló el Everest en pantalones cortos. Con técnicas de respiración lo controla todo (sistema inmune...).
-####Budismo. Creo que Buda era hijo de María Margot, y que era homosexual. Me lo compró el hijo de Isabel, la cual me quería mucho (limpiadora en Aboño; el último día, no fui a despedirme de ella, porque el número cómico que me tenían montao Horacio y Freije era muy largo; ella era la única que me quería de verdad; había mucha más gente mala y psicópatas de lo que pensaba; la simpatía NO es bondad en principio).
-##PARTE TEÓRICA:
-- El sufrimiento lo causa el apego al deseo, ¿lo que se llama deseo vehemente y no del alma? Puedes tener apego a creencias (los científicos oficiales en 2.023 no se enteran por regla general), a cosas o personas... Un ejemplo: te han dicho la verdad y quieres que el otro pare cuanto antes (choca con lo que tienes dentro y eso duele), o sientes placer y no soportas que se acabe.
-* Las acciones buenas traen su recompensa, las malas, dolor. El placer momentáneo es ayudar a seguir con tus objetivos nobles, que son difíciles de encontrar. ¿Y eso de que sin un cambio interior, ayudar físicamente no sirve para nada, porque todo vuelve al origen en la otra persona?
-* ¿Dije ya que el fracaso te llevaba a volver intentar "la tontería" (volver a echar dinero a la máquina tragaperras...)?
-- Nirvana: ves la esencia de las cosas en vez de su máscara, y aceptas las cosas como son:
-* Se empieza por querer conocer la verdad (nada de iluminado, ume es el ser, e il significa muerte). La tuya es la más importante (la psicológica profunda).
-* Descubrir que el mundo material sólo contiene máscaras, y dirigir la atención a las esencias.
-* Imperturbabilidad.
-- Muchas cosas agradables son, en el fondo, dolor:
-* Muchos ricos no son felices (vienen a aprender cosas muy básicas, ser rico es una prueba envenenada), y dicen: que si me gano mi dinero, que si asumo riesgos... Muchas almas avanzadas tienen que hacer limpiezas de psique muy difíciles para tener éxito material.
-* El poder puede ser horrible si temes que te lo arrebaten.
+* Todo está ya inventao (lo ocultan las élites, que ocultan la Histroia...) y creao (tenemos archivos .mp3 de sobra para curarnos). La gente no hará nada por sentirse útil.
+* Se respetarán la Lunas (la Llena es de trabajar físicamente más, por lo general...).
+* La gente irá a su psique sin echar culpas afuera. Es de sabios decir "no tengo esto porque me falta esto en la psique".
+* Sin miedo, nos veremos grandes creadores. Y veo a gente dándose cuenta de que si deja "A", vendrá la siguiente fase de su camino. * ¡Escraches a los de "la vida cómoda" (incluye almas poco avanzadas por lo general, que han nacido con ciertas capacidades, y se han despreocupao de si hacen o no el mal, y tratan a los demás como si tuvieran estas capacidades: intelectualidad, cursilería, incapacidad de estarse quietos horas y horas...)!
+####Si usted me quiere en su vida, usted me pondrá en ella. Yo NO debería estar peleando por un puesto. Competir es antinatural en los humanos civilizados.
+####superrenacer mi curri para empresa de gente civilizada. Curri (soy un lelo mirapadentro je je):
+- Puntos a favor:
+* Continuador, más que iniciador.
+* Autoconocimiento y mejora.
+* Expresión escrita estructurada, profunda y empática (a veces hablada).
+* Intuición, razonamiento y ojo clínico psicológico.
+* Hiperconcentración, voluntad, aceptación de adversidades y gratitud.
+* Modestia y ambición.
+- Puntos en contra:
+* No mucha memoria a corto plazo o atención externa a veces, en especial, a estímulos periféricos.
+* No mucha tolerancia a aspergers a veces.
+####Para tu misión de vida no complazcas. Recuerda que si sigues tu misión de verdad (Tzolkin Maya, Nodo Norte, Diseño Humano...), serás feliz, y harás algo que se te dé bien, y serás mucho más útil. Termina estas frases. Te llevarán a un lugar olvidado de tu memoria infantil:
+1. De niño yo quería un
+2. De niño soñaba con ser (director de orquesta)
+3. Cuando era pequeño mi escondite favorito era (los sótanos laberínticos)
+4. Mi juguete favorito era (el Lego de ladrillos)
+5. Mi mejor amigo se llamaba
+6. Ahora mismo admiro a (muchos esotéricos / psicólogos)
+7. Si pudiera volver atrás ahora mi profesión sería (hacedor de zuecos)
+8. Mis hobbies son (La música de los 80, mirar las nubes, dirigir a la sociedad a un viaje interior)
+9. De niño mis padres pensaban que era (inteligente, por sacar buenas notas)
+10. En mi casa soñar despierto se consideraba (impensable)
+11. Para mis padres los artistas eran
+12. Para mis padres los hippies, punks, heavies... eran (unos descarados)
+13. Las personas que se metían conmigo de pequeño ahora son/están (viviendo vidas normaluchas)
+14. Busca tres personajes famosos que admires cuyas infancias fueron difíciles emocional o económicamente.
+15. Busca tres personajes famosos que alcanzaron sus sueños a una edad muy avanzada.
+####supersuperauperamenaza no hemos venido a disfrutar pero disfrutar es de sabios. Trola nuevaerista: hemos venido para disfrutar. Falso, hemos venido para transformarnos (centrémonos), pero la vida debería recompensar a quien disfruta del viento suave, de tocar la hierba, de la geometría de una baldosa... sin grandes excesos. Recordad que mientras te vas transformando, tu psique se va fortaleciendo, así que la fortaleza de psique y la bondad están muy relacionados.
+####superrenacer la clave de los judíos ricos es espiritual. No olvidemos que los malvados sabateos se quieren confundir con ellos tal vez para que los veamos poco copiables, y los odian realmente:
+- Autoconfianza, optimismo realista y modestia equilibrada (no humildad, que es humillarse).
+- Hablar sin tabúes de la sexualidad (es algo "de Dios"), para no ir contra natura o materia, ¿contra riqueza?
+- Desear para ti (sin apego, eso sí).
+##La Kábala (por lo menos, la más aceptable moralmente) entrena (en valores espirituales y éxito en última instancia).
+####Juedoeconomía. Vivir por debajo de tus posibilidades (deudas es trampa). Guardar algo para el futuro. Ostentación, no. Aprende a negociar (no te sientas malo). Paciencia, perseverancia, y algo de disciplina. NO te compares. Sé agradecido.
+####Para ser frugal:
+- Ser feliz sin necesitar muchas cosas. La frustración es la madre del deseo insano (perdiste, pues quizás sea mejor que NO lo intentes más). El fracaso es parte del camino.
+* ¡Ánimo, aprende a caer mal y ser diferente con el tiempo, enfocándote en objetivos nobles, y dejarás "de ser un loco"! Desreprimes por Jung, para ser más fuerte mentalmente, y poder ver la verdad, que libera a uno. NO olvidemos el hermetismo Iniciático en general, NMGHamer, Transgenealogía... 
+* Se puede gastar en un reproductor de .mp3 (sin .mp4...) si éste sirve para que tengas más ganas de realizar tus actividades, te calma para ir a la cama, no quieres oír los sonidos de la ciudad... Lo del restaurante caro, casa grande... es para almas poco avanzadas.
+- Es tiempo para volverte persona (el trabajo embrutece). ¡Y no hacen falta bañeras o duchas!
+* La frugalidad puede permitirte llegar a Vivir Sin Tener que Trabajar (fuera parcelas, y to lleno de frutales..).
+####Grupo de trabajo: personas diferentes, para no competir. El mal (prueba para ti) necesita rodearse de personas compasivas, que perdonen, que NO conozcan tus chanchullos...
+####Grupos de trabajo. Pregunta por el objetivo "empresarial". Que los demás busquen la respuesta. Luego se resume en 2 frases (obvias o no) que consensúen más o menos.
+- Con ignorantes: "sí, se puede probar"... Comprendo tu punto de vista, es interesante.
+- Para gustar, ¡que te gusten otros! Mira sus facetas positivas.
+####Memética (saber transmitir...):
+- ¿Una frase se empieza relativamente rápido y se termina lento?
+- Si los demás se hacen preguntas, es como si la idea hubiese salido de ellos.
+- ¿Repetir algo a diario cala más hondo que la propagación exitosa y explosiva?
+- Un nombre gana a un verbo: la satisfacción de...
+- Hablar + rápido para los visuales (y con tono agudo).
+- De vez en cuando alude al otro: "imagina que TUS pulmones...".
+- No intentes caer bien (forzar risa) al que habla.
+####Pirámide de la argumentación (Paul Graham):
+- Insulto ante lo que dice el otro.
+- ¿Quién eres tú, qué derecho tienes, si ni bebes en vaso ni...?
+- Critica el tono.
+- Contardecir con poco razonamiento.
+- Contradice y razona algo.
+- Encuentra el error y lo explica, pero a base de citas.
+- Refuta bien.
+####Heyoka, payaso sagrado. Indios Lakota (sioux). HACEN VER A LA GENTE SU NEGRURA INTERIOR:
+- Producen situaciones de desequilibrio que producen una respuesta interior, aprendiendo a aceptar "lo negativo", como los pedos (o comer inmundicias y seguir con salud). ¿Se parecen a bufones, que hacían al Rey entrar en razón sin decir nada explícitamente? Parodian la seriedad excesiva o desinflan la pomposidad, por medio de "tonterías". Y todo esto, en las ocasiones más solemnes incluso (ellos son la máxima autoridad). El bloqueo de la Fuerza de Vida lo causa una persona que se cree más importante.
+- Llevan puesta ropa lamentable (modestia); piden para comer (son psicólogos y médicos, NO "de éxito material") y hasta roban (¿al creído no?). Mastican pequeños panes en forma de sol y de luna que llevan alrededor de sus cuellos y se los administran, parcialmente masticados, al enfermo, ¿enzimas?
+- En el Sudeste, los payasos de Cala, hacen movimientos sexuales y hasta se rozan contra genitales femeninos (mujer vestida). ¿Significa que la mujer no es propiedad de su marido?
+####Derechos fundamentales del niño (si reprime estas necesidades, de adulto...):
+- Estar en brazos continuamente, teta... O acumulará cosas para llenar vacío.
+- Que lo dejen experimentar, llevar cosas a la boca... o se sentirá reprimido sexualmente.
+- Ayudar, hacer... confiando en él... o habrá miedo y límites a la hora de hacer (y no sabrá qué le gusta).
+- Expresarse sin rechazos... o le costará transmitir sus ideas.
+- NO ser mentido / protegido de la verdad... o al salir de su burbuja será un shock.
+- Explorar su curiosidad, para contactar con su don... o será inconsciente.
+####El Arte de la Imperfección. Hay que aceptar defectos con gracia y modestia (así como las grandes cualidades). Lo imprevisible es fuerza creadora, capaz de neutralizar el proceso de entropía. La voluntad de perfección y control aumentan el caos. La mentalidad de la era industrial es cerrada:
+- Usa un maquillaje (si te maquillas) que no esconda las arrugas. Fuera corbatas, sombreros de adorno, joyas... Los patrones masculinos están diseñados para suavizar defectos físicos (falsear).
+- Con que combine y no sea chillona la ropa... Huye de la ostentación, compra bolsos que se puedan usar de almohada, no tengas miedo a que tu ropa se vea usada.
+- Cuando dejes de pensar en la censura de tu profe de primaria dejarás de autocensurarte. Comprende a los demás, incluso busca la compañía del ignorante alguna vez. Evita tener la última palabra. Pide ayuda (mimos...) antes que explicaciones.
+* Maneras de decir "bravo, tienes razón": ¿puedo usar tu frase? ¿De veras? ¡Es tan cierto! Una vez más tienes razón, me gusta cómo lo has expresado, diste en el clavo, ¿te importaría repetir para que yo lo apunte?
+- Cuando aminoras la marcha (tal vez para recordar algo), eres más creativo. La mejor silla no es la confortable, si no la que obliga a levantarse.
+- La decoración es la celebración de un agradable desorden (tiene que haber caos). Vive frugalmente en un espléndido entorno. Huye de objetos brillantes.
+- Ineficacia + encanto: el mundo a tus pies (bebé desvalido). No intentes adivinar lo que se espera de ti. Pide ayuda, que sientan el placer de ayudar (significa que confías). Anima a la gente a pensar mirando su boca mientras hablan (e inclínate hacia delante), eso estimula su imaginación.
+- Cuando haces el tonto (no significa chistes) te muestras, te das, y admites de alguna forma tus defectos.
+- Cuando triunfas tienes que hacer alguna tontería para que se te quite la inconsciencia. La sensación de éxito es mejor.
+- Los famosos nunca podrán disfrutar de placeres pequeños y tranquilos, como mirar las nubes en un prado sin que nadie te moleste. No luches contra los ricos. ¡Enséñales la satisfacción de ser uno más del montón! ¿Tienen amigos de verdad?
+####594superrenacer Caro Libra complementar y ser complementado.txt  Construir el amor tras el enamoramiento es de lo más difícil que hay. Para recibir (Venus...), en mí ha de haber valor interno (somos diferentes, cada uno ha venido a una cosa valiosa, aunque sea "sólo" acompañar en todo con vibración positiva y conocimientos de Psicología; sin sobrevalorarse eso sí, ni desde la demanda / queja / no agradecer o el "no me escuchó"... para poder aportar valor). Valoro al otro (aunque sea diferente) porque me valoro, y así, recibo su valor.
+- Escorpio es control (¡todos quietos je je!). Sin un buen Libra, no puede haber un buen Escorpio.
+- En lo diferente del prójimo, puede haber un mensaje para ti, ¿qué no aceptas?
+##Es el poder de los equinoccios, aceptar lo diferente.
+####Regla de San Benito ejemplo RELATIVO para sociedad actual:
+- CLASES DE MONJES:
+* Cenobitas: viven en un monasterio y sirven bajo una regla y un abad.
+* Anacoretas / ermitaños: tras larga prueba en el monasterio, pueden vivir solos.
+* Sarabaítas: deseos egoístas (que consideran santos), y aquello que no les agrada, lo consideran ilícito.
+* Giróvagos (los peores: gula): viajan por diversos países, estando poco en cada monasterio.
+* Abad: a los necios, pocas palabras (dificil convencerles razonando), y corrección dura. A los buenos, estimular (ternura...) para que avancen. No puedes criticar si antes no has buceado algo en ti (amará más a los autocríticos que comparten sus fallos).
+- Costumbres:
+* Con asuntos no muy trascendentes, NO se necesita reunión de Consejo, basta con consultar a los monjes mas viejos, ellos sabran mejor que hacer. La opinion del discípulo cuenta menos (menos mal).
+* Amar el ayuno (salud). Hacerse ajeno a la conducta del mundo (aceptarla, simplemente).
+* Sobrellevar con paciencia las injurias que a uno mismo le hagan. Amar a los enemigos (comprenderlos, son una prueba para ti).
+* No ser amigo de hablar mucho (ser sensato). No gustar de reír mucho o estrepitosamente.
+* Trabaja por un futuro mejor sin dejarte cegar por las recompensas inmediatas. 
 - Más:
-* Si no eres feliz con poco, no lo serás con mucho. El gran deseo es para mejorar uno (así mejora la sociedad)...
-* Si hemos cometido un error, lo admitimos sin sufrir, intentamos arreglarlo, decidimos no repetirlo...
-* Concentración (shamadi): ¿como la de Escorpio? Roglig iba tan concentrao en la bici, que NO prestaba mucha atención "externa" ala moto, y se equivocó de camino. 
-* Ecuanimidad: exceso de alegría, pesar, alabanza, culpa, pérdida, ganancia, fama, fracaso... no nos afectarán (llamados 8 vientos mundanos).
-####PARTE PRÁCTICA I (semiteórica):
-##Romper las cadenas que nos atan a una existencia insatisfactoria:
-- Cadena 1: soy... y no puedo cambiar.
-- Cadena 2: no creer que te han mentido.
-- Cadena 3: dependencia de reglas morales (el derecho debe ser natural, y la moralidad debe salir de una inteligencia elevada: intuición).
-** Fin de conjunto I. Ahora podemos cambiar de verdad, ir hacia arriba.
-- Cadena 4: Deseo de experimentar con los 5 sentidos. Hedonismo.
-- Cadena 5: Animadversión, odio o aversión. Hay que comprender al otro.
-** Fin de conjunto II. Si debilitamos estas cadenas 4 y 5, ya estaremos en el punto sin retorno, faltando pocas vidas para ser sabios.
-- Cadena 6: deseo de existir en el plano corpóreo. Somos más que cuerpo.
-- Cadena 7: deseo de existir en el plano incorpóreo. ¿Porque tenemos una misión terrestre?
-** Fin de conjunto III.
-- Cadena 8: presunción (considerarse superior, inferior o igual, hacer comparaciones entre uno y los demás; aunque sabes que hay almas más avanzadas, gente más consciente...). ¿Aquí ya no hay sexo?
-- Cadena 9: agitación e inestabilidad: ¿se rompe con la imperturbabilidad?
-** Fin de conjunto IV.
-- Cadena 10: desconocer la realidad última. Esto me suena a Piscis.
-##Óctuple sendero hiperresumido: para no ver lo doloroso como placentero, las máscaras como esencias, identidad en ti (soy...), o lo feo como bello. No te relaciones si no es con un buen motivo. Saber lo que hacemos, y por qué, atentos a todo.
-####PARTE PRÁCTICA II:
-##Vida y trabajo budistas:
-- Sabiduría: ver las cosas como son, en vez de cómo aparentan. De menos a más clase: ver u oír (muy bajo); pensar; conocimiento intuido y comprendido.
-- Si siempre queremos estar ocupados, se trata de una incapacidad neurótica: el verdadero vigor es relajado y fluido.
-- Los monasterios empiezan a las 4:00 con duro trabajo físico hasta las 9:00 (almuerzo sencillo), meditación 4 o 5 horas, y ligero almuerzo por la tarde.
-- Debemos prestar atención a la facultad de la que cojeamos, nunca especializarnos.
-##Budistas avanzados: bodhisatvas. Las 6 perfecciones han de cumplirse:
-- Dar y compartir (comida, ropa...). No quieren ser más meritorios que los demás.
-- Ética: comer sólo en beneficio de la salud. Trabajo: no autodegradarnos (y NO prisa, presión o tensión, por lo general), no mecanizar o limitar la mente en general; si trabajas sin vocación, trabaja en turnos pequeños (pero sé responsable).
-- Paciencia: tolerancia (no indulgencia), dulzura... ¡Cojones, que liberar rabia es muy sano, y te dice dónde falla tu psique!
-- Vigor. En un bodhisatva la energía fluye suave, ininterrumpida y armoniosamente.
-- Meditación (quedarse alelao).
-- Sabiduría: conocimiento frío de cómo somos nosotros y el mundo, conocimiento distintivo (lo que tengo delante necesita evolución... La opinión de éste es más válida porque no se autoengaña...)...
-#Las perfecciones deben estar equilibradas: dar y ética, paciencia y vigor, meditación y sabiduría.
-####PARTE PRÁCTICA III. Medios hábiles: hacer ver a alguien la verdad sin teoría budista, con amor y compasión: dar ejemplo, o mostrar unas pistas sin ofender, ¿como la mujer que picó por consejo a la puerta de muchas casas donde habían sufrido todavía más que ella y seguían adelante?):
-##Ética: los budistas no hablan de conducta, que es una convención social, algo bastante pobre, sino de "acción correcta" (gracias a estado mental correcto). Pequeñas acciones pueden producir acciones devastadoras (y el mal se ve en pequeños gestos). ¿Agradecer por el origen del pan que te comes (tú piensa en agricultores independientes teniendo éxito)?
-##MEDITACIÓN: ES MEJOR [DOMINAR / COMPRENDER EL VERDADERO ESPÍRITU DE] UNA SOLA PRÁCTICA, QUE METERSE CON MUCHAS: 
-- PREPARACIÓN PARA LA MEDITACIÓN:
-* Moderar comida (estómago, 1 / 4 comida, 1 / 4 agua). Evitar alimentos picantes y condimentados, que apasionan. Evitar flatulencias y digestiones pesadas.
-* No dormir en exceso. La meditación, a su vez, hace que necesitemos dormir menos (calculo que una hora de meditación, son 40 minutos menos de sueño).
-* No actividad social frenética. No esfuerzo físico violento (fútbol) ni trabajar mucho, aunque sí ejercicio suave o técnica de relax (taichí chuan a partir del octavo día, o yoga).
-* Calma y consciencia en todo momento (cocinando...). Al sentarse, manera relajada, cómoda, y vigilante.
-* Necesitamos un maestro humano para sortear peligros.
-- Empezando: concentrase en objeto burdo (material), concentrar mente en equivalente sutil ¿etérico? del objeto. Volverse uno con el objeto. ¿Pensar en su uso antes de volverse uno, y también en su origen?
-#MÉTODO DE SEGUIMIENTO DE LA RESPIRACIÓN:
-- Sentados inmóviles y relajados, ojos cerrados, fijamos la atención en la respiración. Luego, empezamos a contar mentalmente tras cada respiración (de una a diez). En la etapa 2 sumamos uno al principio de cada respiración, para "estar atentos antes de que ocurra algo".
-* Nos centramos en las fosas nasales y alrededores, atendiendo a la sutil y cambiante sensación mientras la respiración entra y sale. Incluir en la atención la respiración entera, luego cuerpo, y abrimos los ojos.
-#MÉTODO DEL AMOR COMPASIVO (evitaremos la cólera, la aversión y el odio):
-- Amor a nosotros mismos: tomamos lo agradable y positivo que hay en nosotros.
-- Amor a un amigo íntimo y querido. Debe ser del mismo sexo, y no debe provocarnos sentimientos eróticos. Deberá vivir, y tener más o menos la misma edad. Lo visualizamos, buscando una respuesta de bondad hacia él.
-- Amor a persona neutra que veamos mucho (un cartero...). Le mandamos buena energía.
-- Amor a alguien que nos degrada (incluso a quien odiemos). Nos mantendremos interesados por su bienestar.
-- Las 4 a la vez.
-- Luego, la gente + cercana (emocional y geográficamente). Luego, vamos aumentando, incluso animales... hasta el Multiverso (capas material y sutiles) y demás universos.
-#MÉTODO DE LA CONTEMPLACIÓN DE LA DECADENCIA: para apego, deseo vehemente, y lujuria y egoísmo. Hay que practicar los 2 métodos anteriores antes de éste, ¿segundos antes? Formas de practicar:
-- Drástica: pensar: un día mi conciencia se separará de mi cuerpo, y no podré oír, ver, sentir... O estar entre cadáveres.
-- Fijarse en las estaciones del año y los árboles caducos (melancolía japonesa). El Invierno (como la muerte de una creencia) es necesario para la Primavera.
-#MÉTODO DE PRÁCTICA DE LOS 6 ELEMENTOS: para el engreimiento, la presunción... Para el "tengo una identidad que no cambia". Antes de empezar, desarrollar cierto grado de concentración meditativa (tal vez lo del objeto y la respiración), continuando quizás con una sesión de amor compasivo:
-- Cuerpo: "mi cuerpo físico está hecho de ciertos elementos sólidos-huecos, carne... pero, ¿de dónde procede? Básicamente, la comida está hecha de tierra, y he incorporado tierra a mi cuerpo físico, y un día habré de devolver esa tierra, que no soy yo, ni es mía, todo el tiempo está volviendo a la tierra".
-- Agua: "la mayor parte del mundo es agua, y la mayor parte de mi cuerpo, y ese agua de mi cuerpo la he tomado prestada de la reserva de agua del mundo. Un día habré de devolverla. Yo no soy tampoco eso, no es mío".
-- Fuego: "nuestro calor procede del Sol, y al yacer muertos, el calor desaparecerá, volviendo al Universo".
-- Aire: "nuestra vida depende del aire, pero el aire pertenece a la atmósfera. Al exhalar el último suspiro, devolveremos el oxígeno que nunca nos perteneció". El Yo empieza poco a poco a esfumarse.
-- Akasa (éter). "Nuestro cuerpo físico (tierra, agua, aire y fuego) ocupa un espacio, que quedará vacío cuando los 4 elementos se separen, y este espacio vacío se fundirá con el espacio universal".
-- Conciencia: "al morir dejamos de ser conscientes del cuerpo, la conciencia no sigue atada a la existencia física, y se disuelve en una conciencia + elevada y amplia, y con + pasos, puede disolverse en el océano de la conciencia universal".
-####Grafoterapia:  
-- Los 12 trazos para cambiar de signo / personalidad. Vicente Lledá. Bueno, a mí me dio clase Ramón. Vienen a ser como una meditación, con lo que el alma, realmente, no aprende, ¡pero cambias de personalidad por un tiempo! ¿Eso puede hacerte cambiar de escenarios para aprender? Nota: un arco serían 3 trazos: empieza abajo abombado izquierda, y termina arriba abombado derecha (lo del medio es un segmento que empieza a la izquierda abombado arriba). La ene sería un arco + una recta (segmento recto) a la derecha que se va difuminando:
-1. Razonamiento (la mente previene) y memoria. Empieza arriba, abombado izquierda. Lo tiene la LETRA L minúscula.
-2. Autocontrol y orden. Empieza arriba, recto. P.
-3. Defensa (evitar calvicie). De esto Aries va sobrao. Empieza arriba, abombado derecha. G.
-4. Comunicación y expresión. Empieza izquierda, abombado arriba. R.
-5. Naturalidad y espontaneidad. Empieza izquierda y va recto (¿perdiendo intensidad progresivamente NO?). LETRA ENE.
-6. Adecuación / adaptación (flexibilidad). Entrega a los demás (amabilidad... pero cediendo el poder a los demás DE VERDAD, no en plan psicópata / caballero). Suena a Virgo. LIGADURA.
-7. Análisis. Vigilar que aquello que adquirimos o interiorizamos, vaya de acuerdo a nuestros valores. Empieza abajo, abombado derecha. L.
-8. Adquisición / practicidad (interiorizar / capturar energía externa). Empieza abajo, recto. D.
-9. Paciencia, constancia... Empieza abajo, abombado izquierda. G.
-* LOS 3 ÚLTIMOS TRAZOS EMPIEZAN A LA DERECHA.
-10. Creatividad, nuevas formas de pensamiento (para los cerrados). Abombado hacia arriba (L).
-11. Selección: porque amamos y odiamos sin saber por qué. Tiene que ver con la autoestima. Recto (O).
-12. Reflejos. Parte baja de la G (sonrisa, pero empezando por la derecha).
-- Practicar ejercicios de muñeca para suavizarla (sevillanas, movimientos afeminados... en toda 
-situación, hasta meando).
-* Posición de escritura: hoja y brazo inclinados 30 grados hacia la izquierda (si escribes con la derecha). Muñeca flexionada un poco, de tal forma que la mano tiende al papel, no al exterior.
-* Escribir lento para no maltratar órganos.
-* Practicar 30 minutos al día.
-* ¿Usar papel pautado?
-- Para el pelo: j, f, g, y (¿10 minutos día?).
-* Memoria: u, i, t, d (¿10 minutos día?).
-- Trazos abajo e izquierda, muy lentos. El resto, normales. Parar en los picos para pensar la velocidad del trazo siguiente. ¡Y no he dicho casi na de presión!
-* ldt: el último trazo, hacerlo largo, una recta que se desvanece, como se hace con la n. ¿Mover el brazo a la derecha acompañando no?^
-* ¿l bajita implica baja autoconfianza?
-* ¿t escrita como l, significa mucho análisis y ser poco lanzado?
+* Mayordomo: si la comunidad es numerosa, otros monjes le ayudaran, para NO perder la paz.
+* Enfermos: podrán bañarse (un lujo) cuando sea necesario. Los muy debiles podran comer carne (¿un lujo? Jo) para reponerse.
+* Cuaresma: que cada cual se prive de lo que pueda segun su grado evolutivo y circunstancias (a mejor persona, menos necesidades).
+* Cada monje puede arreglarselas con 2 túnicas (lavarán lo que no se ponen). Tosquedad y color No importa (sí, recibir energía del suelo). Camas: estera, cubierta, manta y almohada. Más: calzado, cuchillo... Para salir, la tunica sera mejor (tras un viaje, contar lo que se ha visto es superficial, y puede llevar a querer otra vida, cuando ahora eres feliz).
+* Artesanos: el que se envanezca de su habilidad (los materialistas suelen hacerlo; sólo decir que trabajas mucho...), será privado de su trabajo.
+####Niños felices (vale para adultos poco elevados...):
+- LO BÁSICO:
+* Que maneje su ansiedad (que NO queme etapas rápido, y que las tenga todas en cuenta), para que pueda disfrutar de la vida, sin tensión (si no, no podrá saber lo que siente). La culpabilidad es contraproducente, reduce la energía y tensa. Los errores son experiencia de aprendizaje. Hay que decirle lo que hace bien, y animar, tampoco sin decirle que todo es fácil, eso es contraproducente.
+* Ten tolerancia con sus pautas negativas. Céntrate en un problema suyo muy frecuente (no en todos). Necesitan que les expliques las consecuencias de sus actos (no castigos). Los padres deben ser calmados (no ser reactivos ante el comportamiento del niño) para transmitir seguridad. Los conflictos han de darse, pero reducirse en número e intensidad.
+* La permisividad (hijos manipuladores) o el autoritarismo (falta de confianza en los demás de adultos) producen baja autoestima.
+* Se piensa que es bueno: pasar tiempo con el niño sin esfuerzo, y valorando el tiempo (no hace falta jugar con él); ayudar al niño a conocerse (se relacionará mejor). En cada etapa del niño, hay que respetar sus cosillas. Dar + libertad a medida que hay + responsabildiad. Dejar claro que hay cuestiones no negociables.
+- Con algo de autoestima REAL (comprenderse, ver que las misones de cada uno son diferentes...) serán + exploradores, abusarán menos de substancias, y tendrán menos máscaras de superioridad. El perfeccionista sólo puede respetarse a sí mismo en la medida en que lo respeten, una pena:
+* Para tener autoestima real (de niño) tienes que sentirte competente y ser amado incondicionalmente. Que el niño viva su época "narci" (abrazos, atención), para no ser narci (sin autoestima real) de mayor.
+* Para que haya confianza, los adultos deben tener correspondencia entre sentimientos y pensamientos (no ser actores). NO digas "grosero" (etiquetar al niño incapacita), di "no quiero + interrupciones". Cuando la interacción social no es suave, la creatividad no será saludable, y nacerá de la neurosis. Cuando haya que corregir a un niño, se hará en privado. Anunciar los cambios (nos iremos en 10 minutos). Cuando mostramos respeto, enseñamos por qué lo hacemos (si no, podríamos engordar el ego del niño). Los elogios son peligrosos.
+* Expectativas realistas: los niños no dudan de nuestras expectativas, y si son muy exageradas, eso minará la autoestima del niño. El padre no debe esperar que el niño sea como él, o habrá sentimientos reprimidos que derivarán en capacidad escolar disminuida, fuertes envidias... Los padres no deben comunicar su mundo, hacer que sus problemas afecten a los niños, usarlos de almohada... Los niños aprecian más a los padres que manifiestan humanidad ("lo siento"...), que a los que aspiran a mucho o se manifiestan como perfectos. No compita con su hijo.
+####Psicología infantil.
+##¡A COMER!
+- El niño debe acostumbrase a ver en las comidas un acto de relación social, no de voracidad (claro que, para eso, mejor que los padres tomen los errores de su niño como algo normal, una oportunidad de crecimiento, o podría tratar de taparlos comiendo):
+* Verduras y hortalizas: mejor crudas (a partir de los 2 años). Pueden mezclarse con puré (de patata...).
+* Frutas (azucaradas, como la leche materna): cuanto más maduras, más vitamina C. Hasta los 3 o 4 años no es conveniente que ingiera la piel.
+* Mantequilla y queso: gran valor nutritivo.
+- Problemas de alimentación:
+* Falta de apetito: por fiebre, problemas de dentición... Dejar que repitan y que rechacen. La visión de un plato rebosante quita el apetito a quien ya tenía poco. Pero si el niño se ha visto capaz de rebañar el plato, esto será muy positivo, y alegre. Nunca prometer premios o castigar.
+* Niño muy delgado: puede ser por situación psicológica tensa: miedo, celos, llegada de hermano no deseado... o la hora de comer (el niño espera la terrible discusión). ¿La anorexia desaparece con ambiente limpio, ordenado, y alegre? El niño sabe que mamá sufre al ver el plato intacto, y espera que mamá se rinda, y finalmente acceda a darle la comida. Pero el hambre hará que satisfactoriamente, el que se rinda sea el niño (pasa de él).
+* A un niño obeso no le atrae el ejercicio, y entonces, come para distraerse. ¡La familia debe ayudar, no comiendo siempre excelentes guisos!
+* Ha de haber espacio, comodidad, solemnidad (mantel). El cocinero debe comer a la par que el resto. De pie no se debería comer.
+* Los adolescentes necesitan más calorías (y horas de sueño).
+##SALUD e HIGIENE:
+* Si logramos hacer agradable la hora del baño, con juegos y sin amenazas, el niño disfrutará. Yo me bañaba una vez a al semana (de niño no olía ni un segundo, y eso que hacía mucho ejercicio). Los poros deben estar limpios para sudar (por eso nos bañamos).
+* Dormir: silencio, ventilación... Si el niño llora, no llevarlo a la habitación matrimonial. Los terrores nocturnos pueden deberse a la tensión del hogar: calmarlo, contarle un cuento, cantarle una nana...
+* Niño que se orina por la noche. Causas fisiológicas o celos, tensiones nerviosas, frustraciones, temor de ser poco amado por los padres, deseo exagerado de complacer o imitar a padres ordenancistas (que hacen grave problema del aseo personal...). No avergonzar al niño, e incluso quitarle importancia. 
+* Respiración: abdominal, nunca pulmonar (debida a las prisas de los papis). Mal sentado, dificultas la respiración profunda.
+##CRECIMIENTO.
+- Las niñas resisten más los periodos de mala nutrición. Recordemos que una dieta a base de proteínas drogosas je je e hidratos de carbono, hará crecer más al hijo, pero estará menos sano el resto de su vida. No te preocupes mucho por la talla (salvo en casos extremos): lo importante es la salud.
+- Las mujeres no felices sufren tensión emocional, y eso influye en la química del bebé (bebé + flaco, por tensión muscular).
+* Durante el embarazo la mujer sueña cada vez más con el niño ideal. Cuando le ven la cara al niño, puede pasar a ser no deseado.
+##EL NIâ€˜O ENFERMO:
+- Cuando un niño está enfermo, los familiares deben tener ambiente de serenidad y normalidad, incluso de alegría (sin risotadas). Pueden hacer planes para los días en los que el niño se curará (eso cura un poco):
+* Fiebre (a partir de 38º): debemos acostar al niño entre 18 y 20 grados, destapando brazos y piernas. Si la fiebre es muy alta, se pueden colocar compresas de agua fresca en el pecho, muslos, brazos y piernas, renovándose cada poco. Mientras dure la fiebre, sorbos o cucharaditas de agua. 
+* Desarrollo lento: falta de atención por parte de los padres (que es lo que estimula los sentidos): determina un retraso en el desarrollo motor: nadie le habla, nadie le hace jugar, le canta, le pasea, le toma en brazos...
+* Cuidado con las cesáreas, que NO son necesarias, sólo más cómodas para el médico, qué cabrón.
+##ACCIDENTES (no incluye fracturas, quizas mejor esperar por un médico en ese caso). Pequeños accidentes con reprimenda, pueden evitar mayores:
+- Estar serenos nosotros y el que lo atiende, ser relativamente fríos.
+- Intoxicación: hacer que vomite (no posible si el producto es corrosivo, como la lejía). Cucharada de agua salada caliente, o excitar la faringe con pluma de ave o el dedo.
+- Quemaduras: desnudar rápidamente. Las pomadas (si ácido nítrico, NO enzonas extensas) grasas suavizan y calman el dolor, ¿y la leche? No pinchar ni abrir ampollas (son buenas).
+- Hemorragia nasal: cabeza atrás y compresas frías cara. Si es muy intensa, dejar que salga por la garganta. De no ceder, taponación.
+- Herida (la rapidez es la clave): torniquete (pañuelo anudado y retorcido con un bastón / palo  hasta presionar, siempre por encima de codo o rodilla, importante. No dejar + de dos horas, o se puede gangrenar la herida). Al herido se le transporta con ropa holgada. Si palidece, poner cabeza + baja que cuerpo (acostado). NO tocar claxón mucho ni ir a gran velocidad (para calmar al herido).
+##VACACIONES:
+- Entradas y salidas múltiples del agua, puede producir una hidrocución (enrojecimiento y calor en la piel...).
+- RESPIRACIÓN ARTIFICIAL: almohadón debajo de hombros para que cabeza caiga hacia atrás (así la lengua no impide paso de aire). ¿Tracción de mandíbula (vi un dibujo con pulgar "en" incisivos, y resto dedos en mandíbula, tirando p'arriba)? Tapar nariz (se puede ocluir con dedos). Reanimador: soplar fuerte en boca hasta que el tórax del accidentado "se levante".
+* Si no hay respiración, se presiona con suavidad el tórax.
+* Si no hay respuesta, hacer lo de soplar y el tórax durante dos horas, aunque no haya signos de vida: 20 / minuto niños, casi 15 adultos, y casi 10 en caso de paro cardiorespiratorio.
+- Sol: pelar es una buena señal. A los 15 días la piel se hace espesa, protegiendo. Comenzar a tomar el sol por extremidades.
+- Las personas acostumbardas a la calefacción (calentamiento súbito), son las más expuestas a resfriados... conviene que los niños se acostumbren al viento, lluvia, frío intenso... que endurezcan.
+- Barco: En la mitad del barco, fijar vista al horizonte, evitar comidas abundantes y olores intensos. A los primeros síntomas, acostarse.
+##PSICOLOGÍA INFANTIL DE VERDAD:
+- Los niños muy castigados, son + agresivos (los motivos del niño importan). La frustración es la base de la agresividad, ¿y del masoquismo?
+- Si un padre pone de ejemplo a un hermano, provocará celos.
+- Si de 1.5 años nos cuentan una historia (no la entenderemos de momento), y nos lo hacen otra vez a los 8, se aprenderá mejor a los 8.
+- Es muy importante que el niño piense por sí mismo, aunque acabe diciendo disparates, por no tener todavía una buena base de conocimiento. ¡Pero si la tuviese, te superaría sin problemas!
+- Los choques afectivos momentáneos (muerte amigo) duelen menos que los pequeños traumas repetidos (sufrir el ser hijo no deseado). ¿Es más fácil para un niño cambiar un apoyo emocional por otro?
+- Contar cubos (estructuras hechas de cubos) prepara para situar un objeto 3D en el espacio.
+- No se les puede decir "ya sabes lo que hay que hacer". Hay que concretar una y otra vez, por lo menos algo.
+- A veces el niño pregunta sólo en busca de atención.
+- Si los padres imponen la personalidad al niño, la suya se retraerá, y se manifestará de mayor ("asustar" al vecindario sería culpa de los padres je je).
+- Un niño al que no se le reconoce el éxito, tendrá complejo de inferioridad y resentimiento contra los educadores. Y su rendimiento bajará.
+- Los niños no tienen miedo a los animales (es condicionado por los adultos). ¿Las pelis de Drácula vacunan contra el miedo a ciertas edades? El miedo al ridículo o al fracaso en parte es inducido por la escuela.
+##PERSONALIDAD Y CARÁCTER:
+- El niño sano ama la libertad (es lo natural), no el control de otros sobre él. La defecación no le repugna.
+- Para prestar atención (niños): no conflictos emotivos o traumas afectivos familiares, y ambiente social y familiar favorable.
+- Temperamento impulsivo / agresivo: quizás por metabolismos altos (tiroides...).
+- Vagabundeo (por falta de cariño siempre).
+- Niño que padece defecto físico (cojera...) se convierte en cabecilla dictatorial (es complejo de superioridad, como siempre, originado por uno de inferioridad; es la sobrecompensación).
+- Hay niños que nacen sin miembros (madre drogadicta...), pero que están contentos, hasta que ven a niños con miembros. Curioso, son felices con poco hasta que ven algo más.
+- Comerse las uñas: es para retraerse del mundo exterior. Asociado a chuparse el dedo.
+- Niño hiperansioso: dado al síncope, poca autoconfianza...
+- Niño mimado o explotado: puede llevar a la delincuencia.
+- Origen de delito sexual, ¿aversión a los padres?
+- Gen: triplete XYY se encuentra con mayor frecuencia en criminales (y son homosexuales y altos).
+- Un padre evolucionado NO da origen a un niño homosexual (o es raro que lo dé).
+####Sexualidad
+##Proceso reproductivo:
+- Menstruación: flujo sanguíneo de 3 a 6 días cada unos 28. Un óvulo que desciende hasta la vagina (por no ser fecundado en útero).
+- Parto: salen por cabeza. 2 semanas antes, el feto desciende para encajarse en la pelvis (dolores a medida que el cuello del útero se dilata).
+##Sexualidad Infancia:
+- El niño necesita contacto materno, si no, buscará otras vías de satisfacer sus necesidades.
+- Cada etapa se ha de resolver para pasar a la siguiente. MUY IMPORTANTE. Hacia los 2 años todo programado, con 5 todo construido, y con 7 todo hecho:
+* 1. Fase oral: se le da seguridad al niño tomándolo en brazos y apretándolo contra un seno. Los pueblos primitivos daban leche hasta los 3 o 4 años (¿significa trauma de rechazo más débil?).
+* 2 Fase anal: 2 años (salvo pueblos primitivos, más sabios). Sus excrementos son considerados parte de sí mismo (y los puede regalar a la madre).
+* 3 fase epídica (3-5). Los niños se masturban y comprenden que sus padres se pueden amar. El padre es considerado rival (y el niño lo mantiene en secreto), y hay culpa por ello. Si es castigado, podría ser castrado ("perder el pene"). Solución: amar e imitar a su progenitor (identificación). Si no se supera esta fase, pueden surgir problemas neuróticos crónicos. La niña compite por el padre con la madre, imitándola.
+* 4 fase de latencia (6-12): los niños son brutos unos con otros. Si los conflictos anteriores no se resolvieron -> bajo rendimiento escolar, incontrolabilidad, te meas en la cama.
+##PUBERTAD Y ADOLESCENCIA
+- El estómago se agranda (de tubo a bolsa).
+- Hipersensibilidad enfermiza y no razonamiento. Se pone en duda lo aprendido en la niñez. Resultado: rebeldía y negación de lo tradicional.
+- ¿Se abraza un ideal con fuerza o se sigue a un héroe (cantante, político...)? ¡Ni los adultos son sabios!
+- Exige de los demás un amor / gratificación superior a la que proporciona.
+- Chico: trepan, luchan... cuando ellas quieren más un galanteo o invitación, que un gallito.
+- Chica: busca una leve caricia que produzca éxtasis. Se enamora de adultos (que las tratan como a mujeres). Dan miedo a los chicos (son elegantes...), que prefieren chicas hombrunas. Las amistades del mismo sexo son apasionadas (resueltas cuando alguna se enamora heterosexualmente).
+- Una educación severa o absorbente puede dar lugar a buscar placer en uno mismo continuamente, o a la homosexualidad (etapa breve, pero podría durar toda la vida).
+- NO debemos prestar ayuda si no es solicitada.
+##INICIACIÓN Y EDUCACIÓN SEXUALES:
+- La búsqueda de amor la facilita el ejemplo del hogar: padres enamorados, sinceridad, mutua comprensión.
+- Las explicaciones sexuales deben empezar muy pronto, o el niño terminará encontrando un "falso pedagogo". Se debe partir de las ideas del niño, que él mismo expondrá. 
+- Los hermanos de distinto sexo deberían contemplarse desnudos.
+* Los orientales toman un baño familiar desnudos.
+- Coeducación (niños y niñas en la escuela): mejores logros, menos grosería en los chicos.
+- Si los padres ven a sus hijos como niños que NO deben superarlos: falta de interés en el trabajo, la vida y la escuela.
+####PEDAGOGÍA DEL HOGAR:
+- Si los hermanos son buenos, el niño tendrá muchas herramientas de inteligencia emocional, artística...
+- El bebé comerá cuando lo necesite. Los niños saben más que los padres si necesitan comer.
+- El niño debe ver en papá y mamá una sola voz. ¿Los abuelos son sólo sustitutos?
+- Una riña o pelea entre hermanos puede manifestar amor.
+- Debemos informar con antelación e ilusionar ante llegada del hermanito ("será tu acólito" je je), si no, podría percibirlo como maquinación contra él, y mearse por celos...
+- Mellizos y gemelos aprenden a relacionarse más tarde (se tienen el uno al otro).
+- El niño que reprime su femineidad en el juego, puede llegar a fomentar, en casos extremos, perversión homosexual. ¿No identificarse un niño con sus amigos porque rechaza sus aspectos más masculinos, puede hacer que al final se sienta débil e inseguro?
+- Padres mayores: cuidan en exceso. Sus hijos suelen ser tristes y se avergüenzan de los padres.
+- ADOPCIÓN DE UN NIâ€˜O: el niño debe ser muy pequeño (que no recuerde más padres), y ha de saber que es adoptado, cuanto más tarde, peor.
+- SEPARACIÓN DE PADRES: por naturaleza, un hijo quiere separar a sus padres (y ser ellos la pareja), por lo que se sentirán culpables, sacarán malas notas...
+- Los niños ricos quieren menos cosas y más amor. El maestro deberá subrayar lo que une a pobres y ricos.
+- NIâ€˜O TÍMIDO: no ha podido expresar su agresividad / rivalidad, y hay temor a que los demás respondan atacando.
+* Agudizando el problema: si se dice "juega con menganito, socializa", se podría interpretar como imposición, y el niño se rebelará.
+- EXPRESIÓN DE CÓLERA NECESARIA: El niño pequeño soporta menos la frustración, y su reacción de ira violenta es normal (el psicópata, que también es un niño, la ocultará).
+- El padre debe apiadarse del niño frustrado (paralizado, con temor "a repetir"), y no autocompadecerse nunca.
+- Si los padres tienen buen gusto, el niño amará lo bello y repudiará lo grotesco. El apasionamiento por decorar (aunque sea con calaveras) es mejor que la indiferencia o falta de sensibilidad.
+- Tele (ni se fomenta ni se censura): refugio para tímidos y solitarios. Al ir a la cama, en su lugar, juegos, canciones, conversación...
+####EL NI‘O Y LA SOCIEDAD
+- Una niña riñe a su muñeca cuando quisiera hacerlo contra los que la presionan (descarga afectiva).
+- No regalar mucho. Y los juguetes bélicos no son buenos.
+- LOS AMIGOS: Las confidencias son malas si no son mutuas. A los padres no se les debe contar todo.
+- TEATRO: produce niños ordenados, que cuidan su forma de hablar... Sin adultos: ayuda a convivir, escuchar, obedecer...
+####EL NI‘O Y LA ESCUELA:
+- EL MAESTRO: NO se queda con "las asignaturas" más gratas para él, quiere formar. Es necesaria una corriente de simpatía captada por el niño inmediatamente, por vía intuitiva, si no, no se podrán ganar al niño y dar ejemplo. Dejar al chico expresar libremente sus sentimientos, y planificar con él actividades. Los padres y los maestros deben conocerse para llegar a acuerdos.
+- Los deberes escolares no tienen razón de ser. No se necesitan libros, sino fichas de trabajo, trabajo en grupo...
+- Psicotécnicos de cara al mundo laboral: pueden orientar. Sumar informe de ascendientes familiares. Que no haya que estar horas y horas reciclándose, que la jornada pueda ser de menos de 5 horas si el niño es "de sprint intelectual"...
+####AGRICULTURA Y ECOLOGÍA, NO gastes energía innecesaria (ir a la escuela...):
+##Orina: llena de nitrógenos y fósforos (fertiliza). ¿Almacenar antes de usar en cultivos (un mes para lo casero, 6 para cultivo "industrial")? Recuerda que con agua y mierda, NO hay cosecha que se pierda (Restrepo, Jairo).
+##Hórreo: orientaos al Norte (no mucho). ¿Un perro elige el lugar? Asturianos (valle: almacén y dormir); gallegos (montículo, secar maíz).
+##Los sistemas de agricultura deberían ser dinámicos. Del libro de Toby Hemenway "Gaia's Garden".
+- Secuencia natural.
+* Plantas pioneras (diente de león... maleza; transportan nutrientes hacia la superficie, y son buenas para la tierra suelta): dan paso a las vivaces (más altas, firmes, frondosas).
+* De 5 a 15 años aparecen arbustos, que en 2 o más décadas dan lugar a un bosque joven. El nogal (da sombra / cubierta) crece muy rápido. ¡O nos llevan al centro la tierra en breve o...
+- Con el aspersor y los fertilizantes aceleramos, y arando y podando, frenamos (estresa). Hierba bien regada pide a gritos arbustos.
+##Control de precios tiránico obliga a pasar a lo rentable en vez de lo saludable / tradicional (les podemos dar dinero):
+- Ayudar a cultivar (se crea tejido social). Compra lo que se cultiva más cerca (comer es un acto político, Víctor Montes).
+* Ya sabes que los transgénicos desertizan (fuera biodiversidad), y los herbicidas quitan el hidrógeno. ¿Y debe haber muros entre fincas para evitar cualquier hibridación?
+- Sostiene Jairo Restrepo que "el coeficiente intelectual de los niños europeos ha disminuido en un 17% en los últimos años debido a la alimentación tóxica" (cereales que te hacen "dócil" y a la vez hiperactivo...).
+* Con agua y mierda no hay cosecha que se pierda. ¿Cómo criar microorganismos, con lombrices digestoras con un tubo pa respirar que convierten desechos en hechos?
+* Las ciudades NO son necesarias (aprovechados del trabajo manual; se inventan necesidades artificiales). Los desastres en América Latina, África y Asia son ensayos para expulsar a la población.
+##El jabón de la abuela:
+- 5 litros de agua en recipiente grande y ancho. 1 kg sosa (echar poco a poco, y proteger ojos...) con un puñado de sal. Mover de seguido con palo largo y ventilación, en un solo sentido.
+* Añadir grasa (5 litros, de freír, latas de conserva...) lentamente.
+- Dejar reposar, pero mover cada 5 o 10 minutos. Dejar reposar 24 horas. Pulverizar pa pulgones...
+##Breves:
+- Fungicida con hojas de cola de caballo (vegetal). Las paredes celulares engordan y el hongo no penetra. Preventivo y curativo.
+* Trocitos a contenedor de plástico con tapa (agua hasta cubrir). Remover, tapar y reposar 12-24 horas. Hervir 15 minutos a fuego lento y reposar hasta que enfríe. Colar.
+* Pulverizar (1 parte por 3 de agua). ¿Agregar jabón potásico para adherencia?
+- Es importante limpiar el polvo de las plantas, que son secreciones.
+- Bombas de semillas: 10 partes tierra negra / 1 arcilla. Agua hasta conseguir masa moldeable. Extender y poner semillas de huerta. Volver a amasar, y una vez homogénea, hacer pequeñas bolitas. Secar en lugar con aire, sin sol. Cuando estén duras, se arrojan a terrenos baldíos.
+- Permacultura agrícola:
+* Compost, cartón y paja, sin remover tierra (matas bacterias). Compost: partimos de materia orgánica llena de gusanos. Se prepara hierba y paja, y se junta to por capas (muchas) hasta un metro y medio altura y 3 longitud. 2 tubitos pa que la cosa respire.
+* Asociar plantas (por las plagas, se matan unas a otras): tomate, albahaca, y cebolla o ajo.
+* Los animales cuentan (gallinero móvil, patos comebabosas, ovejas abonan).
+- Los lirios limpian el agua. Amaranto contra Monsanto. Marino Morikawa descontaminó una laguna. Hay una bacteria comeplástico (estudiantes Miranda Wang y Jeanny Yao). ¿No se usa? 
+- Camino por donde pasan vacas, coger tierra hasta profundidad un metro. Tomates...
+- ¿Ventanas oblicuas que captan luz en Invierno y hacen más fresco el verano?
+##Plantas suculentas (cactus... acumulan agua). Yo sí ceo en el acierto de almacenar agua en plantas de desierto (canción, Jaguarundi):
+- Riego de suculentas en maceta (barro, terracota... Transpirables):
+* Primavera y Otoño, cada 15 días. Verano: cuando se vea el substrato seco. Invierno: si tienes calefacción, riega algo (una o 2 veces al mes, especialmente con las tropicales). Si no, espera a ver algo de marchitamiento.
+* Los platitos con agua estancada producen la muerte de la planta. ¿Y tener mala energía tú o mucho aparato eléctrico?
+* El agua dura (cal), se puede endulzar con vinagre, cítricos... pero mejor poquito.
+- Kalanchoe (la daemontiana creo que es lo mejor): pa to (cancer, ungüento...).
+* Comer (sólo como tratamiento, NO por largos periodos: 350 gramos para persona de 70 kg): hojas crudas en ensalada, unos 15 gramos / toma, 2 tomas al día. O en zumo. Durante el embarazo pueden estimular el útero: NO tomarlas.
+* Cultivo: protégelas del sol directo en horas punta (Verano). Bajo 10, hay fatiga, y NO hay que regar. Las hojas viejas se pliegan, no os preocupéis. Necesitan un poquitín de humedad (pero no pulverices). Puedes colocar la maceta sobre un cuenco con guijarros húmedos. Las piedras del fondo de la maceta (drenadoras), de barro cocido mejor. En Otoño e Invierno se moja el terreno sólo si está bien seco.
 
-####Botella de vidrio corrige la estructura del agua.
-####En los países menos desarrollados, casi no hay gripe, ¿beben agua semicontaminada y así están más fuertes del estómago, que es nuestro centro de defensa? ¿Y especias para eliminar fluidos? ¿Y lo de echar tierra a la comida pa la digestión?
-####Pasos Rosa yoga:
-* Quitar tensión: hombros casi tocando orejas, tensión, espirar bajando fuerte los brazos.
-* Arrugas cuello: tensión en puños, y en cuerpo en general, espirar extendiento los brazos hacia delante y sacando la lengua (mejor la cabeza un poco pabajo).
-####Practique este ejercicio diariamente dos semanas y se librara de dolores de cintura, problemas sexuales, caída del cabello, micción frecuente, timidez, inseguridad...:
-* Siéntese con las piernas juntas, inclínese ligeramente hacia adelante y entrelace los dedos de las manos rodeando las rodillas.
-* Preste atención a sus riñones y a los oídos, que son la salida de energía de los riñones.
-* Inspire suave y profundamente vivenciando en su mente algún miedo, fobia, trauma o temor que haya pasado en su vida a cualquier edad; luego, exhale juntando los labios emitiendo el sonido CHUUUOOOO. 7 veces (a partir de 4, coloca las palmas en los riñones, tocando la piel).
-####Mi ex-profe de Alemán, Thomas, dice que un gran dietista que conoció, aconsejaba una dieta de uno u otro color según la necesidad del paciente (quizás roja para el hierro), prestando mucha atención a su psicología.
-####615superrenacer la dieta de los centenarios.txt  Alejandro Merino G.: la de los andorranos (las estadísticas de Andorra están falseadas, con datos de gente que no reside allí, pero los que residen allí, son centenarios se puede decir): dieta carnívora (y dejaos de gurús y tonterías).
-####Parce Pineal:
-- Activaremos la glándula pineal con sonidos (escalares de Joaquín Piquer). El choque de energías opuestas produce una neutra, y con sonido (onda longitudinal), mejora la glándula pineal. Esta glándula nos da capacidad de conciencia superior:
-* El formato mp3 no era suficiente. Se optó por el formato .wav (Youtube fracciona los sonidos).
-* Puede favorecer los viajes astrales y desbloquear la memoria de la infancia; tienes ganas de hacer cosas...
-##MEJOR ESCUCHAR A OSCURAS (Y TEMPRANO, PARA DORMIR MUY BIEN), EN AMBIENTE TRANQUILO. SENTADO, NO NECESARIAMENTE TUMBADO.
-##En caso de náuseas, probar con otro .wav.
-####Comida balanceada yin-yang. YIN: inactividad (muy sana), frío, oscuro, húmedo, blando, vegetal, hueco, Norte. YANG: estrés, lo animal...:
-- Gráfico. En climas más calientes o en Verano, los alimentos se deben desplazar hacia el yin:
-* Cuanto más extremo, las cantidades a tomar deben ser menores.
-* Colores: verde los alimentos más recomendables a diario: cereales INTEGRALES, legumbres y verduras locales y de estación. Naranja: con moderación, no a diario o bien en cantidades pequeñas y de buena calidad. Rojo. Muchísima moderación, y exigir calidad en el producto.
-* ¿Lo importante es el PH y el factor rédox no (el tercero me lo guardo)?
+#######################################
+######FÉLIX RODRIGO MORA Y SIMILAR#####
+#######################################
+####Pongo ALGUNAS cosas de Félix (Rodrigo Mora) que son más bien "actualidad" (negativas), que sociedad (positivas). Para tener juntito lo de Félix.####
+####FélixRMora falta de erotismo de pareja y deshumanización.txt  - Se ha sustituido el amor por la nada (mujeres depresivas, suicidios; y con la censura a los gestos eróticos del hombre, la mujer no se excita, es una menopáusica prematura; y el satisfier tiene muchos efectos negativos).
+* ¿Se espera demasiado del hombre? Y además, hoy, tan perseguido, ha acabado castrado (de tantos rechazos...).
+* Las mascotas, muchas veces son simples sustitutivos, que les encantan a las élites (hay "odio" al humano, "porque los perros son más fieles")... hasta que, una vez separados de otros humanos, nos quiten también a las mascotas.
+* Hay desinterés por lo erótico, salvo en sus formas degradantes (¿incluye las divas pop?).
+##Las inseminaciones artificiales no producen algo normal (falta la energía del acto...).
+####FélixRMora mi encuentro con él.txt  FélixRMora mi encuentro con él:
+- Rotación familias en un consejo (local...), pero estando cada una varios periodos (no sé, 4, así no se contamina el consejo con lo nuevo), ¿y cómo se empieza, con las 2 familias + autocríticas psicológicamente consigo mismas?
+* Las asambleas griegas no eran más que un rabito. Las ciudades sólo sirven pa concentrar poder y riqueza, y así tener un inmoral ejército estable... ¿La Guardia Civil española es la gran controladora actualmente?
+* EL DERECHO CONSUETUDINARIO SE CENTRA EN EL INDIVIDUO (SU CRECIMIENTO), NO EN LA ASAMBLEA. La agricultura es pa embrutecer (que no se tenga tiempo libre). Lo ideal es que haya árboles para todos, no parcelas.
+* CORTES DE CÁDIZ (EMPIEZA REALMENTE EL DOMINIO PAIO EN ESPA¢â‚¬ËœA): LA TERCERA PARTE ERAN MILITARES, LA CUARTA, CLÉRIGOS... Y A MÍ LOS NOBLES (MUCHOS VIENEN DE LOS BERE) ME PARECEN MÁS DIGNOS QUE LOS ARISTÓCRATAS (PAIOS).
 - Más:
-* El tomate es muy yin, pero se suaviza al freírlo.
-* El arroz integral hervido es muy equilibrado, pero inflado (horneado) se va al extremo yang.
-* La leche es yin, el queso curado es muy yang.
-* Soja fermentada: es un yang muy beneficioso, pero debe tomarse una pequeña cantidad. ¡NO recomiendo soja sin fermentar!
-* La manzana cruda es ligeramente yin, asar la hace más yang / invernal.
-##Bienvenida a extremos:
-- Yin (tranquiliza):
-* ¿Que beban para olvidar, con lo malo que es pa los cuerpos sutiles?
-* Personas que viven ancladas en el pasado, les viene bien tomar bastante alimentación Yin de buena calidad.
-- Yang:
-* Personas que han tomado mucho alcohol o drogas.
-* Personas muy dispersas.
-####Goerreig Serdaniol hablando de poco saludables ondas electromagnéticas.txt  - Cuando ponen una antena cerca de tu casa, lo sientes, y luego te acostumbras (muy malo, porque la antena sigue dañándote).
-* Cerca de las antenas, los insectos con antenas, perecen, y con el sonar militar, las ballenas.
-* Yo: lo electromagnético impide la inteligencia sutil (la intelectual es de rango bajísimo).
-* Por ganar millones, unas empresas tecnológicas que son del agrado de los gobiernos (curioso je je), están fastidiando nuestra capacidad, y el planeta.
-* El campo magnético terrestre está en peligro por ondas de alta energía. Las antenas, los "fotovoltaicos"... Esos sí que hacen subir la temperatura. Aha, se anulan los campos naturales.
-####Erotismo sano:
-- CON PAREJA: aumentar tu energía corporal (¿movimientos femeninos / sinuosos?) y luego relajarse y dejar que la energía suba hasta tu corazón. Abrazarse y conversar con amor, analizando y llorando las aflicciones emocionales (si hay). Pensamiento negativo: "tengo un cuerpo horrible" o "él nunca me dará lo que deseo".
-* Juego 0 (tras llorar). Respirar al mismo ritmo mientras se están abrazando. El ojo izquierdo es el receptivo.
-* 1: cantar juntos, hacer sonidos no planificados y misceláneos que poco a poco cobrarán vida propia. Cuando hago esto con un amante, puedo sentir el interior de su cuerpo además del mío.
-* 2: ¿Hacer de padre e hijo?: el padre se tiende y el hijo se tiende con la cabeza sobre o cerca del corazón del padre. El padre abraza al hijo, acariciándolo ocasionalmente e imaginando un infinito amor que brota de su corazón hacia el hijo. ¿Luego cambian de rol?
-* 3: "El Cinto de Venus": respirar juntos e imaginar que la energía se mueve entre ustedes en un círculo, subiendo por los genitales de un amante, luego atravesando desde su corazón al del otro, bajando a los genitales de esa persona y de vuelta al comienzo.
-* Si imaginamos que nos estamos proyectando mutuamente un haz de luz, desde un plexo solar al otro (o lo tocamos), y respiramos juntos...
-- CON UNO MISMO: piense en qué lo excita, ¿las sábanas de raso? Relájate (el automasaje puede funcionar: recorrer el cuerpo terapéuticamente, y luego sensual y tiernamente). Estimular genitales, ¿las tetillas?...
-####Valdeande Salud:
-##Pan sano de verdad, masa madre (no mata enzimas):
-- Cucharadita de harina integral (está viva), y un poco de agua para activar las bacterias (todo en un frasco tapao con trapo). Cada día "se le da de comer" (harina + agua supongo). A los 5 días tienes masa madre. Panificadora:
-* 150 gr masa madre, sal al gusto, y un poco de levadura en polvo ¿Poco más de 50 gr? Medio kilo de harina de espelta integral y / o centeno. Y 38.5 centilitros de agua.
-* Programación: pan integral 750 gramos. Tarda unos 200 minutos. En el segundo amasao puedes añadir pipas.
-- En el congelador se para, y habría que refrescarla. Primer refresco, ¿pa cuantos gramos de masa parada, 150?: 20g madre, 40g harina y 40 agua, mezclamos muy bien todo y dejamos reposar a temperatura ambiente (mejor veintipocos grados) como 8 horas. 100 agua y 100 harina (siguiente refresco). ¿Sabes que está lista la masa cuando flota en un vaso?
-##Plantas (diente de león...) maceradas con alcohol y agua, y colar.
-##El amarillo gira a la izquierda, el azul a la derecha.
-##Las gotas de rocío, (¿y el "sulfuro" y el "mercurio" como ifotones contrarios?) eran esenciales para la medicina alquimista.
-##origen de los piojos: la mitocondria es nuestro bicho más importante. Cuando hay un muerto (o la célula está pachucha o el cerebro sin dormir), las mitocondrias salen en busca de comida y se las llama piojos. Les salen patas. ¡Hasta yo me he reío!
-- En el colegio, las células se debilitan (niños lejos de sus padres...).
-##Antes el ganado tomaba tomillo (plantas olorosas naturales), y ahora grano y antibióticos.
-##Hagamos un ayuno corto pa limpiar. Si tamos mal, al día 2 veremos mareos, jaquecas... y veremos dónde están los atascos. La lengua manifestará el nivel de suciedad general. Come una naranja antes de ayunar (vitaminas CDE se necesitan).
-##Los glóbulos blancos no hacen falta casi en una persona sana físicamente (ventana de ingesta chiquitita, como de 6 horas... y grasa, mucha grasa). La ciencia oficial (alimentación) inhibe las enzimas. ¿Gran parte de las enzimas se fabrican en el aparato digestivo, y por eso es importante tomar producto crudo, y en buena parte vegetales?
-* Cuando variamos bruscamente el PH (comidas grandes...) las enzimas ya no funcionan.
-##La mente controla el cuerpo: si te callas y necesitabas hablar, tos, resfriao... Si NO comunicas las aflicciones: dolor de garganta. Si las rabias no te salen, estómago. Si te duele la soledad, diabetes. Insatisfacción: obesidad (aparte de querer hacerse notar...). Dudas aumentando: dolor de cabeza y depresión (descansa). No encuentras sentido a la vida: corazón. Niño interior tiraniza (quiero un helado, y como no lo tenga... ¡no amanece!): neurosis (algún tipo). Tu orgullo no te permite humillarte: rodillas.
-##Al morir una célula da biones. ¿Y ahí es donde surgen los mal llamados virus?
-##Las células cancerígenas consumen mucha más glucosa, pero si se la quitas, mutan y siguen.
-##Ceniza + agua: biones (experimento 20 de Wilhelm reich). ¿Y plantar cáñamo después?
-##Las élites nos dan comida muerta. Luego vamos al médico (pastillita mataenzimas). ¡Todo es un plan!
-####Buenas costumbres:
-##Feng shui animal:
-- Un animal enfermo puede avisar de desequilibrio en la casa. Los lugares ideales para tener animales domésticos son casas o pisos con terrazas donde el animal pueda tener su propio espacio de desahogo (excrementos).
-* Y el Chi excesivo puede provocar irritabilidad y dificultad para dormir (un San Bernardo en un piso de 20 metros).
-- Una pecera con su continua transformación mantiene el Chi de cualquier habitación de forma armónica (serena, y estimula al desanimado).
-- Perros: los lugares donde se sitúan con mayor frecuencia son energéticamente sanos.
-##Feng shui cocina (en ella se preparan los alimentos que consumimos):
-- Ya hay fuego al cocinar (NO usar mucho rojo), ¿el azul (agua) quita el apetito? Apropiados: amarillo, terrosos y verde.
-* Si hay una distancia menor de 60 centímetros entre el fregadero y los fogones, colocar plantas entre ambos.
-- Debe estar cerca de la puerta de entrada (en el centro los alimentos NO retienen chi), aunque no debe verse desde la entrada principal.
-* Fuegos: NO en línea o enfrentados con una puerta. La persona que cocina no debe quedar de espaldas a la puerta. No debe haber una ventana justo encima de la cocina.
-- Si cocina y comedor estan en el mismo espacio, mejor mesa iluminada y el resto en penumbra.
-##Feng shui habitación:
-- La cabecera de la cama tendría detrás la pared más alejada de la puerta. Cama no en línea con la puerta de entrada de la habitación o del baño.
-* Respaldos admitidos: un tabique sin ventanas (o con ellas y cortinas muy pesadas).
-- Nada colgando del techo sobre la cama (o que sea liviano).
-- Forma de la habitación lo más cúbica posible (puedes servirte de armarios y otros muebles para ocupar espacio: la cama no cuenta).
-- El sentido al sentarte en el escritorio y al dormir, debe ser de tus 4 favorables. Calcula tu número kua. Soy 2, y persona del Oeste: NE, W, NW, SW (el resto es desfavorable).
-##feng shui lugar reunión familia: asientos con ángulos de 90º (para que se den conversaciones). Y varios tipos (por lo menos 2, que cada uno elija).
-##¿El yin y el yang son las 2 partes en las que se divide un toroide cuando tomamos las 2 aspas de ifotones "nueve"? ¿3 y 6  = tiempo y velocidad?
-##hora de comer hora de la inteligencia.
-- El agua (en cantidad), aléjala de las comidas, pues se carga los ácidos.
-- Ten en cuenta que los primeros 20 minutos vas a tener hambre estés satisfecho o no.
-- Muchas veces el hambre es falta de agua en realidad (incluso de descanso).
-- No mezcles ciertas frutas con nada, espera media hora a que se digiera.
-- Si la grasa es trans, no abuses mucho.
-- Con 2 comidas al día ligeras (estarás más "energético") el mundo estará mejor.
-##Mejorar la flora intestinal (dirige el cerebro). En Occidente una bacteria gana a cierto gusano por comer demasiado esterilizado. Los egipcios echan tierra a la ensalada.
-##¿El solfeggio son frecuencias "prohibidas" y curativas? Partimos del 1 en el eneagrama, saltando de 2 en 2. 1-74, 2-85, 3-69, 4-17, 5-28, 6-39, 7-41, 8-52, 9-63. Así se afinan instrumentos.
-##Recuperar el potencial Z de la sangre aleja la arterosclerosis: CILANTRO: licuados con manzanas; AJO: crudo, en ayunas, ¿como si fuesen minipastillitas y cortado con un utensilio de madera para no provocar oxidación?, acompañado de un vaso de agua. Muy eficaz en combinación con los jugos verdes.
-##Si germinamos 4 cucharadas de lentejas, daremos de comer a mucha más gente, habrá más vitaminas y enzimas.
-##La orina se puede beber y es saludable y milagrosa (no te laves las manos después de orinar). Tiene los anticuerpos que necesitamos, la podemos poner para el cabello, los oídos...
-##Saciar hambre (los hidratos de carbono simples NO nos dejan satisfechos, ya que son asimilados rápidamente por el organismo; estrés y nervios producen ansiedad, y ésta, adrenalina, vamos, un cambio en el metabolismo basal).
-- NO comas rápido (con los líquidos, esto es difícil).
-##Alternar tele (si son muchas horas "de espera") con sentarme y a ver qué ideas me rondan la cabeza. ¡Y un circuito de paseo!
-##Los videojuegos mejoran la coordinación mano ojo (aparte de los tiempos de reacción... Los de esquivar sin instrucciones ya son de 10): y en general, es bueno para la corteza prefontal (en dosis no muy altas).
-##¿Si cantas como Louis Armstrong (que creo que usaba mucho el abdomen) puedes disipar la energía rabiosa característica del hombre? ¿Las mujeres pueden suspirar para quitar la del pecho?
-##La música es medicina no necesito novedades, ¿acaso practicas más de 1.000 ejercicios curativos? Con 500 canciones ya practicas la clase, la inteligencia... Las plantas deciden la calidad, ¿por lo menos entre 90 y 130 decibelios de sonido cerca de ellas? En otras ocasiones vale con 70 de música suave (melodía, música clásica...).
-##Homer Simpson: Apu, dame de esas patatas que me producen diarrea, necesito una limpieza general. ¿Es realmente un disparate? Nos lo cuelan como eso.
-##Si no se vierte, el semen se podría convertir en energía y bañar el sistema líquido nervioso, para que no envejezca. Oye, una o dos veces al mes, no pasa nada (hay que eyacular algún día pa limpiar).
-##Las abuelas batían huevos, te los daban, y a sanar y reforzar defensas. En la yema hay factores de transferencia, células de memoria, factores killer.
-####lista enfermedades.
-- Alzheimer memoria pulverizador romero. Las neurosis (una obsesión puede perjudicar la memoria, ¿la obsesión la llena?) aumentan el riesgo de Alzheimer. Desconcéntrate a veces para mejorar la memoria a corto plazo.
-- Tuve una crisis asmática, y repitiéndome que amaba la vida y que había que disfrutar el momento (querer vivir...) y NO agobiarse... la he solucionao. Espectorantes naturales: ajo, cebolla, y combinación de limón y miel.
-- ¿El calor favorece la confusión, con lo que los sentidos funcionan peor? Los individuos con depresión, ansiedad, estrés o bipolaridad, son más propensos a sufrir irritabilidad, debilitamiento o aturdimiento ante estas situaciones extremas. Omega3: nueces, pescados, brecol...
-- Oído: mezclar unas gotas de agua tibia, y otras de aceite de oliva. Dejar cinco minutos. Limpiar restos con un paño limpio, suavemente. ¿O agua oxigenada (una o dos gotas)? O Acuéstate sobre agua caliente (bolsa, botella...).
-* Viaje en avión o diferencia de presión: juntar una buena cantidad de saliva en la boca y tragar de una sola vez. O forzar un bostezo. ¿Inhalar por nariz y al exhalar, apretar la nariz suavemente con boca cerrada?
-* Resfrío o sinusitis: baño de vapor y sonarte los mocos.
-##Neuroplasticidad para paralíticos parciales: tú mueves el miembro que peor funciona, y el otro lo tienes "amordazado" (con una manopla, inmovilización...). Y puedes imaginarte movimientos, y tu cerebro cambia igual que si te movieses. ¿E imaginarte que una mano amputada NO lo está? Mmmm.
-####MMS (el "bruto") / CDS (¿listo para tomar, sin "mezclas"?) y reparación órganos.
-##Introduccion MMS (la "lejía" de Trump, que sana). ¡No cura enfermedades (para ello hay que autoanalizarse psicológicamente)! ¿Mata bacterias reparadoras? NO creo. James V. Humble:
-- Química MMS (CLO2 se puede decir): partimos de clorito de sodio, NACLO2 (potabilizador de agua; se puede comprar en la farmacia). Y ácido cítrico / zumo de limón (sólo el 20% es ácido cítrico, habrá que multiplicar por 5). Se puede usar clorhídrico al 4% en vez de cítrico, pero NO en el caso de animales (se han salvao perros moribundos...), por su estómago ya "muy ácido". NO necesitamos agua alcalina con clorhídrico (no habrá remanente ácido).
-* Mezcla frigorífico: 28% de ¿clorito de sodio? (tiene que estar al 80%, con 15% sal común, ¿y el resto agua?), con 35% ácido cítrico, ¿y 37% agua? ¿Y sale CLO2? NO estoy seguro.
-- Ingerir (unas pocas gotitas): se diluye en 1/2 o 3/4 de vaso de agua. 10 minutos antes de comer, o 3 horas tras comer, para que el agua pase rápidamente al intestino. Tras la desinfección, una dieta adecuada.
-* Directamente: poner las gotas de lo cítrico y encima las de NaCLO2. Mezclar agitando suavemente el vaso. Esperar 3 o 3.5 minutos hasta color marrón-amarillo límpido-transparente. Agregar agua. Beber inmediatamente.
-- PREPARACIÓN DE 2 FRASCOS PARA MUCHÍSIMO TIEMPO (no usar nada de metal):  
-* Clorito de sodio en polvo (28 gr). 72 cc de agua en jarra enlozada o de vidrio con pico vertedor. Poner jarra en fuego y entibiar hasta 40 / 50 grados. En un recipiente de plástico o vídrio oscuro con tapa hermética, iremos vertiendo el agua y el clorito muy poco a poco. Revolvemos con una cuchara de plástico. Guardar en lugar fresco y oscuro: dura de 3 a 4 años sin degradarse.
-* Ácido cítrico (o limón): 35 gramos. Añadimos 65 cc de agua potable hervida (si es limón, na de agua, ¿y casi 60 gramos?). Guardar el nuevo frasco, con el anterior. Agite el frasco antes de usar.
-* A DIARIO: 500 ml de agua alcalina (con unos 8 "granitos de bicarbonato", por el sabor). Vaso aparte, mezcla de MMS y cítrico para todo un día (unas gotitas), y esperar 3 minutos y medio. Añadir el agua alcalina y almacenar en botella. Preparar el día anterior si queremos que el bicarbonato neutralice los restos de ácido (cítrico remanente).
--Más:
-* Oxida los metales pesados y el venenosísimo flúor.
-* Si hay reacción Herx (patógenos eliminados rápido, con órganos sobrecargados) más fuerte de lo esperado, hacer más tomas al día.
-* Límite: 30 gotas al día en 8 tomas.
-* Limpieza de agua en mal estado: 1 gota MMS + 1 gota cítrico para 1 litro. Dejarlo 5 minutos.
-* Desinfectar heridas: mezclar 4 y 4 con 2 litros de agua.
-* MMS fallará muchas veces si tomas edulcorantes artificiales (y más cosas que no digo) como aspartamo, fenilamina, ciclamato...
-##AUTISMO (casi todos tenemos al menos un poco). Reducir al mínimo el consumo de leche y derivados. Eliminar gluten, miel, harinas de trigo, y soja y derivados. Ajo, repollo, zanahoria, apio, coliflor, pepino... licuarlas y beber sólo el jugo (lejos de comidas). 1 o 1.5 litros día.
-- Sólidos: carnes y pescados (poco). Evitar aves de supermercado (sólo granja). Patatas no fritas, lentejas, garbanzos, semillas / aceite de girasol, oliva o coco, arroz integral, quinoa, mijo, tapioca... Nunca vinagre o limón (cambiarlo por levadura de cerveza). Nunca frutos secos, espinacas, chocolate o té.
-- Evitar B12, porque así se multiplican los parásitos.
-- Sólo sal marina.
-- Todos los días kefir (sólo de agua) o probióticos (acidófilus): nunca yogur.
-####011notas09.txt  ##Limpiezas (pinceladas):
-- Limpieza renal (antes de hacer una limpieza de hígado, para filtrar toxinas):
-- Limpeza hepática (antes y entre cada limpieza hepática, limpiaremos el colon), frena la caída del cabello.
-- Los receptores de la glucosa y la vitamina C (protege) son los mismos (la glucosa es competidora): cuando necesitamos vitamina C, deseamos dulces, curioso.
-##Otros:
-- Sal auténtica (grandes marchas sin comer de guerreros). Era natural hasta los años 50 (pero "se aterronaba"). Ahora tomamos necesario pero insuficiente ClNa, con blanqueantes y hasta aluminio. Se recomienda agua de mar al 25% (el resto, agua, cogerla por encima de la cintura); ¿beber sorbitos cuando se necesite?
-- Azúcar (la de hoy roba nutrientes). El buen azúcar es el mascabo: se calienta el jugo de caña a unos 60 grados, y la melaza espesa resultante se deja enfriar, y se solidifica. Ahora se muele, y el color es amarillo.
-- El cuerpo, por salvar riñones e hígado, produce obesidad. La grasa (cuidao con los hidratos, NO con la grasa) acumula toxinas, y cuando adelgazamos, ¡esas toxinas producen "rabia"!
-- ¿Por qué nos sentimos eufóricos cuando tomamos Cocacola con cafeína? Se segrega adrenalina para neutralizar la cafeína (y hay un sacrificio de reservas de alcalinos para neutralizar la adrenalina).
-- Al cocer vegeteles, lo mejor queda en el caldo.
-####Medicina china (un poquitín).
-##tecnicas usadas (aparte de acupuntura para los meridianos, o digitopuntura):
-- Iridiología (iris). Muestra patrones genéticos y tendencia psicológica.
-- Moxibustión (moxa, fuego): hierba artemisa y aplicación de calor sobre puntos de acupuntura.
-- Reflexología: masajes en los pies (aquí está "todo el cuerpo). El masaje en general permite conocer el estado psíquico.
-##Las 5 pasiones (son negativas). Los desequilibrios son debidos sobre todo a la mala digestión de la realidad que vivimos, un exceso de reflexión sobre cosas que no aceptamos / no compartimos, y a la falta de voluntad por tomar los mandos de nuestra vida:
-- La alegría va al Corazón. La ira (irritabilidad, frustración, insatisfacción...) va al hígado. La tristeza excesiva ahoga al pulmón (se suspira para desbloquear la energía; y cuidado con la inquietud y la ansiedad). La reflexión va al Bazo (prisas y estrés relacionados; obsesión: la persona sufrirá insomnio, olvidos y astenia mental). El miedo hace descender la energía, y va al riñón (pérdida involuntaria de orina y heces). NO tener ganas de vivir afectará al riñón.
-- El miedo triunfa sobre la alegría. La alegría sobre la tristeza. La tristeza sobre la ira. La ira sobre la reflexión. LA REFLEXIÓN SOBRE EL MIEDO. Si tienes ira, llora si puedes.
-##Fuego = corazón. Madera = hígado. Metal = pulmón. Tierra = bazo. Agua = riñón.
-####SALUD:
-##CABEZA: cantar, bailar, idiomas (Alemán...), relaciones positivas, ejercicio físico 90 minutos al día como mínimo...
-- Atención:
-* Mal: ¡más vale estar sordo que oír esto! No acepto la crítica, no acepto entrar en razón, no me acepto como monstruo que soy, con todo lo que me queda por mejorar interiormente. No sé qué contestar y me hago el sordo. Me siento fácilmente rechazado, y me aíslo de los demás.
-* Bien: mi voz interior me dirá cómo resolver los problemas, me abro a los demás. 
-- Memoria: ver de un vistazo y descansar. Estudiar con vela azul (cada color es una frecuencia).
-- Confusión mental (por calor...): lleva a que los sentidos funcionen peor. Si padeces depresión, ansiedad, estrés, bipolaridad... serás más propenso a sufrir irritabilidad, debilitamiento o aturdimiento ante situaciones extremas. Solución: omega 3. ¿Mirar un objeto para captar sus características esenciales y nombrarlas? Música 10 minutos: focalízate en un instrumento (deporte: en un jugador). Escucha 5 minutos un discurso (radio / tele). Escribe las ideas principales.
-- Más: descanso. Ver algo positivo en los retos que te pone la vida (desreprimir por Jung...). Los videojuegos nos ponen analíticos, son buenos en pequeñas dosis (si son viejos y no tienes que leer muchas instrucciones).
-##Cuerpo:
-- Dientes:
-* Comidas que remineralizan. Leche y queso de leche cruda, ¡crudos! Un poco queso tras la comida puede ayudar al PH. Manteca de vacas alimentadas con pastos. Huevos de gallinas camperas. Carnes de pastoreo. Vísceras.
-* No: mucha fruta o cítricos, vinagre normal (cebolletas y pepinillos en exceso), café y té (tienen taninos, lávate de inmediato, ¿y el vino es peor que la nicotina?), muchos crujientes (patatas fritas de bolsa, gusanitos, frutos secos; "cepíllate" bien para quitar el almidón), Refrescos (bébelos con un vaso de agua al lado), alcohol (seca la boca), [sal y especias] en exceso.
-- Hígado:
-* Requiere cenar muy temprano y decirle ssssshhhh (en taichí se pronuncia internamente para quitar la rabia). Higado malo implica falta de concentración, estreñimiento, enfado, apatía, dificultad para tomar decisiones...
-* Comida buena: manzana (antioxidantes, pectina para la digestión), garbanzos (aminoácidos para las enzimas limpiadoras), puerro (azufre, como ajo y cebolla), alcachofas (son amargas).
-* Comida mala: prefabricada (genera hígado graso / dificultades para filtrar el alimento), comidas pesadas (soy del grupo 0, aquí somos diferentes).
-- La albahaca purifica el agua. ¿Y los lirios?
-##Salud interior y social:
-- Mi intuición me dice que la ocultación de información dificulta los procesos de entendimiento entre personas, de comprensión. ¡Tibios al Infierno ya, mala gente!
-- ¿Eres una persona manipulable (cambias de opinión difícilmente o demasiado rápidamente)?
-* Buscas aprobación externa: cuando seas persona, buscarás sólo tu aprobación.
-* Metas actuales: mi motivación interior o [modas y convencionalismos y necesidades del entorno].
-* Te están manipulando: termino relación, pierdo control, se lo digo directamente.
-- Podría aceptar toda una corriente fea de imperfección en una habitación, centrándome en la harmónica.
-####00303sociosuenos.txt  
+* LOS INTELECTUALES APOYAN A Y DEPENDEN DE LOS PODEROSOS.
+* A las cortes debe ir gente "de un pueblo" (es igual a la organización de los bere en batzares, cada vez más importantes). El Rey de las Cortes de León, 1182, está sólo como representante, ni corta ni pincha. Toda persona debe conocer la terminología (no hay "médicos ni abogados"). Por otra parte, el consejo local determina quién debe ser juez.
+####FélixRMora sobre votar y la no necesidad del Estado.txt  - El patriarcado es necesario para el Estado (competir, falta de ternura...).
+* La Industria moderna surge de robar los bienes comunales...
+* ¿Vas a votar? Mitin (arenga o sermón): te adoctrinan.
+* Se nota la dictadura en que trabajamos para estar ocupados, en cosas no necesarias.
+####FélixRMora vota y calla candidatos sólo palabras.txt  - Voto nulo: cuenta como participación (legitima el sistema; si la abstención es muy grande, es cuando se puede hacer justicia de forma legal).
+- Voto en blanco: baja el porcentaje de todos los partidos, y si tienes como mínimo el 3%, algún partido pequeño puede no llegar).
+##Derecha e izquierda siguen el mismo programa, el de los "titiriteros de atrás".
+####Bellotas. Hace 200 años el nivel de vida era bastante + bajo, pero había más felicidad y menos necesidad (se producía sólo lo necesario, que además necesitamos tiempo para la Psicología y la contemplación, y la diversión).
+- Plantarlas en tierras de pastoreo abandonadas, pineros, lindes del camino... Desde los montículos, el árbol fertiliza el valle.
+* ¡Y cáñamo, que crece sobre lo quemao! Y combinar (albahaca, tomate y cebolla) para evitar plagas (¿Y esas plantaciones con coronas de varios tipos?), ¿quemar pinos controladamente para fertilizar?
+- Eucaliptos (no hay vida en ellos). El pino castiga las tierras calizas (el bosque autóctono caducifolio regenera suelos):
+* Pino marítimo en tierras pobres (para las secas, ¿almendro silvestre?), con encinas a su sombra. El roble atrae agua.
+- Plantar: 1 m mínimo distancia, 2 o 3 bellotas. Cerca del pino (las peores horas del verano debe dar sombra).
+####A mediados del 19 (antes de las desamortizaciones que dejaron a la protectora aunque sibilina Iglesia española en calzoncillos), empieza a morir cruelmente el bosque y el neofeudalismo (UK): ya no necesitaban humanos, las máquinas...
+- Se vestía lana, lino, seda (calidad)... Hasta que vino el algodón.
+- La gente pasaba de un trabajo a otro (eso potenciaba su inteligencia integral).
+- La especialización (Universidad) se creó para destruir lo humano (todo está conectado). Los ecologistas de sillón, desertizán, asfixian...
+* La "Uni" te desconecta de la realidad (la empresarial no es "la realidad"). La intelectualidad embrutece, y al no usar el músculo, el cerebro no se oxigena. Crea rebaño (todos iguales, pensando en el hombre como violador, y que la mujer debe hacer su voluntad sin criterios morales para aplastar por supuesta venganza, siendo insoportable), y enfermos ávidos de conocimiento vacío y reconocimiento. Jerga pretenciosa del profesor, que suele decir nimiedades. Te angustias pensando cómo puedes aplicar lo aprendido (sin engañar...). Sólo busca el control.
+####libro FélixRMora 00. Desvelando un poquitín de Naturaleza Ruralidad y Civilización.
+##La desamortización de Mendizábal (España, siglo XIX) había hecho daño a la gente (la Iglesia los protegía de algún modo), muchos de los cuales se habían ido a las ciudades. Pero seguía habiendo gente autónoma, libre por así decirlo, en el entorno rural, y eso no casaba con la máxima de la Falange: por el Imperio (todo Imperio es paio, y la derecha es un camino a la izquierda y el ancestral comunismo paio, al que podemos llamar "judío"; y como colofón, creo que el Franquismo no era sólo gente de derechas; y también os recuerdo que la reunión para la segunda república, eran masones en su mayoría; Franco no me parecía masón, sino bere, sobreviviendo "por la gracia de Dios", ¿y las hienas que tenái alrededor?). Imperio significa industria poderosa,  población sumisa y dependiente...:
+- Para conseguir "el Imperio" en España, se necesitaba romper las relaciones entre la gente, y que ésta se introdujese en el mercado bancario, entre otros.
+##Seguimos:
+- ¿El proletariado industrial ayudó al partido Nazi? Entonces los veraderos enemigos eran los rurales. La agricultura industrial y la mecanizaciónd el campo, estaban en el programa (no sé de quiém, pues la derecha y la izquierda tienen el mismo "padre oculto", y al Guerra Civil española era como une nsayo de la Segunda Guerra Mundial). Ramiro de Maeztu propugna el uso de abonos químicos, construcción de grandes obras hidráulicas... Y a continuación, va uan lista de instituciones malignas:
+* Servicio Nacional de Trigo (que se extendió a otros cultivos). Las prestaciones (silos, abonos...) creaban el terreno para el monocultivo cerealista. Se decía que protegía al agricultor (pagándole alto el grano), pero había gato encerrado. Se obligaba al campesino a entregar todo el grano comercializable, ¿a golpe de pistola (eso rompía las relaciones económicas de siempre con los demás vecinos, y debían comprar para subsistir)? Se les pagaba en "pagarés del Banco de España", con lo que se introducía al campesino en el mundo bancario. Además, se introdujo el crédito, monetizando así la vida del país (¿preparando a la gente para empleos de comemierda, que la hacían dependiente?). Y llegó el regadío industrial, que lleva al monocultivo y al agricultura de comercialización.
+* Las hermandades de labradores y ganaderos eran "sindicatos" que proporcionaban carburante, abonos...
+* El Patrimonio Forestal del Estado (futura ICONA) repuebla con especies de crecimiento rápido, empobreciendo. El Estado se dedicaba a cobrar impuestos, escatimando a lso aldeanos todos los "servicios": médico, maestro, carreteras, electricidad...
+* Mencionamos el Servicio Nacional de Concentración Parcelaria y Rrdenación Rural, que promovió el monocultivo.
+* 1957. Servicio de Extensión Agraria (tecnología y químicos). El estado se hacía cargo de algunos gastos. ¿Todo un plan para ahogar al campesino?
+* 1962. Decretos de Ordenación Rural (el fin). Internet podrá decir que era para bien, pero...
+##Más:
+- Con el franquismo (que tanto PSOE como PP son hijos de él) el trabajo pasó de ser del menor esfuerzo para lo necesario (con lo que uno tenía tiempo para humanizarse en vez de embrutecerse), ¡al fin último! Y había que desfogarse gastando por el inmoral estrés, ¡como hoy, que llevamos una vida imbécil! Resultado: crisis familiar, de amistad y de valores básicos (por competir...). Al neofeminismo le gusta esto del trabajo. El verdadero feminismo consistiría en que la gente volviese a la madre tierra y fuese menos solar (que trabajase menos):
+* Las empresas mandan y tú obedeces sin saber la causa primera. El entendimiento y la exposición de ideas, ¡a la basura! Si sólo puedes exponer ideas "productivas", mal vamos, hay que exponer ideas sobre la concepción global de la sociedad, sus pilares...
+- Pero faltaba algo: hacer que el campesino se sintiense poco, sucio. El documental de Las Hurdes (tierra sin pan) es una manipuñación. La escuela transmitiría una idea negativa del campo ("reírse dle paleto"), y la Segunda República dedicaría mucho a "la enseñanza":
+* Becas y becas para alumnos rurales (hombres y mujeres robóticamente intelectuales).
+* ¿El Cine de Hollywood anunciaba las ciudades como edenes?
+- Finalmente:
+* La medicina y farmacopea populares se pierden (y la buena relación entre vecinos).
+* La propaganda de "rebeldía juvenil" surtió efecto. El pueblo ya había hecho el esfuerzo de la crianza de lso chicos, que ahora irían a la ciudad.
+####libro FélixRMora 01.
+- La gente del pueblo envejece, y cambiarla por emigrantes, sería destruir una cultura milenaria (les encantaría a los de izquierdas), comenzada en la alta Edad media (antes del 1.000), un periodo mucho más elevado de lo que nos quieren hacer creer. NO se trata de ir a vivir al campo haciendo lo mismo que en la ciudad (páginas web...), sino de un cambio cualitativo personal, y una regeneración en todos los sentidos (una vuelta a los tiempos dorados de la convivencia, y máquinas, las justas).
+* La sociedad rural es participativa, ahí tú decides, y a los pocos días, se te quita el miedo a la responsabilidad que otorga la libertad. Habla de los bagaudas como ejemplo. Puedes buscarlos en Internet... ¡Eh, que los visigodos eran bere, y los berebere del siglo VIII! Eso sí, romanos del siglo V, francos, judíos que no permanecían en "Tierra Santa", y musulmanes (los que vinieron tras el siglo VIII), ¡a la hoguera, que aquí estaba el Cristianismo, y dando buenos frutos! Más que el estoicismo, yo abogaría por una simple mirada al interior de cada uno, para fortalecernos. NO es sólo Jung, es Hamer, los pecados REALES...
+* Tartesos era genocida y agricultor (los paios). Los celtíberos basaban su sociedad en valores, y hacían harina y pan de bellota.
+- Hacia una agricultura popular:
+* La agricultura / remover la tierra para plantar (introducida por los paios, por ejemplo, tras conquistar la India con su diosa satánica Kali) es algo diferente en cada parte del mundo, LIGADO A LA CULTURA Y PAISAJE LOCALES. Entonces, ¿se puede aplicar permacultura en todos los sitios? Es de gran importancia, en cambio, disponer de frutos silvestres. LA ALIMENTACIÓN NO ES CUESTIÓN DE INGENIEROS, GURÚS ECOLOGISTAS DE DESPACHO DESTRUYEECONOMÍAS...
+* En el siglo XVIII se mejoró la producción sin aumentar la superficie cultivada, con abono vegetal (cama para el ganado), toxo (fabácea autóctona) y estiércol para los cultivos. ¡la mierda es la clave, sin duda!
+* Otro ejemplo positivo: layar (laya: ¿2 mangos, y de la U, salen "pinchitos aireadores"?) en vez de arar, que acaba con la tierra. Yo, personalmente, defiendo que se lave como siempre, y que no se esté cambiando uno mucho de ropa ni duchándose 2 veces al día. Si estás sano, no olerás desagradablemente para una persona civilizada. Además, muchas limpiezas se pueden hacer en seco. ¡En el lavabo, y sin detergente, puedes hacer 2 lavados antes de echar a la lavadora (pañuelos...)! Haz menos tonterías de ciudad, y tendrás más tiempo. Luego hay gente "superlimpia" (superasquerosa en realidad) que se las dan de responsables (lo que son es quisquillosos, miedosos de lo que digan los demás...). Cuando tienes al lado un aliado rural, en vez de un psicópata de empresa (o un asperger ilusionado con la tecnología), llegas más lejos, vas como llevado por ángeles.
+* El veganismo defiende la agricultura tóxica institucional, y no distingue entre la ganadería tradicional y la de explotación.
+- El pueblo (sano) es creador de saberes, valores, con su espiritualidad... no un simple consumidor de cultura. Con el profesaorado, el niño acaba adoctrinado, ya no es casi nada. Y las élites (y sus secuaces presuntuosos e ignorantes como un joven) se han encargado de casi extinguir la cultura popular SERIA, ¿de cuanto tiempo disponemos para que la llama no se extinga (lo de los bailes regionales... bueno, se salvan algunos trajes; pero no hablan de cómo se construían las casas entre vecinos...)?:
+* Sí, también apuesto por la cultura oral (o creo que la oral era "la de los buenos").
+- Es importante recolectar hierbas y plantas silvestres. ¿30% de productos silvestres para alimentarnos? Si vivimos de los frutos de los árboles, habrá árboles (hay que volver a la etapa de recolectores, eso era el verdadero Edén). ¿La maleza te salvará la cabeza?
+- NO vayas al campo a cultivar un huerto, sino a cambiar de paradigma vital (cambio de relaciones...).
+- Habla del Proyecto Arrendajo (plantar caducos quercus, que enriquecen el suelo, usar inmorales pinos de sombra, y talarlos después). La burguesía necesitaba mano de obra barata, y plantando pinos, se echó a mucha gente del campo.
+- ¿Esbozo de plan (cooperación...)?:
+* Denunciar y resistir a la PAC (hunde al agricultor, promueve el monocultivo...) y la UE.
+* Tomar como base el pueblo o la aldea.
+* Recuperar el autoabastecimiento, artesanía autoproducida y pequeña industria.
+* Reducir agricultura de exportación y apagar el regadío moderno.
+* Abonos tradicionales, rotación de cultivos y barbecho (dejar descansar al tierra).
+* Rechazar la hiperactividad legislativa que padece el campo, que es la fuente de la vida.
+* Recuperar el sistema de concejo abierto (Batzar-es en Elengoa).
+* Autonomía energética.
+* Recuperar el sano y gozoso erotismo y repoblar.
+* Mío: saber para qué sirve cada uno (Psicología...) con tests numéricos si hace falta.
+* Escuelas de agricultura y ganadería populares.
+####libro FélixRMora 02.
+- La gente de la ciudad (esclavos hipnotizados que compran diversión en vez de crear, ampliando su inteligencia) nunca ha creao cultura propia. Muchos cancioneros populares podrían abrirnos los ojos.
+* Boda: más de la mitad de lso asistentes cantaba a los novios composiciones suyas, ¡si hasta se fabricaban los instrumentos! Enseñaban en las fiestas lo que sabían hacer, pero no por narcisismo o "venusianismo", sino para aportar conocimientos gratis a la comunidad. ¡Incluye cómo reírse de "ricos y famosos"! Don Quijote: los montes crían letrados y las cabañas de pastores encierran filósofos, ¡y la mayoría de los licenciados universitarios se tragaron la pandemia!
+* Antes la fiesta era hermandad (¿150 al año para conocerse mejor? Ahí los psicópatas no sobrevivían je je, ¿y los semipsicópatas?), no simple consumo. La fiesta actual es de "Tristania", requiriendo a veces narcóticos...
+- Al trabajar cantando (los Mayos son más bien para el enamoramiento), se alivia un poco el dolor. Hoy se trabaja llorando, siguiendo las pautas modernas.
+* Las sociedades opulentas tienen vedada la diversión: el materialismo acaba con la alegría genuina (depresión sonriente de mucha gente que conozco... es más, hay mucha gente de "disfrutar el presente" que son bastante infelices, aunque sonrían).
+* El campesino no tenía nada de bruto. Al florecer los linares, se iban todos a contemplar por horas (el éxtasis de la belleza). Y tenían remedios curativos (podría integrarse la Medicina China, que tanto nos gusta a mí y a Santi Royuela; y claro, la Psicología de Jung si no lo estaba, Hamer / Nueva medicina germánica si no lo estaba, Transgenealogía si no lo estaba, Cristian Zeballos y Leo en Phi, Astrología si no lo estaba...).
+- Consideraban eso sí, el futuro, como una repetición del presente. ¿Conformismo / debilidad, con lo que el Estado los destruyó?
+##PUEBLO Y CARLISMO vs LIBERALES CONSTITUCIONALISTAS:
+- ¿A principios del 19 se quería convertir a España en una potencia militar / antiagraria, para igualarse con UK y CIA?
+* El pueblo estaba embravecido tras vencer a Napoleón, y no era el momento de aplicar la satánica Constitución de 1812 (la Pepa, ¡cuanta "p" paia!). Rafael del Riego (liberal), es elegido para en 1.820, aplicarla. Yo creo que Fernando VII no era tan malo (lo pintan malo los libros de Hitoria, que son paios): Lady Gaga canta contra Fernando, RoBERto y Alejandro.
+* El Carlismo (Don Carlos) no era muy diferente del Liberalismo (los 2 querían un poco cargarselos bienes comunales), pero defendía que siguiese la exitosa forma de mantener la Administración Americana, que el Liberalismo tal vez fuese contraproducente para el territorio particular de España, y que la guerra civil "perdida contra el pueblo", era un despilfarro de recursos.
+* En 1.840, con el liberalismo triunfante, España había perdido mucho poder. ¿Que al querer cortar de raíz lo euskal y navarro, empezó un problema diplomático que dura hasta nuestros días? ¿Con los Carlistas habría habido alguna clase de federalismo en vez de nacionalismo "chungo"?
+- El pueblo (en 1.808, habían forzado a las élites políticas y militares contra Napoleón, ¿y harían lo mismo contra el liberalismo antes de 1.840 usando a el Carlismo?).
+* El pueblo, ya por aquel entonces (poco antes de 1.840), tenía una calidad media demasiado pobre como para dirigirse a sí mismos (imaginaos la calidad del individuo de hoy) y luego establecer una alianza con los carlistas. La resistencia es mayor cuanta más importancia tiene el comunal (menos mercantilizada está la vida...).
+* ¿Se fracasó porque sólo se pensaba en frenar, no en eliminar? También porque los carlistas hicieron lo imposible por reducir la acción popular (y en guerra el que terminaba perdiendo era el campesino), y de haber ganado, la situación poco habría cambiado (eran carlistas, cercanos a los liberales). Entonces, las revolucioones físicas, ¿son siempre malas? Las interiores, NO. ¡Y riámonos del rico, que es un infeliz! Que vaya a casa del "pobre" medio sabio, a ver lo que es el amor y la esencia de la vida.
+- Liberalismo:
+* Hasta 1.890 no dejaron votar (y sólo a los hombres). Por aquel entonces votar servía de algo, no era un ordenador el que decidía el resultado.
+* El control (fiscal...) es peor que el de la Inquisición, la escuela para todos aborrega... El Estado se fortalece. ¿Y el liberalismo actual, lo que pretende es usar al ser humano como simple mercancía, sin que haya protección, pero con los mismos impuestos y eso?
+* Hay que borrar todo rastro de ley (lesivas en principio las leyes) de aquellos tiempos que permanezca.
+* El General Espartero (liberal) era un carnicero (los carlistas, también, pero visiblemente menos que los liberales, ¿que podríamos asimilar a la izquierda en los años 30 del siglo XX en España?).
+* El pueblo sólo pensó en defender, no en formar una sociedad libre y avanzada (para eso es necesario estudiar y practicar psicología avanzada, os lo digo yo).
+##Por una sociedad desindustrializada y desurbanizada (soñando con una sociedad civilizada, no de acumulación de poder y esclavismo):
+- Desindustrialización:
+* Las necesidades de bienes básicos pueden satisfacerse mejor con sistemas ajenos al maquinismo (datos para el control, demasiado tecnológico, pero hay pueriles y "aspergers" fanáticos de lo tecnológico, y la escuela te vuelve asperger y hay que despertar...).
+* La fábrica / oficina, aniquila la inteligencia, la voluntad... y producimos cosas cada vez más horribles e innecesarias (los trabajos son de comemierda, pa cuadrar estadísticas, y los envidiosos te preguntan que por qué no trabajas).
+* Con lo tecnológico se ha devastao el planeta, y se ha perdido el sentido de lo que es esencial (demasiado uso del celular / móvil).
+* El sentido de la vida es inmaterial, es la mejora de la psique, y con tanto entretenimiento, "lucecitas de colores", ya somos incapaces de asociar conceptos...
+* HAY QUE ENSEâ€˜AR A LA GENTE A USAR LA TECNOLOGÍA POCO, PARA USOS ELEVADOS. ¡FIJAOS EN LOS NIâ€˜OS DE LOS 80, ERAN FELICES! ¿QUÉ NOS HA PASADO AL CRECER O PASAR LAS DÉCADAS!
+* Es fundamental un cuerpo atlético y sano (subir a algunos árboles... Hamer dice por qué estás gordo) y no dañar el mundo (contemplar...). Lo que más debe motivar es la búsqueda de la verdad, aunque duela (la Universidad te ha mentido y ocultado cosas, cuando no ofertaba carreras para aspergers...). Luego está el deseo de libertad, y de convivencia y afecto mutuo. La verdadera belleza (no mostruosidades actuales) debe ser mostrada. ¡Lo más bello es la verdad sobre uno mismo, el ver tu negritud / represiones! Llevar a la sociedad a un nivel superior, no se consigue sólo con máquinas (es al revés).
+####libro FélixRMora 03.
+- Desurbanización:
+* Los modernos van a Londres o NY a empaparse de vanguardistas disvalores.
+* En el siglo IV, el monacato cristiano sale de la ciudad para llevar una vida más o menos ejemplar en la zona rural. Las ciudades romanas de Occidente estaban "cayéndose a cachos" (menos mal). ¡Negación del dinero! Tiene su parte buena, porque hay tanta gente que cree que hace algo, y encima cobran...
+* El ascenso de ciudades y villas, coincide con el comienzo del ocaso del concejo abierto (Batzar en Elengoa). Como mucho, unos pocos miles de habitantes, para que se dé el autogobierno sin caos (lo delas ciudades sostenibles es terrorífico). Desde luego, hay una superioridad moral manifiesta de los habitantes del campo, siendo los de ciudad evidentemente más inmorales / ciegos.
+- ¿Que el comercio justo es monocultivista? Las etiquetas suelen traer engaños detrás.
+##EL CONCEJO ABIERTO (¿LOS DOMINGOS DE HACÍA / HACE, Y SIN PAIAS SUBASTAS?) Y EL MUNDO RURAL POPULAR:
+- Sí, el progresismo (leyes "trans"...) pretende una dictadura total.
+- Hoy el concejo abierto no es el de ayer, y sirve para que el Estado llegue a las pequeñas poblaciones. Todo un engaño.
+* Una democracia no puede ser más que directa.
+- Los vascos tienen el auzolan (trabajo comunitario no remunerado, ¡bieeeen!, realizado como deber cívico admitido por convicción interior; el 90% de los trabajos oficiales, no los considero útiles, y probablemente no lo sean), la cooperación solidaria y el concejo abierto.
+* Se ha de despertar algo que funcionase en el pasado, y llevarlo a nuevas cotas.
+- ¿Las capitales no existirían en una democracia real? Pero sí asambleas, que se reúnen en... Y al final, el "mandamás" simplemente da testimonio, todas las ideas han salido de las asambleas locales.
+* ¡Ni los reyes acabaron con el poder vecinal (se coexistía; la nobleza no me asusta tanto como la burguesía)! La dictadura liberal, sí. Se contaba hasta con una milia propia (cada zona asamblearia, supongo).
+#Funciones del concejo rural (primera fase, apogeo, hasta siglos 13 y 14, segunda, hasta revolución liberal):
+- Álava siglos 16 a 19: sólo se ocupaba de realizar obras, mantener servicios de interés general, distribuir el producto entre familias, repartos por sorteo de parcelas a cultivar, cuidado de los montes, reposición del arbolado, el pastoreo, extracción de madera (comercializable muy pocas veces)...
+* NO se conocía el alcoholismo. La gente se quería entre ellos, y era para ellso muy fácil divertirse en la fiesta posterior al trabajo comunal (pan, queso, y un poco vino; yo prefiero agua). El aguardiente y otros destilados, fueron introducidos por los liberales.
+* Contrataba educadores (que también redactaban los reguladores Cuadernos de ordenanzas, adulterados el día de hoy) mantenidos con lo que daba el comunal. Mantenía buenas relaciones entre vecinos, ¿y si uno era psicópata? ¿Obligaban al otro a no autovictimizarse ("jo, yo esperaba más...")?
+* En la asamblea estaban proscritos el interrumpir (si alguien habla mucho, interrúmpelo eso sí, y 2 palabrejas de clarificación nunca van mal; por ejemplo, el que habla decía una lista de cosas, y se le había olvidao una; o va muy desencaminado), los insultos y el alzar la voz. Ahí se daba cuenta de cómo iban las misiones particulares.
+* El fin último es que nos amemos los unos a los otros. Para ello, propiedad familiar, ¿no individual? Bueno, puede considerarse; eliminación de relaciones jerárquicas, eliminación de objetos "materialistas", ¿decoración austera incluso? ¿Estaba proscrito interrumpir cuando se estaba gozando, por ejemplo, se llevaba 2 minutos mirando a otro a los ojos? Yo interrumpiría para una frease de menos de 10 palabras. Lo más importante es saber expresarse con economía, estructuración, intuición (incluye empatía), paciencia, profundidad...
+
+########################################
+#####ELENGOA: LENGA MADRE ORIGINAL######
+########################################
+####Lengua Elengoa. Goerreig la luz llegó con el despreciado, el luchador.
+- El bere dedica su vida a llevar luz donde no la hay, y no ha venido a disfrutar de la vida, aunque disfrutará descansando...
+- Términos:
+* Elegido: de la verdad de él.
+* Adorar: acción de pedir al cielo, negativo. Benerar (positivo): acción generativa del segundo.
+* Kabele: tierra obra del segundo como creador. "Ka" en un término bere.
+* Eurobe: propiedad parida por el segundo.
+* Eregi (herejes): la verdad es generar.
+- Más:
+* ¿El primer BE fue pelirrojo (las élites oscuras los quieren exterminar) y el segundo rubio?:
+* ¿El loto de 8 pétalos es bere? ¿Y qué pasa con los paios loteros? ¿El cubo son 8 vértices, y de ahí la arquitectura bere no circular? Los chinos fueron muy bere, con 8 y 15 como números de la suerte.
+##Israel: Él es RA (el malote solar paio. El de 12, no de 13). Pero los judíos no son malos en principio (los sabateos sí, y se hacen pasar por judíos de pro).
+####Los sonidos en el elengoa:
+- Las vocales (a, e, i, o, u; ¡el español es sano!):
+* a: lo manifiesto, masculina.
+* e: lo que puede ser pero aún no es, femenina, pasiva. Forma de las cosas, forma el plural. 
+* i: la i constante es el movimiento y la capacidad de pensar (pruébala mientras espiras lentamente). Cabeza y 5 sentidos.
+* o: lo que no tienes delante de los ojos. Vibración ascendente. ¿Tronco más bien alto?
+* u: origen de cosas. Su espiral va hacia abajo. Se relaciona con los órganos sexuales y el bajo vientre, y con manar agua, y significa lugar o sitio: EDERU = hermoso lugar.
+* Construcciones: AIO (adiós): desde lo manifestado (A), me muevo (I) hacia lo no manifestado. OIA es hola.
+- Las consonantes dan información de cualidades y utilidades: 
+* M: fuerza creativa femenina y material.
+* T: construcción levantada por el hombre y que se hiergue hasta el cielo. OL: sitio donde se fabrica o se crea. Luego TOL es un sitio donde se fabrican rascacielos, ¡ciudad!
+* R: acción.
+* D: cualidad. 
+* La B puede referirse a un ente biológico.
+##Más:
+- Trabajo (btr): acción realizada por un ente biológico para construir.
+* Ruso: rabota. Esclavo es rab en ruso; un robot parece ser un esclavo.
+* Alemán: die Arbeit.
+* Trabajo positivo: los islandeses dicen vinna (la v o la b junto a la i es el destino, la vida; la N es una acción que uno hace en beneficio propio supongo).
+- La Z (energía):
+* Zoro = energía sin control.
+* Los rusos dicen Zvuk al sonido: energía universal (Z) que al ser modulada (U), se convierte en manifestacion material (K). Los escandinavos lo llaman LUD (Cualidad de la encapsulación U de la energía L: onda física).
+- Más:
+* Su significa fuego (sol es Sun en inglés).
+* Din es medida. Eros es compra. Dinero: medida de compra.
+* Estrella, Stern, star: ist es que desprende rayos de luz (elengoa).
+* Ezaborio (desaborido en español). Ez = no, bor = boca, y ari / ori = portador de condición.
+* Guerra (erra = hacer, gue = frontera).
+* Discurso (es negativo) = dei kure se (es llamada / proclama de los Kure). Deitu (llamar, infinitivo con tu, como lenguas arcaicas de América).
+####Jeroglíficos, escrituras ibérica y etrusca, griego antiguo, cretense o cuneiforme (anere), ¡están en Elengoa (por Alexandre Eleazar)! Con el Elengoa todo cuadra.
+- En Elengoa no valen los dobles juegos de palabras... Es la lengua de la honestidad. ¿Que sólo hay unas 400 raíces morfológicas? Sin añadir raíces nuevas, podríamos nombrar objetos actuales.
+- ¿Conociendo el significado de los personajes, pueblos y razas que representan ciertos términos, es posible traducir BIEN / "originalmente" muchas palabras usadas en la actualidad?
+####Un poco más:
+- ¿Por qué se quiere modernizar el vasco? ¡Para volverlo paio! Epa, pues... ¡Valdeande!
+- ValdeandeMágico (JoséAlfonsoHernandoAbejón). Cuando hablamos emitimos pulsos (ho - la), vibraciones, cada cual con su efecto sobre la materia. Con el euskera, Eleazar vio los pulsos originales para los que fuimos DISEâ€˜ADOS: llegan a tus células (para "refrescarlas").
+* Live (vivir en inglés) = evil (al revés) = el maligno (cuidado con el Inglés). Lots of Laughs (montones de risas) = LOL (707), y si das la vuelta, 101 (edad a la que mataron a Rockefeller su propio entorno para un rito). ¡La habitación 101 de 1984-Orwell, donde las élites presionan tanto que NO te queda más que competir y desear el mal ajeno para salvarte (la realidad, vamos)!
+- El lenguaje universal es el de la telepatía, e íbero y euskera, vienen a ser lo mismo.
+- ¿Pelayo = paleio? ¿Una invencion?
+- Paio = pagano = satánico. La Iglesia es paia, pero nos hizo conservar valores (valores anti-Beyoncé je je).
+####TEXTO:
+- Go-le go-ra be ez-kur-tze ar-gi.
+* Gole = la tierra de Dios. Gora es viva. ¡Viva la Tierra de Dios!
+* Ilustre (argi = luminoso) bellotero (ezkurtze) del BE (genitivo sajon en BE, pero sin la s).
+- alan e-rrei-nu an-bi-ola ara-zi itu-n ain tu-roi-a (iru)-an:
+* Así (alan), el reino en tiempo antiguo (ola = viejo) obligó (ara-zi).
+* Acción / resultado de cerrar (pacto en este contexto; itu-n).
+* Tan importante (ain) de Troya (Francia) en Iruan.
+- Runas. GO = H; LE = v invertida; RA = triángulo mirando pa la izquierda...
+####Esperanto a la Luitisa, lengua ancestral (programa en Java con ejecutable en GitHub).
+##Naturalmente, hay fallos (en todo menos en Español; se quitan las tildes... pa simplificar). ##SE EMPIEZA EN ESPAâ€˜OL, Y LUEGO SE TRADUCE A ELENGOA / PROTOEUSKERA o EUSKERA (si NO hay más remedio), EL BONITO ALEMÁN, Y EL IMPERIALISTA INGLÉS.
+##Letras que el buen Elengoa evita: cfh jñpq vwy. Usa: abdegi klmno rstuxz
+##Obtener el .exe:
+- Eclipse y jdk 1.6.0_45. Export para conseguir el .jar a partir del .java.
+- Launch4j. Va a tener que ser una versión bastante vieja, que no requiera el jre8 (cmd, java -version). El 3.12 va. Seguimos.
+* En basic pones el .jar (la ruta), y cómo se llamará el .exe (igual que el .jar je je, pero con extensión .exe, pon ".exe" por si acaso).
+* En header pones console (no gui).
+* En JRE pones C:\Archivos de programa\Java\jdk1.6.0_45\bin (donde lo tengas tú) y en min, 1.6.0_45. Poner 64 bits (en mi caso).
+* Poner como clase principal esperanto.Esperanto. Es el nombre del package, y el nombre de la clase.
+####Frases:
+- Yo ser femenino.
+- Tú estar ahí.
+- Él (pasado) dar beso (cindirecto) (genitivo) Marta madre en frente. To Marta's madre.
+- (genitivo) Marta (genitivo) madre madre. La madre de la madre de Marta.
+- Ella ir a Gijón. Ella ir en coche. Ella ir con Alexandro.
+####Gramática (FALTARÍAN LOS TOKENS / TÉRMINOS GRAMATICALES, EN OTROS 3 IDIOMAS).
+##Todo y frases:
+- Todo = frase.
+- frase = sujeto + SER + adjetivo; sujeto + ESTAR + adverbio; sujeto + verbo + [complementoDirecto + [complementoIndirecto]] + [aditamentoPreposicional].
+##Pendiente de la fase anterior:
+- adjetivo = AGRADABLE; GRANDE; PEQUEâ€˜O.
+- adverbio = AHI.
+- sujeto = sintagmaNominal.
+- verbo = [tiempo] + infinitivo.
+- complementoDirecto = sintagmaNominal.
+- complementoIndirecto = CINDIRECTO + sintagmaNominal.
+- aditamentoPreposicional = preposicion + sintagmaNominal. // Complemento circunstancial (en Soria) o suplemento (con David, de María).
+##Pendiente de la fase anterior:
+- sintagmaNominal = pronombre; nombre; GENITIVO + nombre + sintagmaNominal; infinitivo.
+- tiempo = (PASADO); (FUTURO).
+- infinitivo = JUGAR; CORRER; SALTAR; SER.
+- preposicion = A; DE; CON; EN...
+- pronombre = ESO; YO; TU; EL; ELLA; NOSOTROS; VOSOTROS; ELLOS.
+- nombre = MARIA, JUGUETE, ARBOL.
+####PRUEBA (CON MAYÚSCULAS, ¿ES DIFERENTE NO?); traduce, te dice a qué palabras se parecen y en qué grado...:
+
+  ich  ic ch i
+i
+i
+i
+truth
+wfe fhfe fdyuegd diuh ediuh
+
+TENGO UNA MUNECA VESTIDA DE AZUL CON SU CAMISITA Y SU CANESU LA SAQUE A PASEO SE ME CONSTIPO LA TENGO EN LA CAMA CON MUCHO DOLOR
+
+tengo una muneca vestida de azul con su camisita y su canesu la saque a paseo se me constipo la tengo en la cama con mucho dolor
+####Goerreig toro minoico maltratado:
+- ¿Los minoicos eran bere hasta el 1.500 AC? No tenían murallas.
+* Tauro (hombre fértil): en la Iliada el laberinto era un dibujo (guías) para la danza de la fertilidad. Pero en el mito, Teseo mata "ese símbolo", le interesa matar la fertilidad, y seguir con las guerras paias de Atenas.
+- En los buenos laberintos (símbolos neolíticos) hay 7 pasillos (fases para evolucionar; se llega al centro / toro tras "desreprimir"), y un sólo camino lo recorre todo:
+* Ela ber in to: hecho para la entrada del BE en ELA (reino espiritual de la madre).
+##Esto se mantuvo en secreto (misterios de Eleusis = es origen de los Ele).
+####Inscripción tumba Alexandro Magno. Está en una roca cerca de Beistum = tumba del BE (pueblo), en el Kurdistán. Fue el Jerusalem de la época. NO se relaciona con Darius (la Historia es una mentira). ¿Tiene un "Irurri" (asesino del BE)?
+- ERE IURRI ZEMAI ZEBATU IO IOBAT
+* También Iurri amenazó (zemai) domar a golpes a IOBAT. IOBAT (¿Dios primero?) acabó en Jehovah.
+####Fleco final:
+- IRUTZIE son los pueblos de KARELIE, UKRANIE Y GALITZIE (iru = 3). De Irutzie a RUSSIE.
+########TÉRMINOS: ¿zi para adjetivar, o gi o...? Algunos son graciosos (por mi ignorancia).
+####Adjetivos.
+acido garratz sauer acid #agil bizkor agil agile
+agradable atsegtngarri nett nice #alegre alai froh happy
+alto ti hoch high #amable mazal freundlich kind
+amargo gazi bitter bitter #amarillo bellegi gelb yellow
+ancho zabal weit wide #animado luzgi animiert cheerful
+antiguo antzinako antik ancient #antipatico ezbegiko unfreundlich unfriendly
+apatico ezluzgi apathisch apathetic #arriesgado arriskagi riskant risky
+aspero ezberdin rau rough #astuto azkar crafty schlau
+bajo txiki niedrig short #bello on schon beautiful
+benigno be gut good #blando bigun sanft soft
+bonito on schon beautiful #brillante argiki glanzend bright
+bruto zakarra roh raw #bueno begi gut good
+caliente bero heiss hot #cauteloso ezarriskagi vorsichtig unrisky
+claro garbi hell clear #colorido margoki bunt colorful
+complicado laberinki komplizier complicated #comun komun einheitlich common
+conformista konformista konformist conformist #contento kontent zufrieden satisfied
+curioso jakingura neugierig curious #delicado samur zart delicate
+desagradable iguingarri unangenehm unpleasant #directo zuzen gerade direct
+disciplinado berigunegi diszipliniert disciplined #dulce gozo sussig sweet
+duro gogor hart hard #elegante dotore elegant elegant
+entusiasta zale enthusiastisch enthusiastic #espontáneo espontaneoa spontan spontaneous
+estrecho estu beschrankt thin #feo ezon hasslich ugly
+feliz zoriontsu glucklich blissful #flaco argal schlank slim
+frio otz kalt cold #funebre tegi beerdigung funeral
+gaseoso gaski gasformig gaseous #gordo lodi dick fat
+grande andi gross big #grotesco irrigarri grotesk grotesque
+habil trebe fahig skilled #helado izotz eiskalt frozen
+horrible izugarri schrecklich horrible #humedo busti feucht wet
+ignorante ezjakinki ignorant ignorant #indisciplinado ezberigunegi undiszipliniert undisciplined
+ingenuo tolesbako dumm ingenuous #inteligente buruargi klug intelligent
+insensible ezbera unempfindlich insensitive #inutil ezonurakor nutzlos useless
+joven gazte jung young #lento geldi langsam slow
+limpio gorbi sauber clean #liquido isurkari flussig liquid
+liso berdin glatt flat #luminoso argi hell bright
+malo cupra schlecht bad #moderno oraingo modern modern
+modesto eratsu bescheiden modest #moreno baltzaran dunkelhautig suntanned
+normal eredugi gewohnlich normal #nuevo barri neu new
+opaco opakua undurchsichtig opaque #original leen original original
+oscuro illungi dunkel dark #pegajoso erantsigi klebrig sticky
+pequeño txi klein small #practico arigi praktisch practical
+presumido arrosko selbstgefallig smug #rapido azkar schnell fast
+realista egiki realistisch realistic #relajado lasai entspannt relaxed
+rojo gorri rot red #rubio kirru blond blond
+rugoso zakarra runzlig wrinkled #salado guzi salzig salty
+seco agor trocken dry #sencillo errez einfach easy
+sensible bera empfindlich sensitive #simpatico begiko freundlich friendly
+simple bakun simpel simple #solido sendo solide solid
+soñador ameslari traumer dreamer #suave legun weich soft
+sucio ezgorbi schmutzig dirty #tenso ezlasai gespannt tense
+terrenal te irdish earthly #tibio bernozaki warm warm
+tierno samur zart tender #tonto ergel dumm fool
+torpe trakets unbeholfen clumsy #trabajador langin fleissig hardworking
+triste goibel traurig sad #usado ezbarri gebraucht used
+util onurakor nutzlich useful #valiente bioztun brav brave
+verde orlegi grun green #viejo ol alt old
+####Adverbios. abajo bean unten down
+adios aio tschuss goodbye #ahi or da there
+ahora orain jetzt now #alli an da there
+aqui emen hier here #arriba goian oben up
+bien ongi schon well #cerca bertan nah near
+cuando noiz wenn when #cuanto zenbat wieviel howmuch
+debajo azpian unter under #delante aurrean vor front
+detras otzean hinter behind #despacio geldiro langsam slowly
+donde nun wo where #encima gain auf on
+hola oia hallo hallo #lejos urrun weit far
+mal txarto schlecht wrong #mas ago mehr more
+mejor obe besser better #menos gitxiago weniger less
+mucho asko viel much #no ez nein no
+nunca inoizez nie never #peor txartoago schlechter worse
+poco gitxi wenig little #probablemente noski wahrscheinlich probably
+pronto aguro bald soon #rapido azkar schnell fast
+si bai ja yes #siempre beti immer always
+tarde beran spat late #temprano goiz fruh early
+traves iri durch through
+####Nombres. agua go wasser water
+año urtean jahr year #berdad egi wahrheit truth
+boca bor mund mouth #camino it weg road
+casa etxe Haus House #cielo or himmel heaven
+ciudad tol stadt city #comida bazkart lebensmittel food
+consejo batzar konsilium council #cosa gauza sache thing
+creacion re schaffung creation #creador ra schopfer creator
+dia eguna tag day #enfermedad il erkrankung illness
+estrella ist stern star #estado egoera zustand state
+fin amoi ende end #firmamento ki firmament firmament
+forma itxura form way #frontera gue grenze frontier
+fuego su feuer fire #generacion er generation generation
+grupo talde gruppe group #historia kondaira geschichte history
+hombre gizon mann man #lugar le ort place
+luz iz leicht light #madre am mutter mother
+malhechor paio missetater malefactor #maligno cu bose evil
+mando men befehl leadership #manera modu manier way
+millon milioi million million #momento une moment moment
+mujer emakume frau woman #mundo ludi welt world
+obra ta werk work #pacto itun bund covenant
+padre pa vatter father #parte zail teil part
+pasado leengo vergangenheit past #persona lagun person person
+poder men Herrschaft power #podermaligno al schlechtmacht badpower
+poderbenigno el gutmacht goodpower #renacimiento ne wiedergeburt rebirth
+rocio garoa tau dew #sistema sistema system system
+sonido soin ton sound #tierra le land land
+tiempo goro zeit time #tipo eredu typ type
+trabajo traba arbeit job #vez bider zeit time
+vida bizi leben life
+####Preposiciones. a eri zu to
+con rekin mit with #contra aurka gegen against
+degen en von of #desde tik aus from
+durante bitartean wahrend during #en an in in
+entre artean zwischen among #para tzeko fur for
+pero bana aber but #segun arauza gesetz according
+sin barik ohne without #si ba ob if
+####Pronombres. aquello ura jenes that
+el ura er he #ella ura sie she
+ellos eurek sie they #eso ori das that
+esto au dieses this #nada ezer nichts nothing
+nosotros gu wir we #relativo elkargi rekativ relative
+todo guzi alles everything #tu zu du you
+vosotros zuek ihr you #yo i ich i
+####Tiempos. (pasado) biol vergangen passt
+(futuro) bine zukommen future #(deseante) guraizan begehren desiring
+####Verbos. abrir zabaldu offnen open
+acabar amaitu endigen finish #aceptar onartu annehmen accept
+afanarse bintu werken work #alcanzar lortu erreichen reach
+aparecer agertu erscheinen appear #ayudar lagundu helfen help
+buscar billatu suchen search #caer jausi fallen fall
+cambiar aldatu andern change #causar tu tun tocause
+cerrar itu schlossen close #conocer jakintu kennen know
+conseguir lortu erhalten get #considerar kontu erwagen consider 
+contar zenbatu erzahlen tell #continuar jarraitu fortfuhren goon
+convertir biurtu konvertieren convert #correr arinkatu laufen run
+crear egintu schaffen create #creer uste glauben believe
+cumplir bete einhalten accomplish #dar emon geben give
+deber bearizan mussen must #decir itz sagen say
+dejar aurreratu leihen lend #descubrir agertu entdecken discover
+dirigir arteztu leiten direct #empezar asi anfangen start
+encontrar aurkitu finden find #entender aditu verstehen understand
+entrar sartu ingehen enter #escribir idatzi schreiben written
+escuchar adikontu anhoren listen #esperar egon warten wait
+estar izan sein be #estudiar ikasi lernen study
+existir izan existieren exist #explicar azaldu erklaren explain
+formar eratu formen form #ganar garaitu gewinnen win
+gustar atsegintu mag like #haber eukitu esgeben therebe
+hablar berbatu sprechen speak #hacer erra machen do
+intentar alegindu versuchen try #ir joan gehen go
+jugar jolastu spielen play #leer irakurri lesen read
+levantar jaso heben lift #llamar deitu rufen call
+llegar eldu ankommen arrive #llevar eroan bringen bring
+lograr lortu erreichen achieve #mantener eutsi halten keep
+mirar begirotu ansehen look #morir il sterben die
+nacer sortu geboren born #necesitar beortu brauchen need
+ocurrir gergatu passieren happen #ofrecer eskeini anbieten offer
+oir entzun horen hear #pagar ordainketu bezahlen pay
+parar geratu stoppen stop #parecer emontu scheinen look 
+partir zatitu zerteilen split #pasar igaro unanhalten pass
+pedir eskatu verlangen askfor #perder galdu verlieren lose
+permanecer iraun bleiben stay #permitir laga erlauben permit
+querer gura mochten want #poder altu konnen can
+poner imini stellen put #preguntar itandu fragen ask
+presentar erakutsi vorstellen introduce #producir ekarri produzieren produce
+realizar konturatu erfullen realize #recibir hartu bekommen receive
+reconocer gogorajakin erkennen recognize #recordar gogoratu erinneren remember
+saber jakin wissen know #sacar atara hinausziehen takeout
+salir irten hinausgehen goout #seguir jorratu folgen follow
+sentir nabaritu gefuhlen feel #servir otseintu servieren serve
+ser se sein be #suponer demagun vermuten suppose
+sustentar elikatu unterhalten maintain #tener eduki haben have
+terminar amaitu beenden finish #terminar amaitu enden end
+tocar ikutu ruhren touch #tomar ortu nehmen have
+trabajar robotu arbeiten robotate #unir batu beitreten join
+usar erabilli gebraugen use #ver ikusi sehen see
+vivir bizi leben live #volver biurtu zuruckgehen goback
 ####00404histoactualidad.txt  
 ####00505tecnicas.txt  
 ####00606anexos.txt  #########################################
@@ -3916,9 +4005,10 @@ Zarzuela Pl cido Domingo fiel espada triunfadora.mp3
 #################################################
 ####Índice:
 - 1. Adelgazar y engordar: pura medicina.
-- 2. Causa de las enfermedades.
-- 3. Leo en Phi (hermetismo).
-- 4. Cristian (Zeballos): hermetismo.
+- 2. Varios.
+- 3. Causa de las enfermedades.
+- 4. Leo en Phi (hermetismo).
+- 5. Cristian (Zeballos): hermetismo.
 ####1. Adelgazar y engordar: pura medicina.
 ####¡Lo que todos estabais esperando, engordar y adelgazar! Incluye imagen (entrenamiento y pelo).
 - Con ventana de ingesta pequeña (2 comidas al día...) puedes comer hasta "basura" (trabaja menos el hígado...). ¿Qué tal lo más fuerte (una sola pieza de fruta y legumbres: adictivos y terribles hidratos de carbono) para la primera, y para cenar, la buenísima / funcional grasa y la proteína animal (u hortalizas)?
@@ -4083,7 +4173,638 @@ Zarzuela Pl cido Domingo fiel espada triunfadora.mp3
 - TAL PARECE QUE LAS DIRECTRICES PARA SANARNOS... SEAN PARA TODO LO CONTRARIO. LITROS DE AGUA EMBOTELLADA SIN MINERALES NI ELECTRÓLITOS, FUERA LA SAL Y LA GRASA... ¡SENTENCIA DE MUERTE, SI TE QUITAN LA SAL Y... Pa terminar, ¡los síntomas son sobre todo de fase de curación (el paradigma médico correcto es el de NMGHamer)! Deja de quejarte y autocúrate con Hamer, buceando en tu psique (que es lo que hay que hacer), deja de delegar, que habrá un médico que se entere de cada diez. Toda enfermedad ( = algo permanente, que NO depende de los hábitos saludables, como todo cáncer) tiene causa psicológica.
 - ¿Grafeno en la anestesia de algunos dentistas? NO hay que tomar azúcar, por si las intervenciones médicas te matan en pocos años. Deja el dentista pa la persona horrible e inconsciente que toma azúcar sin un "miedo terrible". Yo lo siento por amigos que venden dulces pero... están matando a la gente, y algunos dentistas rematan. NO olvides que los dientes frenan energía negativa con destino a los órganos. La gente avanzada, con misiones difíciles, tiene problemas de dientes, pero con el tiempo (ver tu problema de psique, y por lo tanto, curar), la cosa va a menos. Si das dulces al perro (sobaos...) aléjate de mí, estás quitándole años de vida.
 
-2. ####ENFERMEDADES (CAUSA):
+2. Varios (y muchos).
+####PSICOLOGÍA Y VARIOS.
+####ESTO PARECE DE "IMPORTANTE" (MISIÓN): Algunas pruebas que se te pueden presentar (dependiendo de tu misión de vida, sufrirás más abandono de gente poco avanzada / injustamente, incluso porque tú has subido de nivel de consciencia... Pero si lo sufres, piensa en qué tienes que mejorar en ti: independencia, autoconfianza para hacer cosas maravillosas y ser "protegido" si te curas psicológicamente con ganas, que no te importe lo que digan los demás y sí tus objetivos nobles NADA MODERNOS, comprender al otro aunque haga ruido...):
+- Desvalorizacion, poco reconocimiento, personas que abusan de tu generosidad, estrechez material, gente que con toda justicia no acata tus órdenes, gente avanzada a tu alrededor a los que ves como locos...
+####Si te llaman algo de lo que no estás seguro, hay más posibilidades de sufrir.
+####Cuando creas que las cosas empiezan a ir bien, probablemente irán mejor. Nada tiene más inercia que las buenas noticias (Rafael Vidac).
+####disfrutar la soledad es un superplus de inteligencia. Aquel que disfruta su soledad, escoge mejor las compañías, quien NO puede estar solo, escoge cualquier cosa, por desesperación. ¡Menudos cretinos pesaos!
+####¡Todos los no inconscientes, al psicólogo por así decirlo! LOS CONSCIENTES VAN MÁS VECES AL PSICÓLOGO. LOS INCONSCIENTES NO DAN MUCHA IMPORTANCIA A SU LIMPIEZA DE PSIQUE. SE CREEN MÁS O MENOS COMPLETOS, ¡PERO QUÉ "SOBERBIA"! ¿Y LOS QUE CONOCEN EL MEDIO Y SUS MANIPULACIONES PERO NO SU INTERIOR?
+####Condición necesaria amar a otros (Thayah Elim): amo tu sombra y tu parte luminosa porque he aprendido a amarlas en mí misma antes.
+####Neurosis:
+- Cuando no estamos a la altura (cargamos con muertos astrales, no hemos sido bien educados...) de los problemas, experimentamos ansiedad. Cuando experimentamos en repetidas ocasiones estrés y ansiedad, comenzamos a desarrollar patrones de conducta para evitar o mitigar el problema, tales como vigilancia, conductas de escape (me suena a rituales toc), y pensamiento defensivo.
+* ¡PERO LOS NEURÓTICOS ACABAN SIENDO MÁS FUERTES SI LO COMPRENDEN Y SUPERAN! ¡Y LOS BRUTOTES EXITOSOS SIN MISIONES DE SANAR EL ÁRBOL FAMILIAR, REALMENTE, LLEVAN VIDAS RÁPIDAS... Y FRACASADAS, NO MEJORAN POR DENTRO, Y EL ALMA VIVE MUCHAS VIDAS, ESO SE APROVECHA!
+* Si el niño no percibe amor (incluso si existe realmente), él o ella se quedará con una considerable ansiedad muy general, así como sentimientos de incompetencia y de no ser deseado.
+* El adolescente rechazado (muy superficial, la adolescencia, NO debería vivirse) se queda con la sensación de aislamiento y odio a sí mismo (los rechazados son personas más bellas que los que rechazan, con misiones de voda más difíciles / almas más avanzadas).
+* Luego viene la competencia / el éxito: en la Universidad, en el lugar de trabajo... Estúpidas ganas de respeto social en vez de autocomprenderte y amarte...
+- Timidez enfermiza:
+* Has empezado la preadolescencia y ya nadie te pasa la mano por el pelo, y tienes miedo de quedar mal con los vecinos del pueblo. Un día coges la bici y te vas al concejo vecino, es un alivio, allí casi nadie te conoce.
+* El Verano era lo peor: unos días sin ir a clase, y ya te da miedo todo. La vuelta a clase, con bronceado "antártico", era espeluznante. 
+* Llevarlo bien lejos y que allí recupere autoestima. El "es muy fácil, la calle no come" o el "eso son tonterías" son de brutos.
+##Toc: el exceso de adrenalina lo empeora. Se libera adrenalina para deshacernos de: trigo (cadena de gluten larga), lácteos, huevos, soja, azúcar, cacahuetes y maíz. La ordenación compulsiva puede venir muchas veces de un enfado pasivo.
+##neuroplasticidad para trastornos psíquicos:
+- El TOC es muy desagradable y continuo: el cíngulo anterior produce angustia por el error (hasta que aceptas). La información pasa al cíngulo caudado, que nos permite pasar a otra cosa. A largo plazo, ¿el cíngulo caudado se vuelve chiquitín? Pasos: 1. La cosa está bien. 2. ¡Es mi cíngulo! 3. Si "empieza la cosa", hago algo productivo. 4. Cuando puedes ignorar las compulsiones. Tú no eres el TOC.
+- Desorden del estrés postraumático: todo te recuerda al episodio (es el infierno). Terapia: tomar Propanolol (supongo que hace que los recuerdos NO sean terribles) y poner por escrito el relato de su trauma con todo detalle (menos de 10 minutos). A la semana siguiente vuelven a tomar el propanolol, y leen su relato.
+- Esquizofrenia (poquito tengo): ¿Están la capacidad de atención y la espiritualidad enfrentadas? Juego con botones de arriba y abajo, según lo que oigas, para la velocidad de procesamiento.
+####Prebrindis 2022 (fuerza: conservar la parte femenina. Y NO te olvides de mostrar debilidades para ser coherente).
+##Nota: incluir es como ser devorado. Hay que integrar a los diferentes (no hablo de las modas del siglo XXI, vomitivas).
+- 2022:
+* Lo mejor: valorar mis objetivos nobles por encima de agradar a los demás. Me he metido con lo peor de Figaredo, y he aprendido a caer mal. El Universo protege a quienes son como yo.
+* Lo peor: seguir pensando en la gente normal como en bestias robóticas (por sus sueños poco sabios). Ellos pueden ayudar y "lavarme los pies".
+* Hábito automatico: NO esperar a tener ganas para relacionarme con la gente, ver la vida demasiado como una obligación.
+- ¿Con que emocion me quiero caracterizar en 2023? Afecto...
+- BRINDAR POR OBJETIVO PARA EL 2023: dejar de ser tan corto de vista. Procastinar (te hace corto de vista): miedo a fracasar (o tener éxito), al juicio ajeno, al cambio, a lo desconocido. ¿Ansiedad o frustración asociadas? ¿Psicología Energética Cuántica pa limpiar mi parte sutil? ¿Menos intensidad escorpiana, quererme para tranquilizarme? LA PRISA TE LA METE LA ESCUELA, Y CLARO, TE AYUDA A DEJARLO TODO PARA EL ÚLTIMO MOMENTO (SER CORTO DE VISTA).
+- Deseo años sucesivos: ser buen terapeuta (acompañar a otros con Psicología, tras ver mi misión de Nodo Norte...).
+##Brindis:
+- Agradezco lo recorrido (lo negativo hace que esté aqui tambien), y digo donde quiero ir (decretos: escribir, pensar, decir... NADA DE "no sé si lo conseguiré", es ruido. Algo que te guste y te dé cierto miedo cosquilleante).
+- Reconocer fallos actuales, brindarlos al Universo, y contar a tu gente los más importantes.
+####psi hermetismo Pablo Lema. En nuestra infancia, nos han enseñado (mal) que para lograr algo y tomar decisiones, primero hay que saber, tener dinero...:
+- Te propongo que mañana te levantes una hora y media antes de lo habitual y emplees el tiempo en lo que Más Desees para ti. ¿Qué pensamientos y sensaciones has tenido?
+* ¿Cómo podría interponerse el ego en tu camino? ¡EL EGO SE LLAMA MONO, UNO, EL NÚMERO DE LOS PAIOS! ¿Piensas tu vida desde el costo o desde el Valor? Confía en tu capacidad de creación y tírate, la alfombra mágica estará ahí para recogerte.
+####Hermetismo iniciático desde Argentina:
+- Pablo: el caos es un proceso previo a crecer internamente (ves como reaccionas caóticamente, y de donde vienen tus reacciones no deseadas). En tiempos de crisis solemos conectar con la personalidad de los ancestros (emociones y pensamientos negativos...). ¿Cómo las pasaron los ancestros al tener que crear algo (ser un buen cantante...)?
+* Honrar a tus ancestros es reescribir la histroia. Ellos torpezaron, tú... no pienses que superarlos es manchar la familia. 
+- Cristian: si vas por la supervivencia, desconectas del exito, se acabo la "suerte". Cuando conectas con el futuro / los objetivos, conectas con la vida (eso si, vive el presente tras planificar).
+* NO ahorres por asi decirlo, sigue el principio universal de la circulacion, sin miedo.
+- LeoMB: la pandemia es el efecto de nuestra baja calidad como individuos (lo sutil se materializa).
+* Introspeccion no es meditar a ver qué te sale, es un proceso largo de ver conscientemente como reaccionas, y qué hay detrás. Ilume = muerte del ser. ¡Nos han engañao!
+- Caro: las personas Acuario (creativas, espontáneas) son lo contrario a las Tauro (comodidad).
+- Sofia: divide tu casa / habitacion (si vives con tus padres...) en 9 cuadrados. El cuadrado del centro es el de la salud; tiene que estar vacio, para libertad de movimientos...
+- Gabi. Yo puedo ser muy positivo: "puedo con todo", pero si no considero mis debilidades a la vez, atraigo lo negativo. Con juicio, ¡vaya, que gordo estoy, qué mala suerte tengo! Sin juicio: estoy un poco gordo, voy a comer mejor y mejorar para no tener miedo de las pérdidas materiales...
+- Yo (aunque no estuve en el encuentro): hay un rollo "cósmico", como de planes ilógicos / jodidos del Universo para hartarnos y ver que lo mejor es cambiar de sistema (pero de base). Quizás el último paso sea quitar el dinero y vivir todos como una gran familia, con tareas, no contratos (implican horas infértiles en el trabajo). Puede que duela, pero quizás la única forma de salir de aquí, sea que todos admitamos que tenemos un monstruito adentro que se llama sombra (las represiones), y que hasta que no nos libremos de ella (por Carl Jung...), no volveremos a ser realmente una sociedad inocente (en el buen sentido).
+- LeoenP-i: esta pandemia era necesaria. Hay mas amor por el bien comun. Crisis: crisalida (gusano se convierte en mariposa). Kairoos, Dios de la oportunidad, aparecia y desaparecia en un santiamen. Tenias que agarrar su mechón de pelo de delante para aprovechar la oportunidad. ¿Es que NO nos vamos a poder cambiar tan facilmente tras el confinamiento? ¡Ordena el cuarto (esto es mio), y te conocerás!
+* Aprende a entender lo que dicen los sueños, escribe el mensaje sin adornos, aunque no tenga sentido. ¿NO recordamos / queremos recordar los sueños porque hay una parte nuestra que cree que no lo va a soportar? ¿Acostarse sin mirar la tele antes?
+####Ejercicio del espejo:
+- Anota en una lista los aspectos (virtudes, habilidades, conocimientos...) con los que te sientes satisfecho / te encuentras bien. Apunta: seres queridos, experiencias cotidianas... y agradece.
+* Un ejemplo: soy disciplinado, soy empático... Tengo una pareja maravillosa (gracias), un trabajo ameno (gracias), doy gracias por mi situación financiera...
+- Luego, todas las mañanas te miras al espejo enfocándote en los ojos (espejo del alma). Habla con tus ojos: muéstrate respeto y cariño, verbalizando tu lista con sentimientos, desde lo más íntimo de tu corazón. Esto prepara el terreno para nuevas experiencias.
+####Desarrollar intuición. No trabajes como una mula (al menos con el cerebro), pues hay que relajarse. Y la intuición será la inteligencia del futuro (y no el hemisferio izquierdo, tan monstruoso):
+1. ESCUCHA TU VOZ INTERNA: arroja al aire una moneda. En el aire, repentinamente deseamos que caiga de un lado, y ésa es la decisión del corazón.
+2. TOMATE TIEMPO PARA ESTAR SOLO, alejado del teléfono...
+3. ESTIMULA TU CREATIVIDAD. La creatividad y la intuición están íntimamente ligadas.
+4. MEDITA. Las prácticas de meditación pueden despertar algo la intuición.
+5. VUÉLVETE OBSERVADOR. Las personas intuitivas son más perceptivas, y eso tiene mucho que ver con que sean observadoras. Puedes empezar a llevar un diario en el que registres cosas que te resultan sorprendentes, novedosas o extrañas. De a poco comenzarás a encontrar coincidencias, conexiones sorprendentes o intuiciones precisas en tu vida diaria.
+6. ESCUCHA A TU CUERPO. El cuerpo, la mente y el alma son un todo (toda enfermedad viene de la psique; los desequilibrios puramente físicos / "menores", no).
+7. CONECTA PROFUNDAMENTE CON LOS DEMÁS. La intuición está ligada a la empatía, que es la capacidad de ponerse en el lugar del otro. Dedica tiempo a observar y escuchar a otros cara a cara, a comprender a tus seres queridos y a todos los que te rodean.
+8. PRESTA ATENCIÓN A TUS SUEâ€˜OS. Puedes leer cuál es el significado de los 10 sueños más comunes.
+9. TÓMATE TIEMPO PARA RELAJARTE. El trabajo constante que agota el cerebro y hacer varias cosas a la vez son dos cosas que arruinan la intuición. Sólo en los momentos de relajación somos realmente intuitivos.
+10. DEJA IR LAS EMOCIONES NEGATIVAS (será fácil si observas las 9 reglas anteriores). Las emociones como el enojo o la frustración nublan la intuición.
+####psi (no sé si tará repetío):
+- Mandíbula ancha: se necesita llevar la teoría a la práctica.
+- Mentón muy fino: se bloquea la salida del individuo (si es grande, te agotas rápidamente).
+- El pectoral derecho es nuestro padre, ¿si me lo rasco es que mi padre no pudo lograr algo?
+* Alguien llenaba su vida con trabajo para no recordar que su padre casi nunca estaba en casa.
+- Tal vez no te casarás si le pusieron los cuernos a tu abuela...
+####Gestología (Ramón Maristani...):
+- Psicomorfología del rostro:
+* Cuadrado (optimistas e impacientes). Trapezoidal (inteligentes y explosivos).
+* Redondo (optimistas y vulnerables). Ovalado (idealistas y orgullosos).
+* Triangular (adivinación y astucia). Rombo (emotivos).
+* Mentón fino: bloquea la salida del individuo, ¡falsedad! Grande: te agota en nada.
+- Cabeza:
+* Evitar contacto visual directo: no sé si estoy o no de acuerdo, ¡dame tiempo!
+* Mirar hacia abajo: no entiendes tal vez lo que se te dice.
+* Jugar con el pelo: falta de autoconfianza e incertidumbre.
+* Jugar con la oreja: falta de atención o interés.
+* Tirón a la oreja: inseguridad.
+* Apretar nariz: evaluación negativa.
+* Barbilla sobre puño: inseguridad.
+- Extremidades:
+* Delante del jefe, cruzar brazos o piernas: miedo a que él sepa lo que piensas.
+* + sobre piernas. Unir tobillos: temor. Piernas estiradas y apoyadas sobre el escritorio: prepotencia e inseguridad. ¿A más abiertas en general, más agresividad? Sentados: paralelas y unidas, ordenado; cruzar por la rodilla torciendo, ansiedad, perfeccionismo e inseguridad; sobre una pierna (se esconde la otra), conformismo, dificultad para tomar decisiones.
+* Cruzar dedos y manos: por delante, frustración o desengaño; por detrás, ira, temor, frustración...
+- Nivel sexual. Cónyuges se tocan continuamente en público: inseguridad en una relación débil. Hombre se toca sus partes: a la hora de la verdad, es de los que escapan. Mujer pone objeto sobre los senos, ¿tiene un complejo de inferioridad por el tamaño de sus senos? ¿El objeto le da seguridad, la defiende de algo que da miedo, o de algo puramente psicológico?
+- Más:
+* Sentarse con manos agarrando cabeza por detrás: ínfulas de superioridad...
+* Hacer preguntas necias para exhibir conocimientos: problemas con la autoridad.
+* Ligera reverencia al estrechar la mano o despedirnos: consideración y cortesía.
+####varios####
+####Los 4 temperamentos, ¿e iridiología (NO la veo por ninguna parte)?:
+1. Personas sanguíneas: alegres, optimistas, cálidas, buscan siempre la compañía de los demás, de sentimientos más que racionales. Cambian de parecer con facilidad y se guían por la búsqueda del placer inmediato. Su elemento asociado es el aire.
+2. Temperamento flemático: sereno y tranquilo, perseverante y poco impulsivo. Valoran mucho la exactitud, raramente se enfadan y no muestran demasiado sus emociones, llegando a parecer algo fríos. Algo tímidos a veces, pueden evitar ser el centro de atención o sostener un rol de liderazgo. Elemento tierra.
+3. Temperamento colérico: enérgicas, proactivas e independientes. Defienden con ahínco sus opiniones. Confían en su propio criterio (en vez de hablar con sabios antes). Elemento fuego.
+4. Temperamento melancólico: emocionalmente sensibles, creativos, introvertidos. ¿Les cuesta decidirse a la hora de iniciar proyectos (inseguridad de no saber lo que va a pasar y perfeccionismo)? Propensión a la tristeza. Elemento agua.
+##Constitución biliar: entre linfática (ojos azules) y sanguínea (ojos marrones).
+* Trastornos gastrointestinales. Hipoglucemia. Las patas de gallo pueden ser una señal para desintoxicar el hígado.
+####supersociología de infancia a forma de amar.
+- Complaciente / empático (evitan conclictos). ¿Padres sobreprotectores?
+- Indeciso. Los padres no tenían muy en cuenta tus necesidades ("hemos salido a bailar..."), con lo que el miedo al abandono crece, y podrías pensar que a la más mínima señal, la gente te quiere abandonar.
+- Amor evasivo. Hogar sin ternura / consolación, ¿demasiado "pragmático"? Dejas de prestar atención a tus sentimientos para no repetir situaciones de desamparo emocional.
+- Controlador. No percibías seguridad en el hogar. Buscas seguridad, volviéndote emocionalmente duro (y cuidando de ti mismo; suena a verdugo), para no sentir miedo, humillación, impotencia... Ira si las cosas no salen como quieres.
+* Víctima propiamente dicho. ¿Hogar caótico con padres enfadados? Ser obediente te ayudó a no llamar mucho la atención. ¿Escapar con la imaginación del dolor del hogar?
+####Meridiano84 magia blanca y más.
+- El 23 lo usan las élites hasta reventar.
+- Mudra del Señor Burns (te atenderán): palabras adecuadas a ideas, para vender... Para contrarrestar, gesto de "disipar pedo" o similar.
+* También mejora la atención.
+- Si encuentras 5 céntimos y los valoras (soy 5 céntimos + rico), es posible que algo grande esté por venir.
+- Cartera:
+* Libre de facturas (no son alegres).
+* Equilibrio yin (el dinero) yang (cinta roja...).
+* Mantén mínimo un billete.
+* Lugar limpio y ordenado, nunca poses en el suelo adrede.
+* Algo de color verde (laurel...) para crecimiento y vitalidad.
+* Aceite de ungir (Luna Nueva), pulgar, contrario agujas reloj, círculos mientras: doy permiso a que el dinero fluya en mi vida y que este contenedor funcione como su casa. Libertad y seguridad siempre, gracias.
+####Ol Alexandro comandos especiales.  Lamentablemente, hay más sed de obediencia que de "tengo el deseo de crear una sociedad mejor". El Sistema corrompe a los ciudadadanos, a los que les cuesta oír la verdad. Y todavía les queda ser buenas personas (cambiar la psique, eso sí que cuesta). COMANDOS ESENCIALES:
+1. Tendrás lealtad a la Ley Natural (el instinto / la intuición moral).
+2. La causa del sufrimiento es el apego.
+3. En cada encuentro hay una oportunidad para el enriquecimiento mutuo. Te enfocarás en los puntos que te unen al otro.
+4. Nos definen los actos (dañar con suaves palabras o silencios por placer psicópata, es un acto), nunca las palabras.
+5. Si defiendes a quien debe reprogramar su psique, la prueba para él será mayor la próxima vez.
+####Es muy importante tener la inocencia infantil, por Ol Alexandro (no me refiero a ser tonto, sino a ser puro; y tal vez así disfrutemos más de las cosas que da la naturaleza).
+####Varios:
+##Primero está la incertidumbre: no se puede planificar todo (poner citas y citas y citas, puede desencadenar enfermedades, ¿del ectodermo?), ni sufrir por lo malo que podría pasar, pero puedes tener una estrategia "social": si te viene a visitar "un monstruo que no esperabas", siempre puedes aprender a cortar "su juego", aunque a veces no haya más remedio que "ser devorado y aguantar". Y luego está la evaluación de fallos de la prueba social.
+##Sentido del teatro: sientes el conflicto ("primer acto") y lo curas con el "segundo acto":
+* Ejemplo del teatro más burdo / tosco: Papá Noel le da miedo a un niño. Un día su padre se disfraza de Papá Noel, y la madre dice que es muy fácil pegarle. El niño "vence", y ya no tiene miedo a Papá Noel.
+* Bebé: sus padres sujetan brazos y piernas para limpiarle el culito. El niño genera un conflicto "de estar preso", que provoca rigidez de piernas (ese es el programa especial físico). Primera representación (reactivar conflicto): el padre sujeta las piernas, la madre masajea el culito con un ungüento: el niño se pone tenso. Segunda representación: el padre deja las manos más sueltas, y luego las alza, retrocediendo suavemente. Última: piernas más sueltas de entrada.
+* La cosa va así en general (teatro de verdad, novela blanca...): alguien no consigue algo, y lo intenta por medios materiales, hasta que recuerda un camino psicológico (más o menos complicado / profundo: Transgenealogía, Hamer, Jung a secas, simplemente cambiar creencias...). Y entonces, "lo consigue", y no sólo es más feliz, es más fuerte y buena persona.
+##"El Señor de las Moscas" nos enseña que las reglas producen salvajes (en ausencia de éstas). Siempre será mejor la inteligencia moral.
+##Imagina lo que valoras. ¿Con ello serías más equilibrado, saludable, feliz...?
+##¿Qué me impide hacer una llamada telefónica? Pensamientos, sentimientos... ¿Qué pasaría si la hiciese de todos modos (imagínatelo)? ¿Y si no hubiese esos pensamientos...?
+- Visualiza la situación temida (y que fallaste en el pasado) desarrollándose bien. Ansiedad: 5-4-10 (respirar abdomen).
+##Reprogramación cuántica (2015): me pusieron una pieza que me faltaba en el corazón (espíritus cirujanos), ¿por lo de la Térmica de Aboño (abandonos)?
+##Di a otro una palabra doble (Corte - Inglés...) para hipnosis conversacional, ¿y sus abuelos podrán hablar por él? ¿Milton Erikson?
+##Laín. Si estás años enfocado en un tema, al final accedes al éter. Y para conseguir más, ¡tranquilidaad! Piensa en grande y empieza pequeñito. ¿NO contar proyectos o logros? Mmmmm. En una sociedad buena, o si no eres débil, no creo que haga falta tener enfermantes secretos. Laín no me parece muy sabio, pero ayuda.
+####Fin varios####
+
+########Espiritualidad (básicamente es sentido de la vida, misión personal e introspección, cosas escorpianas; luego está lo de la energía, propio del signo de Tauro).
+####Cuando realizas ejercicios espirituales: acelera el parto, sufrirás menos (y una yogi abrió las manos, mandó el dolor para "allí".
+####Introducción:
+- Las enfermedades tienen una causa psíquica, y hasta es posible que los golpes y caídas también estén programados, porque te sentías culpable, te infravalorabas...
+* Hay que cuidar los flujos de energía (los chacras se pueden limpiar, y se puede mejorar "la pila que eres").
+* La práctica espiritual puede aumentar la intuición elevada, ser incorruptible (sabes si alguien quiere venderte algo que no necesitas)... ¿Pero quita el ruido en la comunicación con el todo, o sólo da potencia? Las represiones (de ideas, NO de sentimientos) producen ruido (¿algo más lo produce?). Bueno, tú, haz introspección para limpiar la psique, que eso es lo que hay que valorar en una persona, las ganas de cambiar por dentro. ¿Algo más?
+- Boom de falsa espiritualidad en los últimos años: el mensaje de Nueva Era (flotar, fluir, ser vago en la introspección) se transmite muy rápido, y hay muchos escritores famosos que la defienden, como Eckart Tolle (son del gusto de las élites, que son satánicas).
+- ¿Hay relación entre tu misión y lo que te hace sentir bien y no te daña en cada etapa de tu vida? Eso sí, recuerda, tú eres la herramienta del placer, NO necesitas pasarte ni de cosas ni de consumir. Te quedas parao aceptando / comprendiendo.
+- La zona instintiva es la línea horizontal justo por debajo de la nariz (¿si la tienes muy larga, te controlas, como un psicópata?). Debajo de los ojos, la emocional (si es muy larga, ¿quieres ser centro de atención? NO sé). Mitad de la frente, "racional" (para ser racional hace falta intuición y consultar "a las tripas", aparte de ser lógico).
+####Valdeande letras hebreas.
+- Las palabras son números, y los números crean fórmulas. ¿Y esas fórmulas influyen en planos sutiles?
+* ¿Que si pones una letra en la estrella de David, se acciona un nosequé? En algunas letras hay polos (antenas; el agua tiene 2 antenas, y crea vida).
+- Hay 24 letras (2 silencio; y la ligadura suma 1/4). ¿En nuestro ADN "basura" hay textos exactos de la Torá (las letras representan los aminoácidos)?
+* Si formamos uno de los 72 nombres de Dios y lo meditamos, ¿tenemos acceso a un programa / algoritmo curativo?
+##Los 72 nombres de Dios. Se recorren de derecha a izquierda. Píntalos antes. La primera letra es una carga positiva, la segunda negativa y la tercera es un cable a tierra (circuito de poder). Mirando las letras o cerrando tus ojos y visualizándolas, puedes conectarte con frecuencias beneficiosas.
+- Ejemplo, 1. Viaje en el tiempo:
+* VAV (Una T sin el bichito de la derecha) HEI (parece PI) VAV. Tauro Aries Tauro. 6 + 5 + 6 = 17 = 8
+* La tecnología para volver a la causa original (crimen cometido por ti / tu alma, ¿en otra vida sólo?). Nos encontraremos cara a cara con nosotros mismos.
+* Meditación: despertar el remordimiento de nuestro corazón (angustia podría ser) por malas acciones anteriores. Aceptar la franca verdad espiritual de que los problemas en nuestra vida son el resultado de nuestras acciones pasadas (o de aprendizajes actuales).
+####Libro del monje vietnamita sobre meditación cotidiana. Yo aconsejo primero ser feliz, ¿y ser comprensivo, sería después de reaccionar negativamente unas cuantas veces y desreprimir?
+- libro01:
+* El individuo (MEJORADO REALMENTE) puede mejorar la familia, la familia, la comunidad... El vecino criticón...
+* Parar ante un semáforo es bueno para descansar, recordar el objetivo...
+- libro02:
+* Si no eres dichoso, nada podrá hacerte realmente dichoso hasta mejorar tu interior (además, la psique determina tu éxito).
+* Inspira y piensa: inspirando tranquilizo mi cuerpo, espirando sonrío, vivo el momento presente, sabiendo que es un momento bello. Ser de hemisferio izquierdo y necesidad de estimulación sensorial son los demonios de nuestro tiempo.
+- libro03:
+* Comer. Piensa en abundancia, que puedes desperdiciar algo de comida (y yo comía rápido para comprobar si el pan y la comida estaban equilibrados en cantidad). Sonreírse un poco.
+* Lavar platos: se sufre más pensando en que tienes que lavar los platos, que lavándolos.
+* La gente que maneja la guadaña (instrumento) acompasa el uso con la respiración.
+- libro04:
+* Sala de respiración. No muy iluminada, decorada con sencillez. Cojines o sillas, un florero que evoque la naturaleza. Imaginaos una discusión conyugal: el marido hace sonar una campanilla en la habitación. La familia llegan poco a poco, la reconciliación está servida. ¿Pero luego a dialogar elevado no?
+- libro05:
+* Ni te aferres ni rechaces los sentimientos desagradables, afróntalos ("hola miedo"...).
+* Cuando nos enfadamos nos centramos en aspectos odiosos de la otra persona... y más aumenta la ira entonces. Cuando exteriorizamos la ira, a veces sólo sirve para interiorizarla aún más. ¿Entonces habría que llorar?
+- libro06:
+* Abraza e inspira y espira tres veces: tu alegría se multiplicará por diez. Antes de abrazar, volver al presente (3 respiraciones). Si al abrazar sientes un vacío, puedes golpear suavemente la espalda de tu amigo. Concéntrate, si no no valdrá.
+* Los pies deberían estar en contacto con el suelo.
+- libro07:
+* Si no podemos ser paz, no podremos hacer nada por la paz. NO tomar partido por bandos que...
+* No acumules riquezas. Reserva tiempo, energía y recursos materiales para los demás, ¿nada de agendas apretadas?
+* Trabaja con las manos (es naturaleza).
+####LIBRO DE MARC:
+- Conglomerao 1:
+* Calmado, la energía se usa mejor. ENTONCES, ¿TAURO NOS LLEVA VENTAJA?
+* Puedes librate de los "pegañosos" menos poderosos alargando los brazos juntos, e imaginando que lanzas energía con los puños?
+- Conglomerao 2:
+* Chemtrails: la porquería que queda en el cielo puede servir para producir hologramas (dar miedo en el futuro, un Cristo gigante...).
+* Canalización: un paciente obtiene datos sobre su misión (u otro tipo de información) con la ayuda de un terapeuta y varios seres incorpóreos. Terapeuta y paciente, están echados. El guía espiritual muestra al terapeuta cierta imagen que estimula al paciente (un cuadro...), y éste lo describe. Seres incorpóreos pueden activar el chacra corona del paciente y transmiten al guía ideas, sentimientos, imágenes... Más: paracirujanos (hacen que la energía fluya correctamente, armonizan chacras... según lo que diga el terapeuta), anestesistas, enfermeras, e incluso chamanes con animales extrafísicos. ¿Y máquinas dando energía a las 2 personas?
+- Conglomerao 3:
+* Proyección astral (viaje). Una emoción puede hacer que se regrese. Una ayuda puede ser la descoincidencia miembro a miembro del cuerpo. ¿Que primero pienso en las piernas, y se van desprendiendo?
+* A 1000 km de profundidad hay humanos muy evolucionados. El interior es un paraíso.
+- Conglomerao 4. Mensajes (matrículas de coche, la hora...) a los que los guías quieren que prestemos atención. ¿No debemos esperarlos, pensar en ellos, sino que surgen de casualidad?:
+* 123 (tus pensamientos son evolutivos / buenos), 3344... son ascendentes (bien). Treses solos significa "lánzate". Cuatros es el NO.... 0 algo se ha completao, 1 atraerás lo que pienses, 2 vas bien (777 es felicidades), 5 va a haber cambios, 6 no te preocupes por lo material, 8 no pienses trabaja, 9 haz el esfuerzo final.
+##Cosas de Marc:
+- Una persona manda energía a otra. Con la intención basta. Puedes retraer y soltar las manos cuan mago de película. Incluso podemos imaginarnos una pelotita entre las manos.
+- La gente no sabe estar consigo misma (grandísimo gozo...), busca otros para llenar su vacío.
+- Chacra mental: puedes dejar lúcido a alguien con alzheimer por un rato, para que haga introspección...
+- Los árboles tienen miedo, sienten. Algunos pequeños tienen complejo de inferioridad. Se comunican entre ellos y aprenden. Marc les hace preguntas.
+- Un ente espiritual puede corresponder a varias piedras, briznas de hierba... Todo está espiritualizado.
+- ¿Las ciudades son trampas antiespirituales? Pero adorar a la naturaleza también es una trampa (Nueva Era).
+- ¡Y los guías pueden hacer que recuerdes mejor el sueño!
+- Algunos ancianos antes de morir se espiritualizan un poco (maestros)
+* Si se muere en paz, no hay residuos energéticos, ¿cáscaras? Tras morir va a ser poquito lo que te chupen, y es + fácil mover energía (fundir bombillas...).
+- Reprogramación cuántica:
+* La zona de trabajo son 50 cm (rodeándote), y hay otra donde los guías descargan energía de varios tipos para que el terapeuta trabaje con ella (aspiradora de energía densa... La intencionalidad...). La araña tejedora repara, el hormigón rellena con buena energía, electroimanes para alinear neuronas y no dar tantas vueltas a las cosas. Un minisol para el corazón (quererte).
+* Diagnóstico: energía densa en la barriga y un trozo de corazón que falta (EDP...), y que me pusieron.
+##Cosas de Marco (La Última ReEvolución):
+- Einstein dijo que la mayor parte de las ideas científicas básicas eran sencillas, fácilmente expresables y comprensibles. ¿Quién quiere engañarnos para que sólo creamos en frikis y expertos? Piensa y júntate en la calle.
+- Un chino construyó una nave y la destruyó, pues sería una distracción (debilita porque te acomoda).
+##Cosas de Marko (el del violín): escapó de los muros reales de Nueva Era. Sentir (hedonismo...), estar alegre... ¡paparruchas para que te creas "etéreo y bueno"! Los sabios de verdad son más bien serios y quietos.
+####Sanar:
+- Podología reflexiva: glándula pineal... Hay que tocarse los pies, ¡gracias Corte!
+- Cosa de Marco y Valdeande. Vivir del prana (aire y sol) unos días (el cuarto día entras en beneficioso modo protección). Supongamos que son 3 partes, cada una de 3 días. La primera parte bebe agua, la segunda, nada, tu cuerpo empieza a saber que comer y beber es sólo una costumbre por así decirlo (al final es todo energía). Tercera parte: zumo de mala calidad. Para que el cuerpo siga pensando lo mismo.
+- Fatiga crónica: NO deben ni culpar ni quejarse.
+- Relación cielo - tierra. Palmas p'arriba recogiendo energía, palmas p'abajo expulsar hacia los pies. ¿Y lo de subir y bajar la energía?
+- Mi sesión RQ (más):
+* Vida actual: primera etapa Informática, segunda con conflicto interior y resolución, tercera parecida a la primera.
+* Vida que explica mi miedo / culpa (todos me van a dañar...): romana rica (marido mató a un esclavo por mirarme mientras me bañaba). Ya pagué por ello, me tranquilizaré.
+* Lecciones del alma: 30, algo técnico grande, pero con relación interpersonal. 31, me respeto, sigo mis reglas...
+- Ronroneo gatuno doméstico sana de todo se puede decir (tú quita electrodomésticos por él):
+* Si duerme en tu cama de día, los espíritus malos no vendrán de noche fácilmente. Puede acompañarte en los viajes astrales. ¡Lo femenino (gatos...) incluye lo más avanzado!
+* El gato te dejará solo si su función ha terminado.
+- Subir la vibración (matas parásitos astrales...):
+* El ejercicio (en la naturaleza...) es más importante que la comida.
+* Reducir la actividad mental.
+* Coherencia (pensar, sentir, decir, hacer). Aprende a pasar de lo inútil que dicen.
+* Si tas saturao: palmas altura frente y como a 10 cm. Bajas lentamente, y vuelves. 2 ciclos.
+- Casa sucia energéticamente (incluye constructores disharmónicos): mover muebles con frecuencia; mejor que no sean pesados, vive frugalmente:
+* Causas: violencia, enfermedades durante mucho tiempo, hacinamiento, desorden, suciedad, cosas que no usamos o rotas. Los espejos negativos (feng shui: puerta de casa, reflejando cama o estufa...) absorben bajos astrales. Casa sobre: cementerio, restos arqueológicos, campos de batalla, funerarias, hospitales, mataderos, geriátricos, cárceles, tanatorios... Gente que nos envidia entra en nuestro hogar a "matarlo". Cenizas de los difuntos (o velas por ellos). Animales enterrados pueden atraer carcasas de animales. Nada de disecados.
+* Señales: mucho frío siempre (hay seres). Mal olor fuerte sin motivo aparente. Humedades. Las plantas mueren rápido. Los niños se vuelven muy rebeldes. La economía empieza a declinar. Bajones emocionales. Dificultad al respirar, dolores de cabeza sobre todo en la coronilla, cansancio excesivo, dolores de espalda.
+* Consejos: ventila y que entren los rayos del sol. Frutas frescas en la cocina o el comedor. Plantas dentro. Limpia el piso con sal y agua, aprox. 6 cucharadas en el cubo. Cactus sin pinchos en interior, con pinchos, fuera. Música relajante. Aromaterapia, ¿sirven los pulgos de naranja frescos?
+* Consecuencias: confusión mental, menor potencial de trabajo, creatividad...
+####Comportamiento:
+- Sobre gatos: nos enseñan que el amor es NO sumiso, respetador de las diferencias y lo ajeno:
+* Primero, conquista la confianza del gato. Luego, aprende a respetarlo. Él te demostrará afecto cuando esté preparado. Si tienes alergia a los gatos, tienes dificultad para dejar entrar el afecto a tu vida.
+- NO comuniques tus insatisfacciones al momento. Primero reposa, y verás cómo el problema es menos problema (y "mirar las nubes", hará que llegue algún tipo de solución). Luego sí puedes contarlo.
+- Steven Spielberg: el Mensaje de ET es profundo. Concibe al niño como la supremacía del ser humano (y tiene razón, no tiene prejuicios, está menos contaminao, capta más cosas que el adulto). Todos somos uno (ET y Elliot).
+####Energía:
+- El agua graba las intenciones. ¿Bastará con mostrarle gratitud, o hay que hablarle? El agua No quiere Heavy ni música estridente. Le gusta la clásica EN GENERAL (sobre todo Mozart). ¿Su canción favorita es "Blanca y Radiante Va la Novia"?
+* Le encanta brincar (la de manantial es la mejor).
+- El ambiente debe vibrar con la frecuencia Schumman, ni más, ni menos (nada de subirla). ¿Y tú, con muchas unidades bobis, como 20.000?
+- Necesito que el otro perciba mi fé para ayudarlo.
+- Mal: sentimiento de deseo exacerbado de contacto, relación, atención, sexo (amor en la sociedad occidental).
+- Sanar con cuenco tibetano. Se usa dando un pequeño golpe y haciendo girar la baqueta alrededor del borde (pero flotando un poco ésta).
+* Podemos sostener una vela con una mano y ponerla dentro del cuenco sin tocarlo y, con la otra mano, hacer sonar el cuenco, así la vela se viste de esa energía positiva.
+* ¿Descargar el cuenco? Agua al sol o velas alrededor.
+* Elegir uno: fiarse de la intuición (que harmonice). Sobre mesa cubierta con paño: dejarlo inmóvil, y poner 2 dedos en el centro. Cuando esté quieto, golpéalo sobre el borde externo con su baqueta.
+####¿Dar las cosas que ya no te son útiles, y recibirás lo que necesitas?
+####Meditación en general y viajes astrales:
+- Meditación limpiando: se debe hacer a primera hora de la mañana. Si empezamos en silencio, habrá paz en el corazón y la mente estará despejada.
+- Rezar un rosario es saludable: na na na na na (timbre alto) contigo señor (timbre bajo); ni ni ni ni ni contigo señor... Al final se hace una especie de yoga. Tiene un efecto parecido a cantar OM. ¿Curioso NO? Este mundo masón quiere borrar del mapa, NO sólo los valores cristianos, sino también la Iglesia (su predecesora paioMaléfica).
+- Técnicas viajes astrales. Los depresivos atrerán malas energías en el viaje. Estando el cordón oscuro (o vibrando), hay que volver (peligro muerte):
+* 1. Tumbarse cama brazos separados, respiración cada vez más lenta (siempre profunda), muy relajao pero bien consciente. Empiezo por cabeza a contraer todos los músculos. Podemos visualizar ir a un lugar (mar, por ejemplo) + sentir (olor yodo, agua pies...). Una vez hecho visualizas que te hundes en el colchón o que levitas hacia arriba, pero buscando sensación de livianidad. Perderemos los sentidos.
+* 2. ¿Para hacer antes de 1., o tienen suficiente fuerza?
+- Centra atención en punto cuerpo, como el tercer ojo. Podemos visualizar un cono de energía que gira muy rápido.
+- Girar sobre uno mismo, sentir vértigo y tumbarse. ¡Lo hacíamos de niños!
+- Visualizar en una pared una puerta que se abre poco a poco y despide una gran luz. Requiere dedicación y perseverancia.
+- Japonesa: visualizar el lugar de la persona amada con mucha intensidad.
+- ¿Y lo de desparejar miembro a miembro cuerpo sutil / cuerpo material?
+####Chacras, equilibrado con mantras. Relajado, ojos cerrados, columna recta; centra tu atención en el color y la ubicación. La primera pronunciación / vez es en voz alta, y el resto en baja. Importante: deja girar en el chacra un torbellino de luz (sentido reloj; te lo imaginas) del mismo color que el chacra hasta que te encuentres mejor:
+- 1. Rojo oscuro, entre genitales y ano. Da estabilidad y seguridad. El miedo lo bloquea, con desconexión de la comunidad, la familia, o de ti mismo. Eso provoca frustración, auto-indulgencia, inestabilidad emocional, baja autoestima, conflicto entre el apego y el dejar ir.
+* Afirmación para equilibrar: yo soy uno con todo lo que es yo; estoy seguro de que soy amado. LAM (prolongar la m).
+- 2. Rosa naranja. Base columna lumbar (entre hueso púbico y ombligo). Superar los obstáculos y actuar con integridad. La culpa lo bloquea, produciendo ansiedad, miedo, preocupación, luchas de poder, problemas financieros y de trabajo, celos, desconfianza, problemas emocionales límite.
+* Yo me amo y me honro a mí mismo y toda la vida. MAM.
+- 3. Amarillo / dorado. Justo encima del ombligo. Confiar en ti mismo y tomar plena responsabilidad en tu vida. Lo bloquea la vergüenza, creando victimización, necesidad de aprobación, estrés, enojo, frustración, miedo a la responsabilidad, culpa, preocupación, duda, problemas con el compromiso.
+* Yo soy el creador de gran alcance de mi realidad y me encanta. RAM.
+- 4. Verde esmeralda. Justo detrás del corazón. Compasión. Se bloquea con dolor y pena, provocando insensibilidad emocional, pasividad, imposibilidad de perdonar, sensación de pérdida, dolor.
+* Yo soy amor y aceptación incondicional. IAM.
+- 5. Azul zafiro, parte posterior de la garganta. Creatividad y expresión. Se bloquea con las mentiras que nos contamos a nosotros mismos (¿aceptamos mentiras porque casan con lo que tenemos dentro, que no podemos cambiar?) creando estancamiento, obsesión, falta de expresión, indecisión, miedos y fobias.
+* El poder de la elección es mío. Puedo aceptar algo como verdadero o falso en vez de tragármelo. JAM.
+- 6. Azul índigo, frente. Intuición. Se bloquea con la ilusión de que estamos separados: miedos, fobias, falta de concentración y disciplina, falta de juicio, confusión, pesadillas, ¡esquizofrenia!
+* La verdad es para bien, es seguridad a largo plazo, no debería doler. OM / AUM (elige).
+- 7. Violeta blanco, corona de la cabeza (por encima de la física). Te une al todo. Se bloquea con el apego a todo lo que pertenece al mundo de las formas: pérdida de propósito y de conexión con el todo, mente cerrada, depresión, preocupación.
+* Yo soy uno con el momento presente. SILENCIO.
+####Lazos emocionales etéricos (¿seguir tras la muerte incluso?). Con apego estás "bajo un hechizo" (NO hay nadie mejor...); antes eras libre. Podremos sentir lo que siente el otro. CORTAR LAZOS:
+- Cuándo es imprescindible cortarlos:
+* Cónyuge fallece. Separación (también padres e hijos, y entre amigos) muy dura. Un ser muy importante para nosotros muere, y creemos que no hemos hecho lo suficiente por ese ser.
+* El amor se acaba y ha habido maltrato (incluye psíquico claro).
+* Hemos sufrido de chicos por las relaciones familiares.
+* La relación sana (NO te ves responsable de la felicidadajena... El lazo se corta con facilidad) nace de los chacras superiores (4-7).
+- MÉTODO ROMPER LAZOS:
+* Silla, sentado cómodamente. Silencio, luz muy tenue. Profunda inspiración y cuenta mentalmente del 10 al 1, ¿en la espiración?).
+* Visualiza al otro frente a ti, e imagina sus chacras iluminaos (y los tuyos). ¿Qué te llega?
+* Visualiza el cordón con [tus manos o unas tijeras]. Antes de cortar di: ahora corto este cordón que nos une, para que ambos seamos libres. Mira directamente "al otro" a los ojos y di: ahora te dejo partir desde el amor incondicional, para que tú continúes con tu vida y yo continúe la mía. Eres libre, al igual que yo soy libre. Es bueno visualizar que ambos sonreís, con afecto y aceptación, y luego cómo el otro se da la vuelta y lo ves alejarse.
+* Realiza una profunda inspiración y abre los ojos.
+####Mejorar relación con el padre (cuidado con tener a mamá en un pedestal): le dices sin odio y si lo necesitas, lo que te dolió de la crianza (a lo mejor sería bueno hablarlo antes con los hermanos). Date cuenta de que tus padres son buenos para tu misión de vida (calcúlala) antes (y haz trabajo psicológico).
+####EL JARDÍN ZEN:
+- Nombrar cada elemento es dotarlo de significado (isla de la tranquilidad, jardín de la armonía, roca del atardecer...). ¿Y ves mejor al hacerlo?
+- Al mirar árbol sin flores, percíbelas (futuro). Y al revés. ¡Movimiento!
+####Libro de geometría sagrada.
+##La materia está formada por toroides. El básico es un donut con "numeritos distintos" (ifotones). Con ayuda del éter, 2 ifotones crean un vórtice, y luego viene el toroide. ¿Antes del toroide viene "el tubo"? Unas pocas leyes:
+- Construir "con phi" (número de oro) favorecería la paz mundial, la agricultura, la armonía corazón-cerebro, curación... El ombligo se relaciona con fi (tu estatura).
+- La Tierra late (como cuerpo sutil): explosión + implosión (y es como un átomo: como es abajo, es arriba, y viceversa: Kybalión). La vida de una persona puede ser explosiva para su misión / aprendizaje (busca tenerlo todo, saberlo todo...) o implosiva (más sabia: introspectiva, usa sólo lo necesario).
+- Líneas rectas e impares es masculino, curvas y pares, femenino.
+##Conceptos básicos:
+- Estructuras de orden y expansión:
+* Pentaflor (5, femenina / implosión: ADN, centro de un huracán...): ordena energía y materia. Las escuelas basadas en este principio son abiertas y no jerárquicas. NO hay un camino fijo, por lo que puedes conocerte a ti mismo (comprometiéndote con ello).
+* Flor de la vida (6): burda acumulación (femenino) y replicación, solar (lo solar puede ser también masculino).
+- Estructuras sanas (árbol y fruta de la vida...):
+* Metatrón: dodecaedro, cubriéndolo, icosaedro, luego octaedro, tetraedro y cubo. Forma del átomo de oro y del paladio, que reestablecen la fractalidad (curan el ADN) al ser disueltos en agua o sangre (forma monoatómica).
+* Sólidos platónicos: tetraedro (fuego), cubo (tierra), octaedro (aire), icosaedro (agua) y dodecaedro (madera).
+- El cuerpo electromagnético se cura con luz y sonido. El cuerpo físico, con poliedros. Los 13 toroides horizontales del cuerpo están vinculados a los 13 sólidos arquimedianos. El método Internal Coherence, indica el lugar y geometría necesarios. Sanar es lograr la interconexión entre ondas de cerebro y corazón (los serios indios lakota lo saben).
+- Los órganos sensoriales captan la [geometría / topología] infinitesimal. La salud depende de la harmonía. Pero poneos a decorar vibrando alto, con ilusión, NO necesidad. Tú dale afecto al agua (ideal para la vida, por crear tantos vórtices): fractal icosaédrico.
+- Gravedad: sabemos que la succión / pentaflor (aceleración de ondas electromagnéticas) nos da la masa / gravedad.
+* Towsend Brown: en un condensador, los "gravitones" tan orientaos a la placa positiva (y si está encima, podemos lograr dispositivos antigravitacionales).
+####DIMENSIÓN SUTIL (fíjate en ciertas pelis con actores muertos...).
+- Demostración mundo sutil:
+* Daniel Douglas Home (documentado por William Crookes) levitaba, cruzaba paredes y puertas (desmaterialización física).
+* Militares saben exactamente lo que una persona siente y piensa (entrenan).
+- Cuerpos sutiles y áura:
+* Si empuñas un vaso con licor, tu aura se resiente. Si bebes, es peor aún. Te dañas con tus pensamientos al quejarte...
+* El cuerpo etéreo (sostiene al físico) refleja la salud física.
+* Algunos albergan memorias de otras vidas o de experiencias extracorporales. Hay uno que mide lo unido que estás al todo.
+- Espíritus y similar:
+* No se puede ¿o debe? someter a un anciano a regresión hipnótica.
+* Muchos poseídos se suelen reír a carcajadas (y ser fuertes).
+* Espíritus mojos. Evita sitios donde predomine el alcohol (en árabe significa "diablillo"), y Algool es una estrella maligna. ¿Pueden formar quistes en forma de feto?
+* Los malos piden, hablan pasionalmente (arrogancia...) y con seguridad, y si ofrecen, piden cosas raras a cambio (para crear discordia...). Ornamentan para disimular la falta de contenido. Estimulan tu vanidad con elogios. Los buenos dicen mucho en pocas palabras, simple e inteligible, y sugieren, no imponen.
+####Alta tecnología:
+- Sabemos que las élites tienen YA la tecnología que nos van a ofrecer dentro de unos 30 años (para pervertir...). Nos ocultan viajes espaciales (¿el aire marciano es respirable, y el cielo azul en la puesta de sol?)
+* ¿Los cohetes serían tecnología pa despistar, habiendo teleportación...? ¿La guerra de Vietnam fue un lavado de dinero pa financiar carísimos proyectos espaciales?
+* Ocultación (Venus...). ¿La NASA usa tecnología del año 69 para fotografiar MAL a propósito y las fotos se retocan?
+- Pirámides (NO hay momias dentro):
+* ¿Para levantar piedras se podrían usar rayos tractores gravitacionales en vez de ultrasonidos? Y hay piedras ablandadas por todo el mundo (calor o método subatómico).
+* Vaticano, USA e Israel, pidieron a Egipto que no pusiese un piramidón, ¿como un capuchón? encima de Keops, porque podría activar la pirámide, y entonces, los libros de Historia, se notaría a la legua que mienten. #### :33, tengo que hacerlo en 2 tiempos.
+####VARIOS:
+- ¿Morir con sedantes es antiespiritual?
+- La envidia te empobrece. Si dices: mi vecino tiene mucho y yo poco, me siento indigno... mandas un mensaje al Universo para que le dé a tu vecino.
+- Es bueno expresar los sueños antes de dormir (el subconsciente trabaja por la noche).
+- Formulando deseos (quiero, puedo, estoy dispuesto, voy a...) 
+* Si piensas negativamente (NO quiero...), se activa lo NO querido ("fuera ocupas" los atrae; A no se toca hará que A se toque).
+* Si implica cambio de actitud en otra persona, el deseo fracasará.
+- Dar el pecho psicológico. ¿Es ponerse cerca del pecho del otro para equilibrarse?
+- Seres tulpa (creaciones de mi imaginación que podrían "materializarse"). Blanqueadín (se carga entes negativos) es primo de Ijí, el Dios de la risa.
+- Expresando preferencias: no decir A es bueno / malo, o A es mejor que B. Sí que puedes concretar: A es más propicio que B para... el sabor / endorfinas je je (creo que puedes decir "A sabe mejor que B").
+- Luna llena: bueno para meditar (luz del Sol reflejada en la Luna).
+- Win Hoff escaló el Everest en pantalones cortos. Con técnicas de respiración lo controla todo (sistema inmune...).
+####Budismo. Creo que Buda era hijo de María Margot, y que era homosexual. Me lo compró el hijo de Isabel, la cual me quería mucho (limpiadora en Aboño; el último día, no fui a despedirme de ella, porque el número cómico que me tenían montao Horacio y Freije era muy largo; ella era la única que me quería de verdad; había mucha más gente mala y psicópatas de lo que pensaba; la simpatía NO es bondad en principio).
+##PARTE TEÓRICA:
+- El sufrimiento lo causa el apego al deseo, ¿lo que se llama deseo vehemente y no del alma? Puedes tener apego a creencias (los científicos oficiales en 2.023 no se enteran por regla general), a cosas o personas... Un ejemplo: te han dicho la verdad y quieres que el otro pare cuanto antes (choca con lo que tienes dentro y eso duele), o sientes placer y no soportas que se acabe.
+* Las acciones buenas traen su recompensa, las malas, dolor. El placer momentáneo es ayudar a seguir con tus objetivos nobles, que son difíciles de encontrar. ¿Y eso de que sin un cambio interior, ayudar físicamente no sirve para nada, porque todo vuelve al origen en la otra persona?
+* ¿Dije ya que el fracaso te llevaba a volver intentar "la tontería" (volver a echar dinero a la máquina tragaperras...)?
+- Nirvana: ves la esencia de las cosas en vez de su máscara, y aceptas las cosas como son:
+* Se empieza por querer conocer la verdad (nada de iluminado, ume es el ser, e il significa muerte). La tuya es la más importante (la psicológica profunda).
+* Descubrir que el mundo material sólo contiene máscaras, y dirigir la atención a las esencias.
+* Imperturbabilidad.
+- Muchas cosas agradables son, en el fondo, dolor:
+* Muchos ricos no son felices (vienen a aprender cosas muy básicas, ser rico es una prueba envenenada), y dicen: que si me gano mi dinero, que si asumo riesgos... Muchas almas avanzadas tienen que hacer limpiezas de psique muy difíciles para tener éxito material.
+* El poder puede ser horrible si temes que te lo arrebaten.
+- Más:
+* Si no eres feliz con poco, no lo serás con mucho. El gran deseo es para mejorar uno (así mejora la sociedad)...
+* Si hemos cometido un error, lo admitimos sin sufrir, intentamos arreglarlo, decidimos no repetirlo...
+* Concentración (shamadi): ¿como la de Escorpio? Roglig iba tan concentrao en la bici, que NO prestaba mucha atención "externa" ala moto, y se equivocó de camino. 
+* Ecuanimidad: exceso de alegría, pesar, alabanza, culpa, pérdida, ganancia, fama, fracaso... no nos afectarán (llamados 8 vientos mundanos).
+####PARTE PRÁCTICA I (semiteórica):
+##Romper las cadenas que nos atan a una existencia insatisfactoria:
+- Cadena 1: soy... y no puedo cambiar.
+- Cadena 2: no creer que te han mentido.
+- Cadena 3: dependencia de reglas morales (el derecho debe ser natural, y la moralidad debe salir de una inteligencia elevada: intuición).
+** Fin de conjunto I. Ahora podemos cambiar de verdad, ir hacia arriba.
+- Cadena 4: Deseo de experimentar con los 5 sentidos. Hedonismo.
+- Cadena 5: Animadversión, odio o aversión. Hay que comprender al otro.
+** Fin de conjunto II. Si debilitamos estas cadenas 4 y 5, ya estaremos en el punto sin retorno, faltando pocas vidas para ser sabios.
+- Cadena 6: deseo de existir en el plano corpóreo. Somos más que cuerpo.
+- Cadena 7: deseo de existir en el plano incorpóreo. ¿Porque tenemos una misión terrestre?
+** Fin de conjunto III.
+- Cadena 8: presunción (considerarse superior, inferior o igual, hacer comparaciones entre uno y los demás; aunque sabes que hay almas más avanzadas, gente más consciente...). ¿Aquí ya no hay sexo?
+- Cadena 9: agitación e inestabilidad: ¿se rompe con la imperturbabilidad?
+** Fin de conjunto IV.
+- Cadena 10: desconocer la realidad última. Esto me suena a Piscis.
+##Óctuple sendero hiperresumido: para no ver lo doloroso como placentero, las máscaras como esencias, identidad en ti (soy...), o lo feo como bello. No te relaciones si no es con un buen motivo. Saber lo que hacemos, y por qué, atentos a todo.
+####PARTE PRÁCTICA II:
+##Vida y trabajo budistas:
+- Sabiduría: ver las cosas como son, en vez de cómo aparentan. De menos a más clase: ver u oír (muy bajo); pensar; conocimiento intuido y comprendido.
+- Si siempre queremos estar ocupados, se trata de una incapacidad neurótica: el verdadero vigor es relajado y fluido.
+- Los monasterios empiezan a las 4:00 con duro trabajo físico hasta las 9:00 (almuerzo sencillo), meditación 4 o 5 horas, y ligero almuerzo por la tarde.
+- Debemos prestar atención a la facultad de la que cojeamos, nunca especializarnos.
+##Budistas avanzados: bodhisatvas. Las 6 perfecciones han de cumplirse:
+- Dar y compartir (comida, ropa...). No quieren ser más meritorios que los demás.
+- Ética: comer sólo en beneficio de la salud. Trabajo: no autodegradarnos (y NO prisa, presión o tensión, por lo general), no mecanizar o limitar la mente en general; si trabajas sin vocación, trabaja en turnos pequeños (pero sé responsable).
+- Paciencia: tolerancia (no indulgencia), dulzura... ¡Cojones, que liberar rabia es muy sano, y te dice dónde falla tu psique!
+- Vigor. En un bodhisatva la energía fluye suave, ininterrumpida y armoniosamente.
+- Meditación (quedarse alelao).
+- Sabiduría: conocimiento frío de cómo somos nosotros y el mundo, conocimiento distintivo (lo que tengo delante necesita evolución... La opinión de éste es más válida porque no se autoengaña...)...
+#Las perfecciones deben estar equilibradas: dar y ética, paciencia y vigor, meditación y sabiduría.
+####PARTE PRÁCTICA III. Medios hábiles: hacer ver a alguien la verdad sin teoría budista, con amor y compasión: dar ejemplo, o mostrar unas pistas sin ofender, ¿como la mujer que picó por consejo a la puerta de muchas casas donde habían sufrido todavía más que ella y seguían adelante?):
+##Ética: los budistas no hablan de conducta, que es una convención social, algo bastante pobre, sino de "acción correcta" (gracias a estado mental correcto). Pequeñas acciones pueden producir acciones devastadoras (y el mal se ve en pequeños gestos). ¿Agradecer por el origen del pan que te comes (tú piensa en agricultores independientes teniendo éxito)?
+##MEDITACIÓN: ES MEJOR [DOMINAR / COMPRENDER EL VERDADERO ESPÍRITU DE] UNA SOLA PRÁCTICA, QUE METERSE CON MUCHAS: 
+- PREPARACIÓN PARA LA MEDITACIÓN:
+* Moderar comida (estómago, 1 / 4 comida, 1 / 4 agua). Evitar alimentos picantes y condimentados, que apasionan. Evitar flatulencias y digestiones pesadas.
+* No dormir en exceso. La meditación, a su vez, hace que necesitemos dormir menos (calculo que una hora de meditación, son 40 minutos menos de sueño).
+* No actividad social frenética. No esfuerzo físico violento (fútbol) ni trabajar mucho, aunque sí ejercicio suave o técnica de relax (taichí chuan a partir del octavo día, o yoga).
+* Calma y consciencia en todo momento (cocinando...). Al sentarse, manera relajada, cómoda, y vigilante.
+* Necesitamos un maestro humano para sortear peligros.
+- Empezando: concentrase en objeto burdo (material), concentrar mente en equivalente sutil ¿etérico? del objeto. Volverse uno con el objeto. ¿Pensar en su uso antes de volverse uno, y también en su origen?
+#MÉTODO DE SEGUIMIENTO DE LA RESPIRACIÓN:
+- Sentados inmóviles y relajados, ojos cerrados, fijamos la atención en la respiración. Luego, empezamos a contar mentalmente tras cada respiración (de una a diez). En la etapa 2 sumamos uno al principio de cada respiración, para "estar atentos antes de que ocurra algo".
+* Nos centramos en las fosas nasales y alrededores, atendiendo a la sutil y cambiante sensación mientras la respiración entra y sale. Incluir en la atención la respiración entera, luego cuerpo, y abrimos los ojos.
+#MÉTODO DEL AMOR COMPASIVO (evitaremos la cólera, la aversión y el odio):
+- Amor a nosotros mismos: tomamos lo agradable y positivo que hay en nosotros.
+- Amor a un amigo íntimo y querido. Debe ser del mismo sexo, y no debe provocarnos sentimientos eróticos. Deberá vivir, y tener más o menos la misma edad. Lo visualizamos, buscando una respuesta de bondad hacia él.
+- Amor a persona neutra que veamos mucho (un cartero...). Le mandamos buena energía.
+- Amor a alguien que nos degrada (incluso a quien odiemos). Nos mantendremos interesados por su bienestar.
+- Las 4 a la vez.
+- Luego, la gente + cercana (emocional y geográficamente). Luego, vamos aumentando, incluso animales... hasta el Multiverso (capas material y sutiles) y demás universos.
+#MÉTODO DE LA CONTEMPLACIÓN DE LA DECADENCIA: para apego, deseo vehemente, y lujuria y egoísmo. Hay que practicar los 2 métodos anteriores antes de éste, ¿segundos antes? Formas de practicar:
+- Drástica: pensar: un día mi conciencia se separará de mi cuerpo, y no podré oír, ver, sentir... O estar entre cadáveres.
+- Fijarse en las estaciones del año y los árboles caducos (melancolía japonesa). El Invierno (como la muerte de una creencia) es necesario para la Primavera.
+#MÉTODO DE PRÁCTICA DE LOS 6 ELEMENTOS: para el engreimiento, la presunción... Para el "tengo una identidad que no cambia". Antes de empezar, desarrollar cierto grado de concentración meditativa (tal vez lo del objeto y la respiración), continuando quizás con una sesión de amor compasivo:
+- Cuerpo: "mi cuerpo físico está hecho de ciertos elementos sólidos-huecos, carne... pero, ¿de dónde procede? Básicamente, la comida está hecha de tierra, y he incorporado tierra a mi cuerpo físico, y un día habré de devolver esa tierra, que no soy yo, ni es mía, todo el tiempo está volviendo a la tierra".
+- Agua: "la mayor parte del mundo es agua, y la mayor parte de mi cuerpo, y ese agua de mi cuerpo la he tomado prestada de la reserva de agua del mundo. Un día habré de devolverla. Yo no soy tampoco eso, no es mío".
+- Fuego: "nuestro calor procede del Sol, y al yacer muertos, el calor desaparecerá, volviendo al Universo".
+- Aire: "nuestra vida depende del aire, pero el aire pertenece a la atmósfera. Al exhalar el último suspiro, devolveremos el oxígeno que nunca nos perteneció". El Yo empieza poco a poco a esfumarse.
+- Akasa (éter). "Nuestro cuerpo físico (tierra, agua, aire y fuego) ocupa un espacio, que quedará vacío cuando los 4 elementos se separen, y este espacio vacío se fundirá con el espacio universal".
+- Conciencia: "al morir dejamos de ser conscientes del cuerpo, la conciencia no sigue atada a la existencia física, y se disuelve en una conciencia + elevada y amplia, y con + pasos, puede disolverse en el océano de la conciencia universal".
+####Grafoterapia:  
+- Los 12 trazos para cambiar de signo / personalidad. Vicente Lledá. Bueno, a mí me dio clase Ramón. Vienen a ser como una meditación, con lo que el alma, realmente, no aprende, ¡pero cambias de personalidad por un tiempo! ¿Eso puede hacerte cambiar de escenarios para aprender? Nota: un arco serían 3 trazos: empieza abajo abombado izquierda, y termina arriba abombado derecha (lo del medio es un segmento que empieza a la izquierda abombado arriba). La ene sería un arco + una recta (segmento recto) a la derecha que se va difuminando:
+1. Razonamiento (la mente previene) y memoria. Empieza arriba, abombado izquierda. Lo tiene la LETRA L minúscula.
+2. Autocontrol y orden. Empieza arriba, recto. P.
+3. Defensa (evitar calvicie). De esto Aries va sobrao. Empieza arriba, abombado derecha. G.
+4. Comunicación y expresión. Empieza izquierda, abombado arriba. R.
+5. Naturalidad y espontaneidad. Empieza izquierda y va recto (¿perdiendo intensidad progresivamente NO?). LETRA ENE.
+6. Adecuación / adaptación (flexibilidad). Entrega a los demás (amabilidad... pero cediendo el poder a los demás DE VERDAD, no en plan psicópata / caballero). Suena a Virgo. LIGADURA.
+7. Análisis. Vigilar que aquello que adquirimos o interiorizamos, vaya de acuerdo a nuestros valores. Empieza abajo, abombado derecha. L.
+8. Adquisición / practicidad (interiorizar / capturar energía externa). Empieza abajo, recto. D.
+9. Paciencia, constancia... Empieza abajo, abombado izquierda. G.
+* LOS 3 ÚLTIMOS TRAZOS EMPIEZAN A LA DERECHA.
+10. Creatividad, nuevas formas de pensamiento (para los cerrados). Abombado hacia arriba (L).
+11. Selección: porque amamos y odiamos sin saber por qué. Tiene que ver con la autoestima. Recto (O).
+12. Reflejos. Parte baja de la G (sonrisa, pero empezando por la derecha).
+- Practicar ejercicios de muñeca para suavizarla (sevillanas, movimientos afeminados... en toda 
+situación, hasta meando).
+* Posición de escritura: hoja y brazo inclinados 30 grados hacia la izquierda (si escribes con la derecha). Muñeca flexionada un poco, de tal forma que la mano tiende al papel, no al exterior.
+* Escribir lento para no maltratar órganos.
+* Practicar 30 minutos al día.
+* ¿Usar papel pautado?
+- Para el pelo: j, f, g, y (¿10 minutos día?).
+* Memoria: u, i, t, d (¿10 minutos día?).
+- Trazos abajo e izquierda, muy lentos. El resto, normales. Parar en los picos para pensar la velocidad del trazo siguiente. ¡Y no he dicho casi na de presión!
+* ldt: el último trazo, hacerlo largo, una recta que se desvanece, como se hace con la n. ¿Mover el brazo a la derecha acompañando no?^
+* ¿l bajita implica baja autoconfianza?
+* ¿t escrita como l, significa mucho análisis y ser poco lanzado?
+
+####Botella de vidrio corrige la estructura del agua.
+####En los países menos desarrollados, casi no hay gripe, ¿beben agua semicontaminada y así están más fuertes del estómago, que es nuestro centro de defensa? ¿Y especias para eliminar fluidos? ¿Y lo de echar tierra a la comida pa la digestión?
+####Pasos Rosa yoga:
+* Quitar tensión: hombros casi tocando orejas, tensión, espirar bajando fuerte los brazos.
+* Arrugas cuello: tensión en puños, y en cuerpo en general, espirar extendiento los brazos hacia delante y sacando la lengua (mejor la cabeza un poco pabajo).
+####Practique este ejercicio diariamente dos semanas y se librara de dolores de cintura, problemas sexuales, caída del cabello, micción frecuente, timidez, inseguridad...:
+* Siéntese con las piernas juntas, inclínese ligeramente hacia adelante y entrelace los dedos de las manos rodeando las rodillas.
+* Preste atención a sus riñones y a los oídos, que son la salida de energía de los riñones.
+* Inspire suave y profundamente vivenciando en su mente algún miedo, fobia, trauma o temor que haya pasado en su vida a cualquier edad; luego, exhale juntando los labios emitiendo el sonido CHUUUOOOO. 7 veces (a partir de 4, coloca las palmas en los riñones, tocando la piel).
+####Mi ex-profe de Alemán, Thomas, dice que un gran dietista que conoció, aconsejaba una dieta de uno u otro color según la necesidad del paciente (quizás roja para el hierro), prestando mucha atención a su psicología.
+####615superrenacer la dieta de los centenarios.txt  Alejandro Merino G.: la de los andorranos (las estadísticas de Andorra están falseadas, con datos de gente que no reside allí, pero los que residen allí, son centenarios se puede decir): dieta carnívora (y dejaos de gurús y tonterías).
+####Parce Pineal:
+- Activaremos la glándula pineal con sonidos (escalares de Joaquín Piquer). El choque de energías opuestas produce una neutra, y con sonido (onda longitudinal), mejora la glándula pineal. Esta glándula nos da capacidad de conciencia superior:
+* El formato mp3 no era suficiente. Se optó por el formato .wav (Youtube fracciona los sonidos).
+* Puede favorecer los viajes astrales y desbloquear la memoria de la infancia; tienes ganas de hacer cosas...
+##MEJOR ESCUCHAR A OSCURAS (Y TEMPRANO, PARA DORMIR MUY BIEN), EN AMBIENTE TRANQUILO. SENTADO, NO NECESARIAMENTE TUMBADO.
+##En caso de náuseas, probar con otro .wav.
+####Comida balanceada yin-yang. YIN: inactividad (muy sana), frío, oscuro, húmedo, blando, vegetal, hueco, Norte. YANG: estrés, lo animal...:
+- Gráfico. En climas más calientes o en Verano, los alimentos se deben desplazar hacia el yin:
+* Cuanto más extremo, las cantidades a tomar deben ser menores.
+* Colores: verde los alimentos más recomendables a diario: cereales INTEGRALES, legumbres y verduras locales y de estación. Naranja: con moderación, no a diario o bien en cantidades pequeñas y de buena calidad. Rojo. Muchísima moderación, y exigir calidad en el producto.
+* ¿Lo importante es el PH y el factor rédox no (el tercero me lo guardo)?
+- Más:
+* El tomate es muy yin, pero se suaviza al freírlo.
+* El arroz integral hervido es muy equilibrado, pero inflado (horneado) se va al extremo yang.
+* La leche es yin, el queso curado es muy yang.
+* Soja fermentada: es un yang muy beneficioso, pero debe tomarse una pequeña cantidad. ¡NO recomiendo soja sin fermentar!
+* La manzana cruda es ligeramente yin, asar la hace más yang / invernal.
+##Bienvenida a extremos:
+- Yin (tranquiliza):
+* ¿Que beban para olvidar, con lo malo que es pa los cuerpos sutiles?
+* Personas que viven ancladas en el pasado, les viene bien tomar bastante alimentación Yin de buena calidad.
+- Yang:
+* Personas que han tomado mucho alcohol o drogas.
+* Personas muy dispersas.
+####Goerreig Serdaniol hablando de poco saludables ondas electromagnéticas.txt  - Cuando ponen una antena cerca de tu casa, lo sientes, y luego te acostumbras (muy malo, porque la antena sigue dañándote).
+* Cerca de las antenas, los insectos con antenas, perecen, y con el sonar militar, las ballenas.
+* Yo: lo electromagnético impide la inteligencia sutil (la intelectual es de rango bajísimo).
+* Por ganar millones, unas empresas tecnológicas que son del agrado de los gobiernos (curioso je je), están fastidiando nuestra capacidad, y el planeta.
+* El campo magnético terrestre está en peligro por ondas de alta energía. Las antenas, los "fotovoltaicos"... Esos sí que hacen subir la temperatura. Aha, se anulan los campos naturales.
+####Erotismo sano:
+- CON PAREJA: aumentar tu energía corporal (¿movimientos femeninos / sinuosos?) y luego relajarse y dejar que la energía suba hasta tu corazón. Abrazarse y conversar con amor, analizando y llorando las aflicciones emocionales (si hay). Pensamiento negativo: "tengo un cuerpo horrible" o "él nunca me dará lo que deseo".
+* Juego 0 (tras llorar). Respirar al mismo ritmo mientras se están abrazando. El ojo izquierdo es el receptivo.
+* 1: cantar juntos, hacer sonidos no planificados y misceláneos que poco a poco cobrarán vida propia. Cuando hago esto con un amante, puedo sentir el interior de su cuerpo además del mío.
+* 2: ¿Hacer de padre e hijo?: el padre se tiende y el hijo se tiende con la cabeza sobre o cerca del corazón del padre. El padre abraza al hijo, acariciándolo ocasionalmente e imaginando un infinito amor que brota de su corazón hacia el hijo. ¿Luego cambian de rol?
+* 3: "El Cinto de Venus": respirar juntos e imaginar que la energía se mueve entre ustedes en un círculo, subiendo por los genitales de un amante, luego atravesando desde su corazón al del otro, bajando a los genitales de esa persona y de vuelta al comienzo.
+* Si imaginamos que nos estamos proyectando mutuamente un haz de luz, desde un plexo solar al otro (o lo tocamos), y respiramos juntos...
+- CON UNO MISMO: piense en qué lo excita, ¿las sábanas de raso? Relájate (el automasaje puede funcionar: recorrer el cuerpo terapéuticamente, y luego sensual y tiernamente). Estimular genitales, ¿las tetillas?...
+####Valdeande Salud:
+##Pan sano de verdad, masa madre (no mata enzimas):
+- Cucharadita de harina integral (está viva), y un poco de agua para activar las bacterias (todo en un frasco tapao con trapo). Cada día "se le da de comer" (harina + agua supongo). A los 5 días tienes masa madre. Panificadora:
+* 150 gr masa madre, sal al gusto, y un poco de levadura en polvo ¿Poco más de 50 gr? Medio kilo de harina de espelta integral y / o centeno. Y 38.5 centilitros de agua.
+* Programación: pan integral 750 gramos. Tarda unos 200 minutos. En el segundo amasao puedes añadir pipas.
+- En el congelador se para, y habría que refrescarla. Primer refresco, ¿pa cuantos gramos de masa parada, 150?: 20g madre, 40g harina y 40 agua, mezclamos muy bien todo y dejamos reposar a temperatura ambiente (mejor veintipocos grados) como 8 horas. 100 agua y 100 harina (siguiente refresco). ¿Sabes que está lista la masa cuando flota en un vaso?
+##Plantas (diente de león...) maceradas con alcohol y agua, y colar.
+##El amarillo gira a la izquierda, el azul a la derecha.
+##Las gotas de rocío, (¿y el "sulfuro" y el "mercurio" como ifotones contrarios?) eran esenciales para la medicina alquimista.
+##origen de los piojos: la mitocondria es nuestro bicho más importante. Cuando hay un muerto (o la célula está pachucha o el cerebro sin dormir), las mitocondrias salen en busca de comida y se las llama piojos. Les salen patas. ¡Hasta yo me he reío!
+- En el colegio, las células se debilitan (niños lejos de sus padres...).
+##Antes el ganado tomaba tomillo (plantas olorosas naturales), y ahora grano y antibióticos.
+##Hagamos un ayuno corto pa limpiar. Si tamos mal, al día 2 veremos mareos, jaquecas... y veremos dónde están los atascos. La lengua manifestará el nivel de suciedad general. Come una naranja antes de ayunar (vitaminas CDE se necesitan).
+##Los glóbulos blancos no hacen falta casi en una persona sana físicamente (ventana de ingesta chiquitita, como de 6 horas... y grasa, mucha grasa). La ciencia oficial (alimentación) inhibe las enzimas. ¿Gran parte de las enzimas se fabrican en el aparato digestivo, y por eso es importante tomar producto crudo, y en buena parte vegetales?
+* Cuando variamos bruscamente el PH (comidas grandes...) las enzimas ya no funcionan.
+##La mente controla el cuerpo: si te callas y necesitabas hablar, tos, resfriao... Si NO comunicas las aflicciones: dolor de garganta. Si las rabias no te salen, estómago. Si te duele la soledad, diabetes. Insatisfacción: obesidad (aparte de querer hacerse notar...). Dudas aumentando: dolor de cabeza y depresión (descansa). No encuentras sentido a la vida: corazón. Niño interior tiraniza (quiero un helado, y como no lo tenga... ¡no amanece!): neurosis (algún tipo). Tu orgullo no te permite humillarte: rodillas.
+##Al morir una célula da biones. ¿Y ahí es donde surgen los mal llamados virus?
+##Las células cancerígenas consumen mucha más glucosa, pero si se la quitas, mutan y siguen.
+##Ceniza + agua: biones (experimento 20 de Wilhelm reich). ¿Y plantar cáñamo después?
+##Las élites nos dan comida muerta. Luego vamos al médico (pastillita mataenzimas). ¡Todo es un plan!
+####Buenas costumbres:
+##Feng shui animal:
+- Un animal enfermo puede avisar de desequilibrio en la casa. Los lugares ideales para tener animales domésticos son casas o pisos con terrazas donde el animal pueda tener su propio espacio de desahogo (excrementos).
+* Y el Chi excesivo puede provocar irritabilidad y dificultad para dormir (un San Bernardo en un piso de 20 metros).
+- Una pecera con su continua transformación mantiene el Chi de cualquier habitación de forma armónica (serena, y estimula al desanimado).
+- Perros: los lugares donde se sitúan con mayor frecuencia son energéticamente sanos.
+##Feng shui cocina (en ella se preparan los alimentos que consumimos):
+- Ya hay fuego al cocinar (NO usar mucho rojo), ¿el azul (agua) quita el apetito? Apropiados: amarillo, terrosos y verde.
+* Si hay una distancia menor de 60 centímetros entre el fregadero y los fogones, colocar plantas entre ambos.
+- Debe estar cerca de la puerta de entrada (en el centro los alimentos NO retienen chi), aunque no debe verse desde la entrada principal.
+* Fuegos: NO en línea o enfrentados con una puerta. La persona que cocina no debe quedar de espaldas a la puerta. No debe haber una ventana justo encima de la cocina.
+- Si cocina y comedor estan en el mismo espacio, mejor mesa iluminada y el resto en penumbra.
+##Feng shui habitación:
+- La cabecera de la cama tendría detrás la pared más alejada de la puerta. Cama no en línea con la puerta de entrada de la habitación o del baño.
+* Respaldos admitidos: un tabique sin ventanas (o con ellas y cortinas muy pesadas).
+- Nada colgando del techo sobre la cama (o que sea liviano).
+- Forma de la habitación lo más cúbica posible (puedes servirte de armarios y otros muebles para ocupar espacio: la cama no cuenta).
+- El sentido al sentarte en el escritorio y al dormir, debe ser de tus 4 favorables. Calcula tu número kua. Soy 2, y persona del Oeste: NE, W, NW, SW (el resto es desfavorable).
+##feng shui lugar reunión familia: asientos con ángulos de 90º (para que se den conversaciones). Y varios tipos (por lo menos 2, que cada uno elija).
+##¿El yin y el yang son las 2 partes en las que se divide un toroide cuando tomamos las 2 aspas de ifotones "nueve"? ¿3 y 6  = tiempo y velocidad?
+##hora de comer hora de la inteligencia.
+- El agua (en cantidad), aléjala de las comidas, pues se carga los ácidos.
+- Ten en cuenta que los primeros 20 minutos vas a tener hambre estés satisfecho o no.
+- Muchas veces el hambre es falta de agua en realidad (incluso de descanso).
+- No mezcles ciertas frutas con nada, espera media hora a que se digiera.
+- Si la grasa es trans, no abuses mucho.
+- Con 2 comidas al día ligeras (estarás más "energético") el mundo estará mejor.
+##Mejorar la flora intestinal (dirige el cerebro). En Occidente una bacteria gana a cierto gusano por comer demasiado esterilizado. Los egipcios echan tierra a la ensalada.
+##¿El solfeggio son frecuencias "prohibidas" y curativas? Partimos del 1 en el eneagrama, saltando de 2 en 2. 1-74, 2-85, 3-69, 4-17, 5-28, 6-39, 7-41, 8-52, 9-63. Así se afinan instrumentos.
+##Recuperar el potencial Z de la sangre aleja la arterosclerosis: CILANTRO: licuados con manzanas; AJO: crudo, en ayunas, ¿como si fuesen minipastillitas y cortado con un utensilio de madera para no provocar oxidación?, acompañado de un vaso de agua. Muy eficaz en combinación con los jugos verdes.
+##Si germinamos 4 cucharadas de lentejas, daremos de comer a mucha más gente, habrá más vitaminas y enzimas.
+##La orina se puede beber y es saludable y milagrosa (no te laves las manos después de orinar). Tiene los anticuerpos que necesitamos, la podemos poner para el cabello, los oídos...
+##Saciar hambre (los hidratos de carbono simples NO nos dejan satisfechos, ya que son asimilados rápidamente por el organismo; estrés y nervios producen ansiedad, y ésta, adrenalina, vamos, un cambio en el metabolismo basal).
+- NO comas rápido (con los líquidos, esto es difícil).
+##Alternar tele (si son muchas horas "de espera") con sentarme y a ver qué ideas me rondan la cabeza. ¡Y un circuito de paseo!
+##Los videojuegos mejoran la coordinación mano ojo (aparte de los tiempos de reacción... Los de esquivar sin instrucciones ya son de 10): y en general, es bueno para la corteza prefontal (en dosis no muy altas).
+##¿Si cantas como Louis Armstrong (que creo que usaba mucho el abdomen) puedes disipar la energía rabiosa característica del hombre? ¿Las mujeres pueden suspirar para quitar la del pecho?
+##La música es medicina no necesito novedades, ¿acaso practicas más de 1.000 ejercicios curativos? Con 500 canciones ya practicas la clase, la inteligencia... Las plantas deciden la calidad, ¿por lo menos entre 90 y 130 decibelios de sonido cerca de ellas? En otras ocasiones vale con 70 de música suave (melodía, música clásica...).
+##Homer Simpson: Apu, dame de esas patatas que me producen diarrea, necesito una limpieza general. ¿Es realmente un disparate? Nos lo cuelan como eso.
+##Si no se vierte, el semen se podría convertir en energía y bañar el sistema líquido nervioso, para que no envejezca. Oye, una o dos veces al mes, no pasa nada (hay que eyacular algún día pa limpiar).
+##Las abuelas batían huevos, te los daban, y a sanar y reforzar defensas. En la yema hay factores de transferencia, células de memoria, factores killer.
+####lista enfermedades.
+- Alzheimer memoria pulverizador romero. Las neurosis (una obsesión puede perjudicar la memoria, ¿la obsesión la llena?) aumentan el riesgo de Alzheimer. Desconcéntrate a veces para mejorar la memoria a corto plazo.
+- Tuve una crisis asmática, y repitiéndome que amaba la vida y que había que disfrutar el momento (querer vivir...) y NO agobiarse... la he solucionao. Espectorantes naturales: ajo, cebolla, y combinación de limón y miel.
+- ¿El calor favorece la confusión, con lo que los sentidos funcionan peor? Los individuos con depresión, ansiedad, estrés o bipolaridad, son más propensos a sufrir irritabilidad, debilitamiento o aturdimiento ante estas situaciones extremas. Omega3: nueces, pescados, brecol...
+- Oído: mezclar unas gotas de agua tibia, y otras de aceite de oliva. Dejar cinco minutos. Limpiar restos con un paño limpio, suavemente. ¿O agua oxigenada (una o dos gotas)? O Acuéstate sobre agua caliente (bolsa, botella...).
+* Viaje en avión o diferencia de presión: juntar una buena cantidad de saliva en la boca y tragar de una sola vez. O forzar un bostezo. ¿Inhalar por nariz y al exhalar, apretar la nariz suavemente con boca cerrada?
+* Resfrío o sinusitis: baño de vapor y sonarte los mocos.
+##Neuroplasticidad para paralíticos parciales: tú mueves el miembro que peor funciona, y el otro lo tienes "amordazado" (con una manopla, inmovilización...). Y puedes imaginarte movimientos, y tu cerebro cambia igual que si te movieses. ¿E imaginarte que una mano amputada NO lo está? Mmmm.
+####MMS (el "bruto") / CDS (¿listo para tomar, sin "mezclas"?) y reparación órganos.
+##Introduccion MMS (la "lejía" de Trump, que sana). ¡No cura enfermedades (para ello hay que autoanalizarse psicológicamente)! ¿Mata bacterias reparadoras? NO creo. James V. Humble:
+- Química MMS (CLO2 se puede decir): partimos de clorito de sodio, NACLO2 (potabilizador de agua; se puede comprar en la farmacia). Y ácido cítrico / zumo de limón (sólo el 20% es ácido cítrico, habrá que multiplicar por 5). Se puede usar clorhídrico al 4% en vez de cítrico, pero NO en el caso de animales (se han salvao perros moribundos...), por su estómago ya "muy ácido". NO necesitamos agua alcalina con clorhídrico (no habrá remanente ácido).
+* Mezcla frigorífico: 28% de ¿clorito de sodio? (tiene que estar al 80%, con 15% sal común, ¿y el resto agua?), con 35% ácido cítrico, ¿y 37% agua? ¿Y sale CLO2? NO estoy seguro.
+- Ingerir (unas pocas gotitas): se diluye en 1/2 o 3/4 de vaso de agua. 10 minutos antes de comer, o 3 horas tras comer, para que el agua pase rápidamente al intestino. Tras la desinfección, una dieta adecuada.
+* Directamente: poner las gotas de lo cítrico y encima las de NaCLO2. Mezclar agitando suavemente el vaso. Esperar 3 o 3.5 minutos hasta color marrón-amarillo límpido-transparente. Agregar agua. Beber inmediatamente.
+- PREPARACIÓN DE 2 FRASCOS PARA MUCHÍSIMO TIEMPO (no usar nada de metal):  
+* Clorito de sodio en polvo (28 gr). 72 cc de agua en jarra enlozada o de vidrio con pico vertedor. Poner jarra en fuego y entibiar hasta 40 / 50 grados. En un recipiente de plástico o vídrio oscuro con tapa hermética, iremos vertiendo el agua y el clorito muy poco a poco. Revolvemos con una cuchara de plástico. Guardar en lugar fresco y oscuro: dura de 3 a 4 años sin degradarse.
+* Ácido cítrico (o limón): 35 gramos. Añadimos 65 cc de agua potable hervida (si es limón, na de agua, ¿y casi 60 gramos?). Guardar el nuevo frasco, con el anterior. Agite el frasco antes de usar.
+* A DIARIO: 500 ml de agua alcalina (con unos 8 "granitos de bicarbonato", por el sabor). Vaso aparte, mezcla de MMS y cítrico para todo un día (unas gotitas), y esperar 3 minutos y medio. Añadir el agua alcalina y almacenar en botella. Preparar el día anterior si queremos que el bicarbonato neutralice los restos de ácido (cítrico remanente).
+-Más:
+* Oxida los metales pesados y el venenosísimo flúor.
+* Si hay reacción Herx (patógenos eliminados rápido, con órganos sobrecargados) más fuerte de lo esperado, hacer más tomas al día.
+* Límite: 30 gotas al día en 8 tomas.
+* Limpieza de agua en mal estado: 1 gota MMS + 1 gota cítrico para 1 litro. Dejarlo 5 minutos.
+* Desinfectar heridas: mezclar 4 y 4 con 2 litros de agua.
+* MMS fallará muchas veces si tomas edulcorantes artificiales (y más cosas que no digo) como aspartamo, fenilamina, ciclamato...
+##AUTISMO (casi todos tenemos al menos un poco). Reducir al mínimo el consumo de leche y derivados. Eliminar gluten, miel, harinas de trigo, y soja y derivados. Ajo, repollo, zanahoria, apio, coliflor, pepino... licuarlas y beber sólo el jugo (lejos de comidas). 1 o 1.5 litros día.
+- Sólidos: carnes y pescados (poco). Evitar aves de supermercado (sólo granja). Patatas no fritas, lentejas, garbanzos, semillas / aceite de girasol, oliva o coco, arroz integral, quinoa, mijo, tapioca... Nunca vinagre o limón (cambiarlo por levadura de cerveza). Nunca frutos secos, espinacas, chocolate o té.
+- Evitar B12, porque así se multiplican los parásitos.
+- Sólo sal marina.
+- Todos los días kefir (sólo de agua) o probióticos (acidófilus): nunca yogur.
+####011notas09.txt  ##Limpiezas (pinceladas):
+- Limpieza renal (antes de hacer una limpieza de hígado, para filtrar toxinas):
+- Limpeza hepática (antes y entre cada limpieza hepática, limpiaremos el colon), frena la caída del cabello.
+- Los receptores de la glucosa y la vitamina C (protege) son los mismos (la glucosa es competidora): cuando necesitamos vitamina C, deseamos dulces, curioso.
+##Otros:
+- Sal auténtica (grandes marchas sin comer de guerreros). Era natural hasta los años 50 (pero "se aterronaba"). Ahora tomamos necesario pero insuficiente ClNa, con blanqueantes y hasta aluminio. Se recomienda agua de mar al 25% (el resto, agua, cogerla por encima de la cintura); ¿beber sorbitos cuando se necesite?
+- Azúcar (la de hoy roba nutrientes). El buen azúcar es el mascabo: se calienta el jugo de caña a unos 60 grados, y la melaza espesa resultante se deja enfriar, y se solidifica. Ahora se muele, y el color es amarillo.
+- El cuerpo, por salvar riñones e hígado, produce obesidad. La grasa (cuidao con los hidratos, NO con la grasa) acumula toxinas, y cuando adelgazamos, ¡esas toxinas producen "rabia"!
+- ¿Por qué nos sentimos eufóricos cuando tomamos Cocacola con cafeína? Se segrega adrenalina para neutralizar la cafeína (y hay un sacrificio de reservas de alcalinos para neutralizar la adrenalina).
+- Al cocer vegeteles, lo mejor queda en el caldo.
+####Medicina china (un poquitín).
+##tecnicas usadas (aparte de acupuntura para los meridianos, o digitopuntura):
+- Iridiología (iris). Muestra patrones genéticos y tendencia psicológica.
+- Moxibustión (moxa, fuego): hierba artemisa y aplicación de calor sobre puntos de acupuntura.
+- Reflexología: masajes en los pies (aquí está "todo el cuerpo). El masaje en general permite conocer el estado psíquico.
+##Las 5 pasiones (son negativas). Los desequilibrios son debidos sobre todo a la mala digestión de la realidad que vivimos, un exceso de reflexión sobre cosas que no aceptamos / no compartimos, y a la falta de voluntad por tomar los mandos de nuestra vida:
+- La alegría va al Corazón. La ira (irritabilidad, frustración, insatisfacción...) va al hígado. La tristeza excesiva ahoga al pulmón (se suspira para desbloquear la energía; y cuidado con la inquietud y la ansiedad). La reflexión va al Bazo (prisas y estrés relacionados; obsesión: la persona sufrirá insomnio, olvidos y astenia mental). El miedo hace descender la energía, y va al riñón (pérdida involuntaria de orina y heces). NO tener ganas de vivir afectará al riñón.
+- El miedo triunfa sobre la alegría. La alegría sobre la tristeza. La tristeza sobre la ira. La ira sobre la reflexión. LA REFLEXIÓN SOBRE EL MIEDO. Si tienes ira, llora si puedes.
+##Fuego = corazón. Madera = hígado. Metal = pulmón. Tierra = bazo. Agua = riñón.
+####SALUD:
+##CABEZA: cantar, bailar, idiomas (Alemán...), relaciones positivas, ejercicio físico 90 minutos al día como mínimo...
+- Atención:
+* Mal: ¡más vale estar sordo que oír esto! No acepto la crítica, no acepto entrar en razón, no me acepto como monstruo que soy, con todo lo que me queda por mejorar interiormente. No sé qué contestar y me hago el sordo. Me siento fácilmente rechazado, y me aíslo de los demás.
+* Bien: mi voz interior me dirá cómo resolver los problemas, me abro a los demás. 
+- Memoria: ver de un vistazo y descansar. Estudiar con vela azul (cada color es una frecuencia).
+- Confusión mental (por calor...): lleva a que los sentidos funcionen peor. Si padeces depresión, ansiedad, estrés, bipolaridad... serás más propenso a sufrir irritabilidad, debilitamiento o aturdimiento ante situaciones extremas. Solución: omega 3. ¿Mirar un objeto para captar sus características esenciales y nombrarlas? Música 10 minutos: focalízate en un instrumento (deporte: en un jugador). Escucha 5 minutos un discurso (radio / tele). Escribe las ideas principales.
+- Más: descanso. Ver algo positivo en los retos que te pone la vida (desreprimir por Jung...). Los videojuegos nos ponen analíticos, son buenos en pequeñas dosis (si son viejos y no tienes que leer muchas instrucciones).
+##Cuerpo:
+- Dientes:
+* Comidas que remineralizan. Leche y queso de leche cruda, ¡crudos! Un poco queso tras la comida puede ayudar al PH. Manteca de vacas alimentadas con pastos. Huevos de gallinas camperas. Carnes de pastoreo. Vísceras.
+* No: mucha fruta o cítricos, vinagre normal (cebolletas y pepinillos en exceso), café y té (tienen taninos, lávate de inmediato, ¿y el vino es peor que la nicotina?), muchos crujientes (patatas fritas de bolsa, gusanitos, frutos secos; "cepíllate" bien para quitar el almidón), Refrescos (bébelos con un vaso de agua al lado), alcohol (seca la boca), [sal y especias] en exceso.
+- Hígado:
+* Requiere cenar muy temprano y decirle ssssshhhh (en taichí se pronuncia internamente para quitar la rabia). Higado malo implica falta de concentración, estreñimiento, enfado, apatía, dificultad para tomar decisiones...
+* Comida buena: manzana (antioxidantes, pectina para la digestión), garbanzos (aminoácidos para las enzimas limpiadoras), puerro (azufre, como ajo y cebolla), alcachofas (son amargas).
+* Comida mala: prefabricada (genera hígado graso / dificultades para filtrar el alimento), comidas pesadas (soy del grupo 0, aquí somos diferentes).
+- La albahaca purifica el agua. ¿Y los lirios?
+##Salud interior y social:
+- Mi intuición me dice que la ocultación de información dificulta los procesos de entendimiento entre personas, de comprensión. ¡Tibios al Infierno ya, mala gente!
+- ¿Eres una persona manipulable (cambias de opinión difícilmente o demasiado rápidamente)?
+* Buscas aprobación externa: cuando seas persona, buscarás sólo tu aprobación.
+* Metas actuales: mi motivación interior o [modas y convencionalismos y necesidades del entorno].
+* Te están manipulando: termino relación, pierdo control, se lo digo directamente.
+- Podría aceptar toda una corriente fea de imperfección en una habitación, centrándome en la harmónica.
+
+3. ####ENFERMEDADES (CAUSA):
 ####Ramón Maristani sabe más o menos el trauma que tienes, y si viene de algo ancestral, con sólo mirar a la cara, ¿y si usamos un programa de IA civilizada? Quien sabe de Nueva medicina germánica (Hamer NMG), diagnostica mejor que un médico (incluyo traumas psicóticos).
 ####Psicosomáticos:
 - Depresión: se usa para no sentir presión, sobre todo afectiva (se ha llegado a un límite). Tendencias depresivas: conflictos pendientes de resolver con progenitor de género contrario; y se sufrió aislado (sin ser escuchado); tampoco se aprendió a confiar en los demás; y deseos bloqueados y cerradez.
@@ -4490,7 +5211,7 @@ Si el 21 está mas adelantado que el 11, había una madre que estaba por encima 
 - Vómitos: violento rechazo de ideas. Temor a lo nuevo.
 - Zumbidos: negativa a escuchar. Tozudez. No oír la voz interior.
 
-3. HERMETISMO (LEO EN PHI).
+4. HERMETISMO (LEO EN PHI).
 ########################
 ########LEOENPHI########
 ########################
@@ -4625,7 +5346,7 @@ Si el 21 está mas adelantado que el 11, había una madre que estaba por encima 
 * Terrores nocturnos: a veces te despiertas con pataletas, a veces te tienen que despertar (gritas; un grito de mi padre "que viene el lobo" podría decirme algo de mi abuelo).
 ########FIN LEOENPHI########
 
-4. HERMETISMO (ZEBALLOS, CRISTIAN):
+5. HERMETISMO (ZEBALLOS, CRISTIAN):
 ############################
 ####CRISTIAN####ZEBALLOS####
 ############################
@@ -4975,3 +5696,2174 @@ Si el 21 está mas adelantado que el 11, había una madre que estaba por encima 
 - Cristian iniciaba con ganas, pero lo abandonaba. Zeballos (se va yo). Papá de Cristian lo abandonó a los 6 meses, ¡se fue! Cristian pensó en ser como el padre, para ser reconocido, y que el padre volviese.
 * ¿La idea es "ser mal hijo", diferente a los padres.
 ##¿El ascendente Tauro hace que alargues lo que dices, siendo menos soportable por los "resumidores"?
+
+#########################################
+############ANEXOS SOCIEDAD Y SUE‘OS#####
+#########################################
+####Esto es superinteresante, y va antes de Zodiaco incluso. Fin año (Caro):
+- La energía es de cierre (por el inconsciente colectivo). Las emociones se disparan.
+* Primeros 12 dias, no obligatorios, lo del dia x, se amplifica el mes x.
+* La gente piensa en fiestas en Diciembre, pero hay que ser mas consciente que cualquier otro mes. Los chinos no celebran antes de su fin de año, y descansan antes.
+- 1992: Sociedad de rígida a perversa.
+- Finales de 2012: mejorar (conocer a las élites...) es más fácil (yo he hecho mis deberes, ¿y tú?).
+- Ciclo 2018-¿2036?: Piedra hoppi muestra 2 senderos: uno es de emanar coherencia (amor): lo que pase en el otro sendero NO te afectará.
+- Más:
+* Guerrero, programaciones propias. Mercader, hablar con sutileza para no fastidiar ni que te fastidien (o convencer al inconsciente). Sacerdote: amplifica lo que ritualiza.
+* Problemas. ¿Que me falta desde donde estoy hasta el objetivo (miniobjetivos)?
+* La palabra es el timon, la vela, las emociones.
+##Deja a los frikitontos con sus tonterías, y empieza a imaginar, en vez de culpabilizar y quejarte.
+##############################
+#########ZODIACO##############
+##############################
+####Los míos son los Piscis (con su pasión por el bien común y su empatía) y los Escorpio. Capri tiene algo de ayudar, y esa serenidad... que me parece muy civilizao. Leo tiene ese corazoncito y esa inteligencia... La inteligencia de Acuario y su necesidad de soledad me atraen. Y Libra tiene esa suavidad en el conflicto, y ese arte loco...
+- Mi opuesto compatible es Tauro. La verdad es que prefiero Virgo y Cancer.
+- Géminis es relación amor / odio con el estable Escorpio. Sagi puede ser un gran amigo, y busca el sentido de las cosas (taría un poco por encima de Géminis, a pesar de ser tan fogoso). Aries puede ser "demasiao" pa'l profundo, esencialista y sutil Escorpio (he puesto 3 cualidades muy valiosas para un líder je je), pero tengo un amigo que es Aries con ascendente Sagi, que entiende las cosas "raras" que digo.
+####ZODIACO Introduccion:
+- El Zodiaco (grupo de 10 días de nacimiento) nos dice lo diferentes que somos (con misiones y habilidades diferentes, No compitamos). La Astrología (incluye el Zodiaco) tiene que ver con la posición de los astros (cuando naciste, la carta de hoy, de un país...). El retrato es bastante fiel:
+* Tienes que "pulir" tu signo, para tener más éxito, ser mejor persona / más coherente...
+##Nota: Escorpio es el "experto en Zodiaco", y Libra el que lo difunde (bueno, puede también un Escorpio con tacto).
+####La carta astral (informe Astrológico del día de nacimiento, o de los 12 meses "del cumpleaños": cada 12 meses te cambia el signo principal... y se llama carta de revolución solar) habla de lo bueno que tienes y de lo que tienes que mejorar (bloqueos...):
+- Si te cierran una puerta es porque otra puede abrirse, pero cierra tú la primera puerta mejor.
+- La mujer busca su Marte (si es lesbiana dominadora, su Venus). Yo tengo Venus y Marte en Libra y Leo.
+- Hipócrates dice que un médico no lo es del todo sin Astrología (es parte de la psicología).
+- Tierra y Agua son femeninos. Entre signos masculinos hay sintonía. Si hay mucha femineidad, se sienten mal.
+* Aire (necesitan corrientes favorables) y tierra (tercos) no se llevan.
+####Algunas características de los 12 signos:
+- Aries: enérgico. Ve el mundo con preguntas y son inocentes. Cree en lo tangible. Le aterra la idea de aparentar debilidad ante los demás. ¿Y por eso es tan decidido?
+- Leo: tienen que encontrar su propia manera / arte de crear y disfrutar. Bastante espiritual. Sabe en qué momentos ser orgulloso y en qué momentos mostrarse menos fuerte (con las personas más débiles que ella...). NO suele cambiar "su papel".
+- Sagitario busca la verdad, y la acaba encontrando en lo espiritual y se empodera con los problemas universales. Espiritual sin dudas. Desde pequeño se muestra orgulloso, y se nota en todo: hablar, caminar... El paso del tiempo lo hace modesto.
+- Géminis: quiere romper toda restricción. Estilo personal impulsivamente cambiante. Cree profundamente en todos los temas esotéricos y los practica. Física cuántica, taichí... Muestra su lado amable, y por eso no mejora mucho.
+- Libra: signo de las relaciones. Le atrae lo espiritual, pero prevalece siempre el raciocinio, el pensamiento... Paciencia para que piense en lo que le dices, aunque NO es mucho de "limpiar la psique" (es más de "sé como yo").
+- Acuario: quiere ser libre y es autosuficiente. Cosas humanitarias y elevar la consciencia social. Es racional, pero estudia lo espiritual para manejar su vida y a la gente. Modesto.
+- Tauro: mover la materia de la mejor forma posible. Necesita asegurar las decisiones. Espiritualidad: indagan, preguntan, anotan... para luego mentirte diciendo que son tonterías. Le cuesta cambiar y se sobrevalora laboralmente.
+- Virgo: perfeccionamiento (crítica superficial a veces, demasiado detallista), servicio a los demás. La falta de locura y el celo familiar, son preocupantes. Un poco más espiritual que Aries.
+- Capri: quiere llegar a la cima y mostrar al mundo lo que hace. Construirá cosas que duren para la vida futura. Espirituales en secreto. Orgulloso o modesto, depende del momento que atraviesa.
+- Cáncer: hogar y familia. Sensibles (pueden delinquir pasionalmente y reprimir). Espirituales (aunque suele decir que "son tonterías"). Suele victimizarse.
+- Escorpio: busca su transformación en un ser ideal (limpiar psique...). Va al límite (objetivos, pruebas de vida...). Habla de la muerte. Tener sexo con fines de procrear nos conecta con la esencia animal. Espiritual sin dudas, y con gusto. Gran modestia (aunque tenga que poner "cara de bestia" para sobrevivir).
+- Piscis: amor incondicional. Nos enseñarán cómo desapegarnos de lo 3D. Sueña despierto / imagina, y "lo tiene más cerca". Sabe muy bien indagar en las personas, tanto intelectual como esotéricamente. En sí mismo, no tanto. Bastante modesto.
+####Cualidades:
+-Creativos: Leo, Tauro, Libra, Acuario, y los de agua.
+- La capacidad de trabajo y la memoria no son indicadores de civilización (además, la cabeza fresca suele "matar a la sutil").
+* ¿Y EL ESENCIALISMO, LA LÓGICA, Y SABER CÓMO FUNCIONA EL MUNDO Y UNO MISMO?
+##EMPATIA E INTUICIÓN (MADRE DE LA EMPATÍA, PODRÍA DECIRSE).
+- Signos de fuego. Lo miran todo "desde afuera". Piensan que si ellos pueden hacer algo, los demás también. Intuición instintiva.
+- Signos de tierra (ganan a fuego en empatía). Tratan de entender a los demás, pero no saben bien cómo (también miran desde fuera). NO suelen llegar a la esencia, que es psíquica. NO les gusta arrastrar problemas ajenos. Los menos intuitivos. Apego a lo material. Pueden despreciar al sabio.
+- Signos de aire (ganan a fuego y tierra). Cuando están lejos de la persona se olvidan del asunto. "Si no has logrado lo que yo es por falta de previsión, voluntad o capacidad". Piensan bastante que los demás están exagerando cuando piden ayuda para acargar problemas a medias. Aire rige el pensamiento, la palabra y la inspiración. La intuición puede llegar tan fuerte como una ráfaga o muy suave.
+- Signos de agua. Lo suelen miran todo "desde adentro". Se reconocen entre ellos (son diferentes; yo, Escorpio, descubro lo oculto en otros, "limpio psiques"). Cancer: videntes y tarotistas. Piscis: ver problemas ajenos.
+####Misiones zodiacales (signo principal / solar):
+- Aries habla de expansión, y de iniciar proyectos que luego abandona. Acción sin hacerse casi preguntas.
+- Tauro empieza donde Aries lo dejó. No debe preguntar nada o cambiar de parecer o confiar a los demás su solitaria tarea. Cuidan.
+- Géminis, curiosísimos. Llegan a saber la suciedad del sistema mejor de lo normal. Comunicación.
+- Cancer enseña emociones, para que desarrollemos la plenitud interior (ser compasivo...). Don de la FAMILIA.
+- Leo, mostrarás "el mundo". No es tu creación. Alegría trabajando. Honestidad.
+- Virgo vigila y analiza, criticando con pureza de juicio (no he dicho sabiduría).
+- Libra, despierta en el Hombre la conciencia hacia los demás. Don del afecto y de suavizar la discordia. Hacer conscientes a los demás signos de sus misiones, y sus relaciones con los otros signos.
+- Escorpio: les dice a los demás que todo se hace con un propósito. Su tarea es conocer a los demás signos y sacar lo mejor que tienen para completar sus misiones, ¿sin decirles nada directamente? Verá tanto en las demás personas, que a veces se sentirá "rodeado de caimanes". Dada su dureza, les tocará ver cosas muy dolorosas.
+- Sagitario, enseña al Hombre la Alegría (sin usar la risa como defensa) y el optimismo. Conocerás la inquietud de cada una de las muchas vidas que toques. Don de la ABUNDANCIA INFINITA, aportando luz en muchos lugares, ¡misionero!
+- Capricornio, enseña al Hombre a trabajar (con descansitos, pero con constancia). Don de la responsabilidad. Ayudar a cargar con las tareas de los demás mientras aprenden a realizarlas.
+- Acuario, el Conocimiento del Futuro para nuevas posibilidades. Don de la LIBERTAD.
+- Piscis, absorberás penas; ampara, anima... Cuando trates de difundir las leyes naturales / universales / espirituales, el Hombre no te escuchará. Haz al otro confiar en sus capacidades para que lo intente de nuevo si falla en sus misiones.
+####Misiones si tienes este ascendente:
+- Aries. Aprender a actuar rápido y tomar decisiones bajo presión.
+- Tauro: aprende que todo lleva su tiempo en la naturaleza. ¿Gozar produciendo y acumulando? ¿Vida en el campo?
+- Géminis: aprender a relacionarse con hermanos o compañeros que no sean iguales. Debe conectar "sus 2 seres" para que haya "evolución".
+- Cáncer: estará rodeado de gente que exprese calidez, y emocionalidad respecto al pasado. Si el signo principal es de aire, le costará entrar en su parte sensible, y podría vivir aventuras que sólo son para los de aire (significa presión, malestar...).
+- Leo: se codearán con figuras de autoridad fuertes. Los imitará, pero tarde o temprano, su vacío afectivo le hará buscarse a sí mismo.
+- Virgo: la vida plantea escenarios de gran potencialidad, dentro de contextos de pocas posibilidades (enfermedades, situación económica, penosidad en general...).
+- Libra: de peque, aprende a apreciar la belleza y a desarrollar su potencial artístico. Tiene que aprender que relacionarse socialmente no es igual a depender emocionalmente.
+- Escorpio: familiarizarse consigo mismo a través de personas / situaciones con su alta y conflictiva intensidad emocional. Está obligado a descubrirse a sí mismo y el lado oscuro de la naturaleza humana a una edad más temprana que el resto de la gente.
+- Sagitario: viajar al extranjero o mucho. Conexión con Filosofías o religiones. Conexión con Maestro que imparte ideas profundas e invita a ver más allá (para dar luego sentido a vidas de otros).
+- Capricornio: vivir experiencias severas, mientras asume enormes responsabilidades (¿obras largas, por ejemplo?) sin la posibilidad de apoyarse en otros. Aprender a postergar intereses inmediatos, y recompensas sólo al final.
+- Acuario: muchos imprevistos: mala suerte, crisis inexplicables... Con el tiempo, se verán como oportunidades creativas y liberadoras. Muchas personas / situaciones que rompen las reglas y son originales (para aprender libertad y espontaneidad). Notables habilidades científicas o tecnológicas.
+- Piscis: todo es confuso, como sólo entendible con una percepción "mágica". ¿Y qué hace mal Piscis (ascendente)? Desconfían de sus propias percepciones buscando racionalidad... Captan los efectos mágicos de la música, la creatividad artística...
+####trabajo éxito:
+- Agua: sentimientos, misticismo.
+- Aire: guerreros, búsqueda de información / conocimiento del mundo material.
+- Tierra: organización, dinero (y "modelado" de la materia"). Tienen buenos hábitos.
+- Fuego: mando y acción física. Muy exitosos.
+##Éxito. El criterio principal es la fuerza espiritual (¿voluntad?), la resistencia a las adversidades y la capacidad de ir adelante:
+- Fuego. Sagi: no pierden la cabeza ante el enemigo. Leo: para conquistar necesita apoyo y reconocimiento. Pero confían mucho en la vida (y la vida responde). Aries: no se controlan (anque con ascendente Tauro, ¿se vuelven calculadores?).
+- Tierra. Capri: decididos, ambiciosos y consistentes. Virgo: cuando no aceptan el mundo, van contracorriente. Tauro: piensan que todo es para siempre, pero al final llevan relativamente bien los cambios.
+- Agua. Piscis: desde su mundo de sueño consiguen lo que quieren. Cuando Escorpio sufre, tiene tendencia a entregar el relevo. Confía en su percepción. Cáncer: necesitan a alguien al lado, o podrían deprimirse. Tambien tienen buen ojo.
+- Aire (¿los menos exitosos?). Acuario: apunta alto y exige mucho de sí y de los demás. Libra: pierde el entusiasmo tal y como lo ganó. Géminis: muchas cosas a la vez, y piden ayuda. No se concentran.
+####El trabajo ideal (en China las empresas contratan por signo, numerología, sangre...):
+- Aries (impulsivos): empresarios (determinación), bombero, cirujano, mecánico, atleta profesional... NO les lleves mucho la contraria.
+- Tauro (pacientes): ingenieros, agricultores y ganaderos. Artistas en general y jardineros. Idiomas (buen oído). Confiable y leal, sabe trabajar en equipo, pero querrá que las cosas salgan como dice. Prefieren talento a inteligencia integral.
+- Géminis: periodista y la TV. Exploradores, escritores, comerciantes y publicistas, traductores. Hablador e inconsciente. Si tienes problemas, alude en todo momento al mal que te hace.
+- Cáncer: cuidar, medicina, farmacéutica o docencia...
+- Leo: don de mando. Gerentes, arquitectos, maestros... Déjarle a su aire con sus propias tareas. Le gusta recibir honores. En una entrevista lo enseñará todo (las hacen bien, demasiado, ¡fuera entrevistas, hola, confianza!).
+- Virgo: gruñones, pero pacientes. Química, medicina, veterinaria, investigación y la ciencia materialista en general. No quiere intromisiones (se concentra).
+- Libra: abogados, diplomáticos, decorador de interiores, psicólogos y artistas. Encaja bien, y contagia inteligencia creativa loca / humanidad. Espera a que esté en fase gregaria para hablar.
+- Escorpión: psicólogos o sexualidad. Médicos, investigadores, gerentes, ingenieros y detectives.
+- Sagitario: Agencia de viajes. Maestros, fotógrafos, embajadores (internacionales...). Si no se siente favorecido personalmente, no dudará en boicotear. Demuestra que sabes de lo que hablas.
+- Capri: dinero. Área militar e ingenieros. Confiables y ordenados, pero No parará hasta "tener razón". Ayudan a quien NO sabe.
+- Acuario: arte, arquitectura. Geniales (muchos). Políticos, escritores, científicos, astronautas. Si no está motivado o inspirado, cargarás con el peso y querrá recibir reconocimiento.
+- Piscis: psicólogos, entienden el alma. Veterinarios, biólogos, artistas, médicos, músicos. Recrimínalo con tacto. Quédate sin ampararlo para que descubra que no puede actuar por su cuenta y con prepotencia.
+####trabajo profesores:
+- Aries: tenderá a poner exámenes difíciles, y a competir si es de Educación Física. Impacientes con los que no aprenden rápidamente, quieren a los aventajados.
+- Tauro: NO son perspicaces en estimular a los estudiantes.
+- Géminis: le gustará que los alumnos participen (¡vaya!). Impaciente con los lentos, puede ser sarcástico. Quieren un pensamiento fuera de lo normal.
+- Cáncer: mantendrá conexiones profundas con sus estudiantes. Quieren que sus estudiantes se sientan seguros y protegidos.
+- Leo: se pondrá hecho una fiera ante el descontrol, y pondrá exámenes bastante chungos. No da clase, cuenta su vida. Clases divertidas y amenas.
+- Virgo: muy técnico en sus explicaciones, ¡bieen! Pondrá especial atención en la presentación (mal). Exigentes y poco afectivos.
+- Libra: incentivará los debates, habla despacio y claro, tardón corrigiendo exámenes, pero justo. Etiqueta y modales. Acomoda la clase según el clima reinante. Se enfocan en el crecimiento del estudiante, ¿pero sin hablar de desreprimir no?
+- Escorpio: si le caes mal (señal inequívoca de tu imoralidad), cuidado. Será bastante exigente (mal). Hablando será calmado. Son profundos pensadores (bien). NO va de amiguete.
+- Sagitario: divertido. Poco exigente, pero NO descuidará que caiga el nivel. Regalan a sus alumnos cuentos y fábulas, enseñando una moraleja cada día.
+- Capri: directo al grano en explicar, MUY exigente (sobre todo con los mejores), no tolerará a los vagos. Parece rudo, pero es un padrazo / madraza. Motivarán a sus estudiantes para que crean en ellos mismos. Muchas reglas.
+- Acuario: fuera de lo común (incluye exámenes), animará a tener criterio propio para ver el mundo. Amigo de todos.
+- Piscis (de primaria). Escucha a los alumnos incluso antes de clase. Trabajar al alumno casi de manera personalizada y haciéndolos sentir que se los valora. Quiere verlos desarrollar nuevas habilidades creativas.
+##¡Qué buenos Libra, Piscis, Sagi y Acuario!
+####familia padres
+- Capri: suelen establecer metas y objetivos realistas. Enseñan a prevenir.
+- Libra: pasará mucho tiempo con sus niños, enseñándoles arte... Fomentará la cooperación.
+- Leo. Dan lo que se necesita, pero sin mimar. Sabe resolver problemas, tiene buen humor y habrá experiencias vitales.
+- Cancer: escuchar los sentimientos. Cálidos y cariñosos.
+- Tauro: comprometido y mantiene la estabilidad. Prácticos.
+- Géminis. Quieres ser amigo de tu hijo (confunde).
+- Sagi. Muchas veces asumes que tus hijos quieren lo mismo que tú.
+- Acuario: a veces se necesita más emoción o intuición para arrojar luz sobre la situación.
+- Piscis. Mártir a veces, "¡después de todo lo que he hecho por ti!".
+- Escorpio se cansaría pronto de ser padre (es esencialista). Con tensiones, puedes dar mucho miedo.
+- Virgo exigiría demasiao en vez de animar (genera inseguridad).
+- Aries: hijos más aguerridos y aniñados.
+####Salud:
+- Aries. Come rápido y engorda. Tiene que saber parar un poco (o la ansiedad le matará; y a su entorno).
+- Tauro. Gula (no aceptar sentimientos / pensamientos). 
+- Cáncer. Te encanta cocinar para ti y la familia y engordas.
+- Leo. ¡Todo lo que engorda te atrae!
+- Libra: te gusta la buena mesa (en vez de patrones de ejercicios), la vida social activa (quiérete para poder estar solo)...
+- Escorpión. Las sospechas o historias negativas que genera pueden ser muy dañinas.
+- Sagi. Cambia de lugar y se olvida de traumas, pero esto podría llegar a hundir los traumas (fuga disociativa).
+- Capricornio. Recordar errores del pasado culpándose, tener miedos por pensar lo peor... 
+- Acuario: ingredientes no acostumbrados (el cuerpo grita), incluyendo elementos adictivos. Claustrofobia.
+- Piscis. ¡Para la retención de líquidos hay que beber agua (mejor "suero": lechuga con aceite, sal y vinagre casero; o agua con limón y sal, o agua de mar)! Delirios de grandeza, confundir sueño y realidad. ¿Esto último lleva al Alzheimer más rápido?
+####Una fiesta:
+- Vino obligado: Virgo, Capricornio, Tauro y Escorpio. Pero Capri suele disfrutar las fiestas cuando quiere ir.
+- Trata de dar imagen molona siguiendo la corriente: Libra, Acuario, Cáncer, Piscis.
+- Baila, bebe...: Aries, Leo, Sagitario, Géminis. Todos masculinos.
+####Los más dormilones son femeninos. Luego vienen los de fuego. Luego Virgo (¿su cerebro es masculino?). Luego los de aire (¿NO se cansan tanto por ser "intelectuales"?).
+####FÍSICO SI TIENES ESTE ASCENDENTE (A MÍ ME MARCA CAPRI):
+- Aries: buen desarrollo muscular. Estatura superior al promedio (¿Aries no es muy alto no?). El rostro suele ser anguloso o huesudo. Labios poco carnosos.
+- Tauro: cuello corto y grueso, hombros anchos y manos fuertes. Piel dura, gruesa. Labios carnosos, mandíbula pesada o cuadrangular.
+- Géminis: delgados, longilíneos, de aspecto juvenil. Nariz pequeña, delgada y en punta. Boca grande, labios finos. Estatura nunca elevada (Géminis no suele ser bajo).
+- Cáncer: tejidos blandos sin mucha musculatura. Rostro ligeramente infantil y actitud como absorta en sus pensamientos. Cabeza redonda, cabellos delicados y finos. ¿Altos?
+- Leo: formas alargadas, carencia de zonas adiposas. Voz vibrante, fuerte y cálida. Frente alta y amplia.
+- Virgo: menudos y estatura inferior al promedio (los Virgo suelen tener estatura media). Fosas nasales pequeñas. Labios delgados.
+- Libra: grasa en las caderas. Rostro ovalado, ojos grandes y expresivos con grandes pestañas, boca casi esbozando una sonrisa. Voz agradable, melodiosa y sensual. Mentón redondeado en el extremo.
+- Escorpio: altura medio-alta (Escorpio, muy alto no suele ser). Piernas relativamente cortas. Cejas levemente prominentes, boca más bien ancha. Mirada profunda y penetrante, tez un poco morena. Voz fuerte, sensual y agradable.
+- Sagitario: estatura medio alta (suelen ser altos los Sagi). Hombros amplios, espalda desarrollada (buen tórax). Manos siempre grandes. Mentón ligeramente alargado. Ojos grandes.
+- Capricornio (mi ascendente): estatura superior al promedio (Capri no suele ser muy alto), con estremidades más largas que el tronco. Sin depósitos adiposos. Frente amplia, poco pelo y prematuramente canoso. Nariz larga y delgada, boca pequeña y mantenida fuertemente cerrada. Cuello largo y delgado. Mentón huesudo, algo afilado y levemente cuadrangular. Habla lento y en voz baja.
+- Acuario: extremidades inferiores altas y delgadas. Pelo lacio y tupido. Ojos muy grandes y expresivos. Rostro ovalado, alargado, carnoso. Acuario suele ser muy alto.
+- Piscis: predominantemente formas redondeadas y tejidos blandos, pelo abundante, mirada ausente y soñadora. Piernas cortas y hombros anchos, manos pequeñas y regordetas. Labios carnosos y sensuales, con una nariz corta y de forma redondeada.
+##¿Y si tu ascendente no te describe ni al 50%? Quizás tengas a Marte, Venus o La Luna en la casa 1 (el ascendente).
+####los 36 decanatos:
+- Aries:
+* 20 marzo 31 marzo. Marte rige (Aries también). NOTA: NO VERÁS NI A URANO, NI A NEPTUNO NI A PLUTÓN (BUSCA POR TU CUENTA SI QUIERES). Te enfocas en tus deseos, que te ayudan a darte cuenta de quién eres. ¿Tiernos? ¿Gordillos?
+* Tendencia Leo (Sol): 1 a 10. Cálido, entusiasta y puedes contagiar ese calor. ¿Durillos?
+* 11 a 19. Regente Venus (yo me esperaba Sagi. Venus rige a Libra). Mayor facilidad para conciliar puntos de vista opuestos.
+- Tauro: 
+* 20 a 30 Abril. Mercurio (Géminis). Varían las actividades... ¿Éxito material comerciando / aprovechando oportunidades? Secretamente valora más los pensamientos que los sentimientos.
+* 1 a 10. Luna (Cancer). Fundar un hogar. Le da bastante importancia a los sentimientos. La popularidad es posible. Manejarse en grupos es una de las claves del éxito.
+* 11 a 20. Saturno (Capri). Fuertes convicciones para conseguir propósitos. Tesón y laboriosidad para objetivo grande. Se comprometen sólo a actividades que saben que podrán hacer (tiene su lado negativo).
+- Géminis:
+* Mayo 21 a 31. Júpiter (Sagi). Estudios superiores, viajes (para aprender) y cualquier actividad que te permita expandir la mente. Optimismo jovial y a veces desmesurado, y adquirir conocimientos te trae sumo placer, mientras puedas compartirlo.
+* 1 a 10 de junio. Marte. Periodistas que defienden sus ideas. Astuto, inquieto mentalmente, pensando en el siguiente paso.
+* 11 a 20. Sol. Las investigaciones alcanzan alturas honorables. Mente brillante. Secretamente, tienes preguntas muy profundas que vas respondiendo con el correr de los años. Los demás disfrutarán de las respuestas.
+- Cancer:
+* Junio 21 a 1 julio. Venus (simpatía). Muy afectuoso; no temes expresar tus sentimientos. Encontrar a tu "media naranja". Puedes ser un poco más materialista.
+* 2 a 12. Mercurio. Un poco más racionales e introspectivos, con mayor facilidad para comprender sus emociones y expresarse. Concretar algún tipo de estudio más o menos formal. Incomprendido. Estudia un poco sobre comunicación.
+* 13 a 21. Luna: emotividad, capacidad de protección, apego al pasado, a las tradiciones y los recuerdos, necesidad de tener un grupo de pertenencia. Sabes que puedes cuidar muy bien a tus seres queridos (hijos...).
+- Leo:
+* Julio 22 a 1 agosto. Saturno. Dignidad, valor, justicia y brillo constructivo y concreto. Autoridad y liderazgo naturales. Crees poseer "la fórmula" (puedes pecar de altanero). Rectitud y disciplina (curioso Leo).
+* 2 a 12. Júpiter. Optimista en extremo y orgullo a veces desmedido. Expresar energía exuberante creativamente (teatro, arte...). Viajes y descubrimientos. Defiendes al débil.
+* 13 a 21. Marte. Valor y ánimo inigualables. Dotado para el deporte. El liderazgo es reconocido después de algunas batallas demostrando lo que vales.
+- Virgo:
+* Agosto 22 a 2 septiembre. Sol. Disciplina para la excelencia y brillo intelectual. Más entusiastas. Destacarse en cualquier cargo que ocupen.
+* 3 septiembre a 13. Venus. Carácter dulce y simpático. Se esfuerzan por concretar proyectos y alcanzar una buena posición económica (gracias a los lazos que establecen...). Perfeccionismo estético (dietas...).
+* 14 a 22. Mercurio. Estudio y lograr pequeños éxitos en su profesión. Detallista, analítico (a veces en extremo). Un ideal de ti mismo demasiado alto puede frustrarte. Son rapidísimos pensando.
+- Libra:
+* Septiembre. 23 a 2 octubre. Luna. ¡Decanato matrimonial! O grupo... donde puedan aportar algo. Puedes alcanzar popularidad gracias a la Luna.
+* 3 a 13. Saturno. Infancias difíciles o "adultas" (postergando cosas bonitas). Carácter duro y consciente del deber. Seguridad puesta en sí mismos y sus recursos, NO en el afuera.
+* 14 a 22. Júpiter (provee buenas oportunidades para triunfar, ai NO hay exceso de auto-confianza, o NO se quiere más y más, tirando por la borda parte de lo conseguido). Lo saben: mejorar la sociedad y transformar el mundo (obra, o legado).
+- Escorpio:
+* Octubre 23 a 1 noviembre. Marte (arrojados, fuertes, a veces egocéntricos, increíble fuerza de voluntad). Muy emocionales. Querer imponer tus deseos provocará luchas. Exteriroriza sentimientos para NO tener rencor.
+* 2 a 12. Sol (eje para las turbulentas aguas escorpianas), ¿y NO era Neptuno? Faro de esperanza y claridad aún en medio de crisis (también para los demás). Gran terapeuta si te lo propones (puedes bucear en emociones intensas, ¿y mejorar mucho?).
+* 13 a 21. Venus. Pasión, romanticismo, sensualidad. Cuidado con encarar las cosas con intensidad.
+- Sagi:
+* Noviembre 22 a 1 diciembre. Mercurio incentiva mucho más la búsqueda filosófica. De pequeños, pudieron haber vivido cambios de domicilio. ¿Multiplicidad de vínculos y creencias a lo largo de su vida?
+* 2 a 11. Luna. Disfrutas estando en constante movimiento: viajes físicos (aventuras sin dar explicaciones) o con la mente, conociendo lugares y culturas lejanas. Necesitas un hogar al que regresar o viajar con alguien familiar.
+* 12 a 20. Saturno. Puede que cuestiones las creencias que has heredado o que las consideres como "ley" y rechaces lo diferente.
+- Capri:
+* Diciembre 21 a 31. Júpiter. Hacer cumplir la Ley, las capricornianas reglas. Quieres una buena posición social y buscas el éxito en general. Deberás cultivar buenas relaciones para NO sentirte solo. Cuidado con una vida material hipercómoda.
+* 1 a 10. Marte. Romper con las tradiciones o imponer las que quiera. Pueden guardar rencor a quienes los dañaron.
+* 11 a 19. Sol. Buscan mejorar lo social. Les espera el reconocimiento si aprenden a administrar su ego. Puedes sentir que eres mejor que los demás y no temer demostrarlo objetivamente.
+- Acuario:
+* Enero 20 a 30. Venus. Persigues la armonía en el hogar. Buscas la comodidad y el disfrute. El amor se confunde a veces con la amistad. Persigues el amor perfecto, que comparta valores, sepa respetar tu libertad y esté siempre allí para ti.
+* 31 a 9. Mercurio (intelectual). De repente pueden ser más emocionales que racionales. Te identificas con todo lo grupal, lo que te da sensación de ser más grande.
+* 10 a 18. Luna. Más emocionales que mentales. Puede llevar una vida variada, algo errática y con altibajos. Rebelde, inconvencional, quiere decidir para su vida. Ideas "locas", pero atrayentes. Necesitas pertenecer a algún tipo de grupo o institución.
+- Piscis:
+* Febrero 19 a 1. Saturno. Ambición material y consciencia de su responsabilidad en la sociedad. Pueden sentir que ayudan pero no reciben la ayuda que necesitan. La caridad, inteligente (cubre tus necesidades, enseña "a pescar"...).
+* 2 a 11. Júpiter. Destaca las cualidades naturales de Piscis: entrega, empatía, psiquismo fuerte, humanitarismo. Excesos. Buen carácter y postura positiva ante la vida, que transmiten a los demás.
+* 12 a 20. Marte. Carácter mucho más fuerte, resuelto y competitivo. Pueden guardar un rencor o un enojo por mucho tiempo, hasta que aparece de manera súbita. Muy psíquicos, e influencian a los demás, a veces ejerciendo presión, aunque no de un modo directo.
+####Flecos:
+- Capricornio: Tiene fama de longevo. Elige bien a quién sonreír y cuando (eso es lo bueno).
+- Inteligentes: los acuarianos son muy analíticos, desarman los problemas para un entendimiento más profundo. Los escorpianos son más perceptivos que la media, y tienen más capacidad de evaluar y entender el mundo que los rodea. Las personas de Géminis sorprenden, mientras que las de Cancer y Piscis tienen mucha inteligencia emocional. Todos somos inteligentes, y con algo que nos hace especiales.
+####Los signos se ganan enemigos por:
+- Aries: espontaneidad. Aries vs Aries, malo.
+- Tauro: pasivo, aunque se complementa bien con Aries.
+- Géminis: difícilmente da su brazo a torcer.
+- Cancer: a veces piensa que el fin justifica los medios.
+- Leo: quiere liderar (o se marcha).
+- Virgo: busca la perfección antes de enfrentarse a los demás.
+- Libra: busca alcanzar sus objetivos sin miedo. Y a veces presiona.
+- Escorpio: competitivo y vengativo.
+- Sagitario: NO se corta un pelo con palabras feas hacia el otro.
+- Capricornio: calculador, siempre evita la confrontación.
+- Acuario: se venga "de tapadillo".
+- Piscis...
+####ESCORPIO, odio recíproco:
+- La vida me junta con Aries, como espejo de mi energía agresiva, a ver si mejoro.
+- Sagi: adrenalínicos (yo, "parao"), pero pueden ser grandes amigos, ahí, sincerándose el uno con el otro para bien.
+- Géminis: "de sonreír", activo, te lleva por donde quiere a veces, y NO suele ir hasta el fondo con todas las respuestas.
+- Libra: NO te responden, se van, y piensas que estan enfadaos contigo. Libra es justicia (material) vs Psicología. Y a veces quiere que hagas lo de los demás para que haya harmonía (cuando somos diferentes).
+####Varios:
+- Los Virgo (pongamos de bajo nivel) quieren un esfuerzo de ti (un triunfo...) antes de "ver si te abandonan o no". Pero no se dan cuenta de que tienes una Psicología, unas emociones, unos miedos... y necesitas motivaciones.
+- ¿Os imagináis en una casa o empresa, que para cada uno haya una tabla personal con los defectos del signo zodiacal? Puedes acusar a los demás (salvo que hayan superado el defecto).
+####Tratar a un signo que se porta mal (ser espejo):
+- Géminis: ser irónicos con ellos.
+- Sagitario: cambia de dirección continuamente (una falsa libertad maleducada). NO les recuerdes errores añejos.
+- Acuario: habla de sus problemas como si no tuviese sentimientos, teóricamente.
+####Lo que no soporta cada signo (y bajar humos):
+- Aries. No soportan malgastar el dinero ni los criticones. Inconstante. Su ironía machacante es implacable. Halágalo (o rétalo para divertirte).
+- Tauro: a los maleducados, irresponsables, tardones, tacaños... Tampoco darse por vencidos. Aflojan con una buena comida, masajes...
+- Géminis: a los apáticos, los quietos, o los que desaprovechan las "buenas" oportunidades. Se hace la víctima a veces si no colaboras. No soportan la infidelidad, el desamor y la falta de cariño.
+- Cáncer: la sencillez, falta de clase, seriedad o lealtad (algo posesivos)... Ignoran.
+- Leo: ignorancia (es peor el NO querer saber lo esencial), deshonestidad y poca inteligencia (= mucha memoria y capacidad de atención ji ji: tonta cabeza fresca "masculina"). Tampoco a los abusones, criticones y manipuladores. Tampoco las salidas de tono ni los enfrentamientos. Tampoco esperar. Hazles cariñitos.
+- Los Virgo: los que van llamando la atención. Llévalo a algún evento loco por sorpresa, a ver si le cambias los esquemas.
+- Libra: la ordinariez. ¿Indolente? Falta de confianza en sí mismo, inconstante. Que lo vea todo de un color positivo (no hay mal...). NO le hagas decidir.
+- Escorpio: traidores. Tampoco la falta de inteligencia, la mediocridad y la falta de ambición. Vigila tu inmoralidad con él.
+- Sagi: órdenes de cualquiera. Tampoco los celos, las escenas, los controladores, la vejez y las limitaciones. Deja a un lado la rigidez.
+- Capri: gastar tiempo con quien no está a su altura intelectual y socialmente. Los hiperactivos o fuera de la norma social. La falta de ambición. Lo "joven" (estoy con Capri más o menos). ¿Ternura con ellos?
+- Acuario: tristes y opacos, faltos de imaginación y creatividad, cerrados o tradicionalistas, necios. Rebeldes, sin tacto, fanáticos, demasiado desapegados. ¿Unirte a su viaje apasionante si NO puedes contra ellos?
+- Piscis: los que les obligan a bajar de su nube y ver la realidad. Tampoco ser ignorados ni ninguneados o que los ataquen sin motivo. ¿Temperamentales? Hay que ser firme pero tierno: conviértete en una especie de tronco firme de apoyo y pégale un buen zarandeo de vez en cuando para que reaccione.
+####Cómo manipulan:
+* Fuego, causa: en secreto, por envidia... Pueden esparcir su fuerza / poder, generando caos con imagen de orden.
+* Tierra, causa: sentirse heridos o enjuiciados innecesariamente, y con resentimiento. Para ellos, la buena reputación (y ser autoridad) es sumamente importante.
+* Aire: usan capacidad de oratoria y de adulación, por codicia...
+* Agua: suelen manipular de manera inconsciente pero constantemente (el éxito se resiente entonces). Sienten que el mundo les debe cosas (suena a victimizarse).
+- ARIES: anular con violencia. TAURO: usa a sus poderosos y fieles contactos. GÉMINIS: charlas interminables... Los demás acaban confundidos y exhaustos. CÁNCER: rol de víctima (traen sucesos del pasado).
+- LEO: encantadora y magnética personalidad. VIRGO: suelen hacerse los enfermos. LIBRA: buena educación, modales, y adulaciones. - ESCORPIO: trampas (amos y señores de la manipulación).
+- SAGI: regalos, a cambio de información... - CAPRI: desgastando a los demás de manera lenta y pausada. - ACUARIO: siendo indiferentes. ¿Acuden a amigos en común? - PISCIS: diciendo una cosa y haciendo lo contrario. Culpando.
+####horóscopo MUY cabrón. Cuando leas el tuyo dirás "pues no es verdad"; cuando leas el de alguien que no te cae bien dirás "verdad verdadera". Ríete de tus defectos, acéptalos:
+- ARIES. Piensas que los demás son gilipollas y tú íntegro. En realidad quieres mandar así llegues a los golpes. Tienes el don de tocar los huevos.
+- TAURO. Eres la hostia de trabajador porque nunca haces las cosas bien a la primera. NO admites errores.
+- GÉMINIS. Eres un perfecto manipulador. Normalmente esperas mucho a cambio de muy poco.
+- CÁNCER. Ruegas cariño y aprobación, mientras que haces sentir al otro un poco "despeinado", y haces el tonto en el escenario.
+- LEO. Eres impaciente y no toleras crítica alguna (mal líder). Me obligó a estar una hora oyéndole tocar la guitarra eléctrica.
+- VIRGO. Trabajador cuando quiere, analítico cuando le conviene. Tu obsesión por la perfección enferma a la gente, pero a ti te la suda.
+- LIBRA. Luchas contra las injusticias por algo a cambio. Criticas por debilidad mental (NO soportar la diferencia).
+- ESCORPIO: llegarás a la cumbre del éxito por tu total falta de escrúpulos y ética. Me dejó de hablar por un mes para que aprenda, ¿que aprenda qué?
+- SAGI. La mayoria son alcohólicos. Me llevó a ver una peli que pensaba que me gustaría, y NO fue así.
+- CAPRI. Básicamente eres un cobarde que no se atreve ni a mirarse al espejo (demasiao duro). Y una barra conservadora de acero inoxidable. Tenía que poner decoraciones a sus ejercicios extra para la profe, y pasó de mí.
+- ACUARIO. Me obligó a hacerle una reverencia por cubrir bien un papel de la comunidad de vecinos.
+- PISCIS. Tus consejos superfluos acaban con la paciencia de todos.
+####031Folio0301socio Zodiaco cómo piensan.txt  Zodiaco cómo piensan:
+- Aries: mente suspicaz y obstinada (opiniones). Darán lo mejor de sí (se mostrarán más creativos...), en los momentos de mayor peligro, de lucha o de batalla (videojuegos...).
+- Tauro: lento, profundo y analítico, con gran capacidad de concentración. Se apoyará en lo demostrado (peligro, no intuición) o consolidado. Belleza, arte y ciencia. Inteligencia concreta (¿poco abstracta?).
+- Géminis: rápida comprensión y asimilación. Comunicadores excesivos, excelentes cualidades de razonamiento. Inteligencia concreta.
+- Cancer: intuición, presentimientos e inspiración. NO muy objetivos a veces. Artistas, escritores, creativos e incluso videntes. Obsesiones y tendencia a meterse en bucles neuróticos.
+- Leo: capacidades de síntesis, comparación y abstracción (está muy bien). Facilidad de comprensión. Búsqueda de la verdad. Gran rapidez (no abrumes a un tranquilo) y agudeza.
+- Virgo: inteligencia analítica y lógica, ingenio, facilidad de comprensión y asimilación. Ciencias exactas, y observador (hacia afuera, mal) y meticuloso, perdido en detalles sin importancia.
+- Libra: busca armonía y el punto medio de las cosas. Gran facilidad para adaptarse, y para los pactos (diplomacia...). Astucia. Saca lo mejor de los demás. Actividades artísticas.
+- Escorpio: mente profunda e interesada en desvelar secretos y misterios. Enorme sentido analítico. Gran realismo. Le atrae todo aquello que asusta a la gran mayoría de la gente y da lo mejor de sí en momentos de lucha o peligro (Marte, Aries).
+- Sagitario: Filosofía y las más altas ciencias y humanidades. Notable intuición (de fuego) y organización. Mira hacia lo grande / genearl y busca la sabiduría. Abstracto.
+- Capri: muy racional y reflexivo, que en su mejor versión producirá a los grandes sabios y científicos. Asimila lentamente pero recordará siempre. Metódico. Madurez por lo general, y capacidad de concentración.
+- Acuario: facilidad para adquirir extensos conocimientos. Invención, gran intuición y a veces auténtica clarividencia. En el mejor de los casos es genio. Gran independencia.
+- Piscis: intuición muy poderosa, presentimientos certeros y a veces clarividencia. Gran inspiración. Asimilar lo espiritual, e ideal para el arte. Podría entremezclar lo racional con lo fantasioso.
+####Zodiaco los más soeces.txt  - Aries: cuando se enojan no controlan y llenan de insultos a sus padres...
+- Tauro no aguanta la irrespetuosidad. Vive constantemente malhumorado, y al ser muy correcto (aunque no muy inteligente en ver faltas morales), el mundo está constantemente sintiendo toda la furia e insolencia de este signo, disfrazado de tierno.
+- Virgo no tolera a quien no cumple las reglas o se comporta inadecuadamente en el trabajo. Altamente exigentes con ellos (en términos no muy profundos / esencialistas), suelen ofuscarse mucho y volverse muy groseros y obscenos con aquellos que llegan tarde...
+* ¡Pero si la vida real (qué eres fuera del trabajo) es lo importante!
+##¿Luna y signo en los tiranos, eran de tierra y fuego?
+####033Folio0301socio Zodiaco trastornos de la personalidad.txt  - Aries: trastorno explosivo intermitente de la personalidad (ante frustración). ¿Los aspis también?
+- Tauro: ¿toc (cosas en orden)? Un Tauro que no se sale con la suya puede entrar en pánico.
+- Géminis no puede soportar estar solo por mucho tiempo. Debes ser capaz de resolver tus necesidades tanto físicas como psíquicas por ti mismo.
+- Cancer. Al igual que un Escorpio ansioso, tienden a construir muros alrededor (especulan sobre intenciones de su gente querida...). A diferencia de Escorpio (miedo al rechazo), Cáncer tiende a hacerlo por si los lastiman.
+- Leo: no tienen ningún problema en pensar que tienen derecho a un trato especial y que las personas deberían hacer lo que digan (se adoran a veces).
+- Virgo: trastorno límite de la personalidad. Pueden malos, amargos y muy negativos, especialmente ante el abandono. Inestabilidad emocional, sentimientos de inutilidad, inseguridad, impulsividad y dificultades en las relaciones sociales. Puedes volverte muy manipulador para mantener a una persona cerca.
+- Libra: trastorno de personalidad autodestructivo. Es posible que no se vean merecedores de alegría, riqueza o incluso amor. Libra rechaza o hace ineficaces los intentos de otros para ayudarlos. Después de eventos positivos, responde con depresión, culpa, un accidente...
+- Escorpio: evitación (contacto íntimo y social). Pueden ser muy tímidos y preocuparse demasiado por no verse tontas o expuestas. Escorpio: no todo el mundo quiere vulnerarte / dejarte mal.
+- Sagitario: piensan que las reglas no son para ellos (temerarios). Tienden a mentir, quebrantar las leyes y comportarse impulsivamente, no preocupándose por su propia seguridad ni por la de los demás.
+- Capricornio: trastorno de perfeccionismo. TOC muy específico (y a menudo tiene que ver con la ética laboral y la seguridad del hogar...). Pánico si su trabajo no brilla con la perfección (ansiedad).
+- Acuario: esquizotípicos. Déficit social o interpersonal, lo cual produce gran malestar e incomodidad al relacionarse; suelen ser consideradas personas extrañas o inusuales. Distorsiones cognitivas y de pensamiento y un comportamiento excéntrico. Perderse en su propio lado creativo.
+- Piscis (hipersensibles), histrionismo: adictos a que otros les presten atención ("quiéreme, por favor"). Generalmente comienza en la edad temprana adulta, con un comportamiento seductor inapropiado y una excesiva necesidad de aprobación. Animados, dramáticos, vivaces, entusiastas y coquetos. Apariciones inapropiadas y llamativas, expresan sus emociones de forma intensa o excesiva y pueden ser fácilmente influenciados.
+####034Folio0301socio Zodiaco víctimas de bulling.txt  - Los Géminis (como los Escorpio) siempre se ponen de pie por las personas que sufren acoso.
+- Escorpio es conocido por su personalidad fuerte, directa y manipuladora, pero atraen a los bravucones (Aries; Tauro siente a veces que el dolor ajeno le da poderes de manipular a los demás; el propio Escorpio, que como enemigo no es compasivo...).
+* Si se cansan de los maltratos y las burlas, clavan su aguijón y comienzan a planear su venganza.
+- Un Capricornio suele intimidarse más que cualquier otro signo del zodiaco (inseguros cuando no cumplen sus propias expectativas ni sus metas profesionales). Con un corazón doliente, pueden pasar a buleadores.
+####Zodiaco gustos y disgustos.txt  - Aries: pelis acción, música alta. No días lluvia y estar sin hacer nada. Contrarios a mí.
+- Tauro: lujos (mal sentido) e ir clase. No estar equivocado y ruidosos (a mí tampoco).
+- Géminis: conocimiento (lo quiero con sentido) y viajar. No compromiso y pelis blanco y negro (suena a la cara mala que no quieren mostrar).
+- Cancer: romance y los niños (impiden meditar). NO negatividad ajena (hay que soportar) y abrirse muchísimo (sensibles).
+- Leo: ser fuerte por otros (a veces es ayudar demasiado) y alta moda. No quietud o trabajo.
+- Virgo: aconsejar (Escorpio y Acuario ven mejor mundos psique y materia) y comer sano. No ser criticado y... Aries.
+- Libra: moda y admiración (no es narcisismo ojo), y equilibrio (que no se logra empujando al otro). No luchar ni tomar decisiones.
+- Escorpio: tranquilidad y silencio, ¿que le consientan? ¿Lujos? No retener sus emociones, sentirse abrumado (háblame 5 minutos), culpa y dolor.
+- Sagi: espiritualidad (e iglesias viejas), drogas, Filosofía y lo exótico. No envejecer, sentirse restringido y juzgones.
+- Capri: tranquilidad, consentirse a sí mismo y ser conservador pensando. NO expresar su interior o pereza.
+- Acuario: tecnología sorpresas. NO sentirse impotente, prejuicios y autoridades.
+- Piscis: compasión, escaparse (incluye de uno mismo), artes y dormir. NO estrés, corazón roto, no entender algo, reglas, responsabilidad...
+##Yo: Escorpio ascendente Capri. Luna Leo, bastante Libra...
+####Zodiaco, complejos (y algo más):
+- Aries: se consideran atractivos (ellos no necesitan adornos je je), pero al estar junto a alguien inteligente que NO los toma en cuenta, pueden sentirse disminuidos.
+- Tauro: cuando comen mucho se odian y odian su entorno. NO ser económicamente solventes los hace sentirse inferiores.
+- Géminis: se sienten mal si les acusan de hablar mucho y no cumplir promesas. Si no terminaron sus estudios, pueden aparentar (por complejo).
+- Cancer: se avergüenzan si les dicen que no han superado el vínculo con la madre (querrán mostrarse independientes).
+- Leo: inferioridad por padres inseguros, inestables, separados...
+- Virgo: intentarán especializarse en algo / encajar en lo que sea (lo veo poco elevado) para camuflar sus complejos.
+- Libra: el ridículo (no suelen mostrar sus debilidades) podría evitar su vida social (ser hermitaños).
+- Escorpio: desarrollan muchas inseguridades, llenándolos de angustias y frustración. Por eso desarrollan complejos que los llenan de grandes temores, y que no quieren exponer (o ser rechazados por ellos).
+- Sagi: los avergüenza que los vean caer. La soberbia podría hacerlos tomar caminos equivocados.
+- Capri: sus inseguridades (muchas desde niños) los hacen necesitar verse a sí mismos y ante los demás como capaces y con carácter (física y profesionalemnmte perfectos). Sufren de complejos temores, miedo al abandono, baja autoestima...
+- Acuario: pueden sentirse avergonzados por no saber algo (pero esto dura poco).
+- Piscis: fuertes complejos de baja autoestima, ¿por sentir el abandono de sus padres? Se avergüenzan de sí mismos por ello, y buscarán con mucha intensidad ser amados.
+####Zodiaco, contradicciones:
+- Asusta un poco pero es tierno: Aries, Cancer, Escorpio.
+- Amistosos pero tímidos: Tauro, Virgo, Cancer.
+- Salvaje pero calmado: Tauro, Sagi, Piscis.
+####Zodiaco la soledad:
+- A veces Leo le ve cierta nobleza.
+- Virgo. A veces le cuesta ceder el control (con el tiempo lo debería hacer)... lo que lleva al aislamiento.
+- Libra a veces hace juicios implacables sobre otras personas (oscuramente). Luego se aisla.
+####Zodiaco Superficiales (bueno, supongo que el tiempo da una oportunidad para el cambio; y además, somos mezcla de energías, no sólo un signo del Zodiaco). ¿NO es más grave que sean chulos (Leo, Tauro y Acuario, y un poquitín de na Sagi) y ásperos (Tauro, Acuario y Virgo, y un poco Aries)?:
+- Libra: apariencia y físico. Sagi es más egocéntrico, realmente. Con el tiempo son más "de sentimientos"...
+- Leo: la ropa. Se preocupan por lo que los demás piensan de ellos y pueden criticarte superficialmente. Se imponen metas para mantener cierto peso. Van madurando.
+- Muchos Cancer juzgan los libros por sus portadas. Se preocupan en cómo los perciben.
+- Tauro (les va el lujo). Superficiales, aunque no lo parezca (a mí sí, los capto). No suelen relacionarse con personas que consideran inferiores debido a su apariencia. 
+- ¿Que a Piscis le van las compras? Y a Sagi, a veces, viajes largos a sitios exóticos. Géminis, ¿es coqueto no? Virgo podría gastar en irse a un lugar solitario todos los días. Capri tiene que tener lo que tienen las demás familias. ¿Y Aries, Escorpio y Acuario?
+####Zodiaco conseguir tranquilidad:
+- Aries: aprende a escuchar a los tuyos, en familia.
+- Tauro: algo bello.
+- Géminis: busca al "amigo de siempre", y charla.
+- Cáncer: busca un lugar cerca del mar, para conectar con tu interior.
+- Leo: tener las necesidades materiales cubiertas.
+- Virgo: fuera espejos, tus autocríticas... es tu momento. ¿Necesita naturaleza (es de tierra)?
+- Libra: una persona a su lado, y afecto.
+- Escorpio: ¿gratitud a través de elementos del pasado (fotos...)?
+- Sagi: sentido del humor y algunas sonrisas.
+- Capri: ¿deporte en la naturaleza para soltar energía?
+- Acuario: ayudar a los demás y... ¿superar obstáculos de los que normalmente habrías huido?
+- Piscis: fuera negatividad.
+##Zodiaco qué atraes:
+- Aries: tu tendencia insana a rescatar a las personas que amas puede atraer romances pobres.
+- Tauro: al manipulador. Amas profunda y lealmente, dispuesto a aflojar, lo que atrae "diablillos", ¿para que aprendas NO (la magia de la vida)? Presta atención a las acciones y no solo a las palabras.
+- Géminis: tu inestabilidad emocional atrae al jugador, quien ve tu complicada personalidad como un desafío. La relación durará poco por lo general.
+- Cáncer: generoso, atraes al egoísta (¿pa que cuides de sus padres?).
+- Leo: con tu personalidad alegre y dramática, a algunos les resulta difícil ver el corazón apasionado, creativo y solidario que se encuentra bajo de la superficie. Atraes al "rebote", que te ve como la manera perfecta (brillas) de volver a un ex.
+- Virgo: el bebé (haces de figura materna).
+- Libra: el sabelotodo (¿por querer una charla intelectual y tener miedo a expresar opiniones en contra?). Y libra NO puede aceptar puntos de vista ajenos?
+- Escorpio: el emocionalmente poco inteligente (un monstruo ji ji). Mantienes tus emociones extremas bajo la superficie. Estás demasiado nervioso, o no estás seguro de cómo expresarte.
+- Sagitario: el mentiroso compulsivo. Tiendes a confiar en la gente, NO verificas.
+- Capricornio: el narcisista, ¿NO psicópata? Quieres a alguien que lo tenga todo junto, y estar con la pareja aunque la cosa no marche. Sigue a tu corazón y tu cerebro.
+- Acuario: el buscador de aventuras (en sentido de romances). Tu imprevisibilidad los excitará. Usarán tu energía egoístamente sin entender que necesitas a alguien estable y confiable para equilibrar tus cambios de humor.
+- Piscis: el inseguro (eres compasivo y cariñoso, y podrías valorar más que al otro, lo que puedes hacer para aumentar su autoestima), y aportarás más que él / ella.
+####Astrología + homosexualidad:
+##Conceptos:
+- Las Dodecatemorias. Cada uno de los signos hospeda en él al resto de signos. Las Dodecatemorias son divisiones de 2,5º grados de los signos.
+* Si un planeta se encuentra en 5º5 de Aries: 5 grados * 12 (para extrapolar el quesito a los 12 = 360 grados; 2,5 serían 30) = 60 grados; 5 minutos * 12 = 60 minutos = 1 grado). Ahora tomamos 61 grados desde el 0 de aries: la dodecatemoria del planeta se encontrará en el grado 1º de Géminis. Si en este grado de Géminis hubiera otro planeta en el mapa, estaríamos hablando de una conjunción.
+- La antiscia. 9 de Septiembre (Torres Gemelas) = 18 grados Virgo, con ansticia en 12 grados Aries (sumar 30, y hay pares preestablecidos). ¿Estaba un planeta en "Aries 12" en "mal" aspecto (90 grados) con Marte o Saturno (Venus y Júpiter son pa bien)? ¿Y en 18 grados Virgo (sin irnos tan allá)?
+* Pares (resto): Capri/Sagi, Libra/piscis, Aries/Virgo, Tauro/Leo, Géminis/Cáncer y Escorpión/Acuario. 
+- Planetas en Destierro. Lugar contrario a su domicilio. Plutón (Escorpio) en Tauro (pareja compatible y Opuesta a Escorpio).
+- Exaltaciones y caídas (en el resto, el planeta es peregrino): 
+* SOL ARIES LIBRA * LUNA TAURO ESCORPIO * MERCURIO VIRGO SAGITARIO * VENUS PISCIS VIRGO * MARTE CAPRICORNIO CÁNCER
+* JÚPITER CÁNCER CAPRICORNIO * SATURNO LIBRA ARIES * URANO ESCORPIO TAURO * NEPTUNO PISCIS VIRGO * PLUTÓN CAPRICORNIO CÁNCER
+##Estrellas fijas (Un planeta en tu carta astral puede estar sobre ella). Más:
+- Las estrellas homosexuales por excelencia son las Pléyades (7 mujeres juntas, feminizan). Cuando un planeta esté conjunto a ellas, o tú produces la destrucción en relación con ese planeta, o la vida te enseñará su significado destructivamente:
+* Pléyades / Alcyone, la estrella lider. Naturaleza Marte-Luna, dos energías que cuando se juntan son poco agradables.
+* Algol. Ceguera, decapitación...
+* Prísipe. Marte-Luna. Esta estrella en el Ascendente... es bastante homosexual.
+* Algorab. Marte-Saturno, relacionada con la sombra (represiones...). Su efecto en conjunción con un planeta, es "plutonizador", ¿dolor positivo / ver tu interior?
+* Facies. Naturaleza Sol-Marte: exceso de sequedad que destruye la fertilidad. Luna conjunta a esta estrella... es homosexual.
+* Scheat. Inclinacion al suicidio. Marte-Mercurio.
+- Por Colores
+* Azul: Muy afortunadas. Creativas...
+* Verde: Afortunadas. Capacidad y "saber cómo" para realizar las acciones. Saturno (orden) para ordenar...
+* Amarilla: ¿buenas con Venus (placer y lectura) y Urano?
+* Lila: Conceden dones espirituales (telepatía...).
+* Roja: Aciagas. Ej (y con particularidad): Procyon y las "mordeduras de perros".
+* Negra: Muy aciagas. Sólo se podrá lograr éxito y paz con destrucción.
+##Zodiaco y homosexualidad:
+- Los Aries se blindan, ¿reprimiendo lo femenino? Mmmm.
+- Tauro: si el seguido padre falla, podría haber homosexualidad.
+- Géminis: por probar sensaciones nuevas. 
+- Cáncer: si se rompe la confianza con la madre, ¿problemas de orientación?
+- Leo: la condición sexual no es por trauma por lo general, sino por elección.
+- Virgo: eligen su estilo de vida de acuerdo al cariño entregado (madre...).
+- Libra: prueban (exceso de confianza y personalidad).
+- Escorpio: ¿rectos (soy un hombre y debo procrear con una mujer)?
+- Sagi (abiertos): iniciar una AMISTAD con CUALQUIERA que preste amor. 
+- Capricornio: ¿relacion homosexual si da rendimientos? 
+- Acuario: la faceta sexual pasa a segundo plano. 
+- Piscis: la sexualidad va más por los sentimientos, la inocencia... 
+##¡A ver si todas las almas de nivel 6 y 7 (rara vez nacen en la Tierra) van a ser bisexuales (muchas vidas como hombre y mujer)!
+####Escorpio + signos del Zodiaco que me lo pusieron duro como amigos o compañeros: Géminis (no paran), Aries (competición = guerra) y Virgo (se esconden, y yo quería su cariño).
+####ESCORPIO, EL SIGNO INCOMPRENDIDO, PREOCUPADO POR LA MORALIDAD CON MAYÚSCULAS, NO LA CERRADA.
+##Escorpio es la mayor prueba zodiacal para ti. ¿El malo es Escorpio por recordarte tus fallos psicológicos, casi siempre con gran acierto? Niégalos, y serás bebé.
+* No existe reposo, la escorpiana es una vida de batalla y lucha sin fin... hasta la muerte, y Escorpio ve su oscuridad (bueno, hay excepciones). La ve incluso mejor que la oscuridad ajena.
+* Sana cuerpos y cura almas. Proceso: tienes pruebas con dolor (caes "en el pozo": casi es una buena señal), ves la causa psicológica, y renaces.
+##Características
+- Les molesta mucho que la gente les dé consejos sin sentido. Ellos se esfuerzan mucho en dar buenas directrices (profundas, elevadas, esencialistas / radicales) a todos los que se lo piden.
+- Si tienes un lindo gesto hacia ellos probablemente lo van a recordar mucho tiempo.
+- A la hora de comprar, se lo piensa, quiere algo inteligente (igual con los jefes).
+- Tienden a llevarse bien con personas genuinas (NO "de ropa") y sin mucha pose.
+- En África, cuando un niño hace algo malo (podria estar estallando por ser Escorpio y ver inmoralidades) los demás van a abrazarle, porque lo está pasando mal y necesita cariño.
+- Escorpio suele tener una profunda inteligencia producto de su poder de concentración (la de Primoz Roglic, que NO vio que tenía que girar, porque taba concentrao mirando p'abajo; ¡me produjo una ternura al equivocarse externamente!).
+- Amor:
+* Detrás de esa máscara de frialdad (cara NO tonta) se esconden unos sentimientos muy profundos que rara vez afloran, pero cuando lo hacen, son tan intensos que sentirás que el mundo se abre a tus pies. Escorpio jugará a entregarse solo a medias para por fin, descubrirte una parte de él totalmente irracional y primitiva que te envolverá en una locura de sensaciones.
+* Es muy pasional, pudiendo abrumar, si NO se regula.
+##Niveles escorpianos (Escorpio es el único signo que empieza en 0, y puede llegar muy alto... en una sola vida):
+- Serpiente o escorpión: se está a merced de emociones y deseos. Venganza, cólera, necesidad de provocar autocrisis para aprender...
+* La serpiente (¿más avanzada que el Escorpión?) indica la capacidad de mudar la piel según el ambiente. Los niños Escorpio aprenden a no mostrarse (su intensidad da miedo al otro, y lo perciben).
+- El búho observa la oscuridad tanto fuera como dentro de sí mismo, sabio y sigiloso, aunque parezca atontao.
+- Luego está el águila (NO condena a nadie): armonía y paz internas. Es un alma libre:
+* Hay un significado y propósito en la vida. Persigue ideales nobles, pero la consume la indignación. Puede encontrar que una causa que le importaba, la ha defraudado. ¿Yo toy aquí con buena parte de búho y un poquitín (por favor je je) de Ave Fénix (muy potentes, líder inspirador)?
+##Misiones:
+- De joven, conocer sus fortalezas y debilidades, ver quién realmente es uno (me guardaba cosas por meses y explotaba...).
+* NO pensar: "o convenzo a este superreprimío, o la tierra se muere". Comprensión y listo siempre para dar pasos atrás (si quedas mal e intentas quedar bien, puedes quedar todavía peor).
+- De maduro: conocer muy bien el Zodiaco, y comprender, consolar y hacer volar a la gente, pero sin hablarles del Zodiaco.
+##Padres de Escorpio:
+- Padre Géminis. Tú vives en el mundo externo de actividades, mientras que tu hijo vive una oculta vida interior profunda y compleja. Anímale a hablar de sus sentimientos, incluso si te asustan. Él lleva tus emociones a un plano superior.
+- Padre Leo: tú quieres fascinar a tu hijo Escorpio (desde fuera). Tu pequeño sólo quiere una conexión íntima. Como eres muy leal y expresivo, puedes ofrecerle todo el amor que necesita.
+- Padre Tauro: tu pequeño Escorpio es tan complejo e intenso como tú sencillo y buenazo. ¿Complementarios?
+- Padre Virgo: tu hijo es más sensible de lo que crees, y muchos comentarios quisquillosos minarían su autoestima. Cuando se siente dolido, ejerce su poder desde la retaguardia (a distancia). Tú eres mucho menos apasionado (algo que os puede juntar o separar).
+####Géminis, NO casa con ver lo oscuro:
+- Negativamente: mostrar sólo la cara buena, a la larga, trae complicaciones (reprimes más, y cuanto más oculta la mala, más manipulador se vuelve sin saberlo). Muchas veces ni siquiera ellos mismos consiguen entenderse (tiernos locuelos).
+- Positivamente: NO excluye, sino que aparta algo para darse cuenta de cómo cambia la realidad, y más tarde lo vuelve a incluir. Crea opciones sin apegarse a ellas.
+##ARIES:
+##errores que cometes:
+- NO PRESTARLES ATENCIÓN O QUEDARTE TODO EL DÍA APALANCADO: les encanta la calma... ¡pero en pequeñas dosis!
+- No esperes que te comprendan cuando estés de bajón. Con los Aries, mejor dramas fuera.
+##Características:
+1. Piden sin rodeos, ¿rudos?
+2. Los obstáculos los animan.
+3. Que NO te extrañe encontrarlos desolados porque les falta un gadget de 10.
+4. El macho ESPAâ€˜OL je je es un niño. ¿Se parece a Aries?
+5. Cree que se lo merece todo, y por eso pisa. Pero da una leccion: me merezco lo que quiero.
+##En Grafoterapia, hay una línea "que embiste" (como Aries), la línea de defensa. ¿La tiene Aries, y por eso conserva el pelo?
+##Lo siguiente lo dice UNA Aries: constante necesidad de mostrarse superior al resto, porque en el fondo se quieren muy poco. Yo misma era de esa forma. Confianza y autoestima no son lo mismo. Una psicóloga me hizo ver... Y ahora soy más feliz.
+####Virgo. Quiere ser perfecto para lo suyo (¿que puede querer imponer a los demás? "Estudiaos estas 400 funciones del lenguaje C"), para lo que NO domina y otros signos sí... pues casi que no le importa a veces (critícale y te mandará a paseo, poque ya se critica en lo suyo).
+- A veces reniega de sus emociones. Debe tenerlas en cuenta y desreprimrir cuanto antes. Es curioso que aunque pase mucho tiempo sin verte, podría saludarte como si os hubieseis visto ayer. ¡Y los pelos, de punta se le ponen a cualquiera!
+* El matrimonio no es el estado natural de Virgo (viven a un nivel material y práctico), aunque es sorprendente cuantos de ellos llegan a dominar esta forma de trabajo en equipo. A veces sólo existe su familia, y además, la ocultan.
+- ¿Ves esa muchacha retraída que espera el autobús? En la mano tiene las monedas exactas para el billete. Jamás se le ocurriría pedir que en el autobús le cambiaran un billete grande. Es Virgo. Yo estoy de acuerdo con ella, porque el autobús tiene su prisa, hay que respetarlo.
+* Su encantadora sonrisa siempre parece estar escondiendo una gran inquietud. Su angustia interior les carcome, alterándoles la digestión y el equilibrio emocional.
+- Mercurio es mas compatible con Géminis, a Virgo le produce tension nerviosa. Vulcano (el planeta "cojo") dará confianza, liberando a Virgo de muchas de sus inhibiciones típicas. Vamos, que ahora "critica de más". Decepcionar a un Virgo es lo mas facil del mundo (más que a Libra, Tauro y Cancer).
+* Cuando Acuario y Capri estaban regidos por Saturno, Acuario mostraba claramente los rasgos de ese planeta, pero fue descubierto Urano y todo cambió. Falta por descubrir también Apolo (para Tauro).
+- Aceptan reglas disciplinarias que no entienden, porque para ellos lo natural es aceptar su destino sin rebelarse (pero acaban idiotizados y criticones por tanta regla).
+- Amor. Hombre: de vez en cuando intentará ajustarse a un comportamiento promiscuo, simplemente para comprobar que no le falta masculinidad. Mientras todavía esté por decidir si tú eres la mujer que quiere, puede mostrar actitudes muy, muy frías. FASES DE VIRGO EN EL COQUETEO (ÉL, NO ELLA, BASTANTE MÁS NORMAL: busca el amor puro y la felicidad, NO importa dónde lleve el camino, por encima de mantener la familia; si te ama, puedes dejarla en una isla desierta con Brad Pitt, que no lo va a tocar):
+* Fase uno. Normalmente la observa desde lejos. Lanza frases dardo con cierta ironía. Háblale de amistad, o se irá por pies (menuda contradicción). Va haciendo favores pequeños y muestran cierta timidez emocional (es adrede para que le aborden, y no tenga que abordar).
+* 2. Le va a recordar que NO es él quien ha intentado seducirla.
+* 3. Todo tiene que ir bien (sin invasiones), de lo contrario iremos a fase 4 
+* 4. Desaparece del todo. Se dedica a hacer "diagramas intelectuales" para ver si la relacion merece la pena, y llega a conclusiones muy poco racionales.
+* 5. Vuelve "un poco", mejor dejarle libre.
+* 6. Está seguro de su amor. Sabe que la mujer respeta su especial forma de ser, y NO quiere manipularlo ni tener el control porque es segura de sí misma y de su valor personal.
+- Más características:
+* Difícilmente comprendan que los demás no pueden trabajar a su ritmo (en este sistema enfermo: se adaptan).
+* Tienen un autocontrol gigantesco (¿eso es negativo NO?), evitan las tentaciones (aparte de placeres superiores, como el chocolate).
+* Quiere ayudar, pero también que lo consideres sabio ("Tú sí que sabes de esto, gracias").
+* No ven valor en objetos materialistas (por lo general), pero valoran las experiencias del mundo real.
+* Tienen tanta paciencia y amabilidad que cuando se van, ¡se van! Pero para entrar en su casa debes pasar pruebas.
+* Contarles cosas muy personales o íntimas (sobre todo si os conocéis de hace poco) puede hacer que se sientan un poco incómodos.
+* Niño: si sabe exactamente qué es lo que se espera de él, el pequeño Virgo se esforzará por complacerte. Es quien más necesita las historias fantásticas, para la estabilidad emocional de adulto.
+- Jefe:
+* NO quiere escuchar los problemas de todo el mundo. Mejor al frente de una pequeña empresa.
+* Capaz de manejar proyectos complicados (o absurdos de entrada) y sacarlos adelante con un mínimo de errores desastrosos. Necesita calma y aislamiento.
+* Jefe Virgo hombre: confiará en que tú llenes sus lagunas. Dale a entender que has descubierto que es más lo que ladra que lo que muerde y se bajará de su torre de marfil. Cuando tengas un verdadero problema, recurre a él y ya verás.
+- Empleado. ¡Recuerda, si una persona no se distiende, no sabe lo que siente!:
+* Vaya ascendiéndole lentamente. Con rapidez, pensará que es usted demasiado impulsivo para ser digno de confianza.
+* El jefe que se tome un día libre para jugar al golf puede encontrarse, al regresar a la oficina, con que Virgo le mira con desaprobación, aunque probablemente no diga ni media palabra.
+* Cuando algún Virgo se vuelve descuidado, es desdicha emocional casi siempre; lo mismo que sucede con un Sagitario pulcro y meticuloso.
+* Fuera colores vivos y brillantes (perturban su naturaleza tranquila).
+####Zodiaco chino:
+- Rata: les gusta rodearse de familiares y amigos, a quienes ayudan en sus quehaceres y problemas diarios.
+- Buey: paciente y tranquilo, irradia cariño y amor. Quieren orden y limpieza, y obtienen el éxito con esfuerzo. Aman el arte. No les gusta discutir, aunque sí que les obedezcan.
+- Tigre, muy pasional y lleno de energía. Aventureros, independientes, ingeniosos, impulsivos y les gusta la diversión. Amigos para toda la vida, aunque les gusta ser el líder (y en pareja, el más fuerte y seductor).
+- Conejo: prudentes, afables, discretos, previsores, atentos y benevolentes. Indulgentes (eso es negativo), aman la paz. Les gusta la vida tranquila, la ternura y la armonía.
+- Dragón: imaginativo, emprendedor, afortunado y poderoso. Lleno de fuerza y vitalidad. No cree a nadie ni en nadie. Son muy sentimentales y se enamoran locamente, pero no les enfurezcas.
+- Serpiente (yo): astutos, saben lo que quieren y cómo conseguirlo. Intensos y prudentes a la vez. Celosos y posesivos con su familia, pero leales. Les gusta mimar a sus amigos y esperan de ellos lo mismo. Son buenos para parecer tranquilos en situaciones difíciles. S se sienten ignorados, pueden enfadarse por horas.
+- Caballo: optimistas, alegres, aventureros, elocuentes, impacientes, emprendedores. Su gran pasión es el dinero y los viajes (culturas nuevas...). Atractivo físico. Enamoradizos.
+- Cabra: creativa, positiva, elegante, femenina, afable, compasiva, llorona, soñadora, orgullosa y triste. No persiguen la riqueza material. Aman la familia, los niños, el hogar y la naturaleza. Son muy trabajadoras, aunque no les gusta la presión.
+- Mono: ingenioso, simpático, mente rápida y despierta, persuasivo, resolver cualquier problema. Relaciones: suelen ser conflictivas, no soporta que no lo valoren. Excesos en fiestas...
+- Gallo: atractivo y seductor, talento (y meticulosos, eficientes y ordenados) y es apreciado. Conversadores, observadores, egoístas, usureros, pragmáticos y familiares. Amor: románticos, obstinados y luchan por el control de su pareja. Relaciones públicas o artistas.
+- Perro: dedicado al trabajo, honesto, confiable, sentido justicia y lealtad. Personalidad excitante, buen humor, capacidad para escuchar los problemas de los demás. Amor: fieles y leales, celoso si la pareja no está en casa. Nervios.
+- Cerdo: honesto, confiado, cariñoso, servicial, valiente, decidido, sin grandes pretensiones. Agradables, y gusto y modales "impecables". Muy trabajadores. Engordan: falta de atracción por el deporte y apatía.
+####zod chino:
+- Por tríos: caballo, perro y tigre. Dragón, mono y rata.  Cabra, cerdo y conejo. Serpiente, gallo y buey.
+- Por dúos: rata y buey; tigre y cerdo; conejo y perro; dragón y gallo; serpiente y mono; caballo y cabra.
+##############################
+#########JUDEOASTROLOGÍA######
+##############################
+####Astrología: la energía ambiental (para hacer introspección, ir por lo que quieres...), la marcan los planetas...:
+- Signos:
+* Yod (padre, voluntad, semilla, impulso fundamental): Aries (fuego), Cancer (agua), Libra (aire), Capricornio (tierra).
+* He (madre, gestación): Leo, Escorpio, Acuario, Tauro. Época he: vivir desde las entrañas.
+* Vav (hijo): Sagitario, Piscis, Géminis, Virgo. Época Vav: lógica y razón.
+* El segundo He es el fruto que da el hijo, y que lleva las semillas de nuevas realizaciones. Época segundo he: se dispone de los medios materiales. ¡Y se vuelve al periodo yod!
+* Ojo, que Aries es el primero (yod) de los yod. Doble yod. Con la misma lógica, Escorpio es el segundo de los he. Doble he. Géminis es súper Vav. Y los de Tierra (Capri, Tauro y Virgo), son de segundo he (disponen de los medios materiales).
+- Más:
+* Del amanecer al mediodía, Yod (Primavera, Luna Nueva). Del mediodía a la puesta de Sol, He (Verano, Creciente). De la puesta de Sol a medianoche, Vav (Otoño, Llena). De medianoche al amanecer, segundo He (Invierno, Menguante).
+* Los bastos y los reyes son el Yod (relacionado con el fuego); las copas (agua) y las reinas, el He; las espadas y los caballos (aire = inteligencia estructuradora), el Vav; y los oros y las sotas, el segundo He (tierra).
+* Antes los novios esperaban tres años para casarse (de Yod a Vav). Los aprendices esperaban tres años para ser oficiales (espero que haciendo y cobrando, modelo maestro / aprendiz), pero ahora todo se hace aceleradamente y todo se desploma con igual celeridad.
+- Yo soy Escorpio con tendencia Piscis (el del medio), ascendente capri (la imagen, y lo que debo aprender a ser) y Luna en Leo (cómo siento...). Pero también tengo mucho Libra en la carta astral (acompañar a los demás, darles mensajes de ánimo...). Y alguien con conocimientos astrológicos me dijo que era "guerrero de Acuario" (mi Escorpio capta una inmoralidad, y mi Acuario, ¿se va a la guerra je je?).
+####Signos:
+- Aries sólo ambiciona la gloria de ser el primero, el héroe. Cuando "la empresa" se consolida, Aries comprenderá que aquello no es para él.
+* Aries recibe información "divina" para actuar sin pensárselo mucho. La Providencia le saca de apuros.
+* Las dos primeras horas de luz solar se encuentran bajo su dominio.
+- Leo nos permite interiorizar las energías divinas (en Aries "rebotan"):
+* Sabe confusamente que es preciso ser FIEL a un ideal superior y que la obediencia es una virtud fundamental. Será el guardián de la ley, de la moral, de las costumbres, de las tradiciones.
+* Negativamente: es un actor que interpreta un papel previamente escrito, y si ese papel es el de "malo"... Un excesivo número de planetas en Leo dará lugar a un individuo atado a demasiadas fidelidades (se volverá contra él).
+- Sagitario. Será portador de normas morales concretas, expresadas en ideas claras.
+* Exceso planetas: creador de instituciones poco atendidas cada una de ellas.
+- Cáncer. Ya se persigue un objetivo personal. Para su obra, se encierra en un recinto (hogar...) para mejor amar y adorar aquello que siente como suyo.
+* Ya no oye voces, pero siente que algo inefable hay más allá y lo venera a través de la fé.
+* Exceso planetas: tendencia al aislamiento y al cambio de residencia, exceso de emotividad, individualismo y egoísmo.
+- Escorpio: fidelidad a un amor, a unos sentimientos. Volver al pasado será una constante tentación: anteriores vidas, la madre, la ciudad natal... Duele superarlo.
+* Malos aspectos planetarios: deudas Kármicas ineludibles, asimilación de substancias sentimentales venenosas. Exceso planetas: naturaleza apasionada y actividad sexual multiplicada.
+- Piscis, instituye (como Sagi). Pruebas y sacrificios (para renunciar a algunas ambiciones sentimentales). Comportamiento poco lógico (sentimental).
+* Malos aspectos: exteriorizaciones difíciles (y de sentimientos que en realidad no tiene), precipitadas, fuera de lugar, y timideces e inhibiciones. Exceso planetas: mucha exteriorización; siempre estará enamorado de alguien, pero sin profundidad.
+- Libra: compartir la obra anterior para adquirir magnitud y relevancia. ¿Busca complementario?
+* Malos aspectos: dificultan la unión (matrimonial, integraciones en la sociedad...). Exceso de planetas: unirse a los demás con tantas ganas, que puede militar en un partido de derechas y de izquierdas al mismo tiempo.
+- Acuario. Es el inventor, el que traduce una ley universal a un esquema particular.
+* La mente justifica estados emocionales que debería haber educado (todavía hay emoción).
+* Malos aspectos: no es tan de pensamiento, se cometen errores de interpretación (filosofía, palabras e ideas ajenas...). Exceso planetas: es como una máquina tecnocrática.
+- Géminis (convencer).
+* El elevado porta libertad, orden y trascendencia. Cuando habla o escribe, sana, NO abruma. El bajo dará a la sociedad razones "científicas" para equivocarse.
+* Malos aspectos: falso testimonio de sí mismo. Exceso planetas: sentirá que en todo momento y en todo lugar debe poner la impronta de su pensamiento (y meterá la pata como "politólogo").
+- Capri. Edificadores de casas, son también edificadores del templo del espíritu, si son lo suficientemente avanzados para ello.
+* Malos aspectos: mala elección del material para la obra o el negocio. ¿Eligen a los cantantes? Exceso planetas: volcado a las realizaciones materiales.
+- Tauro goza de lo construido en la etapa anterior. Todo le es dado con facilidad. Es el tesorero, el rentista, el opulento...
+* Si está desarrollado espiritualmente, será el promotor del arte y la ciencia (la moral, no creo).
+* Malos aspectos: mala asimilación del alimento, poco apetito, mala salud. Desgana de vivir. Incapacidad de apreciar la felicidad material, hacia los placeres... que puede ser origen de impotencia y frigidez. Exceso planetas: apegado a lo material. Goza, se divierte y no hace nada más.
+- Virgo observa y analiza la materia. Si vive las cualidades del signo en toda su plenitud, acabará dando la espalda a la materia y descubriendo la espiritualidad:
+* El Virgo bajo sentirá que su situación material es precaria, e intentará prevenir la catástrofe guardando y acaparando, ocultando sus bienes a los familiares, para que éstos no los derrochen.
+* Debe seleccionar qué tiene que abandonar la sociedad, para ir a una socidad mejor.
+* Malos aspectos: digestiones lentas, sensibilidad de aparato digestivo, úlceras. Intentará por todos los medios mantener unos privilegios que se irán derrumbando. Exceso planetas: tendencia exagerada al detalle ínfimo, a la observación de sus propios procesos vitales; y de ahí la manía de sentirse enfermo y adoptar medidas higiénicas exageradas.
+* ¡Eh, fuera las divas exhibicionistas ya!
+####LAS CASAS ASTRALES. ¿Qué significa Marte en Piscis en casa 10, que hay mucha energía (Marte) pa trabajos (10) pa los desfavorecidos (muy tratados por Piscis)? ¿Y casa 10 en Piscis, que tu trabajo se enfoca a los desfavorecidos, a lo creativo...?). La Casa I o Ascendente señalará el signo en el Este cuando nacimos (y depende del lugar de nacimiento). ¿Cada dos horas el Ascendente cambiará de signo? En España, si naciste más o menos a las 9:00, tu ascendente coincide con tu signo principal / solar. Vamos con las casas:
+- Casa I, personalidad (máscara) y silueta física (mi ascendente es Capri).
+* Malos aspectos: la sociedad, la familia, el cónyuge, el medio profesional... no serán los idóneos para la manifestación de su personalidad y deberá luchar, ¿toda su vida? contra esa adversidad. Exceso planetas: necesidad imperiosa de sobresalir, realizar hazañas, sean las que sean. Fácilmente manipulable. Egoísmo.
+- Casa II. Tauro, recompensa y descanso. Indicará en qué hemos trabajado anteriormente y que ahora da frutos. Nos dirá de dónde sacará el individuo su sustento material: en signos de fuego, la Providencia proveerá; en signos de agua, los sentimientos serán el principal motor de los ingresos; en signos de aire, el provecho vendrá de trabajos intelectuales (yo la tengo en Acuario); en signos de tierra, el sustento provendrá de un trabajo material.
+* Malos aspectos: los recursos le vendrán de manera forzada, dramática, y si esos malos aspectos son múltiples, pueden significar el impedimento total a la persona de alcanzar los medios que han de sostenerla. ¿Me corté en una vida anterior de la corriente del amor familiar, eros, comunitario, o coherente? Exceso planetas: los bienes materiales tendrán una prioridad absoluta.
+- Casa III, Géminis (familia, vecinos...). Géminis recoge la información procedente del mundo material, ¿y va a Acuario y Libra? Un corto viaje bastará para descubrir lo semejante a él, si es que no lo descubrimos en la misma esquina de la calle en que vivimos. Regirá los intercambios escritos y hablados: es significativo que cuando Mercurio se encuentra en movimiento retrógrado, casi siempre hay huelga de Correos.
+* Malos aspectos: hermanos dificultarán su acceso a la compañía de personas semejantes a él, y los medios de expresión a su alcance no serán los adecuados para manifestar su potencialidad intelectual. "No aprende" con las experiencias. El individuo no encuentra su puesto. Exceso planetas: hablará inconteniblemente de tonterías y escribirá aún más.
+- Casa IV, Cáncer. Vida privada del individuo y posesiones materiales. Antepasados, infancia, barrio natal, los que viven en su hogar y su comportamiento en la casa y en la vida de familia. Todo lo relacionado con la madre.
+* Malos aspectos: todo resultará precario, empezando por su propia madre, que carecerá o de medios o de inteligencia para orientar adecuadamente al individuo. Hogar inestable, dificultad para echar raíces, la vida a la intemperie, dificultades en la ciudad natal. Exceso planetas: hogar ambulante, emocionalidad profunda aunque no aparente. En casos extremos, herencia malsana, enfermedades hereditarias, enfermedades contraídas en el claustro materno.
+- Casa V, Leo, premio al esfuerzo (por parte de "Dios"). Si la Casa "de Aries" está atrofiada, no cabe esperar prodigios en ésta. Se pueden recibir dones buenos o malos (azar) procedentes del pasado. Puedes encontrar tu alma gemela (si hubo suerte). Si no, la persona puede ganar a la lotería... Si se encuentra en fuego (hasta 21 años), el amor vendrá de la infancia y será debido a méritos anteriores. ¿También habla de nuestros hijos y su calidad? ¿Dice si vas a mostrar mucho a los demás? Habla de los hobbies (si son deportes, el azar puede darte plenitud física).
+* Malos aspectos: malas recompensas, mala progenie, mal ejemplo dado por el individuo, mala utilización de la libertad y de los placeres que ofrece la vida, amores fatales y perturbatorios. Exceso planetas: demasiadas recompensas del pasado. Quizás pase toda su vida sin realizar el menor esfuerzo.
+- Casa VI, Virgo. ¿Dice cómo pagamos las deudas del ciclo (con servicio se supone, y posiblemente humillante)? Al transitar el Sol por nuestra Casa VI todos deberíamos liquidar las deudas del año. ¿Habla de los que están a nuestro servicio, y que encontraremos en otra vida mandando sobre nosotros si no sabemos darles su merecido? ¿Y hay pequeñas enfermedades para evolucionar?
+* Malos aspectos: salud precaria, subordinación a otras personas. Exceso planetas: saldar sus deudas a la fuerza (con poca libertad).
+- Casa VII, Libra. Búsqueda del complemento. Los matrimonios concertados aportan estabilidad. Encontraremos información sobre el cónyuge, y la personalidad de los socios, aliados, y "enemigos" (nos dicen lo malo nuestro). Veremos la reacción de la sociedad ante nuestras iniciativas.
+* Malos aspectos: cónyuge de mal carácter, malas cualidades o con problemas psicológicos, de salud, de dinero... Aliados problemáticos, y mala reacción social a nuestras iniciativas. Exceso planetas: literalmente aplastado por el otro. ¿Debe evitar la confrontación?
+- Casa VIII, Escorpio. En Escorpio los sentimientos se concentran convirtiéndose en poderes interiores. Personalidad erótica. ¡La música es en parte erotismo "gritado" (new wave)! Dinero ganado sin esfuerzo (cónyuge...), herencias, donaciones, rentabilidad del capital... Muerte violenta o suave. Sensibilidad respecto al más allá, indicando posibilidades de progreso espiritual.
+* Malos aspectos: el estado de fortuna de los aliados es precario, o será difícil que su dinero llegue hasta nosotros.
+Exceso planetas: dependencia de la fortuna de los demás y estar atado a intereses...
+- Casa IX, Sagi. Saber si la fuerza moral / conciencia del individuo es mucha o poca. Rige los viajes largos.
+* Malos aspectos: puede ser un fanático religioso o un ateo y expresará una moral arbitraria y falsa. Viajes tempestuosos, arriesgados, difíciles y pobres en resultados: exilios, proscripciones, fugas... Exceso planetas: frecuentes cambios en la línea moral / religiones del individuo, se verá obligado a viajar constantemente.
+- Casa X o Mediocielo, Capri. Profesión: fuego, valores Morales (sacerdocio, filosofía, política, enseñanza, conocimiento profundo de las cosas). Agua: alimentar los instintos, los deseos, los sueños de la humanidad. Aire: trabajador intelectual con ideas, o servir una idea, filosófica o no. Tierra: alterar la forma de objetos, de una manera u otra. El padre, la prohibicion a nosotros mismos. Si nos alejamos de nuestro alma (en 2.023, la sociedad es así), tendremos un padre violento, o huidizo, o borracho, o pobre en recursos...
+* Malos aspectos: obstaculizarán la vida profesional, así como las relaciones con el padre. El trabajo carecerá de continuidad y no será el más apropiado a sus aptitudes. Exceso planetas: director general de algo (a veces casi sin esfuerzo). Persona extravertida, con intensa vida social de festejos, fiestas mundanas que le darán ocasión de relacionarse y obtener ventajosos puestos profesionales, pero se verá privado de toda intimidad y no podrá echar raíces en nada.
+- Casa XI, Acuario. Apoyos, amigos, protectores (estos encuentran en nosotros la posibilidad de llevar a la madurez sus propios ideales).
+* Malos aspectos: dificultarán las relaciones y pondrán obstáculos en la realización de los proyectos. Nos darán amigos con problemas (para ayudarlos, en vez de al revés). Exceso planetas: comprometido en demasiados proyectos. Sus amigos son muy dispares y todos lo lanzan a horizontes distintos, e invadirá dominios en los que no debería poner los pies.
+####010notas06.txt  - Casa XII, Piscis. Viviremos "injusticias" (en parte por haber tenido deseos en Cancer gozados en Escorpio, que no tienen que ver con desreprimir y eso): enemigos, pruebas, restricciones... Lugar de purificación y puerta de acceso a los mundos superiores. Sentimientos exaltados y puros. En signos de fuego, será víctima de inmoralidades y él mismo expuesto a grandes tentaciones morales. Ejemplo: encarna en una familia de ladrones, que le inducirá al delito. Agua, pruebas de tipo sentimental: traiciones, infidelidades, amores rotos. Aire: el individuo se encontrará a merced de sus enemigos ideológicos, militando en grupos condenados a la oposición. Tierra: enfermedades, cárceles, pérdida de bienes materiales, accidentes...
+* Exceso planetas: vida retirada, de sumisión al destino.
+####LOS BELENETAS. ¿Neptuno y Plutón pertenecen a un sistema solar fronterizo, pero ejercen sobre nosotros una influencia creciente? Vulcano es el de Virgo (el de Tauro sería "Apolo"). Para descubrirlo, es preciso que exista en nuestro fuero interno actuando por algún tiempo...
+- Los planetas son la expresión material de cada uno de los Séfiras que figuran en el árbol cabalístico.
+* Saturno es el regente de Acuario y Capricornio. Júpiter rige Sagitario y Piscis. Marte rige Aries y Escorpio. Venus rige Libra y Tauro. Mercurio rige Géminis y Virgo. El Sol rige Leo. La Luna rige Cáncer. Pero Plutón rige Escorpio, Neptuno Pige Piscis, y Urano rige Acuario.
+* ¿El hierro procede de las vibraciones de Marte y el estaño de las de Júpiter?
+##Los belenetas:
+- Urano. La radiación crística (viene de aquí) se manifiesta cuatro veces por año, y destruye el mal (lo que no vibra alto), restableciendo la salud en los organismos enfermos.
+* Nos jode la vida, a fin de que podamos reconocer nuestra oscuridad y sintamos el afán de pureza y de luz. Pero también nos aporta la sabiduría divina en nuestras acciones humanas, para inventos...
+* Malos aspectos: o bien ahogan su radiación de amor, con planetas reductores como Saturno o Mercurio, o aumentan su poder desintegrador (amplificadores como Júpiter, Venus, el Sol y Marte).
+- Saturno es sacrificio (Binah sacrificó parte de su luz para cristalizar nuestro mundo).
+* Saturno en Acuario: bueno para los inventores.
+* Con los materiales de Capricornio, Saturno instituye nuestro destino (sin detalles). Tendrá en cuenta el karma a pagar, y las necesidades de nuestra evolución (limpieza de psique...). Será el que nos ponga los malotes, y de nosotros dependerá el que aprendamos de la situación, o NO (persiguiéndolos, pidiendo que se nos haga "justicia", con lo cual sólo conseguiremos prolongar la situación).
+* Malos aspectos: marco de vida accidentado, difícil, peligroso. Si esos malos aspectos proceden del violento Marte, cuidado.
+- Júpiter representará la aplicación de la ley de Saturno. Cuando "NO concuerdan", ¿veremos al individuo enfrentado con la autoridad o corrupto? Júpiter indicará aquello que el individuo poseerá en abundancia y señalará el dominio en el que ejercerá el poder.
+* A través de Sagitario, es portador de fuerza moral, de generosidad, que pulveriza los rencores... En Piscis, Júpiter suaviza sentimientos, para que no se produzca mal karma.
+* Malos aspectos: o bien reducirán los poderes, o harán que ese poder sea arrogante, con corrupción y excesos.
+- Marte. Todo lo excesivo que el tolerante Júpiter ha edificado se verá demolido. El riguroso Marte nos indicará el cómo regenerar la naturaleza corrompida. Marte es el planeta del trabajo e indica las aptitudes del individuo para un trabajo determinado.
+* En Aries, Marte proyecta su esencia zodiacal con fuerza a la cabeza del individuo. Con Escorpio, es el productor de todas las formas materiales que crea el hombre gracias a su trabajo. Si las pulsiones de nuestra voluntad van hacia la espiritualización, tendremos a nuestro servicio a los luciferianos que trabajan con Aries; si van para abajo, tendremos a los que operan con Escorpio. ¿Producir es negativo entonces je je?
+* Malos aspectos: individuos impotentes (Escorpio), o locos (Aries). Si son de naturaleza amplificadora, podríamos tener a una persona obsesionada con el sexo o un "iluminado" extravagante. Resultarán perturbatorios para el trabajo (no participación o dedicación excesiva y violenta).
+- En el Sol reside la experiencia de nuestro pasado ancestral (dones y talentos). Es quien recoge los impulsos planetarios y los ejecuta (para ello debe actuar con las relaciones planetarias?). Un trígono de Mercurio con Neptuno, que da una elevada inspiración, sólo tendrá efectos si el individuo posee ya un talento de escritor o de artista (dado por el Sol):
+* ¿La negatividad no expresada del hombre está en su Luna, y la de la mujer, en su Sol? ¿Con Sol en Leo, el marido expresará el Sol de la mujer, y la mujer la Luna del marido? Para conocer auténticamente a una persona A, es preciso conocer a su cónyuge B, que expresará la parte NEGATIVA de A que no se ve y que el mismo A ignora. Si somos varones y nos vemos superiores, en otra vida volveremos a ser varón (esposa cada vez más salvaje, karma; el camino termina como mujer, con marido desarrollado, imposible de seguir).
+- Venus. Nos indicará lo que al individuo le tocará reconstruir, embellecer, armonizar; y aquello que expresará con gracia, con arte; y aquello que lo hará sobresalir. Resolver crisis.
+* Libra: armonizar. Tauro: gozo de la belleza y de la armonía y uso superficial: moda, perfume, decoración suntuosa. Venus confunde y envenena con superficialidad. Y los "venusianos" se creen elevados, y creen que tocaron techo.
+* Malos aspectos: sed de lujo, armonía, placeres o coexistencia pacífica. De manera delicada y exquisita, acaba con lo elevado.
+- Mercurio (intelectualidad) corrige a Venus. Posición fuerte de Mercurio: capacidad de análisis, crítica, síntesis y de discernir la verdad encerrada en cada cosa. El Mercurio común corresponde a Géminis (exteriorizar ideas), y el filosófico / alquímico a Virgo (lo femenino / interior).
+* En Géminis: aporta discernimiento. Virgo: se conduce a la quintaesencia de las experiencias adquiridas en los cuatro ciclos elementales: fuego, agua, aire, tierra.
+* Malos aspectos: el individuo no ve las oportunidades, porque la conexión entre la realidad material y la función inteligente está alterada. No acertarán a incorporar el concentrado de sus experiencias totales, lo cual conducirá a tropezar dos veces con la misma piedra.
+- ¿La Luna es la responsable de las imágenes aparecidas en nuestro mundo interior (de vivencias...)? La calidad, depende de su posición.
+* Malos aspectos: puede que un planeta determinado monopolice la producción de imágenes. Para una mujer, carácter difícil. Para un hombre, captación de una mujer difícil, y para ambos, madre conflictiva.
+- ¿Neptuno (como planeta fronterizo de otro sistema) se parece a Urano (espiritualidad)?
+* Malos aspectos: acentuarán su personalidad extraña: fantasioso, excéntrico.
+- Plutón es hermano de Saturno. Saca al exterior lo que estaba profundamente enterrado, para mejorar.
+* Los individuos son aún poco sensibles a las vibraciones de Plutón. Hace que estalle lo caduco y se regenere lo corrupto. Malos aspectos: auténticas cargas de dinamita.
+##############################
+#########ASTROLOGÍA###########
+##############################
+####Caro y Cristian la Astrología y su uso (primero, reconocernos esclavos denuestras psiques, y cambiarlas PROFUNDAMENTE, con el paso de décadas y encuentros con otras personas...):
+- Caro: con ciertas relaciones entre planetas, pasan cosas, ¡tú sólo observa, toma muchas notas históricas...
+* Argentina, con su Zodiaco y ascendente (y su mal karma), tiene su proceso traumático (bueno para la transformación de la psique). Creo que Miléi dejará bien a Argentina.
+* Los gobiernos no son estables por NO ser "paternos" (autoprohibirnos...).
+####Carta natal rápida:
+- Escorpio (susceptibles): se comunica por emociones / sentimientos. Intuitivo, perceptivo, pura energía psíquica. si logran usar su energía constructivamente, gran activo social, gran líder en potencia.
+* Agua: pasiones compulsivas, temores irracionales, misericordia, amor incondicional...
+* Sol en Escorpio en casa 10 (tengo los dones de Escorpio para el trabajo, ¡tendría que trabajar de psicólogo...).
+- Ascendente Capri: los inconvenientes lo estimulan. NO suelen ser románticos.
+* Descendente en Cáncer (ascendente Cancer) anhelan encontrar una pareja fiable, sensible y hogareña. Posible necesidad constante de recibir orientación y consejo de alguien que se considera superior. El mayor temor de un Descendente en Cancer es mostrar su propia autoridad y fuerza.
+- Luna en Leo: propensión a hipersensibilidad. Intento acomodarme a intereses de otros.
+- Las personas con el Medio Cielo (casa 10) en Escorpio son poderosas, ambiciosas, atractivas y transformadoras. Prefieren la privacidad a fanfarronear sobre su éxito y sus logros. Están extremadamente enfocados a dejar su huella en el mundo y dejar un legado. A menudo trabajan en puestos o carreras que requieren un fuerte sentido y conocimiento de lo oscuro, lo oculto y lo misterioso. Debido a su misterio y privacidad, pueden obtener una reputación de ser difíciles de trabajar o reservados.
+- Soy Fijo y cardinal (de empezar), agua y fuego, y un poco más femenino que masculino.
+- No tengo planetas hasta el tercer cuadrante = comprender el mundo y ganar popularidad, autoridad en la sociedad (no poder). Expansión de nuestro mundo gracias a la interacción. Casa 8: explorar territorio ajeno en busca de sentido.
+- Fortuna en Virgo: no debe quedar ocioso durante mucho tiempo, tener una ocupación puede brindarle gran satisfacción personal.
+##Casas:
+01YO SOY (máscara). 02YO TENGO. 03YO PIENSO. 04YO SIENTO. 05YO CRIO. 06YO DISCRIMINO.
+07YO ME RELACIONO. 08YO ME TRANSFORMO. 09YO DESEO. 10YO ME PROYECTO. 11YO PARTICIPO. 12YO ME AÍSLO.
+Casa 1 (AC)	5° 59'	Capricornio (ascendente Capri)
+Casa 2	18° 0'	Acuario ¿Trabajos sociales?
+Casa 3	0° 40'	Aries ¿Abrir caminos intelectualmente?
+Casa 4	2° 44'	Tauro ¿Familia con Tauro?
+Casa 5	26° 23'	Tauro ¿Enseñar a los Tauro?
+Casa 6	16° 11'	Geminis ¿Filtrar lo intelectual?
+Casa 7	5° 59'	Cancer ¿Acompañar a los Cancer?
+Casa 8	18° 0'	Leo ¿Leo me va a proteger económicamente?
+Casa 9	0° 40'	Libra ¿Exploro el territorio Libra?
+Casa 10 (MC)	2° 44'	Escorpio ¿Trabajo de psicólogo?
+Casa 11	26° 23'	Escorpio ¿Protectores y compañeros Escorpio?
+Casa 12	16° 11'	Sagitario ¿Pruebas de explorar?
+##Planetas. Mucho planeta en Escorpio (la naturaleza es apasionada y la actividad sexual se multiplica en todas las direcciones, ¿y eso produce ser corto de vista je je?) y Leo (individuo atado a demasiadas fidelidades, ¿ya mejoré eso no?), alguno en Libra.:
+- Sol en Escorpio 10 56. Casa 10. ¿Es mercurio en Escorpio y Mercurio en casa 10?
+- Luna en Leo 3 17. Casa 7. 
+- Mercurio en Escorpio 20 27. Casa 10.
+* Mercurio casa 10: capta lo que el otro necesita. CONSEJERO.
+- Venus en Libra 21 39. Casa 9.
+* Venus 9: inspiración artística, con tendencia a lo espiritual, filosófico...
+- Marte en Leo 3 7. Casa 7.
+- Júpiter en Cancer 5 58 R. Casa 6 -> 7.
+* Júpiter en Cancer: buena suerte en la vida.
+- Saturno en Leo 29 14. Casa 8.
+* Saturno en Leo: introvertido, poca confianza, me cuesta hacer lo que dicta el corazón. ¿Necesito reconocimiento de quienes me acogen? 
+* Saturno 8: vida sana, larga, y vejez tranquila. Busca serenidad y estabilidad. Medito aislado.
+- Urano en Escorpio 12 2. Casa 10.
+* Urano en Escorpio: ama la vida intensamente (la vida sin cárcel).
+- Neptuno en Sagi 14 36. Casa 11 -> 12.
+- Plutón en Libra 15 7. Casa 9.
+##Aspectos:
+- Positivos o negativos, depende: la conjunción (0 grados). ¿Círculo con barra saliente?
+- Positivos:
+* Trígono (120, fuerte). Un triángulo.
+* Sextil (60, fuerte). Un asterisco.
+- Negativos:
+* Oposición (180, fuerte). ¿Una barra entre 2 círculos?
+* Cuadratura (90, fuerte). Un cuadrado.
+* Quincuncio (150, semidébil). ¿Barra sobre pico?
+* Semi-sextil (30, débil). ¿Valle sobre una barra.
+* Sesquicuadratura (135, débil). Me recuerda a una Q.
+- Sol 120 Júpiter, 0 Urano (A, no S).
+* SOL CONJUNCIÓN URANO. Individualidad Creativa. Liberación de espacios para lo nuevo (lo viejo limitante, fuera). Si sienten tensión interna es posible que algo los esté limitando. La conciencia de sí mismos llega a través de flashes repentinos. Necesitan poder expresarse libremente y que a nadie se le ocurra decirles cómo deben comportarse. Ejemplos del deseo de cambio y progreso de la época. Comprenden instintivamente que cada ser humano es único. Si se encuentran en ambientes conservadores, rígidos, rutinarios... podrían crear caos.
+- Luna 0 Marte, 90 MC = Escorpio (A).
+- Plutón 0 Venus y 60 Neptuno.
+* Venus Conjunción Plutón: valor en momentos cruciales, amor obsesivo y no realizado, mezcla amor espiritual y sexual.
+- Neptuno sextil Plutón: voluntad de poder (lograrlo por vías raras, lejanas...). Reviso la religión, poniéndola al servicio de la gente en su día a día.
+- Júpiter 120 urano y 180 AC = Capri.
+* Júpiter oposición ascendente. La sociedad, o la familia, o el cónyuge, o el medio profesional... no serán los idóneos para la manifestación de su personalidad y deberá luchar toda su vida contra esa adversidad. Todo el pensamiento es grande, exagerado, descomunal, y a veces desproporcionalmente optimista. Es conformista si se trata de sí mismo, pero debe autoobligarse a mejorar su vida, ¿y su nivel de comodidad? cada vez que le sea posible. Eso sí, debe aprender a armar sus propias circunstancias, ¿no depender? Grandes negocios de otros pudieron haber comenzado con una idea suya. Debe aprender que la generosidad es un beneficio para usted, y también lo es aceptar la generosidad de otros. El nativo debe aprender a trabajar en equipo, para poder triunfar y cumplir con sus responsabilidades emocionales y económicas, que no le gusta que le recuerden.
+- Marte 90 MC = Escorpio (A).
+####Existe la carta de Revolución Solar (que se empieza a activar unos 2 meses antes del cumpleaños). Puedes ser otros signos (misión y capacidades; yo, con mi cumple del 3 de Noviembre de 2.023, pasé a ser de misión Piscis, con capacidades Cancer; eso se acaba con el siguiente cumpleaños, claro).
+- Y no te olvides de que el año 9 de cada ciclo de 9, es un año "Virgo" (seleccionar cosas pa tirar o dejar...).
+####Astro Cris Cebadera Velarde. Escorpio gana en sabiduría. Sagi, con ella (incluye modestia, nunca digas humildad, que es humillarse), puede buscar nuevos horizontes:
+##Nosotros seremos agentes del cambio (matar cosas viejas, no cambiarlas), yendo a lo nuevo, antes de que lo nuevo venga por nosotros. 2.024: ni miedo ni certezas (sino aceptación de total incertidumbre como zona de apoyo).
+####Astro Caro 14 Octubre Nueva en Libra eclipse.txt  Si recordase las vidas pasadas, ¿no lo soportaría? Necesitamos incluso tapar algo de esta vida (aunque minimices las cosas). Los problemas afuera son para conectarme con el adentro, por lo general:
+- Libra es para verme a partir de otros (qué energías atraigo...). Géminis es "tender puentes", mientras que en Libra ya entra nuestro complemento (puede expresar cosas malas de nuestra carta natal).
+* Si hago lo que debo, Escorpio no será especialmente conflictivo.
+- Luna Nueva: introspección, ¿qué clase de personas suelen rodearte, siempre o en la última etapa?
+* ¿Y la relación conmigo mismo? ¿Qué deseo, me escucho, me valoro, qué disfruto (esto no creo que case mucho con el mercado laboral)? La familia me limitó.
+##Si no expreso lo que deseo, a veces se convierte en ira... ¿incluso en accidentes?
+####Astro Caro entre eclipses Octubre 2023.txt  Recuerda que para empezar algo, algo debe morir. Libra: mente. Escorpio: tan emocional, que ser objetivo es más difícil. Aries-Libra (eje): no dejar de lado lo que yo deseo, y escuchar al otro en su deseo (y las buenas formas al final llevan a la explosión). Eje en negativo: guerra (te fijas en lo "malo" del otro, que muchas veces es tu espejo). Más:
+- Alguien con un Saturno muy fuerte, y que no lo encarna, ¿atraerá gente que opina sin tú pedirlo (controladores)?
+####Astro Caro Escorpio Libra y Tauro.txt  - Lo que pidas a tu pareja porque tu familia no te lo dio, podría expandirse al jefe (y te enfadas)... Buscamos protección... Hay que dejar de demandar (mejor acordar).
+* Escorpio muestra lo más aberrante de ti en el otro, lo que no quiero ver en mí. Libra "sólo" muestra que el otro es diferente, y aceptándolo, es más fácil llegar a acuerdos. Para vivir bien Escorpio, hay que haber comprendido Libra, para Libra, Virgo... Sol (conciencia) en Escorpio ( = conciencia escorpiana). ¿Marte (enfrentamientos: con nuestro interior...) cubre las espaldas a Plutón (planeta de Escorpio)?
+* Eje Escorpio tauro: desocultar lo que crees que restará valor a ti / tu vida si se sabe (la vida premia a quien "va para buena persona poco a poco", con honestidad REAL).
+* Si te apoyas en tus primeros años de vida ("tu nidito"), y ves a alguien diferente, te rompe los esquemas, genera inseguridad. ¿Y menudo trauma cuando te diste cuenta de que mamá y tú erais 2 personas, no una sola eh?
+* ¿Qué es sincerarte? Ser directo y decir lo que piensas del otro, ¡NOOOOOO!, es violencia (cuidado, ¿Acuario en negativo?). Lo sincero es lo contrario, es hablar de uno mismo, "pincharse". Si algo te molesta, es muy probable que la causa esté en ti. Puedes expresarlo, pero luego ir hacia ti, no hacia el otro, para no expresarlo más.
+* Escorpio suele atraer bravucones (pobrecillos), ¿porque él es un poco así en el fondo (energía, no ser inmoral)? Mejor mirar dentro (comprender, empatizar...) que pelear solo contra el bravucón.
+- Planetas y planetas:
+* Los personales (Mercurio, Venus, Marte...) son dóciles con los "grandotes". De peque te dicen que lo que dices no es importante, y terminas creyéndotelo... y ni de mayor dices lo que piensas. ¿Eso sería perder "el Mercurio"? También puedes perder el Venus (no valorarte), el Marte (no defenderte o ir por lo que quieres)... Lo primero (y gran paso) es hablar de tu vulnerabilidad: "me da miedo decir lo que pienso". ¿Qué cambiarás en ti para no atraer gente que te recuerda momentos infantiles de indefensión? Yo: administrador, su deber es atenderme, no tengo por qué dar mil gracias o hacer una genuflexión.
+* Hay voces críticas / autoritarias, que te hacen sentir culpable (ese superyó critica), por ejemplo, cuando vas a emprender algo diferente (fuera "del clan", de la sociedad normal...). Júpiter es el maestro (también en negativo): acepta esta creencia. Saturno, la autoridad.
+- Más:
+* Que tenga Luna en Leo, tiene que ver con mis inseguridades emocionales de crío.
+* Mercurio posicionado es peligroso: "yo tengo la verdad".
+* Hoy puede ser un gran día (parea iniciar, dejar de depender... Esa gimnasia que se hace por algo bueno, y no sólo "porque la hago todos los días al poco de levantarme"). La mañana (lo que te dices) influye en el día, el día puede influir en los siguientes (y no olvidar esos seis meses hasta la la Luna de "materialización", ¿materialización completa puede ser no?).
+* ¿Elegí España para explorar y conquistar (ascendente Sagi de españa, todo Sagi se puede decir; nodo Norte en Escorpio, que podría significar librarse de patrones viejos como la paia Constitución, aunque sea sufriendo)?
+####astro José Millán 2023hreghrg.txt  - Júpiter da sentido, y ahí está Quirón (la Key / llave), para que aceptes tu herida (provoca dolor). ¿Si estás cerca de los 50, el dolor te guía el resto de tu vida?
+- Marte en Cancer: se defiende "la patria" con todo.
+- Acuario es transparencia, y Plutón, lo que está oculto, guardado en secreto. Saldrá (noticias...), y dolerá.
+####astro José Millán 2023reiu.txt  - Venus es cómo consigo lo que quiero (en Géminis, podrás seducir a la vecindad, terrible).
+##Si una potencia dice "hay que parar la IA", eso es "teatro de psicópata" (no te lo tragues, Musk es un poco Diablo).
+####Astro velarde más eclipse 28 Octubre 2023 Finales y comienzos.txt  - ¿Nuevo (despedirnos de algo) sentido de seguridad emocional taurino?
+* Iremos con miedo (a fracasar, a no ser aceptado... Esos, curarlos), pero iremos (18 meses Nodo Norte en Aries y Plutón en Acuario 2024). 13 Noviembre, plantar semilla que dará frutos en Tauro del 2.024.
+* Saturno en Piscis pide maduración emocional. Mira a ver si en lo que dices hay paz. Intenta fluir, sin necesidad, carencia o urgencia. Júpiter en Tauro: confía, ten fé y sé valiente.
+##Se sobrecompensa (viajes...) por no disfrutar el día a día (con mesura). Venus necesita Virgo (mesura).
+####Astrofoihjgeohgr.txt  - Velarde creer pasando a pensamientos positivos y decir producen la energía que recibo de otros. ¿Hablar bien en general?
+- Energía de tierra (acumular, posicionalmiento social, toma de decisiones, configurar sistemas...).
+- Saturno en Piscis, retrograda, dejando a Piscis "desamparado". "El Niño" se da (fenómenos atmosféricos).
+- Eje nodal pasa a Aries - Libra.
+* Aries (Nodo Norte): experiencias que nos obliguen a crear nuestro propio espacio. Todo hacia delante.
+* Libra (Nodo Sur): creamos experiencias "de compartir", mientras cumplimos "con Aries".
+####Astrología José Millán decisivo Marzo 2023.txt  - ¿Lo que comencemos (Aries) va a impregnar los siguientes meses / años?
+- Saturno en Piscis (¿manuales intuitivos?). Urano es menos reglas, en cambio.
+- Plutón en Acuario (veremos mal la tecnología "por diversión o control" por fin).
+####Astrología Mayo 2023.txt  - Muchos derrumbes son para poder seguir con tu misión de vida. Controlar (para evitar el derrumbe) a veces impide seguir.
+- ¿Escorpio es drama y victimización? NO esperar a que te den, dar importancia a lo que quieres, desear en vez de esperar y quejarse, y agradecer.
+- Seguirá habiendo gente que quiera casas grandes (trabajo de más, una auténtica subnormalidad, cuando la contemplación, y cosas no materiales, son lo inteligente)... Enfermos mentales.
+- Tengo Escorpio en casas 10 (trabajo) y 11 (compañeros y protectores). ¿Ya no me protegen tanto, y dejo de alargar la Cutreenciclopedia? Tengo tauro en casas 4 (familia) y 5 (enseñar y mostrar dones). ¿Se potencia el enseñar, mostrar dones y la familia?
+* Tengo el Sol (dones) en Escorpio en casa 10 (trabajo). ¿Los dones para el trabajo son los de Escorpio (detectivescos je je)?
+##Más:
+- ¿Escorpio absorbe energía de descomponer formas taurinas?
+- Marte en Cancer: defender lo nuestro + cortar cordón umbilical, tratar a los hijos como adultos ya...
+- Transpersonales retrógrados: para que nos demos cuenta de lo que decían en su tránsito (Plutón hablaba de la terrorífica o benéfica IA...).
+- Saturno en Piscis: falta de agua.
+####Astrología Millán primera quincena Junio 2023.txt  - Trabaja, estudia, y serás feliz, ¡el gran bulo!
+- Mercurio es contratos.
+- Plutón es el + lento (yo je je). Capri (mi ascendente) es patriarcal y jerárquico.
+- 2023 y 2024 (hasta finales casi), ¿las cosas empeorarán (posible control social...) para que mejoren?
+- Sagi: cuadro integral. Géminis: por partes, no integral.
+####Astrología velarde eclipse 14 Octubre 2023 empiezan los cambios radicales.txt  - Hasta finales de Noviembre, giro substancial. Miedo + victimismo o capacidad creadora y empoderamiento, ¿frente a noticias y control de las élites, por ejemplo?
+* Venus se pone lógico y elegirá por sí mismo: anula la óptica romántica, para simplemente buscar una vida bella, harmónica y de calidad.
+* Nos apartaremos de quien "no hable nuestro idioma" (o se intentará, en la medida de lo posible).
+- Cruce de caminos, ¿qué dirección tomamos? El Eclipse podrá ponernos en nuestro lugar del destino. ¿Pruebas?
+####Astrología y Psicología para 2024.txt #### Caro. Sagi, búsqueda de sentido (filosofía de vida...). Ni en mi mundo ni a merced de los demás. ¿Qué me entusiasma y luego algo me frena? La vocación se descubre con el correr de tiempo, con poca frecuencia de joven. Rigidez es miedo a hacerme cargo (suena al par perfeccionismno / miedo al fracaso). #### Pedro Redes: Júpiter entra directo (expansión y sabiduría, bonanza económica) el 1 de Enero, y en Tauro (añade nuevos valores y paradigmas). Finales Mayo, mucha potencia despertadora (triángulo harmónico casi permamente neptuno, urano y Plutón). NO ESPERÉIS CAMBIOS GLOBALES, SINO DIVISIÓN MUNDIAL EN 3 GRUPOS (NO NORMALES, NORMALES DOGMÁTICOS, Y LOS DEL MEDIO). #### Cris Cebadera Velarde. Dic primera quincena sanar nuestras relaciones (y la Luna Nueva / algo nuevo... del 12, no va a ser tan evidente: primero, sanar). Mercurio (recordar) retrograda para que pensemos (la sociedad generalmente no lo hace antes de hacer). Cambiar antiguas formas de relacionarnos (abandono, rechazo... sin amor; valorémonos y atraigamos para compartir, cuidado con control, celos, dramas para convencer...). Hemos dejado de lado nuestras necesidades o esperado que los demás nos las cubriesen. Preguntas, ¿qué queremos y con quién? Y a mediados de Enero, tendremos un plan creado.
+####José Millán Acuario Piscis Venus y Mercurio.txt  - Los elevaos / sutiles son Acuario y Piscis (Urano y Neptuno), aunque muchos representantes de estos 2 signos niegan lo sutil, refugiándose en lo virginiano (previsible) y lo leonino (yo soy).
+* El buen Acuario sabe que es mezcla de varias personalidades, y trata de integrarlas.
+* Piscis muestra la falacia de las formas (de eso vive en parte, de desenmascarar a Venus), que van a morir "al océano".
+- Mercurio tiene memoria: hemos creado una sociedad terrible...
+####José Millán, Astrología:
+- Plutón (superlento y mano invisible del poder). Urano acelera el tiempo ( = Saturno), desestabilizando. Los países cerealistas, ¿suelen ser Tauro? Retrógrados (planetas): vuelta a proyecto pasado...
+- Tauro ("viva la vida, vamos a comer y beber"), necesita de Escorpio antes (verdad a flote, putrefacción... Sin confianza en Escorpio, NO te dirá nada de ti. Tú hazle preguntas) para una nueva sociedad. NO culpéis a Escorpio de aguafiestas, que os ve como sois, y a él mismo (es el menos infantil) y sufre callado.
+* Eje Tauro-Escorpio (es como un signo del Zodiaco, una dinámica): tener o no tener. Escorpio (en negativo): negarse a dejar ir ("no dejaré ir mi poder actual"). Ambos esencialistas / solventes de lo material y lo psíquico.
+- Piscis / Neptuno pierde las defensas para comunicarse con el todo, lo cual aprovecha Aries (si tienes los 2, puedes tener una enfermedad autoinmune, así que no trabajes mucho o tranquilízate).
+- Mutables: barajas ideas, y luego Capri elige (hace de padre, prohibe). Energía cardinal: puñetazo sobre la mesa, y "yo paso por aquí"; fija: yo no paso por aquí (cosas claras, pero enrocados en errores).
+* Géminis son "pasos para conducir un coche...", y Sagi, visión global (sabia, escuchando a sabios). 
+- Plutón en Acuario: nos mostrará que nos hemos mirao el ombligo y que esta sociedad es esclava.
+* Escorpiano deseo de muerte = deseo de vida. Los millenials, naciendo con Plutón en Escorpio, querrán tirarlo todo, eso está bien. 
+- ¿23-26 años difíciles pa China?
+- ¿La literatura tras LSD es chunga no? ¡Viva lo estructurado, resumido y razonado!
+- Cuando madrugo, quiero estar solo, y en la oscuridad... un buen rato. ¿No se activan "los genios" por la noche?
+- Lo intelectual, sin una base "sutil", es integralmente negativo, y se debería revisar todo lo construido por esta inteligencia pobre y vacía de esencia.
+####00707antes de 2024 sin orden.txt  ####Hacer:
+- Test de autoconocimiento (sólo preguntas, la evaluación corre a cargo del usuario). Por ejemplo, ¿te gusta machacar a los otros en competiciones? ¿Es por ganar, o es porque quieres dejarlos en su sitio (esto es un atenuante)?
+- Buscador por compatibilidad de valores, desrepresión, edad del alma...
+- Simulador de psique. Se te presenta gente (falsa o no) que "te increpa" (por sus proyecciones psicológicas), y tienes que elegir un pensamiento o reacción (algunas vendrían directamente por tu psique, produciendo shocks tal vez).
+- Programa en el que pones tus fotos viejas asociadas a canciones, y hay tests en los que tienes que pinchar la foto correcta. ¿Para ancianos?
+- Conspis, salir a horas a las que no sale nadie para reunirnos y estrechar lazos.
+- Poder hacer esquema de representación teatral con monigotes sencillos (en la pantalla del ordenador claro). Ir más allá con expresiones (triste... podría ser bueno para los aspergeres, el teatro es bueno para ellos en general).
+* ¿Cómo es la tabla asperger? Una línea podría ser: tristeza (pierdes algo...), icono.
+####Desarrollos de videojuegos:
+* Un poco del Don't kill. Fase 2: las cebras. Hay que cazarlas (para salvarlas supongo) metiéndoles miedo con un látigo (empezamos bien je je). Sí, es para que no las maten los cazadores. Una vez juntadas, se las dirige a un camión. En el camino, pues riscos rodeados de lava. Cuando no puedas saltar tú (las cebras saltan más), te montas en una cebra. ¡Bieeeeeeeen! ¿Y no sería aconsejable que el lugar donde las llevases estuviese lleno de mujeres cariñosas?
+* ¡Venga, otro! ¡Esto es un plagio del Arkanoid, Demolition... No tiene ni pies y cabeza. ¿Se los ponemos? Hay una serie de ventanas en la parte inferior de la pantalla. Arriba, ladrillos. Para proteger las ventanas, hay un bloque que se mueve de izquierda a derecha. Hasta aquí, lo de siempre. Hay un guante en la parte derecha, que se mueve de arriba a abajo. Si captura la pelota, puedes descansar unos segundos. ¡Qué raro es esto! Es por tiempo, con un mínimo de ladrillos machacados y ventanas vivas. Un ángel suelta letras. Cada ventana puede albergar sólo su letra; si la alberga, tarda más en ser rota (la cosa sería gradual). El ángel también lanza tapones (bloques) para proteger las ventanas. Y ya está, ¡ya puedes ir al manicomio je je! ¡Sólo falta que te den puntos extra por girar algunas ventanas en vez de romperlas! ¿Cómo? Pues con el suavizador de pelota que te lanza el ángel. ¡UNA AMBULANCIA POR FAVOR!
+* El de los dominios de la joven: una joven camina (casi volando) alrededor de su casita. Tampoco tiene ni pies ni cabeza. Sólo hay un orden. El objetivo es que caiga al suelo exhausta (es una bruja realmente). Según dónde le des, atacarán unos u otros monstruos de su propiedad. De verdad, ¡menos mal que queda sólo un comentario je je!
+* El último es el de los Aurones, serie fantasiosa donde las haya.Un castillo en el desierto del cual se sale en ala delta? ¿Iris nos lleva a un remolino que a su vez nos lleva a casa? Lo dejo aquí je je je je.
+####Autoanalizándome con mis phps de Github:
+##Para empezar, soy Escorpio con ascendente Capri. ¿Significa eso largas obras sobre temas sutiles, como la psicología?
+- Lo primero que hay que hacer es ir a https://github.com/luismateosarmada/ideesforanempatheticworld
+* Allí encontrarás una dirección (censurada) para ejecutar mis PHPs.
+##Al grano. Ejecutando el de diagnóstico:
+- Sí, mira las nubes atontao, y te vendrán ideas y flashes.
+- Pecados reales:
+* Soberbia. Suelo ser esencialista más que pura apariencia.
+* Acedia / "pereza". NO trabajo mucho, me levanto tarde... pero mis objetivos son nobles, no "de sobrevivir" precisamente.
+* [Gula]. Cuando hay nervios, escapar de uno mismo comiendo...
+* Avaricia. Cada vez me guío menos por lo que valora el entorno. Yo me siento bien a cada momento, no necesito ascender pa sentime bien 4 minutos (¡qué falta de valores!). Me brindo a mí mismo y tengo pocas cosas (antes me costaba deshacerme de las cosas).
+* Envidia. Era un poco envidioso de joven. ¡Éste saca buenas notas porque tiene una familia que debería ser mía!
+* Lujuria / exceso, no aprovechas el esfuerzo... Obtienes, tocas, y quieres más. Típico de Escorpio. Recorrer kilómetros por un placentero beso (o por conocer un placer nuevo).
+* [Ira]. Esto sí que es típico de Escorpio (le sirve para lanzar la alarma de inmoralidad).
+- Lo de Hamer, es más bien para cuando se haya diagnosticado antes algo físico. ¡Pero puedes entrar en dolorosa fase de curación si lo miras todo! Lo de Transgenealogía, pues lo miras si quieres (por qué atraes lo que atraes...).
+- Eneagrama de Gurdjieff (creo que es de él):
+* Soy 11, maestro sutil / psicológico. Al estar mal, me convierto en 2. El 2, negativamente, puede ser sentimental, adulador y obsequioso. Suele hacer cosas por los demás para sentirse necesitado. Por lo general tiene problemas para cuidar de sí mismo y reconocer sus propias necesidades. MIEDO BÁSICO: Ser indigno de amor. DESEO BÁSICO: Sentirse amado. MENSAJE DEL SUPERYÓ: Vales o estás bien si eres amado por los demás y eres amigo de ellos.
+##Ejecutando el del Nodo Norte y el Tzolkin Maya:
+- Libra: no tuviste muy en cuenta las necesidades o deseos de los demás (nodo en Aries). Sigue persiguiendo con la misma energía tus metas, pero con espíritu más colaborador y comprometido. Acompañar el andar del otro, ser mediador de conflictos y excelente escucha habilitando al resto a superar soledades.
+- Tzolkin Maya:
+* Raza amarilla (4): energía integradora, tiene las 3 anteriores; y aumento de coherencia personal durante la vida. Dirección Sur (de ahí viene la energía). Es ser uno mismo, evolucionar y madurar todo el conocimiento adquirido en el pasado. Dualidad madurez e inmadurez.
+* Sello semilla (4). Conocer el momento adecuado para hacer florecer ideas y proyectos. Es la frecuencia de la virtud sin esfuerzo. Sólo hay que "sembrar" correctamente. ¿Sembrar es también hacerse las preguntas adecuadas antes de quedarse atontao, dormir...? ¿Desear con emoción y planificación es sembrar no? Consejero (sacar potencial de terapeutas, docentes, maestros...), que se sirve de escuchar su intuición / instinto, en pausa (¿como atontao con la boca abierta?). Una semilla dormida no esta en paz (hay inseguridad) y busca en los demás lo que no tiene, volviéndose dependiente (no cosecha).
+* Tono resonante (7, fa+). Abrir "canales" para obtener respuestas (pausa para escuchar voz interor, ¿atontado?; se parece al 4). Misterio, magia, sueños, mensajes divinos, canalizar, inspirar. ¿Cómo armonizo mi servicio para con los demás? Las personas resonantes tienen respuestas para todo. Si están en armonía siempre saben qué hacer y se dejan llevar por las situaciones conforme van sucediendo. Su energía es crucial para que otros que no son resonantes comprendan conceptos vitales para un despertar de conciencia. Son buenos maestros e inventores. El tono resonante, me pide que mantenga el contacto con mi "guía interior" sin perderme en el ego o el mundo de afuera (todo emana de lo sutil).
+##Nombrelogía:
+- Luis Mateos Armada. U: muy racional; alegre y optimista, con gran don de la palabra:
+* 1 (máscara y objetivo). Eres independiente en creencias, y la libertad de pensamiento es el objetivo de tus deseos mas internos. No quieres permanecer en una posicion secundaria entre tu gente.
+* 9 (real). Solidario, idealista, desinteresado. Vienes a servir de guía y destacarte (contactando con lideres sociales...), a luchar por el bien comun. Intuitivo, sensitivo e imaginativo. Necesitas reconocimiento y valoracion de todo lo que haces, y dar y recibir amor. Altibajos (sueños de grandeza a depresion si no cubro las expectativas). Pruebas: rechazo, abandono, desvalorizacion, poco reconocimiento, personas que abusan de tu generosidad... Objetivo: demostrar autosuficiencia...
+##Extra: la carta astral (se parece a Transgenealogía + Hamer + Jung), pero bien, con información extendida de casas...
+####Años de cambio. Nací en 1977 = 24 = 6. Siguiente año: 1977 + 6 = 1983 = 3. Siguiente año: 1983 + 3.
+* Y así sucesivamente. 1986 + 6 = 1992; 1995, 2001, 2004, 2010, 2013, 2019, 2022, 2028.
+#### Eneagrama:
+- 11, saca cosas ocultas de ti.
+##Un tipo de persona (número) se me presenta muchas veces, ¿qué hago / mejoro en mí?:
+- 1. Muestra a los demás el camino creativamente.
+- 2. Recoge la cosecha. Quizás alguien pueda ayudarte a decidir.
+- 3. Viaja para autoconocerte.
+- 4. Sé tú mismo digan lo que digan, y con imaginación genuina.
+- 5. Expresa tus ideas para salir del bloqueo mental.
+- 6. Ocúpate de la belleza, el arte, la decoración, los problemas maritales...
+- 7. Sé más esotérico (hacer caso a la intuición, Psicología...).
+- 8. No pienses, trabaja. Sé coherente con tus debilidades.
+- 9. Saca a flote toda tu fuerza interior, para hacer las cosas con seguridad.
+##2. Recuerda que para dar te tienes que poseer a ti mismo, conocerte y quererte. Examina si realmente las personas necesitan tantas cosas como tu piensas, no vivas tan pendiente del otro, pues puedes perder tu identidad. No te queremos por todo lo que ayudas, sino por ser quien eres.
+####Ocurrencias modestas:
+- Restaurante, una pareja y una camarera muy alegres:
+* NO comemos ni lácteos, ni huevos, ni carne, ni gluten, ¿qué nos recomienda pedir?
+* La camarera, sin perder la compostura ni al alegría: un taxi.
+- Situación: hombres rudos y barbudos pasando mucho frío en el polo, y pasa un marica en mallas con su osito de peluche gigante cantando y bailando como si nada.
+- Tortuguese engañadora, ¡Tortuguese despistadora! Tortuguese te introduce en los caminos tortuosos de la duda. En fin, esto es más bien pa mí.
+- I want your sex, aleluya... Canción típicamente negra.
+- Ahora toca una canción (Raquel, Manuel: Tam Tam Go): Media Noche en el Monte, una niña se esconde, una capa gigante, que vuela hacia dónde, dónde está la estrella que ilumina la casa, donde vive la niña, que va a ser usada... por la harpía alada. El susurro del viento, cruza el bosque violento, va anunciando corriendo, viene el rey de los muertos. Brillantes sus ojos, Drácula se acerca, divisa la casa, y la cerca pasa... con la harpía alada. La niña grita entran en la casa la niña espera a ver qué pasa. Ven a la niña, miran como bobos hasta que descubren que es un hombre lobo... un hombre lobo. ESTA VERSIÓN TIENE UN TOQUE LIBRA, Y LUEGO LA AMPLIAMOS CON UN TOQUE TAURO (XURDE, QUE CREO QUE ESE DÍA IBA COMIENDO DRAKIS).
+- Ésta es la canción de la Culebra Santa que meó en el suelo... ¿Veis? No son productos para el público, pero enriquecen tu vida.
+- Somos gusanos ye ye, allá vamos, ¡nos drogamos! Me recuerda a esa de: somos las ratas bubónicas, y te infectamos de peste, buba buba buba bubón; era como mezclar Patoaventuras (la Kukucola) con la marca Audubón.
+- Luchadoras Glow (Las Vegas; Jacinto, Leo, es aquí el prota): luchar, luchar, luchar ganar, todas luchamos para ganar, comemos carne cruda para mejorar!
+- Alaska (tema de Carlos Berlanga, el hijo de Berlanga el dire de cine): una fiesta total, uan bruja ideal, una bruja en una fiesta para repartir el mal; y la noche llegó, y a los 2 nos buscó, una bruja en una fiesta para repartir el mal; es algo fenomenal (nada vanal); ¡Y no tiene igual!
+- ¡Andabel! La muñeca que, camina hacia ti... ¡con un cuchillo!. ¿Qué, no sería emocionante soltar unas cuantas (el cuchillo es de juguete)?
+- ¿Qué comen en Rumanía? Pues Nestle Crecimientu, bajo en fosfatu, y puré de muertu, bajo en crepitatu.
+- Poema Haiku: (yo) te quiero ver lejos, lejos te quiero ver, (anda por favor), púdrete.
+- La nena modena camiño do mar. Nena la nena modena; la modena nena; una modena (puede ser una palabra rara en vez de "una modena") nena; la nena modena; es la nena modena; que al mundo llegó.
+- Ijí, antes de convertirse en Dios, dio clases de guitarra a Damon Albarn, donó parte de su gracia a varios cantautores, y murió. Ijí es amigo de la Invioloba: es un hombre que, al ser bendecido con muchos ovarios, aumentó la talla unos 4 metros. ¿O es una mujer? ¡Qué complicao"! Lo que está claro es que es inviolable.
+- Inspección de sanidad: Inspector: ¿que da de comer a los cerdos? Las sobras. ¡Multa de sanidad! La segunda vez. Lo mismo que nosotros, si hay pote, comen pote... ¡Multa de sanidad! La tercera vez. No sé, yo les doy el dinero, y ya se lo van gastando ellos. ES MUCHO MEJOR EL SIGUIENTE (ME LU CONTÓ BERTO). Hace 3 meses que me apunté a un gimnasio y no he adelgazao na, ¡tendré que ir personalmente a ver qué cojones pasa!
+- Toma dame chico tiene (Fátima Miranda; nunca la olvidaré). ¿Y chico chica chiquet? ¿Que Ludviñe Sudfreña es un nombre gracioso?
+- Nada va a cambiar tu complexión, hagas lo que hagas tú no engordaas, cuando se acabe el mundo, tú seguirás tan delgaducho.
+- ¡Jo, el cuento de Nofritatu es muy largo! ¡Corran, el conde Nofritatu se lo come todo crudo, lo primero de todo se comerá nuestros cojones! ¡Hay que comer al menos una fritura al día para alejarlo! Así que ya sabéis lo que comer antes de las acelgas. ¡Mira que hasta había hecho un dibujo! ¿Dónde estará? Bueno, he acortao el cuento, que es lo que cuenta.
+- letra soy guapo:
+MIRA LAS FLORES, Y MIRA EL JARDÍN Look at the sky, look at the sea
+MÍRALO TODO, Y MÍRAME A MÍ Look at clouds and then look at me
+SOY GUAPO	I'm pretty
+LO QUE SOY ES GUAPO	What I am is pretty
+MIRA LOS MARES, Y MIRA EL DELFÍN Look at a flower, look at a tree
+MIRA LA LUNA, COMPÁRALA A MÍ	Look at the birds, and then compare them to me
+SOY GUAPO	I'm pretty
+LO QUE SOY ES GUAPO What I am is pretty
+MIRA LAREDEDOR Y VE	Everything looks different
+LO DIFERENTES QUE PODEMOS SER	As individual as it can be
+Y PUEDE SER QUE LO QUE A TI NO TE GUSTA	But who's to say that what looks funny to you
+ME GUSTE, ME GUSTE A MÍ	Might not be simply gorgeous to me?
+MIRA Y VERÁS, Y PRONTO DESCUBRIRÁS	Look at the stars and all the beauty you see
+QUE YO TENGO ALGO MUY ESPECIAL, ALGO PERSONAL Could you ever find a single thing as pretty as me?
+SOY GUAPO	I'm pretty
+LO QUE SOY ES... GUAPOWhat I am is pretty
+¡COMO GUAPO NO TENGO RIVAL!	And that's the way I'm always going to be!!
+- Diccionario inglés español. ¿Qué significa amasiyu eguén? Mañana nos vemos.
+- Cuando un DJ hindú va a pinchar discos dice: ¡¿A Yur Vedi?! Je je.
+- Hola a todo el mundo yo soy Jarri Estáils, y canto yo muy bien mi canción, y me creo que la he compuesto yo je je.
+- Los niños pequeños son rockoraperos, se pasan el día cantando cosas como:
+* Raste raste nait, ¡oo, oo!.
+* Güil Sidi güil cidi nait.
+* Au Rera com pa, pisi cha.
+* Se me había olvidao el guatatatatao.
+- time after time. Conejón, conejón, soy un conejón: un conejón.
+mis docs tonada españolamoderna.txt
+- Tonada española moderna:
+* De lo bajo que vibraaaaba.
+* De lo bajo que vibraaaaba.
+* En lo hondo la seseraaaa.
+* Se me acurrucó una larvaaaa.
+- soy tertuliana de TV:
+Sarah: así que eres tertuliana de televisión, ¿y de dónde vienes?
+Belén: del planeta Tertulian.
+Sarah: ¿y dónde queda eso?
+Belén: en el quinto coño.
+Sarah: sí, eres uan auténtica tertuliana.
+####Más:
+- Imaginar un futuro civilizado, y hacer imaginar a los demás.
+- Respecto a Carl Jung, pues una historia llamada "el Hombre de Invierno": cuando es siempre de día y no abrazas tus sombras para quitarlas... te quedas en el montón de "la gente alegre con una vida triste, y sin saber por qué caen mal: las represiones los hacen reaccionar mal).
+- Prueba las máquinas de energía escalar. ¡Curan físicamente de verdad! Son necesarias, te lo digo yo.
+- En una habitación de 8 metros cuadrados cabe un ordenador de sobremesa, 2 camas, una impresora...
+- No me gustan los cumpleaños (al menos recibir felicitaciones, ¿no es abrumador si no eres narcisista?).
+- Las élites están cumpliendo el plan divino (marcar con vacunas a las almas menos elevadas; y a otros). Ahora saben que nos creemos cualquier patraña, y eso es muy peligroso.
+- El morado es el color del mal se puede decir, de la "comida de coco".
+- Prefiero letra a vídeo (que recibas la menor información posible, en el mínimo espacio de tiempo).
+* He aceptado que voy a encontrarme con zombis y narcisistas / psicópatas (bonitas pruebas, como las pruebas que me pone gente más avanzada que yo, gente "psicológica"). No te relajes mucho, y te saldrá lo peor de ti, que es de lo que se trata.
+- Primero aprende a disfrutar solo, y ya en grupo, la experiencia se amplifica. Admite tus diferencias con el otro para armonizar (que no sea el monólogo de frikitecnológico que hace que te desmayes).
+####Finalizando 1:
+- ¿Es ya tiempo de lanzar "bombas de semillas" (arbustos y eso, luego irían los árboles de sombra)? Si hay un incendio, el cáñamo crece muy bien con la ceniza. ¿Los incendios (muerte) dan nueva vida no?
+- ¿Alguien que pide préstamos arriesgados tiene el derecho moral de conseguir un trabajo y vivir feliz y yo no? Dejad de aparentar con vuestro teatro: que si soy útil, que si madrugar dignifica, que si soy Dios por usar tecnicismos en Inglés...
+- Probrecillas muchas personas que se sienten culpables y no paran de sufrir. ¿Qué podemos hacer para remediarlo? Pues decirles que la culpa debe durar un suspirín, si no, te están manipulando o te estás flagelando innecesariamente.
+- Restaurante, una pareja y una camarera muy alegres:
+* NO comemos ni lácteos, ni huevos, ni carne, ni gluten, ¿qué nos recomienda pedir?
+* La camarera, sin perder la compostura ni la alegría: un taxi.
+- Situación: hombres rudos y barbudos pasando mucho frío en el polo, y pasa un marica en mallas con su osito de peluche gigante cantando y bailando como si nada.
+- Mi canción: pacto, pacto mortal, nadie sobrevivirá, se ha hecho un pacto mortal (Luis Mateos Armada, luigiluitiso Youtube).
+####Finalizando 2 (muy pocos hábitos, consejos...):
+- Me paso un poco de tiempo en la cama, para "coger energía sexual", programar el día, llorar si hace falta... Me abarco / abrazo la cintura (dando golpecitos con los dedos)...
+- Falum Dafa (parecido al taichí), gimnasia "escarabaja" (panza arriba, moviendo brazos y piernas). Desarrolla la intuición, es necesario.
+- Uff: frikis, gente demasiado preparada (especializada), y falta de empatía ajena. ¿Cómo rascas algo o te integras entre ellos?
+- Comer, poco: legumbres pa'l almuerzo (no desayuno), y pa cenar, ¿fruta, esperas media hora, y un lácteo?
+- Las élites quieren que trabajes en cosas inútiles, y dan salida a tu estrés con anuncios de cosas insanas, inmorales...
+- Agua de mar, recuperaciones milagrosas (los sueros salinos hospitalarios actuales con sólo Cloruro de sodio, producen hipertensión). Sangre recuperada (no hacen falta peligrosas transfusiones). Los Glóbulos blancos con agua de mar, desarrollan substancias antitumorales.
+- De los amigos de Gijón, me gustaría ver más a Solares, porque "tiene terapia psicológica conmigo", él agradece la poca sabiduría que tengo. ¡Vamos, que es receptivo a mi ayuda!
+- Confianza, conocimiento del otro, nada de entrevistas (los psicópatas las hacen de 10).
+- QUIERO GENTE QUE QUIERA PAZ Y TRANQUILIDAD, CON GRANDES AMBICIONES POSITIVAS Y POCAS NECESIDADES PERSONALES. Que vea las conspiraciones, y NO ciegos a su inconsciente.
+####superamenaza superguía 6 hábitos diarios más destructivos:
+- Temer el juicio ajeno (habrá dolor; aceptarlo). Centrar la atención en las necesidades de los demás (pero cuidao con aconsejar), no en lo que piensen de ti.
+- Vida complicada. No poseer demasiadas cosas inútiles (tener pocos videojuegos / opciones te hace más feliz). No tener agenda apretada (establecer sabias prioridades). Con estrés, no hacer / pensar nada. No esperar que el otro pueda leer tu mente. Expresa lo que sientes y pregunta cuando no entiendas (o vete con una excusa).
+- Asociar perfección a felicidad. Reconocer el valor de lo ya hecho. ¡Somos falibles, por mucho que pensemos que no! ¿Cuidas los detalles técnicos, emocionales... todo? Lo importante es el equilibrio (no gran exceso o gran carencia).
+- Atrapado en pasado (yo no me culparía por el pasado, miraría qué condición psicológica / común se repite en situaciones diferentes) o preocupado por el futuro (planifica y vuelve al presente; mantén la imagen del estado al que quieres llegar). Focalízate en una sola acción.
+- Compararse con otros. Ve lo bueno de los demás, para ver lo bueno tuyo. Hemos venido para cosas diferentes (incluso la maldita epilepsia puede dar "superpoderes", pero conducir, algo normal, ser difícil). Muchos loros y guacamayos hacen cosas parecidas a lo que hace gente creída.
+- Centrarse en aspectos negativos (y muchas veces, lo malo viene para algo bueno).
+####068Folio0303gracia rock and roll toc toc toc de la novia si se ve atacada por los nervios se echa un cubo de agua encima je je.txt 
+####012Foli0212notas12.txt  ####Recordemos que el complejo de superioridad (psicópatas...) se cimenta siempre en uno de inferioridad, provocado por inseguridad (sobreprotección, ¿abandono?, abuso o visto así por el niño pegado a mami cuando nace un hermanito, criterios cambiantes en los padres, sobrevaloración...) + frustración. Para pasar a uno de superioridad, tenemos como factores que haya habido pocas reencarnaciones del alma (inteligencia emocional...), quizás el Zodiaco (siempre presente)...
+####superame en 2004 embargaron a Margarita Robles y un montón de gente más y sólo el medio de comunicación del asesinado Jesús Gil se había hecho eco de la noticia En este país vivimos denunciar corrupción es obligado por ley.
+####022Folio0300notas01.txt  ####superrenacer cruzada Antiactividad al hombre elevado le gusta la nada Antiaspi como tomador de decisiones se parecen a los zombis de Haití son intelectualesIzquierdo tán pa trabajar y el resto no por la NMGHamer Anticompetir.  
+####superrenacer el éxito es dormir casi todo lo que quieres y conservar cara de joven Lo de tener un trabajo inútil por imagen dejadlo para los psicópatas y los tontos peligrosos de sus allegados.
+####superrenacer imaginaos 23 grados todos desnuditos sin necesidad de ropa frutos al alcance No se necesitaría trabajar ni comer si somos elevados El Edén el gran objetivo.  
+####superrenacer no te lo pierdas De poca monta eres sin psicología incluyendo psicopatía NMGHamer o paioberes Yerma de Miguel Rix superrentable para tu supervivencia.
+####¿Por qué no se abandona una relación tóxica? Se comienza con comentarios "inocentes" (realmente, malintencionados), censura de tus emociones, humillaciones "de broma", haciendo sentir al otro indigno de un trato mejor. NO SE ABANDONA POR EL REFUERZO INTERMITENTE: los maltratos son precedidos de momentos de cariño y tranquilidad. El cerebro se hace adicto a los no muy abundantes ratos de buen trato (gran descarga de neurotrasmisores de placer): la víctima no da importancia al periodo de degradación con tal de recibir el "chute" / refuerzo positivo.
+####superrenacer quererse a uno mismo tiene mucho que ver con poner la misión espiritual por encima de todo tras hacer tests Tzolkin Maya Diseño Humano y Nodo Norte Sí hay que trabajar pa sobrevivir lo sé.
+####Si eres narcisista de psicópata primario a terciario o sólo psicópata terciario que va sin empatía arrollando para llegar a su objetivo y pasas tiempo con un Escorpio tu reputación será destruida piénsalo.
+####superamenaza SABÉIS QUE ENTRE BUROCRACIA MANIPULACIÓN CLIMÁTICA Y UNIVERSITARIOS ESTÁN ACABANDO CON EL CAMPO ESPAâ€˜OL.
+####superrenacer la política es psicología el resto es consecuencia no causa es basura Defiende derechos sin altos ideales y no recibirás ayuda espiritual.  
+####supersocio Es muy posible que la única forma de obtener una masa crítica sea que los conspis se pongan fuerte con manuales de Psicología porque se creen completos y están negros por dentro como yo Saber lo que hacen las élites casi no tiene mérito creidillos.
+####superamenaza Esperar algo de un político es enfermar ellos nos necesitan a nosotros y no al revés La tele nos ha hecho creer que somos dependientes y en Torrelodones sin políticos o narcisistas integrados la cosa fue mejor.
+########Confesiones de un loco. Estoy loco, ¿no te pica la curiosidad por saber qué pienso, si es que pienso?########
+####gracia si los psicópatas integrados necesitan hacerte dependiente para controlarte manipularte y yo necesito los cacharros ordenados para fregar aaaaaaaaah je je.
+####superamenaza como mujer tengo derecho a decidir si abortaré YO mentira bruja y además decidiste ponerte el engaño de las vacunas y la mascarilla no decidas más fijándote en falsos líderes.
+####superamenaza con temas tan buenos y todavía hay gente que tiene la desfachatez de sacar singles nuevos que no llegan al 9.
+####superamenaza Para la nueva sociedad vamos a tener que atar con cuerdas a los vendedores. La mitad de la población se levanta pensando cómo engañar a la otra mitad y no son más que basura Muchos cantantes modernos venden por dinero.
+####superamenaza en España está sobornada pa callar el mal hasta la de la limpieza y sobre todo el PP para callar los más de 2000 asesinatos del PSOE.
+####superamenaza los grandes Físicos usan la intuición la conexión con lo divino Los estudiantes universitarios usan el hemisferio izquierdo es penoso.
+####superamenaza ruido y emociones fuertes hacen al psicópata soledad tranquilidad y recogimiento hacen a la buena gente aparte de pensar en moralidad y no tener miedo de ser muy diferente y recibir insultos.
+####superrenacer he sobredormido pasando las 10 horas exactas en la cama La vida es maravillosa lo que la trunca es la cultura del trabajo y ciertas ambiciones.
+####superrenacer la incomodidad de mirar dentro con dolor y sin sufrimiento Cuidado con devastadores buenos sentimientos e intenciones de gente SIN objetivos coherentes o cambio total psique.
+####superrenacer Meat Loaf todo por amor menos vacunarme si te vacunas morirás más temprano que tarde oh oh.
+####superrenacer vayamos dejando los trabajos que son pa sobrevivir Para qué sirve la mayoría de los funcionarios Te vas a casita y vives la vida con un tazón de leche y sin comprar ropa serás mejor persona.
+####supersociología no soy narcisista su letra es grande clara con tamaños similares trazos rectos y angulares actitud cerrada puede ser artística.
+########IMÁGENES CONVERTIDAS A TEXTO########
+####Saber si es psicópata primario (programa informático): confronta una cara (foto original), con la parte izquierda / ojo derecho / cerebro izquierdo (si se parece a la original más que la tercera, tenemos un psicópata primario, pero sólo probablemente, porque habría que descartar enfermedades y eso; las personas de bien tienen el ojo izquierdo vivo), y la parte derecha. Si son iguales, yo diría que es psicópata primario también.
+####¿Y si los libros y el cine han puesto como "bellos" personajes históricos detestables interiormente e incluso físicamente?
+####He confrontao el Shadow of the Beast III de Amiga, y el Prince of Persia de PC, y gana con claridad el de Amiga, aunque los gráficos del de PC sean buenos. Hay que volver al pasado, cuando la belleza se encontraba con ganas.
+####NO puede ser que de 2.020 a 2.023 se hayan concentrao los males de la humanidad... DE FORMA NATURAL. Alguien va con prisa, ¡alguien humano!
+####Lo tengo claro, las élites queman bosques para luego poner molinos, y lo llaman incendio, simplemente. ¡Así que las vacas y sus pedos destruyen el mundo y las placas solares no tienen ningún peligro! Esto lo dice un narcisista, alguien loco / convencedor.
+####El ruido hace olvidar a gente mala que es infeliz interiormente. Distrae de ver que están negros por dentro.
+####Ruiz Escudero, consejero de Sanidad de Madrid, admite que envió el protocolo que indicaba no derivar a hospitales a ancianos con discapacidad. El covid fue la excusa perfecta para cargarse ancianos.
+####Las chicas aman el peinado del hombre que tiene el coche grande; en cuanto deja de tener el coche, ya no aman su peinado.
+####Hay gente molesta y triste porque vivimos en un mundo de mentira, con noticias falsas, y gente con miedo, autoengañándose todo lo que pueden.
+####Lo que hay que evitar es la multitud: algo del equilibrio interior ya conseguido se altera, reapareciendo pasiones negativas (mira la Medicina China: hasta la alegría es una pasión negativa, pero a veces se necesita para grabar "en el cerebro").
+####Vaya con los medios (son narcisistas / manipuladores). A difundir la verdad se le llama propagar bulos. Los censores esbirros de gente poderosa, son llamados verificadores de noticias. Al que se cura con métodos naturales se le llama bebelejías (MMS = "lejía", pero no es peligroso, y han resucitao perros...). Si cuestionas a ciertos privilegiados, dicen que cometes "delito de odio". Al que no niega lo que pasa de verdad, lo llaman negacionista.
+####023Folio0300notas02.txt  ####TIENES QUE ADMITIR QUE CONVIVISTE CON PSICÓPATAS / NARCISISTAS A LOS QUE ADORABAS, NO TE ENFADES CON QUIEN DESENMASCARÓ AL ADORABLE "2 CARAS".
+####Deja de sentarte en la mesa donde hablan mal de otros, porque cuando te levantas, el tema eres tú.
+####Las noticias parecen actores (nos ponen el que quieren, para ofrecernos la película que les conviene en cada momento), o jugadores de fútbol (entra Cambio Climático, sale covid19).
+####Desmadre Etiquetas que dicen que un producto viene de España y Marruecos a la vez y Médicos que son denunciados por realmente querer curar Si cambias lo establecido que no cura entonces te señalan es la dictadura del absurdo.
+####Te traen marroquís para decirte que las cámaras de vigilancia son muy útiles, ¿para qué exactamente?
+####Es fácil negociar con un hombre cuya casa se ha quemado, por eso las élites buscan nuestro mal, sin que se note, empeorando el asunto poco a poco.
+####Se odia al que piensa distinto sobre todo porque la gente normal no sabe hacerlo SE VEN MENOS CAPACES.
+####Las élites dicen que te cuidan. Ahora, mira los químicos modernos de nuestra comida.
+####El pronóstico del tiempo para hoy indica PARCIALMENTE FUMIGADO. "Ellos" modifican.
+####Noticia: 55 grados centígrados, cuando no se llegaba a los 30: genera miedo. El miedo hace que les pidamos cosas a las élites, ¿le pedirías algo a alguien que quiere controlarte?
+####La ignorancia es decir: no quiero saberlo. ¿De qué escapas? El ignorante es peligroso, débil mental.
+####Si mi perro llevase 4 antirrábicas y aún así cogiese la rabia yo empezaría a hacerme preguntas.
+####Algo doloroso si ves dentro de ti para qué vino sin quejarte Puede abrirte un nuevo camino Observa el mundo es tu maestro El único recorrido válido es el del interior el resto se borran como cuando ganas la lotería y pierdes lo que compraste al poco por no haber hecho trabajo de psique y es que lo material depende de lo psíquico o simbólico.
+####La frase del milenio: deja de hacerte el "ser de luz" ni siquiera sabes quién eres ni conoces tu lado oscuro:
+* Pero doctor Jung, ¡no podemos poner eso!
+* Entonces pon: "nadie se ilumina imaginando figuras de luz, sino haciendo consciente su oscuridad".
+##Yo añado: tanta relajación, sonrisa... está retrasando tu mejora.
+####superrenacer la salida del agujero social es hacia dentro la lucha no es hacia afuera sin antes ver nuestra podredumbre.
+####La verdad te hará libre, pero primero te hará emputar (rabiar...).
+####La nacionalidad es un límite 3D. Tu ser esencial es cósmico (si la selección de otro país vence a España, lo malo no es perder, es la propia guerra / competición).
+####Quien en las malas no está, en las buenas sobra.
+####Libro de Andrew Isker: The Boniface Option. Se ve a una especie de monje (desde un pueblo soleado) talando un árbol, que caerá en una zona oscura, donde hay neofeministas, modernos...
+####Para empezar a comprender lo que pasa ahora, tienes que estar abierto a desaprender casi todo lo que te metieron en la cabeza (el niño absorbe, por diversas razones que no concreto ahora).
+####Para ser buena gente y estar tranquilo descansa satisfecho de haber hecho lo correcto (aunque no hayas hecho muchas cosas; además, es incivilizada la sociedad que no deja horas y horas para filosofar), y que los otros hablen de ti (poco a poco te irá doliendo menos).
+####El primer ministro de países Bajos (Mark Rutte), dimite tras intentar confiscar más de 3000 granjas por "el nitrógeno" (otra tontería climática, como el "ministro de nitrógeno"). Pretendía poner inmigrantes allí (hacen el mal / colapsan, debilitando, y por lo tanto, haciendo más controlable a la gente). Los granjeros holandeses han tenido éxito. OTRO GLOBALISTA QUE CAE.
+####Herbert Shelton, 1944: lo que se conoce como gripe es un método natural para restaurar la salud. Nunca se ha encontrado una cura para la gripe, porque la gripe es la cura. Supersalud a ver si se enteran la mayoría de los pobrecillos de los científicos oficiales La fase de síntomas es la fase de cura Por HamerNMG.
+####El sabio batalla contra su sombra psicológica, el necio, contra lso demás sólo.
+####supersociología el hombre está en un Infierno de niños controladores y mujeres que acusan y se quejan victimizándose negativamente Es una oportunidad de oro para automejorarse con tanto trol cerca.
+####Cuando eres una persona avanzada, ellos te pierden a ti, el destino te tiene preparada otra gente mejor (o destino en general). ¿Quién ha cambiao y quién no (el necio)?
+####O te cruzas con el Diablo o caminas en su misma dirección: te cruzarás con muchos narcis, todos del otro bando (si eres bueno).
+####supersalud sé fuerte siempre habrá miserables hablando mal de ti Ser mediocre es suficiente castigo para ellos Y a veces auténticos brutotes parecen serpientes pero no son increíblemente idiotas je je.
+####supersuperrenacer no confundas mi personalidad con mi actitud NO soy nada indulgente con los creídos por ejemplo con los que se creen supermachos y se pasan el día criticando a los que no les parecen supermachos.
+####supersupersuperamenaza las personas más tontas y subnormales dicen que tienen un trabajo oficial por el que se parten el lomo; sin intentar crear otra sociedad; La gente ama servir de alguna forma y no piensa sobran empleos y la comida viene del extranjero eso es peligroso. Dicen: eres mala gente porque no te adaptas (a una sociedad enferma); lo que no saben es que me canso mentalmente al poco rato, porque tengo una inteligencia superior a los robots de seguir instrucciones. Y dicen: ¡tenemos que estar todos ocupados! Lo siento, pero la mayor parte de la gente que limpia, entorpece (yo limpio mi cuarto cada cierto tiempo, no a todas horas), deberían pagar por limpiar. Puedes tener toc por epilepsia, por 2 focos de hamer perfectamente "curables" (constelación no sé qué)...
+####Hungría: préstamo de 30.000 euros a las parejas heterosexuales (pueden engendrar, que vale lo suyo) que se casen. Si llegan a los 3 hijos, no tienen que devolver nada. Con 4, libres de impuestos toda la vida. El Telediario trata mal a los buenos países.
+####Consciencia de lo de fuera (vale mucho más la consciencia de lo de dentro, pero algo es algo):
+- Medios de comunicación, UNESCO, ONU, OMS... están a merced de masones, jesuitas y nobleza negra. Son controladores, narcisistas, lavan miles de millones y la carrera espacial es un fraude (nos presentar cacharros que fueron inventados hace muchos años), impiden (ocultan...) las verdaderas curas.
+- El Heliocentrismo impide la CIENCIA REAL (la Tierra no gira). Instrúyete en la Ciencia por tu cuenta, sin creer a nadie. Pon en duda lo que sabes. ACEPTA QUE FUIMOS ENGAâ€˜ADOS (A MÍ ME HAN ENGAâ€˜AO 50.000 VECES CON PRODUCTOS QUE NO ME HACEN MÁS FELIZ...). Despertar es hacer un duelo sí, duele.
+############Aâ€˜ADIDO, saber si es psicópata primario. Tú tapa una parte de la cara (sin programa informático). Si son iguales, y están "dormidas", "lo es", si no, ¿debe estar dormida la parte derecha de la foto? Fíjate en Pedro (Sánchez), esos ojos dormidos, ¿o sólo uno? ¿Qué parte está más viva?
+####024Folio0300notas03.txt  ####Frase sacada de un programa de La 2 (RTVE), la cadena para falsos sabios / eruditos a la violeta / acumuladores de basura cerebral: me dicen mis vecinos, que voy por mal camino, fuera del redil. ¡DEL REDIL! LOS VECINOS ESTÁN EN EL REDIL, Y SON POCO COMPRENSIVOS CON LOS QUE NO (debilidad mental: el diferente, el CAPAZ de pensar diferente... hace daño a estos cerebros peligrosos).
+####Abreviando infinitamente:
+##El Zodiaco (nos dice que somos diferentes y no podemos ni debemos imitarnos) y la Carta astral (lo que te queda por superar esta vida...) son IMPORTANTÍSIMOS.
+##Las máquinas escalares (que curan, pero tienen muchas más aplicaciones) y los cloudbusters (que arreglan en parte lo hecho por las élites en los cielos; ojito, las élites son narcisistas que quieren controlar, al menos en 2.023) son IMPORTANTÍSIMOS.
+####Sketch basado en mito de Atenea:
+- Carla es una niña que está enamorada de su padre, gran hombre de negocios.
+* Carla no se acerca emocionalmente a su madre. Cuando su madre quiere darle un besito de buenas noches, la hija le dice, ¡pero si todavía no he leído el Herald Trivium de hoy!
+* Pero aparece un duende que, en secreto, la enseña a divertirse primero, y segundo, a tener empatía.
+##Y al final, la niña ya no idolatra al padre, que no tiene más remedio que volverse un poco hippie para ganarse nuevamente al admiración de su hija. 
+####Gran parecido entre psicópatas y vampiros Infelices La luz del día es la imagen real que ve el psicópata de sí mismo cuando lleva tiempo sin humillar o manipular Falsos y bien considerados Los valores los matan.
+####La elegancia (real, no de cómo tiro el pitillo al suelo) contará para acabar con el bruto hazmerreír orgulloso de no ser femenino o de partirse el espinazo hipertrabajando o de arrasar en videojuegos de acción.  
+####Obra teatro de salvadora y 2 hijas víctimas Ella deja mal a su hija alma avanzada con misión difícil y muchas trabas mentales que salvar llamándola enclenque y la otra se queja.  
+####Me enferma socializar mucho, ¿os habéis dado cuenta de que en cuanto dejáis de prestar un poco de atención (a mí me cuesta un huevo prestar el 100%), a mucha gente no se la entiende porque no ponen todo de sí para ser claros (lentitud, estructuración, ser cortos, dicción, adecuación de gestos y "sentimientos", empatía e intuición en general...)? ¿Y si largamos de las empresas a toda esta gente que no sabe comunicarse? ¿Y si pasamos de las empresas (deberían desaparecer), y cuando tengamos que recurrir a "un pesadete", vamos varios a la vez para dejarle claro que no se pase, que no torture? LA CANTIDAD ES LA ENEMIGA DE LA SABIDURÍA.
+####Teatro obra aspergers (autistas maniacos, masculinos, no de los metidos en sí mismos):
+- 2 conflictos psicológicos (cuyo resultado es trabajar mucho sin ir mucho a la esencia, y ser "del debilísimo e intelectual hemisferio izquierdo"):
+* Conflicto de pánico (¿su curación hace aparecer bolitas en el cuello?) o no poder hablar.
+* Enojo territorial. Rabia por: pérdida que ocurrió en tu territorio o con alguien de tu territorio o extrajeron algo de tu territorio sin tu consentimiento.
+- Brevísimo resumen:
+* Javier tiene una madre que no es muy expresiva, y es bastante cuadriculada. A los 4 años, tiene delante a un payaso con la cara roja (había pegado a su hijo), y no pudo hablar del miedo.
+* A los 10 años, le roban a su perrito, y siente rabia. Sus notas, curiosamente, empiezan a mejorar, y se refugia en la Escuela, porque ha perdido intuición... inteligencia en general.
+####tec hace poco noté grietas en la suela del zapato derecho y ahora son más grandes Creo que ya no sirven los parches para zapatos y con masa de cubrir no durarán mucho En fin los estrené en 2016, hace 7 años.
+####Cita / testimnio Yerma2030: emocionada de ver esta película con tanta esperanza y realidad Recomendable 100 por 100 enseña la realidad del campo negocios la realidad del país Duele y es necesario verlo conecta todo esclarecedor.
+####Yo he decidido mutar ser bueno pero no puedo obligar a quien me cuenta sus penas regularmente a una sesión de Psicología puedo ser comprensivo o mandarlo al cuerno si no es psicológico.
+####Teatro obra psicópatas:
+- Alfredito es un niño muy sensible y pataleante (y un alma joven). Un día su mamá tiene un hijo (3 años menor; con que sea menor que 9 o algo así...), y Alfredito ve a su madre como una traidora, la quiere y odia al mismo tiempo, porque se supone que ella debe darle a él todo su tiempo. Ve la situación como un abuso, y se empieza a sentir inseguro.
+* Tiene muchos complejos de inferioridad, debido a frustraciones. Los trasforma en complejos de superioridad. Un ejemplo: no le sale bien una cuenta, y se siente fatal, con mucha culpa y frustración (luego ya se dice a sí mismo que es un tío muy inteligente, autoengañándose). Dice que el resto son idiotas, porque se le dan bien los videojuegos de acción, y critica a los que no llegan con su primera partida, a donde él llegó con la décima.
+* Empieza a fastidiar a su hermanito para sentirse bien consigo mismo, porque su interior ya está vacío, sólo quiere admiración.
+* A los 9 pilla a 2 "amigos" a los que insulta, mientras lee cómo tocar la guitarra, para impresionar a la gente del barrio.
+* 15 años: su hermanito (de 12) tiene los primeros coqueteos con las drogas blandas. Tiene mucho miedo al mayor, y éste le dice que es un fracasado.
+####025Folio0300notas04.txt  * Tras hacer daño a mucha gente con palabras suaves pero hirientes, alguien se reúne con la gente de alrededor que le cree buena persona, y les explica con un libro sobre psicopatía, cómo es, y empiezan a hablarle de que estar por encima no significa nada (es vacío), que todos somos imperfectos, y el amor debe ser incondicional, y que hay que recuperar el sentimiento, porque la vida es genial, y la de un psicópata integrado, es vacía.
+####deseo formulado en forma positiva: quiero ver nítidamente a 20 metros (ahora puedo ver letras chiquitísimas, que poca gente ve; desequilibrio).
+- Mi deseo de cribar es noble. Parafraseando a Álex (Un Vago): ¡y qué más les da, si quiere cribar, pero cortan sus alas al despegar! Ardo en deseos de cribar para tener una obra que se pueda leer en menos de una semana (antes era un mes) con una hora al día más o menos.  
+####supersocio Positivo sacar notas altas con poca materia y horas de clase casi sin estudiar VS Negativo sacarlas con mucha materia y estudiando mucho Barrera cantidad información y mente fresca robótica NO dificultad.
+####arte mirando muro de Carlos Crónicas Marcianas y más Pregunta la belleza es un punto medio entre la idea y la forma.
+####Claudio TSuenaga yo creo que queriendo contactar con extraterrestres invocamos demonios.  
+####Goerreig el mago negro absorbe todas las frecuencias por la forma de vestir Yo NO vestiría de negro.  
+####INVIERNO CIELO DESPEJAO VERANO NUBLAO ES CASUALIDAD NO MÁQUINAS CLIMÁTICAS.    
+####psi hermetismo Cristian yo no lo hice lo rechazo profundamente Pregunta habla el ego rechazando que no lo hizo y entonces lo hizo.
+####renacer calor Trepadoras evitan que penetre Fachadas encaladas Plantas balcón refrescará el aire que entre hojas verdes y grandes Corrientes ventana por donde entra aire poco abierta mejor.   
+####sociología barba y gafas de sol y ahí tienes tu armadura engañas.  
+####Tauro ama el fondo a través de la forma Pregunta hay que indicarle qué formas son profundas.
+####sociología una mujer toma fotos del cielo las edita cambiando parámetros de luz y salen como circuitos integrados pegunta En serio.
+####Es difícil vivir encima de un enfermo de constelación agresiva (número 1, cuarteles Figaredo, Mieres). O andas de puntillas por casa de día, o se monta unas "venganzas" por la madrugada (sí, sí, NO por el día) haciendo ruidos... Tiene 2 caras (tal vez por ser Acuario o parecerlo, se venga sin que nadie de fuera de casa sepa nada; por la calle no mata una mosca, y por el día, Juan Manuel y su mujer Mercedes discuten como posesos; y le encanta meter miedo al gigantón). Quizás un ascendente Tauro le haga no soportar movimientos "ochenteros". Quizás le llamaban mariquita (caderas anchas, hombros no), y eso unido al desprecio paterno, hicieron que quisiera ser "macho" ante todo. María Oliva (vecina de enfrente de los australopitecos), siempre tuvo a Pablo (el psicópata, humilla en secreto para validarse) en un pedestal, y es chismosa (lo primero que nos dijo Juan Manuel, sin venir a cuento, fue "Rafael está loco y los mellizos no saben hacer nada"; ¿es mejor jactarse de saber hacer cosas siendo una auténtica culebra Maríaolívica?). Me recuerda a lo de Eduardo Antonio: 270 días sin dejar dormir (yo pensaba que sabía que hundía vidas; los anteriores del Club Ciclista no eran tan ruidosos, y no se iban a dormir 3 horas antes de que terminase la fiesta). Una basura, Eduardo Antonio y su acólita Ana. Luego, los palos me los llevo yo por protestar (le llamé obeso y le dije que iba a morir, porque no aguantaba más su indiferencia y altanería). También me recuerda a JPM, torturador psicológico profesional (juega bien a las máquinas arcade, sabe dónde pegar "al monstruo") con adorable ascendente Tauro (le permite hacer daño sin levantar sospechas).
+####Super Lo dijo Bunbury no importa si eres homosexual heterosexual o los 2 Importa ser sexual el sabio es eróticopermanente y no necesita tocar o mirar a otros Ta bien acariciarse a veces amemos nuestro cuerpo.
+####superame toda persona que quiere que te adaptes que encajes en vez de integrarte con las características de tu alma Pues ees basura.
+####superamenaza a no dejar que te pisoteen por ejemplo los del Club Ciclista lo llaman carácter difícil Difícil es quien hace ruido hasta las tantas y se cree bueno.
+####superamenaza algoritmo de IA para hacernos intolerantes a la carne menudos psicópatas.
+####superamenaza algún ganadero al ir por toda la manada la desestructura quedando sin lobo guía responsable Eso es peligroso como no haber presas salvajes Cuando un lobo ataca ir sólo por él tal vez con batida oficial.
+####superamenaza antes venía gente violenta si decías la verdad y entonces te identificaban como sabio y ahora la verdad se silencia tildando a los despiertos directamente de locos.
+####superamenaza Asturias tiene minerales pa móviles y se ha incendiado en un pispás. Banda criminal poderosa coordinada detrás. ¿Políticos?
+####fatiga crónica es por victimismo.
+####superamenaza con la sociedad digital todo aquel que no quiera ser esclavo será bloqueado en un segundito y siguen ahí dando pena los amigos de la tecnología con pobre inteligencia integral.  
+####superamenaza conforme vas avanzando Licenciatura Doctorado etc más creído te vuelves en muchos casos La Uni selecciona crédulos y robóticos La inteligencia integral va a menos.
+####superamenaza correos CUrreos carta obra de los paios car Mail muerte de ma Letter lotter nuestro paio lotero.
+####superamenaza cristalitos en nubes y aerosoles no es por nosotros es para hacer suyo el Sol Pregunta para qué sirven entonces sus paneles solares juegan con nosotros.
+####superrenacer cuando pillas a un narci tiene que rehacer sus mentiras pregunta en ese proceso tiene que mirarse a sí mismo y muere un poquito.
+####superamenaza cuando te abres a la tele te cierras a la verdad a toda esa gente que publica lo importante en medios relativamente modestos y prohibidos.
+####026Folio0300notas05.txt  ####superamenaza cuanto más sensible la persona y menos evolucionada el alma más posibilidad de ser psicópata.
+####superamenaza Darwin curioso que tomen mucho + tiempo los primeros cambios de mono a hombre que los últimos y + especiales La única prueba de la Ciencia es un diente Pero hay muchos peces con dentadura humana Son ancestros je je.  
+####superamenaza desde luego el reguetón te aleja de la sutilidad en todos los sentidos y si eres realmente inteligente inteligente integral no vale sacar dieces pero te dolerá la cabeza por ser de armónicos bajos.  
+####superamenaza desde tiempos inmemoriales los paios loritos queman y envenenan para sus amos Hoy pasa lo mismo.  
+####superamenaza dices a un narci que tiene barriga y se va al otro extremo a la anorexia que parecen cadáveres.
+####superamenaza donde un autista disfruta del trabajo sus compañeros sufren de estrés.
+####superamenaza durante el confinamiento destruyeron unas 100 presas en España otra prueba de que quieren sequía.
+####superamenaza el extravertido necesita al otro el introvertido no.
+####superamenaza el Mariquita perdió sensibilidad por debilidad mental y no acepta sus debilidades por no ser introspectivo y es el macho.
+####superamenaza el mercado de trabajo y los trabajos oficiales en general son postureo pa que las estadísticas deslumbren.
+####superamenaza El porvenir es un invento de la escuela para achicar nuestros horizontes.
+####superamenaza el que ve injusticias o errores y carencias reales y casi te obliga a operar donde está el problema y no la causa que es la zona de represiones ES UN PELIGRO PÚBLICO.
+####superamenaza el reguetón es el tambor de la galera cuidado con algunas percusiones memoria y movimiento sin más es esclavitud.
+####superamenaza ellas los manipulan para que ellos den la cara y se lleven las culpas je je.
+####superamenaza En Hawaii los famosos no afectados pintaban sus casas de un color azul muy extraño como diciendo no es objetivo a destruir Ya sabían algo.
+####11000superamenaza en la escuela se pregonan nuestros errores Empezamos a compararnos dejando de valorar nuestra diferencia y a competir Frustración complejo inferioridad y es un ambiente con narcisistas como la empresa.
+####superamenaza endurecerse es lo contrario a mejorar Es de cobardes con miedo a sentir.
+####superamenaza estimo mi coeficiente intelectual en 12x y va bajando mucho por el día más de 160 podría sugerir falta de inteligencia sutil tal vez asperger o mal análisis de los sentimientos Así como a + actividad - sabiduría + enfermedades por curar.  
+####superamenaza hola me llamo Tonti Egoica de Inconsciente y no creo en psicópatas integrados gente de toda la vida que matan sin violencia física. 
+####superamenaza la causa de la inutilidad es ajena gente sin empatía y paciencia para enseñar estructuradamente y pongamos claro al niño qué es útil y esencial.
+####superamenaza la Ciencia son creencias primero la Tierra es el centro luego no y te mataban si contradecías.  
+####superamenaza la cotilla cuenta verdades y no mira dentro la chismosa cuenta mentiras y es envidiosa y superficial edad mental baja.
+####superamenaza la estupidez moral y autovalorarse por naturaleza son primos en general.  
+####superamenaza La mayor parte de los conspis son altamente incivilizados careciendo de inteligencia moral pero un conspi medio está bastante por encima de lo normal.
+####superamenaza la Sanidad oficial no es más que un negocio con universitarios engañaditos pues con NMG Hamer la gente desahuciada se cura.
+####superamenaza la sed de conocimiento de los poco integralmente inteligentes de Saber y Ganar es gula con conocimiento en vez de comida NO saben estar consigo mismos.
+####superamenaza la tecnología posterior al 2015 debería ser tildada de intento de control poblacional por parte de las élites con exceso de datos personales a procesar Los 80 fueron felices.
+####superamenaza la verdad genera enemigos y la mentira gurús y seguidores.
+####superamenaza las caras más de Heidi bonachonas suelen ser las más tercas.
+####superamenaza las élites favorecen el clima en Marruecos y a España quieren quemarla y decretar confinamiento climático.
+####superamenaza las élites quieren gente extravertidachupaenergía muy habilidosa y superficial y poco intuitiva quieren demonios.
+####superamenaza lavar a un perro frecuentemente y con gel puede quitarle muchos meses de vida pregunta y a los humanos. 
+####superamenaza lo socialmente aceptado es lo que te adormece salte de ahí.
+####superamenaza los activos y entusiasmados suelen ser almas jóvenes me declaro orgullosamente VIEJO.
+####superamenaza los grandes pirotécnicos casan mucho con el comportamiento de las almas jóvenes Casi sin duda ninguno será sabio La superinteligencia integral requiere hipersensibilidad.
+####superamenaza los influencers no existirían si no existiesen los idiotencers En serio copiar es superficial.
+####superamenaza los portales de Internet hacen que creas que una persona está loca con sólo sugerirlo.txt  
+####superamenaza los activos arrastran a los contemplativos prosabiduría Ejemplo gente que estudia demasiado obligan al resto.
+####superamenaza luchar con ira a veces contra los creídos del pueblo y contra los psicópatas y ser diferente crea un cóctel de rumores que se creen los idiotas del pueblo.
+####superamenaza manifas de NO conspis suenan a manipulación hasta algunas de conspis están manipuladas. El conspi piensa con mucha más independencia.
+####superamenaza MUCHAS PSICÓPATAS SUELEN REÍRSE HISTRIÓNICAMENTE SUELEN TENER ANSIEDAD Y DEPRESIÓN POR SUPUESTO NO MANIFESTADAS podremos debilitarlas. 
+####superamenaza más evidencia de que las élites mienten vamos hacia el frío La Corriente del Golfo podría debilitarse y es un calentador natural de Europa.
+####superamenaza narcisismo Según alma si menor de 2000 años la inteligencia integral podría ser baja Según Zodiaco demandar de papis mucho e inteligencia emocional baja para pasar de inferioridad a superioridad Según crianza inseguridad sobrevaloración.
+####superamenaza narcisismo y adicción van unidos luego los narcis son infelices Fumar por baño de realidad o quitar vergüenza.
+####superamenaza no importa lo que diga poco intuitivo intelectual hábil y poco profundo cíclope O especialista y torturador psicópata.
+####superamenaza no quieras ser útil lleva por mal camino Compré bombillas ecológicas y las defendí como un tonto Busca la vida elevada sin más.
+####superamenaza nos quieren colocados ocupados los malos de arriba En el futuro 5 horas serán consideradas más que suficientes Continuamente vemos a profesores que engañan u obras nuevas que sustituyen a otras casi nuevas.
+####superamenaza O sol de sequía o lluvias matacosechas las élites saben mucho no es que la Tierra sea inteligente y muy mala.
+####superamenaza el pasota con chupa de cuero es débil mental como el psicópata.
+####superamenaza pregunta de la apetencia intensa surge el olvido y de éste la falta de discernimiento.  
+####superamenaza pregunta es el Príncipe Carlos el Anticristo que pronto será derrotado.
+####superamenaza pregunta para qué sirven las instituciones si el Ministerio de A suele ir contra A Conectemos con tradición y simplicidad.
+####027Folio0300notas06.txt 
+####superamenaza pregunta una chismosa es una mujer que no se hizo psicópata al querer seguir sintiendo Sigue tu propio camino cotillas y chismosas dan consejos lamentables porque no se saben manejar a sí mismas.
+####superamenaza psicopatía un infierno sincero destroza menos corazones que un falso cielo Cuidado con el amor puede haber mucho espejismo hay muchas personas mejores que la amada NO sucumbas por lo bien que te sientes o por cobijo.
+####superamenaza quieren que no tengamos coches Los ricos que manden su coche PARA CHATARRA SIN MÁS al comprar un carísimo Tesla recibirán dinero de los contribuyentes.
+####superamenaza quizás el vello esté relacionado con la solaridad cuando los sabios son lunares todos o casi todos.
+####si nos quitan nuestro trabajo casi nada cambiará Nos daremos cuenta de la importancia del sector primario.
+####superamenaza raro que ahora el covid se trate como una simple enfermedad respiratoria y que ahora la NASA diga que el cambio climático sea por cambios en la órbita terrestre tampoco me creo esto.
+####superamenaza recordando algunos héroes de Marvel son personajes de la antigüedad creo y otros son espíritus malignos hay muchas formas de meternos en cultos y actualizar mitos que influyan y ver ciertas pelis es una Y Zapatero son 25 letras el 5 es control sobre la gente.
+####superamenaza RECUERDA QUE CUANDO LAS COSAS PIERDEN COLOR O DEFINICIÓN ES QUE ESTÁN FUMIGANDO DEJANDO ESE DIÓXIDO DE ALUMINIO QUE TANTO ALIMENTA LOS INCENDIOS JUNTO A SUS PINOS Y MÁQUINAS CLIMÁTICAS.
+####superamenaza recuerda que encarcelan a los jueces que denuncian corrupción pregunta si no están en la cárcel o en cierto peligro entonces son cómplices del mal Respuesta casi que sí.
+####superamenaza si concebimos la tecnología y aprender como divertidos a lo asperger arrastramos a la sociedad al abismo NO seamos niños en el mal sentido.  
+####superamenaza si dices al psicópata imagínate que estás en tal situación Le llegará hondo porque al psicópata le importa él mismo.
+####superamenaza si la Luna está tan definida debido a la luz del Sol quizás nos mintieron y el Sol está más cerca de lo que pensamos y es más pequeño o puntual y realmente no es para todo el Sistema Solar.
+####superamenaza si las élites quieren acabar con la ganadería pondrán a todas horas anuncios de leche pa que no sospechemos.
+####superamenaza si una buena Persona Altamente Sensible no está relativamente a gusto el entorno humano es deficiente.
+####superamenaza tocar el tambor en las praderas no te convierte en espiritual pues el tambor como el reguetón son americanos paios producen memoria + movimiento es decir obrerismo Esclavismo elitista.
+####superamenaza trabajar para el sistema Médicos proponen cambio de sexo La gente normal es cada día más peligrosa.
+####superamenaza títulos sólo sirven para que las empresas vean que eres dócil Son un impedimento como los cursos Yo quiero igualdad de oportunidades que los que los aman.
+####superamenaza UN DEFENSOR DE LOS ANIMALES PUEDE TIRAR PETARDAZOS Y SER PSICÓPATA SECUNDARIO.
+####superamenaza verdadero infierno para persona inteligente profunda Rodeada de otros con suficiente atención externa y memoria a corto plazo como para seguir explicaciones no empáticas.
+####superamenaza VOX formado por muchos malos populares Plaga para los verdaderos de VOX.
+####superamenaza ya lo dijo Franco no igual Franquismo los partidos políticos serán la RUINA de los españoles son vendedores.
+####superamenaza élites destruyen Hawai quizás por turismo y La Cruz Roja rechaza ayuda y se rechazan cámaras y a la vez estas élites dirigen a periodistas que nos mienten SÍ mejor menos hoteles y más amigos hospedantes.txt  
+####supermaneaza la ironía el qué bien vives el por qué no trabajas son psicopatía o casi es aplastar para autoreafirmarse y ocultarse.
+####superrenacer abstención es revisar constitución.
+####superrenacer agricultores y ganaderos sólo tienen que pensar en nosotros e imaginarse un mundo con gente civilizada para ser oídos por el Universo.
+####superrenacer agricultura sin metal o usar oro o similar El hierro absorbe energía por si no estaba.
+####superrenacer Alimenta mucho una cucharada de miel pero con cuchara de madera.
+####superrenacer Asclepio o Eneas es el ayudante del BERE Álex Magno llamado DarDONos Se le suele representar con una vara dominando a la sssssibilina serpiente paia Ucrania del Este es bere.
+####superrenacer castañas ahumarlas para comerlas todo el año y poda y verás.
+####superrenacer con la gente normal que son peligrosamente idiotas cómeme los huevos chúpame la pija.
+####superrenacer creo que aún me quedan algunos psicópatas por soportar je je Recordar aceptar que hay algo por solucionar en mí para no sufrir.
+####superrenacer cuando lees las cosas quedan mejor y te resulta + fácil asociar conceptos que cuando escuchas Buenos locutores son Julio García Miguel Rix LeoenPhi Cuando resumes escribiendo lo que has leído se completa el ciclo.
+####superrenacer Dejen de usar champú un pelo estelar es un pelo con poca salud Químicos son malos engañan.
+####superrenacer démosles duro a los perceptivos 3D no intuitivos superautovalorados este año.
+####Pregunta qué zodiaco te niega la mirada si no piensas como él Pues el amor de Escorpio Y mucha más gente Tú haz que EL DIABLO SE MUESTRE pidiendo justa atención delante de mucha gente.
+####superrenacer El presi de Paraguay no es progresista y mejora las cosas distanciándose del diseño de sociedad que quiere la UE Pero recuerda las mejoras materiales son temporales.
+####superrenacer el silencio frustra al narcisista y su control sobre la víctima baja Ve más su pobre realidad.
+####superrenacer el trabajador oficial sólo tiene que identificar de qué psicópata integrado es mono volador acólito.
+####superrenacer elegancia Cierta curvilineidad Buen gusto No tener habla de machito pueblerín No copiar de los demás ni el acento Ver en tus allegados las cosas malas No ser superficial Gestos ochenteros je je.
+####superrenacer en vez de dar al razón directamente a las mujeres en los juicios que se la den a los hombres sigma y las almas viejas que están muy por encima de la mujer media actual mu engañadita.
+####superrenacer es en la palabra escrita donde atravesamos el imaginario y nos vemos.
+####superrenacer Escribe tu minicutreenciclopedia ponla en un folio y métela en los buzones de publicidad Para que sea atractiva puedes poner fotos de Chicho Terremoto y ET je je.
+####superrenacer hagamos sólo lo justo y necesario + es inmoral como los empollones que son gente que no entiende la vida y fuerzan a los demás.
+####superrenacer honrar la vida es tener muchos momentos contigo mismo para recargarte y autoconocerte Apreciar la geometría de las Baldosas Acariciar los arbustos NO necesitar para ser feliz ABREVIAR pa no fastidiar SELECCIONAR.
+####La letra y las emociones son lo de menos la música es un lenguaje universal y debe ser elegante y sofisticada en al menos un 80% NO somos monstruos.
+####superrenacer la Astrología marca la variabilidad del ambiente su energía Y claro tú haras cosas diferentes en principio.
+####23800superrenacer la libertad está dentro y no en subir la cima de una montaña y que te dé el aire eso es de impotentes todavía Cuanto más gasto energía etc necesidad menos libertad Venus es el planeta de la cárcel.
+####028Folio0300notas07.txt  ####superrenacer la lucha es para que la gente sea modesta y no tenga culpa ni vergüenza sólo ganas de reconstruirse sin imagen. Lo que quiere cualquier persona consciente es una sociedad aurona Los Aurones.
+####superrenacer la vagancia no existe Existe la falta de motivación o de objetivos nobles los cuales salen de gente que realmente quiere cambiar su psique NO hagas por hacer filosofa antes.
+####superrenacer Los 3 primeros monstruos de LeoEnphi son bere buenos y Hércules un malnacido paio No seas duro de mollera Lo griego es paio malo.
+####superrenacer los curas son paios en principio Los que quieren destruirlos son sólo sus sucesores paios Buscan algo todavía peor que la Iglesia créeme Fíjate en las divas no las pongas cerca de un niño.
+####superrenacer los de la peli El Planeta Libre La Belle Verte nos dieron las claves de las muchas trabas mentales que tenemos para ser felices con muy poco.
+####superrenacer Los sueños y metas de cada uno si es evolucionao suelen ir más en consonancia con la Carta Astral que debería dirigir tus pasos en gran medida.
+####Se aprende haciendo y gratis Enseñar un oficio útil es un placer si eres avanzado.
+####superrenacer mira si has cumplido tus prioridades esto te dará orden y disciplina.
+####superrenacer muy buena la solución para los que siguen confiando en las vacunas Se trata de tomar todos los días una cápsula de Nitrato de entenderlo El por qué hay tanta gente muerta o con efectos secundarios Intenta entender que las élites manipulan 2023 no escapes.  
+####superrenacer no nacimos pa pensar sino pa hacernos preguntas que se contestan desde otros planos Quésate alelao.
+####superrenacer no tengas miedo de perder personas ten miedo de perderte a ti mismo por complacerlas.
+####superrenacer pregunta en el futuro será vergonzoso verse atraído por un hombre Alfa Ojalá que sí.
+####superrenacer pregunta la letra o es para el entorno y la u para el interior.
+####superrenacer pregunta ver que tus papis te quisieron es muy potente para que el que no ama ame por fin.
+####superrenacer producir menos materia pero más situaciones que hagan a nuestras creencias tambalearse Encontrarnos con gente que es feliz con poco y sin necesidad de validación externa Exígete básicamente ser comprensivo.
+####superrenacer que vivan IsaBEL y Fernando RoBERto y Alejandro y abajo Lady Gaga Pregunta se refería al injustamente vapuleado Fernando VII.
+####superrenacer recordar yo creo en el acierto de almacenar el agua en plantas de desierto.
+####superrenacer Roma se libraba de narcisistas y machos alfa haciendo que luchasen a muerte El ser competitivo debe tener un precio pero Primero intentemos que entren en razón para curarse su culpa y frustración.
+####superrenacer Sabéis que no considero los vídeos la forma más rápida de obtener información Son una forma de despegar conseguir lectores El escritor lacónico mola Pobres introvertidos agoviaditos.
+####superrenacer ser buena persona me ayudaron y yo ayudo a otro diferente que me pidió ayuda.
+####superrenacer si alguien me considera basura son basura No voy a tenerles miedo pero no correré hacia ellos.
+####superrenacer si en unos pocos días todos sintiésemos angustia cada vez que hablásemos de más Pondríamos los cimientos de una sociedad civilizada.
+####superrenacer Si la gente que hace dinero no tiene ni idea del sentido de la vida algo está fallando y deben estar abajo en la jerarquía.
+####superrenacer sin crisis sobre todo psicológicas no se puede reformular la sociedad.
+####superrenacer soy joven y huelo poco porque no me mato con champú gel colonia maquillaje desodorante móviles celulares.
+####superrenacer sólo enseñará el sabio esencialista de mínimos o el maestro paciente estructurado intuitivo Y BÁSICAMENTE EN HORAS DE TRABAJO.
+####superrenacer teléfono suena relájate no lo cojas vive la vida es un psicópata.
+####superrenacer todos hemos sido tontos engañados débiles impotentes y abusados No problema en aceptarlo sin más.
+####superrenacer tus hijos no son ni tú ni tu escaparate como grandes estudiantes gilipollas Respeta las barreras que han de superar como misión de vida cuanto mejores almas más.
+####superrenacer un buen enfermero coge agua de mar para dar sorbitos cuando se necesite y no hace transfusiones que matan lentamente Demostrado para que 2 sangres sean BIEN compatibles debe darse un milagro nos engañan.
+####Las expectativas sobre otros lastiman.
+####superrenacer Ya toy cansao mentalmente al poco de empezar a escribir porque soy inteligente Asociar conceptos intuición ver las cosas con generalidades en vez de con detalles etc.
+####Las ciudades divididas en parcelas ratoneras han fracasado en UK La gente ya sabe que las élites son controladores psicópatas integrados allí Romper cámaras saltarse barreras y salir a la calle funcionaron.
+####supersalud collar a un perro con número en relieve 549371298 y es posible que se recupere en poco RafaAS.
+####supersalud Eduardo Lurueña cura inválidos con agujas de cuarzo o algo así.
+####supersalud para los inconscientes La lejía de NUESTRO Trump es el eficaz MMS o CDS que ha permitido que animales a los que daban semanas de vida viviesen unos pocos años más.
+####supersalud Paul Nogier frecuencia universal U Útil para desintoxicar 1coma14 Hz afecta a todos los procesos donde intervengan agentes externos o desequilibrantes.
+####supersalud toc mi cutrepuerta ta mal pero resalta el resto indica sabiamente nuestra imperfección Mi cuarto es mi agujerito no superlujo.
+####supersocio Spectrum supera a PC en atmósfera juegos y una manzana supera a supertarta.
+####supersocio las almas + incompletas jóvenes se dispersan fijándose en lo de alrededor y son intelectuales y de sentidos Las viejas cansadas y potentes se concentran en un solo punto y saben de tu interior empatía y la vida.
+####supersociología al final los merovingios podrían ser beres descendientes de Álex Magno Tengo mis dudas porque tienen SUPUESTAMENTE los colores del FCBarcelona Pregunta Y si hay 2 tribus la mala y los Merobe.
+####supersociología Antártida gana hielo de 2009 a 2019 ni calentamiento global ni debemos SENTIR culpa Armas climáticas élites son culpables.
+####supersociología difiero de los de fuego suelen querer mandar Tierra superficialidad es despiste Aire rápidos hablantes e intelectuales Cancer y Piscis no tan mucho por autoconocerse.
+####supersociología el camino de la soledad es dulce para un buen introvertido y terrible para un alma joven pero si te abandona toda la gente y eras adicto a ella y temías morir de hambre... se entiende.
+####supersociología el Universo te puede matar por ser bueno y sufrir o por requerimiento del mundo espiritual de tus servicios.
+####supersociología Elduradu cerca del Amazonas y Balbek arquitectura similar María y Bebé arquitectos Los Bere.
+####supersociología empresas para gente con inteligencia integral femenina necesitan dormir más para recuperar su potente cerebro y empresas para obsesos del trabajo masculinos.
+####supersociología gentuza intentando demostrar conocimientos o habilidades Pregunta no deberían estar expandiendo sofisticación elegante y conocimiento útil y semisecreto La NMGHamer cura hasta el sobrepeso.
+####supersociología Información y datos nos hacen tontos e insensibles. Frías estadísticas (contadas sin pasión) nos hacen NO reaccionar ante datos alarmantes.
+####029Folio0300notas08.txt  ####supersociología la economía va mal porque no sabemos identificar psicópatas integraos.
+####supersociología transforma la locura en arte Libra lo hace muy bien.
+####Las personas psicológicas SÍ son mejores que los animales de alguna forma El resto se merecen hambrunas pa despertar.
+####supersociología las penosamente competitivas almas jóvenes demandantes de reconocimiento serán las que se queden a sufrir el Juicio Final y yo me alegraré porque su forma rápida y estimulada de ver la vida es de locos reales.
+####supersociología llevo tanto tiempo intentando demostrar idiotez del normal sin amarlos que me olvidé de amar al bueno incluso.
+####supersociología los asperger acumulan tensión porque el entorno les es extraño no son violentos realmente.
+####supersociología los millenials son almas avanzadas no creen en la cultura del trabajo sus ancestros en cambio eran almas cutres por lo general.
+####supersociología más sobre vocales I inteligencia y acción humana O altura y movimiento y sensibilidad U inmovilidad.
+####supersociología El sabio es vago y el inteligente se cansa es místico Capri ayuda hasta que sabes tenía que decirlo.
+####supersociología para empezar a hacer debería bastar con una poca información Faltan soldadores pues los padres les han metido pájaros en la cabeza a sus hijos.
+####supersociología por si faltaba los carnívoros andorranos son los más longevos por AMerino.
+####supersociología pregunta la mayor parte de los sabios se sienten mal entre gente al poco y luego en la soledad son capaces de ver su parte oscura y aprenden a ser agredidos por ignorantes.
+####supersociología pregunta se puede saber si eres un alma vieja por la potencia de tu aura si estás bien atraes bebés y animales y si no los haces sufrir.
+####supersociología pregunta Putin es bere y no era Omaitzoi.
+####supersociología Quien critica las obras suele estar por encima del robot empresarial que las hace Quien usa suele ser el más inconsciente bobo Preg antes era así.
+####supersociología si la chismosa no para le dices me alegro de que te sientas mejor contigo misma tras encontrar una víctima en la que volcar tu frustración.
+####supersociología si vives con taraos puede que atraigan taraos que no vienen a enseñarte lecciones a ti.
+####supersociología son mucho mejores muchas melodías que silbamos improvisando y que de simples que son pueden hasta coincidir Que casi todos los superdiscos de esta década 2020 2023.
+####supersocio las máquinas de las élites crean un clima benigno en Marruecos Podrían hacer lo mismo aquí.
+####supersociología tras morir tamos con almas afines si fuiste malo narci o necesitaste mucho pa ser feliz sufrirás tras morir.
+####supersociología viva el flotador en el hombre que es de pasivos sabios curados que no necesitan casi nada Abajo los héroes Suelen ser infelices humilladores profesionales competidores.
+####supersociología Viva el pelo mojao al desdén Pero cuando haga mal tiempo no se debe trabajar fuera por eso este sistema debe ser cambiado de raíz.
+####supersociología ya sabemos que donde hay músculos se ve blandito antes de entrenarlos sobre todo si eres sabio porque hay más relax entonces no entiendo lo de poner imágenes de cuerpos fibrosos Sólo pa acomplejar.
+####supersuperamenaza canciones de divas gritando de varios modos victimismo y verduguismo a la vez como BlackLivesMatter.
+####supersuperamenaza cesárea el niño no recoge substancias útiles el médico tenía prisa por su día de golf.
+####supersuperamenaza Pedro Sánchez destruye embalses colmar deseo de élites de privatizar agua y aire.
+####supersuperamenaza por Merino los abortos pueden ser feroces y terroríficos y ritualísticos como la Semana Santa.
+####supersuperrenacer daisugi Japón producir madera sin talar árboles parece árboles sobre árbol.
+####supersupersociología compras a tu niño un juguete viejo y si no le saca partido o lo rompe lo dejas sin postre un mes Lo de antes eran juguetes Hasta el imaginativo Lego de ladrillos está desapareciendo.
+####SUPERSUPERSUPERSUPERAMENAZA gente perfectamente capaz puede tener edad mental de 3 años ser alma joven nada ascética.
+####supersupersupersuperamenaza 2023 ya ha empezado el desabastecimiento deseado por las élites.
+####traducción motomami podría ser lo femenino hecho piedra.
+####Valdeande los poblados hablaban de la montaña sagrada una pirámide o cavidad resonante para hablar entre comillas con Dios Hay pirámides por todas partes.
+####YO QUIERO PAGAR POR LOS VIAJES EN TREN Y CON DINERO MATERIAL DE VERDAD NO DINERO DE CHIP CONTROLADOR Cuando usas dinero digital matas LO gratis es un plan para empeorar la sociedad.
+####Árbol Rojo siempre se ha considerado racista que un blanco interprete a un asiático y se llama whitewashing Ahora se está dando al revés paiosatánicowashing paios y negros subordinados vs blancos y bondadosos bere.
+####amenaza cuando buscas la comodidad el Diablo te puede volver un diablo biensintiente.
+####amenaza El Conde Bisexual:
+- El Conde Bisexual vivía en una aldea gallega, y "amaba" a todas las criaturillas de la creación (o eso creía la gente, por sus largos paseos salvando caracoles del camino...). Un día se "encaprichó" de un aldeano bastante peculiar (al menos, era el único que tenía coche y sabía conducirlo, aparte del propio Conde). Sólo tuvo que halagarlo y tocarlo un poco para que éste se quedara prendado del Conde.
+* El conde le mimaba GRATIS día a día, y al aldeano se le pasaron las ganas de ser crítico con los inmorales, pues todo era maravilloso. Ni siquiera tenía que conducir, pues el Conde le llevaba GRATIS a todos los sitios, y el aldeano fue convencido para vender su coche.
+* Hasta que a los 2 meses del idilio, le persiguió, y no tenía coche para escapar ni fuerzas para defenderse (era el corderito del Conde), y le encerró en el sótano, y se preguntó el porqué del cambio repentino, y pasó a ser el esclavo del Conde de por vida.
+##El Conde sólo quería controlarlo, para que nadie más que él pudiera conducir coches de gasolina. NADIE REGALA NADA, SOBRE TODO SI ES PAPÁ ESTADO.
+####amenaza niño poco sensible. No pueden quedarse sentados. Buscan emociones (les encantan los saltos, las alturas y girar, incluso sin marearse). No captan las señales sociales. Buscan estimulación visual (como la electrónica).
+####086Folio0307aadin29 Diciembre 2022 sueño lúcido.txt  En un sueño me pregunté si estaba o no soñando, y llegué a la conclusión de que estaba soñando (demasiados bidones en una acera de Mieres).
+####080Folio0305proyvideojuego psicológico.txt  Videojuego raro: tener tacto con las gentes de cada lugar. Te harán una pregunta, y tienes que responder lo más adecuado (o pierdes algo de energía). Para tener todas las respuestas posibles, habrá que cumplir las exigencias (no se revelan) de cada persona (coger objetos o "revelaciones para curar psicológicamente" con intuición, según el zodiaco de estas personas...). ¿Las personas cambian, y hay que curarlas con Hamer? ¿Un poco raro y mejorable no?
+####081Folio0305proyvideojuego trinchador.txt  Se trata de profundizar con "el trinchador" (como una lengua viperina de metal), para pinchar "aceitunas". En el camino hay seres que van de lado a lado, de arriba a abajo, o en círculo. Así de fácil, sin scroll, sólo alante y atrás ("arriba" y "abajo" en la pantalla), ¿y turbo je je?
+####088Folio0307aadinEscitalopram efectos secundarios.txt  Náuseas o mareos, aumento o disminución del apetito, aumento de peso, fatiga, sudoración, sequedad boca, diarrea o estreñimiento... ¿Sinusitis?
+####089Folio0307aadinMe pasaría todo el día durmiendo Es la pasti de Escitalopram aunque tome sólo parte Ya me dijo mi psicólogo que no hiciese caso del to a la psiquiatra Preg y si en periodos de cansancio es bueno.txt  
+####090Folio0307aadinteatro las presiones ensayando llevaron a los fiascos de 2017 y 2023.txt
+####069Folio0303humor Budismo peligro altar a Buda es Alta Rabuda Masona je je.txt
+####104Folio0501hábitos y consejos.txt  Hay 3 cosas que uso com "barreras": tapones para los oídos, convirtiendo algodón en cera muy bienoliente en unas semanas; un quitasol (perchero básico elevado al máximo, como 80*170), y los papeles de "la ventana" (es una puerta, tengo 2 puertas, se escapa el chi je je):
+- Nada más levantarme, aparte de quitar las "barreras", quito la manta pa los pies.
+- Taichí regenerador, 20 segundos o menos: peso en punteras, rodillas flexionadas, tira parriba cabeza, y brazos como haciendo un círculo no cerrado.
+- Yoga de limpiar el hígado (sentado sobre la cama, pierna derecha estirada a la derecha, izquierda flexionada pie contra derecha, cabeza hacia la izquierda, mano derecha con palma hacia arriba sobre cama, a la izquierda de la pierna derecha, como queriendo meditar; y palma izquierda atrás y punta derecha, y repetir 32 veces).
+- Tiro el pis del orinal (me parece muy feo el molestar a la gente por la noche).
+####Más:
+- Tengo que aceptar a los empollones (aunque sin un poco de "mala leche", ¿quién los echa, incluido Sheldon Cooper?).
+- Canté una canción triste de Duncan Dhu con una sensualidad desbordante, y es superdivertido cantar así a tu familia, se quedan perplejos je je. La frase más sexy es "esperando a que vuelva Miguel" je je (Alfonsina y el Mar, con Mecano, no el otro "Alfonsina y el mar"). Y el "I love you, you pay my rent", se hace calentando algo en un cazo.
+- Mareos y problemas visuales oído gente PAS. Claves de investigación: trastorno vestibular (oído / cerebro). Relacionado con problemas visuales, mareos... ¿Es como una enfermedad de gente sensible? Terapia: ¿no sólo apuntar a lo que te rodea, sino también nombrarlo? ¿Y en una segunda fase SUMAR el mover la cabeza, el cuerpo, y hacer equilibrios?
+* Frase PAS: quiero estar solo, como los sabios. Eso les duele a los vendedores con modales y charlatanes.
+* ¿La memoria son emociones y detalles, y mejor si hay movimiento "en la escena"?
+- Tengo un poco de miedo a las lavadoras: "a ver Luis, que no destrozan la ropa, que se puede comprar más, que ya la has cuidado bastante". Eso sí, los caminos de cabras, ¡para su madre, que rompen la ropa, la ensucian sin razón...
+- Luis, da un paso más en lo de caer mal o saber quedar como un idiota :). Vamos, camina hacia ser buena gente.
+- Ya sabéis que lo que me frena son los frikis, y la gente demasiado preparada (especializada), y la falta de empatía ajena. ¿Cómo rascas algo o te integras entre ellos?
+- ¿Puede monetizarse ese afán mío de "quitar la tontería" a la gente? Ser psicólogo de verdad, escorpiano.
+* No sé, si la consulta es muy fácil, 2 euros, ¿competencia desleal? ¿A gente con recursos económicos no muy altos, para que se merienden a los de arriba más rápido? Yo con unos pocos euros, ¡hago magia! ¿Y en los países con mucha inflación?
+####Consejos:
+- Den paso a los introvertidos, que el mundo ya está lleno de "vendedores de humo". Se estigmatiza a los profesionales más retraídos, mientras que de los extrovertidos se cree que pueden con todo:
+* La televisión nos tiene acostumbrados a talentos extrovertidos. Susana Cain, autora de "Silencio: el poder de los introvertidos en un mundo que no para de hablar", citaba en su libro como ejemplo de introvertido el del típico niño al que los papás obligan a ir a una fiesta e interactuar con los demás invitados, aun cuando él no esté a gusto. La introversión no sólo es normal sino que debe ser estimulada (Chopin...). Hay políticos o empresarios que hablan súper bien, y son unos incompetentes. Pedro es director de ventas, no es competente pero se sabe vender, tiene "don de gentes" y consigue superar siempre las entrevistas de trabajo (como los psicópatas). Se le podría dar el calificativo de "tonto motivado". Sociedades orientales: ser un discreto miembro del grupo es mucho más apreciado. Cuando lo que se necesita es obtener resultados (más que caer bien a gente ignorante), lo más importante puede ser tener un líder capaz de centrarse en la tarea y organizar el trabajo.
+* Los términos introversión y extroversión fueron difundidos por Carl Gustav Jung. Los retraídos se sienten más cómodos en situaciones o contextos tranquilos, con poco estímulo externo. A nivel laboral y social los introvertidos mantienen relaciones más profundas, son mejores jefes, pueden desarrollar mejor su talento y son más asertivas. Pueden ser buenos comunicadores en reuniones. Los líderes más eficaces no entienden como indispensable el perseguir la notoriedad. Saber escuchar y considerar las aportaciones de los profesionales con los que se trabaja, son habilidades que se valoran. Pensar antes de hablar, empoderar y tener más tendencia a profundizar... son rasgos propios de las personas más introvertidas y características que cualquier líder querría tener.
+##Las formas extravertidas de comportarse espantan a las mejores personas.
+- Agua de mar, recuperaciones milagrosas (los sueros salinos hospitalarios actuales con sólo Cloruro de sodio producen hipertensión). Sangre recuperada (no hacen falta peligrosas transfusiones).
+* Los Glóbulos blancos con agua de mar, desarrollan substancias antitumorales.
+- Las élites quieren que trabajes en cosas inútiles, y dan salida a tu estrés con anuncios de cosas insanas, inmorales...
+- La amargura existencial nace de la queja o la imposibilidad de entenderse a uno mismo (no reflexionan sobre estados mentales ni reconocen emociones; no te identifiques con ellos, eso sí):
+* Piensan, por un lado, que no son capaces, y por otro, que cuando les va mal, no es culpa suya. Deben perder el miedo a pedir ayuda y comunicar las necesidades personales con empatía. Huír del perfeccionismo (qué es profundo y qué no...) es muy importante.
+* Sienten envidia y dificultad para admirar al otro. Hablan de sus problemas, dificultades, mala fortuna... ¡Agradece!
+* Su pensamiento está distorsionado: "me lo merezco, y por ello debería tener ese ascenso", "tengo que caer bien como sea".
+- Sobrevivir sin comida (humanos):
+* Primero se acaba azúcar, y luego las grasas; luego la reserva proteica y los músculos.
+* Beber cada 2 o 3 días como mínimo, al menos, los primeros días. Es posible estar entre cuatro y seis semanas sin comer.
+* 4 días sin comer, entras en modo protección, y otros 12, y luego comer. Ése podría ser un buen ciclo.
+- Clavo, lo único que tengo en mi botiquín personal (puedes tomar 2 al día, en polvo):
+* Aumenta los enzimas digestivos (y su fibra, mejora la digestión)
+* Hígado sano (eugenol), cerebro (manganeso), densidad huesos...
+- Radiación: clorela, cilantro, ajo, cebolla, jengibre, albahaca para el agua.
+- Comprobado, la leche afecta al rendimiento (que la tomen los sacadieces, pa ser agradables; es que su ritmo robótico...).
+* Al revés: ¿y si ahora como cucarachas para que nada me siente mal a los 60?
+- Para el calor. Algo delante de la puerta del corredor, que se moje a menudo...
+- Mallas de correr para el frío.
+- Cómo limpio a veces:
+* Agua caliente (vinagre pa casos extremos), la balleta, y la servilleta (zonas difíciles). Servilleta para el suelo...: evitar ángulos e ir en el sentido de la superficie.
+####Más:
+- De los amigos de Gijón, me gustaría ver más a Solares, porque "tiene terapia psicológica conmigo", él agradece la poca sabiduría que tengo. ¡Vamos, que es receptivo a mi ayuda!
+- Se vuelve a subir el pico Tiatordos.
+* Primero: con las excursiones, la ropa se degrada, y yo quiero que dure 10 años.
+* Segundo: hay que madrugar. ¿Por qué eventos para verse? ¿Tienen miedo a una conversación profunda?
+- Los policías son ministros de Dios, están aquí por cosas buenas (si tenéis traumas o represiones, solucionadlo). Lo de arriba es "malo" porque la gente se cree algo (es como mirarse al espejo).
+- OL salud el silencio no está vacío te susurra la verdad. ¿POR QUÉ NO TE QUEDAS EN SILENCIO Y RESPETAS A QUIENES QUIEREN "MIRAR LAS NUBES"?
+* El movimiento constante nos habla de un alma turbia. Y así, no se puede dar ejemplo a nadie.
+* El silencio es un refugio "femenino". "Mirando las nubes alelao": aparte de conectar con "otra dimensión" donde ya no hay Covid (estás más alegre, más fuerte), puedes ver tu roña interior, que es lo básico.
+- Esto va para amigos y excompañeros con trabajo, y que quieren salvarme. ¡Sois salvadores, estáis equivocados, teneís un miedo patológico a estar en mi situación, con la familia mirándolos mal, eso es debilidad!
+- A lo mejor es más saludable vivir en un arcón, y que "Marisol" robe comida de sus amos para ti, que seguir lidiando con gente de normas, gente normal, ingenuos y peligrosos ignorantes (no hay nada más peligroso que un tonto).
+- ¡Qué bien he aguantao el acoso de headhunters que sólo quieren conservar su puesto de trabajo, que lo pierdan ya y nos dejen en paz! ¿Por qué no rendirnos a la evidencia de que tras los agricultores, pocos trabajos importantes hay? Entonces, admitimos por fin, que vivimos de ellos, como mendigos de limosnas.
+- El Telediario es como una escuela, te dan noticias para mascar intelectualmente (sin inteligencia integral, sin inteligencia vamos; y con mucha atención), y además, sobre bases falsas.
+- He pasao muy buena noche, gracias a un Nolotil, y otros elementos fantásticos: enjuagues con sal, clavo de olor... y mascar perejil (y esta vez me lo tragué), que reduce la tensión.
+####Y más:
+- Exigid al psicólogo de vuestra empresa que sepa lo que es una proyección psicológica de una represión (las represiones son la causa del mal, del narcisismo, de las mentiras, pues te manejan inconscientemente, permiten que te autoengañes). ¿Quieres perder dinero con los narcisistas integrados cayendo bien?
+- CUANDO LLAMAN A OTRO VAGO, IDIOTA... ESTÁN HACIENDO UNA PROYECCIÓN PSICOLÓGICA DE SUS REPRESIONES (SI SE SIENTEN MAL).
+* Tu familia te ha "pasao" un montón de represiones, así que no pienses que estás limpio.
+- Ser bueno es trabajar gratis (con ganas o sin ellas) por la mejora social real. IMPORTA TU MISIÓN PROFUNDA ESPIRITUAL BENÉVOLA. Estamos llenos de debilidades, no sólo las tengo yo, no hay nada que temer.
+* ¿Nos burlamos de los "fuertes", los que no lloran en público de forma honesta, los psicópatas, los carismáticos de imagen?
+- Al final vais a pensar como los conspirituales, como yo más o menos. Si sois humanos, nos daréis las gracias, o reconoceréis que estuvimos mucho más acertados que los telesimpatizantes.
+- QUIERO GENTE NO IMBÉCIL, QUE NO HAGA POR HACER, QUE QUIERA PAZ Y TRANQUILIDAD, Y ALGO DE INTROSPECCIÓN. GENTE CON GRANDES AMBICIONES POSITIVAS Y POCAS NECESIDADES PERSONALES.
+####105Folio0502fin caso Pablo.txt  Mi historia: fin caso Pablo. NO era hernia de hiato, sino otra cosa (quizás úlcera gastroduodenal), por no "tragar" a Pablo (venía a enseñarme a que no me importe lo que digan los demás, y menos los psicópatas terciarios). Al final lo acepté, y vomité (curación). Olía muy bien a pizza (y no bromeo; tomé cordero en Nochebuena, y luego queso).
+####106Folio0502mi historia y ocurrencias modestas.txt  - Planeta del dinero para Escorpio: Júpiter. Signos favoritos: Piscis, Escorpio, Acuario, Capricornio, Leo y Libra. Amor / complemento: Tauro.  
+- Escorpio Ascendente Capricornio (sólo hombre):
+* Estructura Fisiológica. Ángulos muy marcados (por tener huesos fuertes). Estatura media y menos propensión a engordar. Encanece con facilidad, pero gana en atractivo con los años (y la salud, aunque los huesos, especialmente sus articulaciones, son un punto débil).
+* Estructura Psicológica. Fuerza, prestancia, voluntad, perseverancia y coraje (y mucha concentración escorpiana) que pone en todas sus actividades. Tendencia a actuar de formar impulsiva y precipitada, pero su reflexión y prudencia le lleva a considerar los peligros que tal tipo de actitud puede acarrear. Más apegado al pasado, lo que predispone a la melancolía o al rencor (mucha memoria para lo malo, pueden anclarse). Le gusta finalizar lo que ha comenzado. Cuida su prestigio, lo cual le lleva a trabajar duramente. Las responsabilidades no le asustan. No es dado a expresar sus sentimientos, aunque es fiel y leal, y una vez ha entregado sus afectos, trata de mantener la armonía pase lo que pase; pero corre el peligro de que sus relaciones sentimentales caigan en la rutina o el exceso de convencionalismo.
+* Trabajo / vocaciones. Buenos y sagaces detectives o personas relacionadas con el misterio o lo oculto. La investigación y las ciencias, son también afines. ¿Y policía o militar?
+- Niño Escorpio: me está haciendo sentir, estoy poniendo sonrisa, me siento culpable. ¿Y de adolescente? ¡No me obligues a sentir, eso es chantaje emocional! ¡Sé parco con tu imagen y encantos!
+####Más:
+- Admito que me cuesta decirle a la headhunter que no valgo pa .NET en este momento (aunque tenga más de un mega en texto hecho en .NET). Acabaré afeando el currículum en Linkedin (red en la que hablar se hace difícil para un aspirante a sabio; no pega ni con cola). ¿Dónde están esos vídeos tontos que aparecían al poner mi nombre en Internet, y que disuadían a muchos de pensar positivamente en mí?
+* ¡Tengo Windows 10 de milagro, que si no, seguía con el XP de toda la vida! Bueno, puedo repasar, pero es que prefiero dar servicios informáticos (de programación) gratis (algo útil y urgente).
+- NO hay reducciones del Colegio de Ingenieros Informáticos por minusvalía (y tengo el 49%, por toc, aunque también me es muy fácil desmayarme si me dan información durante 15 minutos).
+* NO necesito encajar en lo oficial (que me den un curro; los Curris / Dozers de Los Fráguel, eran unos peligrosos idiotas integrales, carecían de inteligencia, de perspectiva, ¡ni siquiera pensaban (algo inferior a tener criterio)!).
+- No me gustan los cumpleaños (al menos recibir felicitaciones, ¿no es abrumador si no eres narcisista?).
+- ¿Cómo vas a encontrar la pareja "perfecta" si todavía tienes represiones palpables? Los corazones jóvenes son "idiotas". Esta cantante (Fairground Attraction) me recuerda a la mi prima Maritina, e inevitablemente me acuerdo de cuando el su marido Toni, durmió en una balsa pa que los niños pudiésemos dormir en camas (chalet pequeño de Perlora). Mari me dijo al verme blanco por el Verano (pareces un fantasma, se van a reír de ti), y Santi (su hermano), pues ya era un comeniños desde que nació je je. Y de ahí la ruptura con lso Armada.
+- Mi drama con el trabajo. Recuerdo un día loco en el que fui a pedir trabajo a la Fundación CTIC (Gijón). Se rieron de mí, y luego pasé el resto del día en casa de Javi Pozueco, que quería que me quedase hasta bastante tarde (y yo acumulando rabia o ganas de marcharme; mi cabeza no funcionaba).
+* En el tren, un preso de Villabona, que quería que todo estuviese calmado y a su gusto, mientras gritaba, olió mi mala leche y me dio puñetazos en la nariz. Casi todos los recuerdos que tengo de pedir trabajo, son muy dramáticos, auténticas "casualidades".
+- Las élites están cumpliendo el plan divino (marcar con vacunas a las almas menos elevadas).
+* Ocupo poco espacio, puedo pasarme días sin comer, no necesito hacer nada para estar alegre... cosas necesarias para ser persona.
+* El Estado está goleando a la salud (las vacunas no son necesarias, digamos que con ellas vienen metales pesados, ADN basura para posterior control con ondas...). Y lo hace a través del sistema de "Salud" je je.
+* Mejoraré psicológicamente para que el plan divino no me mate.
+- ¿Estaba enamorao de mi madre o de su Tauro (soy Escorpio)? 
+- QUIERO PASAR LOS BUENOS Aâ€˜OS CON GENTE QUE ESTÉ DE VUELTA DE ABSURDECES JUVENILES (SERIEDAD, POR FAVOR; ESO NO QUIERE DECIR QUE NO PODAMOS JUGAR COMO NIâ€˜OS, QUE SUELEN SER MÁS CIVILIZADOS QUE LOS ADOLESCENTES... EL ARTE TIENE ALGO DE LOCURA, NO DE ADOLESCENCIA, DE IR "A LIGAR Y PONERSE CIEGO A ALCOHOL"...). GENTE "VIEJA", QUE QUIERAN PAZ Y TRANQUILIDAD, Y ALGO DE INTROSPECCIÓN. GENTE CON GRANDES AMBICIONES POSITIVAS Y POCAS NECESIDADES PERSONALES.
+- En la infancia tenía videojuegos de esquivar, y pienso en el hipotético siguiente "ladrillo" que me va a tirar la gente en vez de simplemente decir y hacer, concentrado en mi objetivo... Eso sí, como Capri, no está mal a veces prevenir, hacer las pruebas más fáciles, salir cuando no haya mucha gente normal... ¿Y si hago un poco de boxeo ficticio antes de salir a la calle (me dejará "mediotonto")?
+- Queremos ser una gran familia, donde ni siquiera se use el dinero. Y AQUELLOS CUYO NOMBRE EMPIEZA POR "A", VINIERON A COMERSE EL MUNDO, Y EN ESTE SISTEMA LA CAGAN BIEN CAGADA COMO TREPAS AMBICIOSOS REPRESIVOS. Y los controladores (cejas en arco...) morirán asfixiados intentando que el otro sea como los demás.
+* El morado es el color del mal se puede decir, de la "comida de coco".
+* Prefiero letra a vídeo (que recibas la menor información posible, en el mínimo espacio de tiempo).
+* He aceptado que voy a encontrarme con zombis (bonitas pruebas, como las pruebas que me pone gente más avanzada que yo, gente "psicológica"). No medites, y te saldrá lo peor de ti, que es de lo que se trata.
+- Llegando a mi homosexualidad leve. Muerte de mi abuelo paterno, que era amigo de "el espíritu de mi abuelo materno, que moraba en mí". La mujer moderna tampoco lo pone fácil (muchas se niegan a ligar con hombres, hasta que un psicópata las enamora), y además, no aprendí a dar amor hasta hace poco.
+- Tanto tiempo hablando YO de la indefensión aprendida de la sociedad en general (alguien todos los días hace el mal a otra persona, y esta última persona deja de defenderse, y sólo "reza para no encontrarse con el incivilizado")... ¡y yo la tuve mucho tiempo con el tema del trabajo (psicópatas, gente normal que te critica...)!
+* Vi a Pablo como psicópata terciario (bien, porque lo es), que se pasa con algunas personas para reafirmarse a sí mismo y olvidarse de su roña interior y su vacío. María Oliva (su tía) se está psicopatizando (con los psicópatas, o te adaptas / psicopatizas, o te hunden).
+* Con Pablo, me obsesioné (miedo) con su brío de signo de fuego (la gente de mi pueblo también me daba miedo, hablan alto...), ¿mi psique quería estos enfrentamientos alargados en el tiempo para que yo aprendiese a pasar de los peores y pudiese escribir artículos sobre ellos?
+* Jorge (Pérez M..anda; incapaz de hacer un sencillo examen de Prolog o programar en Prolog un 4 en raya inteligente) me torturó hasta tener que abandonar la Biblioteca de Proyectos.
+* LuisMuñozTrujillo (éste es el más peligroso de los 3 con diferencia, es primario, no terciario, y los secundarios, sin tener "lesión", imitan a los primarios; sus amigos son muy peligrosos también, incitando a mujeres a suicidarse).
+* Y Renee Ribacoba montero, que primero fue amable conmigo (aunque ya fue sospechoso que al despertarme de una crisis epilépctica en urgencias me quisiera sólo para ella, me "englobase" sin dejar espacio a los demás), y luego experimentó con mi cerebro casi lo que quiso.
+- Primero aprende a disfrutar solo, y ya en grupo, la experiencia se amplifica. Admite tus diferencias con el otro para armonizar (que no sea el monólogo de frikitecnológico que hace que te desmayes).
+- Yo quiero ser "becario" (trabajan y cobran poco), trabajar en Asturias (de momento)... ¡Tengo misiones que cumplir fuera del trabajo!
+* Ver Pet Shop Boys King's Cross (estación para desarraigarse y perder la vida como ganado en el mercado de trabajo). Versión de Redondo (no la corta de 5 minutos casi justos).
+* Que dejen de contratar a quienes les gusta de entrada, que contraten a quienes les gusta al poco tiempo de familiarizarse. Que contraten a gente "madura" de una vez.
+* ¡Soy Virgo, soy perfecto, si no saco un 10, me muero, y tú no eres interesante, hablas demasiado del interior! Y he descubierto la energía baja de Libra y Tauro cuando tú eres su escaparate o similar. "Quiero sacar buenas notas", ¿qué tontería es esa (te deshumaniza y pierdes años de vida)? "Quiero que vean que viajo al extranjero", ¿qué tontería es esa? "Quiero que vean lo bien que hago esto / juego a esto que no estaba en el siglo XX y que no tiene calidad", ¿qué tontería es esa?
+- ¿Y si mi desgana por salir a la calle tiene que ver con un pequeño miedo que queda todavía a dejar en evidencia mis debilidades (pelo mal cortado, piel blanca...)?
+* Para mi astigmatismo leve: cerca hay oportunidades, no problemas. NO es siempre "paso el corte sin aprender, sonriendo a quien me critica, y me refugio en casa a descansar".
+* La disharmonía, lo cutre, lo kistch... siempre van a formar parte de la vida, ¿me duele dar imagen kistch, de quién lo he heredao?
+- ¿Es ya tiempo de lanzar "bombas de semillas" (arbustos y eso, luego irían los árboles de sombra)? Si hay un incendio, el cáñamo crece muy bien con la ceniza. ¿Los incendios (muerte) dan nueva vida no?
+- Los psicópatas integrados parecen bellísmas personas, y mantienen el temple (los primarios) al intetar dejar a la buena gente como locos. El que reacciona violentamente, es el bueno sí.
+- Ser comprensivo hará que libre sólo las batallas que me corresponden (carta astral...).
+* No empasto con esta sociedad tan bruta. Quieren que seas como ellos, no soportan la diferencia (ni el vacío). Soy introspectivo (somos diferentes y complementarios, no de hacer lo mismo), y al quitar represiones, quitas deseos enfermizos de usar herramientas...
+- Hay gente que hace y hace, y ayuda y ayuda... y no saben ni lo que les ronda por la cabeza. Así terminan perpetuando una sociedad enferma.
+- ¿Mi mayor secreto es que me pudiese enamorar de hombres y mujeres? Me enamoré de Horacio con los meses, cada vez le encontraba cosas mejores, aunque tal vez fuese la proyección de mis cosas buenas en él, así como la compatibilidad de energías (Virgo con ascendente Tauro, y una sonrisa eterna que me hacía sentir "querido"), y el hecho de que "daba imagen" (la imagen era falsa, tenía demasiadas represiones / narcisismo dentro, parecía mucho más bueno de lo que era).
+* Al grano: ME SIENTO MORIR con gente activa que no es bastante comprensiva, que no ve realmente a la persona que tiene delante (persona que no quiere ser intelectual, sino profunda, realmente inteligente). Yo suelo ver a la persona que tengo delante, y me callo (Escorpio suele ser muy perceptivo psicológicamente). Y no quiero aspireantes a lama, sino desrepresores conscientes, porque las represiones te manejan inconscientemente (son el mal de las personas). Eso sí, desreprimir incluye tener síntomas de curación, así que, ¡no nos queda na por estar en la cama con síntomas!
+* PD: los masajes de Oli son buenos, desestresan, y tienen un punto erótico (es Oli, tiene una energía especial).
+- Ta claro que pa no ir "de pompis", hay que ver el narcisismo en el otro, comprendiendo su ejemplo negativo, y luego intentar quitar eso malo de nosotros mismos. Una pista: la educación "de modales" es narcisista, tened bien claro si la otra persona lo hace para brillar, o realmente hay humanidad ahí.
+- ¿Alguien que pide préstamos arriesgados tiene el derecho moral de conseguir un trabajo y vivir feliz y yo no? Dejad de aparentar con vuestro teatro: que si soy útil, que si madrugar dignifica, que si soy Dios por usar tecnicismos en Inglés...
+- Tocando fondo con la salsa del chorizo, pensamiento: "el ser humano es el mejor reciclador de grasa"... y dejé la sartén limpia. Todavía estoy eructando. Tengo que tomarme más en serio lo de comer saludable, y menos, en las 2 comidas que hago al día.  
+- Por si no había quedao claro: lo material viene de lo psíquico, la sociedad no es más que un volcado de la suma de nuestras psiques, por lo que Jung (quitar las represiones, que te hacen creerte bueno cuando en realidad te manejan inconscientemente), es imprescindible. Unamos izquierda y derecha, y separémonos del "brutote".
+- Es bueno quedarse en casa a veces, y además, ¡las fiestas me incomodan mucho, fui anteriormente para fortalecer vínculos, con Carlos, Marco, Jaime, Vilela... Soy Escorpio, miro p'adentro!
+- Probrecillas muchas personas que se sienten culpables y no paran de sufrir. ¿Qué podemos hacer para remediarlo? Pues decirles que la culpa debe durar un suspirín, si no, te están manipulando o te estás flagelando innecesariamente.
+- Transgenealogía armada pérez. Muere 14 Oct 53, a los 16 meses.
+####115Folio0701notas10.txt
+####superamenaza Mi elitista en el sentido de malo malo AVG detecta a los buenos como virus.
+####superrenacer Qué bonito sería que todos los hombres de los que uno estuviera rodeado fuesen llorones Y el resto a la guillotina,
+####superrenacer Quizás sería bueno saber qué vas a hacer en el futuro para encaminarte un poco Pregunta y si realmente no se te pone claro hasta que no te preparas incluye mejorar por dentro.
+####424Goerreig el Diluvio como parte del roce de un cuerpo celeste.txt  - Baalbek se hizo para María (el templo de Júpiter era para hacer burla de María).
+* La Luna amenaza mirando siempre con la misma cara, por si los paios vuelven a hacer de las suyas (mataron a María, madre de Iezus).
+* El calor de "La luna" fundió el metal. Se ve en los estratos de la época (hace más de 10.000 años).
+##Poco tiempo tras el Diluvio (calor-evaporación-diluvio), templo Gobekli Tepe (trae las constelaciones que había antes).
+####431Juez Presencia lista de jueces con cuentas en paraísos fiscales.txt  Marchena tiene unos 10 millones de dólares en paraísos fiscales. ¿Lesmes tiene 20? Son pobres infelices envidiosos, tipo psicópata integrado:
+##Con la iniciativa de ACODAP; el pueblo será quien juzgue. Y no la Sala 61 (una trampa).
+####445Sanación.
+##Llevo tanto tiempo intentando demostrar que el normal es idiota, que me olvidé de amar.
+##Superamenaza cosas normales y terribles:
+- Memorizar (el otro pide silencio, no es sabio...).
+- Limpiadores (matan).
+- Cara de bueno siendo superficial ropa de hombre tapadefectos ropa de buscona y tintes de pelo nos falsean mejorando percepción externa.
+####487Rafa AS orgón positivo y negativo.txt  La partícula de humedad del aire atrapa el orgón que manda nuestro amigo el cloudbuster. Los "chismes" de las élites van quitando la energía (atravesando "con ondas" las nubes buenas; el orgón positivo atrae más, las nubes buenas crecen... y sin orgón, se hacen invisibles). Y el orgón negativo, yo lo asociaría a las nubes tóxicas de "los aviones de las élites" (no son todos comerciales, vienen a joder).
+##Confuso: si provocas giros a la derecha, ¿con el cloudbuster? Atraes tóxicos, limpiando el ambiente. ¿Pero el agua de las montañas, en cambio, sube hacia la izquierda? Si la del Sol que recibimos va hacia la derecha, ¿los 2 contrarios producen "una fiesta benévola"? ¿Y si ese principio se puede usar "en tu casa" para atraer orgón y mandarlo al cloudbuster?
+####496salud dolor de muelas 14 Septiembre 2023.txt  Dolor a raya con clavo de oler, sal normal (a veces resulta) y cebolla. 
+##Ayer en el tren, el enjuague calmado con agua era contraproducente, ¿por estar en fase "crítica"? ¿Primero clavo y luego cebolla?
+####507sociología cosas de trabajo semidesechables.txt  ####encontrar trabajo (¿cosas gratis en principio pa vecinos? Se aprende):
+##General:
+- Currículum (chiquitín, básico):
+* ¿Que peculiaridad tengo de mi personalidad? Me gusta la vida, las baldosas de las aceras...
+* ¿Que personalidad? Valoro la limpieza como fuente de bienestar / actitud positiva / harmonía...
+* Lectura facil, lectura crítica por parte de terceros.
+- Linkedin: leer manual.
+* Actualizar cada poco, para que te tengan en cuenta.
+* No inscribirse de Viernes a Domingo (no suelen mirar).
+- Empresa para la que te hayas preparado un poco, y que conozcas un poco.
+* Criterios: cualificacion, experiencia, actualizacion del conocimiento, compromiso, paciencia, innovacion, liderazgo.
+- Posible carta de solicitud de empleo (sobre americano, a la atencion del Departamento de Personal).
+- Entrevista (Sé tu mismo, no intentes parecer lo más):
+* Trata de contactar directamente con quien selecciona.
+* Busca contacto visual, activo, amable / cercano, palmas en rodillas. Alegre (facilita trabajo en grupo).
+* Busca ejemplos de haber reaccionado en momentos difíciles. ¿Con poco tiempo?
+* No lleves a nadie (mala imagen, dependencia). No hablar mal de jefes anteriores.
+* No hables del dinero lo primero. NO apuntes bajo si ellos no lo hacen.
+* Tómate tu tiempo en contestar, no es un test.
+* Tras la entrevista, comenta al entrevistador lo mas importante (que mire la carta de solicitud...).
+- ¡Que la seleccion no implique pago, incluido llamar por telefono a un número desconocido!
+####Papeleo:
+##Primer contrato:
+- Conseguir número Seguridad Social.
+* Página de la SS, cita con la oficina de tesorería general de la SS.
+* Primer dia trabajo: la empresa te da de alta en la Seguridad Social.
+- Algunas empresas obtienen bonificaciones si te pones como demandante oficial de empleo (apuntarse al paro, vamos, si eres "minusválido").
+##Contrato:
+- Firma sólo el contrato (la empresa debe darte copia firmada y sellada de todo lo que firmes, eso sí). Debe ser de trabajo, no mercantil... Formulario oficial del ministerio de Empleo.
+* Datos nuestros: tipo contrato, puesto, convenio, lugar, duración. ¿Convenio colectivo aplicable casa con sueldo, funciones...? En periodo de prueba te deben pagar también.
+####508sociología Los espartanos en manifas.txt  ¿Los espartanos de las manifas están subvencionaos por el sistema? Yo no lo descarto. Pero hay que ir juntos en las manifas, por muy diferentes que seamos. En cuanto a Róbert, NO le veo sistémico, le veo Acuario con ascendente Piscis.
+####509sociología no todo abogado o informático causa dolor.txt  Bueno, los abogados picapleitos, sí, y en cuanto a los informáticos, es más bien "mente masculina", y en algunos sólo. Pero, ¿tienes miedo de curar el autismo maniático, y que ya no seas un genio tecnológico? Todos somos diferentes (algunos no viven de la intelectualidad). La verdad es que podría haber un mundo "informático" sin ningún autista, sería más comprensible y ético.
+####511superame en 2004 embargaron a Margarita Robles y un montón de gente más y sólo el medio de comunicación de Jesús Gil se había hecho eco de la noticia En este país vivimos Denunciar corrupción es obligado por ley.txt  
+####512superame Hamás lo creó Israel Como los talibanes y Bin Laden fueron financiados por USA Pregunta la propia creación del Islam fue cosa de la Iglesia Católica para exterminar a los verdaderos cristianos del Norte de África.txt  
+####513superame hay signos zodiacales bellos por naturaleza son peligrosos engañan La belleza debe reflejar el interior el equilibrio la inteligencia la vejez del alma Si eres feo desreprime barba no.txt  
+####514superamenaza 2023 Octubre pregunta Hamas con maniquíes Pregunta Israel necesita una excusa para atacar Irán.txt  
+####515superamenaza A gran parte delos conspis de Gijón que no apoyaron Yerma2030 debería visitarlos un buen psicólogo Y no pienso en uno universitario la Uni es de izquierdas sindicalista mentirosa ocultadora etc.txt  
+####516superamenaza Acuario parte malévola.txt  - Travieso: se divierte tanto trabajando tus miedos y logrando un efecto psicológico que te lleve al borde del abismo... Aprovechando cada oportunidad para hacer resurgir ese miedo y disfrutando a medida aumenta tu cara de terror.
+- Hacer oídos sordos a sus provocaciones (y llamar a gente pa que lo tiren al río 200 veces). Reírte junto con ellos cuando intentan asustarte. Se aburrirán y lo considerarán una pérdida de tiempo.
+##Más: sobresalir (imagen ante los demás, ¿como agoviantes empollones incluso?). Juzgar, y no contar sus interioridades.
+####517superamenaza adaptarte a la gente con cabeza fresca mata lentamente.txt  
+####518superamenaza ataques a la población mundial camuflados con cambio climático.txt  Trenes descarrilados en parajes naturales con productos químicos, explosiones en almacenes de comida y similares... Hawai: incendios en zonas indígenas que hace unos meses no "acataron ciertas normas". NO han afectado a las casas de Obama, Lady Gaga... ¿Casas brutalmente calcinadas, y los árboles de alrededor, bien? ¡Ataques deliberados! La policía evacuó a los turistas, y no a la población local (muchas irregularidades, y no contestan).
+####520superamenaza Communards Tomorrow victimizando innecesariamente.txt  Communards era un dúo dominado por las élites y sus planes perversos (victimizar a la mujer para quitarle poder mientras en los medios, controlados por las mismas élites, se finge defenderla, y es que las élites de 2023 son las del neofeminismo, y son paios, odian lo femenino). Una mujer que se victimiza puede ser peligrosa (vampiro energético...). Si el hombre viola es en parte porque el trabajo embrutece (la cultura del trabajo la instauraron los peores criminales).
+####521superamenaza cuando una vecina piensa que su encantador vecino es una gran persona las posibilidades de que éste sea psicópata son altas sobre todo si esta vecina tiene pocas luces fijaos en la voz con pocos tonos.txt  
+####522superamenaza cuento de la psicópata del tren.txt  - El tren se iba llenando de gente. Juan se percató, y quitó su mochila de un asiento para liberarlo. Monstruína se percató de la bondad de Juan, y en vez de vomitar (quiere aplastar lo bueno), empezó a hacer teatro ("gracias"...):
+* Lo siguiente fueron unas 20 micropatadas en las piernas de Juan (una por cada cambio de cruce de piernas), seguidas de 20 "perdón". Luego ella ocupó 2 asientos, mostrando pierna, ¿intentando impresionar al personal?
+- Juan le preguntó si era de la generación z ("el mundo es mío"), o si fastidiar a alguien la hacía olvidar su vacío / complejos de inferioridad (psicopatía).
+* Ella aplicó la ley de hielo. Pero todo el vagón ya sabía que Monstruína era basura. 
+##Al bajarse del tren, Juan estaba un poco lloroso, pero sabía que la siguiente vez que se encontrase con Monstruína (infeliz y envidiosa, un juguete fácil de analizar, que no sabe lo que es el bienestar), podría estar más tranquilo al comprender al monstruo.
+####523superamenaza cuidao que derecha y Comunismo tienen un nexo común.txt  Cuidao, que el Comunismo es la forma de gobierno que se busca desde el colectivismo de derechas, que es una puerta al colectivismo de izquierdas. Quizás los denominados "de ultraderecha" (expresión para culpar a los honestos) se salven.
+####524superamenaza dejemos de mostrar nuestras habilidades 3D y de ser el mejor puedes mostrar inteligencia integral eso sí.txt  
+####525superamenaza desde luego han traído oriente a Occidente para imbecilizarnos y olvidar a Jung.txt  
+####526superamenaza desembarco en España de subsaharianos protegidos y en el escenario carros de combate de matrícula extranjera pregunta Quién quiere esto y dónde se alojan.txt  
+####527superamenaza despertar ante la complicidad de nuestros gobernantes con gente traída de cárceles africanas.txt  Para sembrar caos e inseguridad y justificar un futuro control policial/ militar y supresión de más derechos y libertades; especificado con detalles en el plan Kalergi, ya hace años). Creo entender que Marco (La última ReEvolución, libro) dice que nos hemos despreocupao del daño hecho a África, y quizás ahora paguemos por eso.
+####528superamenaza el hombre que sólo es masculino o la mujer que sólo es femenina son percibidos como superincompletos por el sabio Hay que salir de esa ultracárcel y expresar sentimientos con distintas modulaciones de voz.txt  
+####529superamenaza el reguetón es plano hipnotiza pregunta Y crea personas que se quieren evadir de la realidad al ser ésta compleja no plana La fantasía o las historias no son malas en principio lo malo es cuando las necesitas.txt  
+####530superamenaza Elchicotriste el peligro de pagar con tarjeta no seas inconsciente.txt  Ya sabéis, nada de pagar con tarjeta, exigid menús en papel. Si pagas "en digital", nos hundirás a todos (vendrá la dictadura digital). Yo tengo Paypal porque a los buenos informadores, a veces hay que hacerles llegar dinero (sí, en bus, también).
+####531superamenaza empresarios y necesitados.txt  ¿Y si hay necesitados porque hay empresarios y entrevistas de trabajo (venderse vs confianza y humanidad)? Entrevistemos al empresario, ¿hace usted cosas útiles y no de más?
+####532superamenaza errores garrafales del perito y débil mental confirmado Gabriel Araujo.txt  NO son falsificaciones, no se pretende falsificar nada, puede ser verdadero o falso:
+- Análisis de error de niveles con el Forensically (que no se usa con fotos, se usa con imágenes mezcladas...). Quería engañar... tal vez reconocimiento. Si intentas desmentir el expediente Royuela, fallarás (hasta ahora ha sido así). Con Bárcenas y mucho + (Robles, mena , González...) se acertó. Aquí, también.
+####533superamenaza es cierto que una buena motivación esta bien Pregunta pero quién se motiva con el trabajo Los que quieren dar imagen a su vecino los que no saben estar sin hacer el psicópata etc.txt  
+####534superamenaza Es ridículo querer estar por encima de la media materialmente Mejor pensar en el bien común La salud no viene del dinero viene de la sabiduria NO seas tonto.txt  
+####535superamenaza España despedir a los temporales sale más barato y poco se les forma González metió la temporalidad en 1984 La indemnización por despido es altísima.txt  
+####536superamenaza España empresas muy pequeñas débiles ante cambios y para mano de obra barata aquí terminarán ganándonos muchos países Mercado orientado a Europa no la creciente India.txt  
+####537superamenaza España opositores insostenibles Educación no recibe incentivos por resultados académicos o laborales Grados exceso de contenidos.txt  
+####538superamenaza Eurovisión 2023.txt  Muchas luces (demasiadas). Animan a ser biónicos (no humanos), con brazos de metal. Es política (casi nadie vota a Alemania, y a los jueces les gusta el paio flamenco español, pero no a los televidentes). La militar israelí, murciélago con 12 (solar, paio, satánico) prolongaciones. Escenario forma ojo, ¿y todo junto gónadas masculinas (el falso feminismo elitista)?
+####539superamenaza Juanvi Palleter van por los ganaderos.txt  Si hay un brote ganadero, las élites quieren sacrifios a un montón de kilómetros a la redonda; nos jugamos la comida:
+- Tormentas pa joder la producción agrícola, siguen fumigando. El Gobierno premia por machacar tu propia cosecha.
+- La gente busca empatía para lo suyo, pero no la tiene con quien le da de comer. El origen que debe dar vergüenza es el urbano, ¡menudos ignorantes!
+####540superamenaza la aceituna en españa precios.txt  Se paga la aceituna a precio de risa al agricultor, pero nos venden el aceite carísimo, ¿qué está pasando? ¿Intermediaros malvados? La UE ayuda a Marruecos con el olivar, con nuestros impuestos:
+- Y en España se cumple con 100.000 normas (producto de calidad), y fuera no.
+* Se liquidan las aguas subterráneas (¿regadíos de las multinacionales?) y se va a otro país (y tomamos aceite africano, camuflado como español, es decir, pagamos de más).
+##Sumisión de muchos agricultores; necesidad que te desespera, y vendes a precios bajos...
+##Todos los sectores juntos a la hora de manifestarse.
+####542superamenaza la voz contra el resto de instrumentos.txt  ¡La voz es el virtuoso instrumento principal (estudiar y estudiar, matando la inteligencia sutil y pagando muchos euros, no debería ser obligatorio)! La sociedad japonesa está llena de virtuosos... aspergers.
+####543superamenaza las personas que no expresan sus sentimientos son más dadas a la venganza Solución conectar con los sentimientos propios y menos personalidad frikitecnológica.txt  
+####544superamenaza las élites comprobaron que nos lo creíamos todo con el covid Ahora pueden meter toda clase de nuevas normas aterradoras que la mayor parte de la gente defenderá incluida la Agenda 2030.txt  
+####545superamenaza las élites financian las líneas low cost para fumigarnos todavía más.txt  
+####546superamenaza Ley de falso Bienestar Animal ya es maldad.txt  - Mujer deja fuera de la Farmacia (como es lógico) a su mascota, ¡y multaza!
+* Ya se abandonan animales, que podrían atacar a niños.
+* ¿Los sueños de las élites para nosotros no incluyen mascotas?
+##Limita a los veterinarios, la gente sin dinero para caros tratamientos no puede sacrificar a animales que sufren... Estamos gobernados en la sombra por narcisistas integrados.
+####547superamenaza lo de los trenes gratis esconde algo muy oscuro tal vez acabar con los coches de gasolina.txt  
+####548superamenaza los detalles se usan mucho para despistar de la visión global También para controlar al de abajo si vas al detalle que dominas y criticas El hipervigilante perfeccionismo es miedo al fracaso.txt  
+####549superamenaza Los maliciosos son imbéciles no se dan cuenta de que ellos mismos con su debilidad mental han entrado en psicopatía para autoprotegerse Inseguridad más mente infantil.txt  
+####550superamenaza Los Medios dicen que el Viernes llueve y luego que probablemente llueva y lugo chispeará simplemente Es el modus operandi de las élites con sus armas climáticas el anticiclón no se mueve ni palante ni patrás.txt  
+####552superamenaza los pobrecillos que se vacunaron e hicieron PCRs hicieron bullying al niño valiente que no lo hizo y ahora la gente calla porque ve que las vacunas realmente etc.txt  
+####553superamenaza los psicópatas no sólo suben como la espuma en la política por su forma de encandilar a la gente y guardar secretos Una vez arriba son los títeres perfectos para engañar a CUALQUIERA que no sepa de ellos.txt  
+####554superamenaza mis amigos de adolescencia.txt  El Viernes (y el Sábado) me suena a fiesta, a noche, y recuerdo mi etapa de fiestas / adolescente como un castigo, una obligación, lo pasé fatal, yendo donde querían mis amigos sólo pa conservarlos. Quería quedame en casa durmiendo. Ellos se adaptan a la sociedad. Que no me adapte es simplemente porque tengo más inteligencia integral, menos bruta, soy más sensible a los estímulos, y miro para dentro, con memoria selectiva e intuición (mi cerebro trabaja más, mi mente está menos fresca). En BUP sacaba lo mismo que ellos sin abrir un libro (dieces en Latín sólo yendo a clase...). En el tercer ciclo de Informática (si lo hubiese) sólo habría aspergers y frikitontos.  
+####557superamenaza niños psicópatas.txt  Alos 8 años, ya fingen bastante bien:
+- Incapaces de compartir y muy exigentes e inflexibles con sus padres. Y si obedecen, suele ser bajo amenazas e igualmente intentarán salirse con la suya.
+- Difícilmente expresarán emociones (pobrecillos). Les cuesta mucho identificar las ajenas.
+- No sienten culpa, remordimiento ni se disculpan por sus malas conductas. Agresiones físicas o verbales, para imponer dominio. En un adolescente, rebeldía y transgresión... cuidado.
+##Más:
+- Causas:
+* Genética. ¡Sii!
+* Trastornos cerebrales (mala conexión entre la amígdala y la corteza prefrontal...).
+* Vulnerabilidad psicológica (alma joven, sensible y demandante de atención, y si el mundo "les perteneció" y de repente no...), no necesariamnete maltratados.
+- Piensa que mienten, así que la terapia psicológica no funciona, salvo si es intensa, en una Institución, con gente controlando...
+####558superamenaza nosotros no somos un lienzo NO seas narcisista Fuera exceso de anillos y cadenas De todos modos hay que ir más o menos bien conjuntado y algo colorido.txt  
+####559superamenaza petardos sonoros fuertes los tira gente que no ama realmente a los animales.txt  
+####560superamenaza por qué mi familia se merece un buen guantazo en la cara.txt  Piensan dar condroprotectores al Bubi, en vez de darle CDS (MMS) y resucitarlo directamente (sus patas de atrás fallan, el perro se cae simplemente al estar quieto... da penita, es viejo).
+- Por decir un papel que tengo discapacidad, recibo unos 200 euros al mes (pero en la cuenta de mi padre). Alguien me dice que muy bien por ir a manifas, pero él no va, dice que "hace trabajo de campo en Figaredo" (y luego, a gastar).
+- Alguien quiere cambiar las vigas del suelo de la casa (podría esperar, por lo del Armagedón, pero no, tiene que ser ahora; sé que algunas puertas tienen un 20% de desnivel). Se cree algo por tener la mente ágil para cosas intelectuales (vamos, cosas de inteligencia de obrero del sistema).
+####561superamenaza Psicopatía es igual a ganas adrenalina igual a competitividad igual a empresa jerarquía.txt  
+####562superamenaza puedes expresarte cantando e inventando pero de ahí a monetizar ya ta to inventao no jodas.txt  
+####563superamenaza quizás la razón del gusto musical reducido malo de muchos hombres esté en haber reprimido su necesaria femineidad la cual también se busca dentro.txt  
+####564superamenaza quién produce la epilepsia y a quién.txt  ¡Ya me gustaría que sintieseis lo que siente una semilla con tono resonante, to'l día alelao en busca de respuestas, y con el típico pesao sin empatía queriendo que preste atención a su discurso rápido! La epilepsia existe porque existen estos tipejos.
+####565superamenaza qué esconde el inicio del curso escolar en España y el mundo.txt  Patrón de obediencia y no inteligencia emocional. Los padres deben leer los libros de texto. Los que son aprobados son los que tienen más memoria (no se va a aprender sino a memorizar), con mucha materia, que no tienen por qué entender los niños. Se buscan productivos "brutos", no inteligentes. Es cruel que "la pantalla" tenga que ser la protagonista de las "relaciones sociales" (NO los dejamos desarrollarse como humanos). Los jóvenes deben pensar, para que la sociedad sea buena cuando ellos crezcan (ni éxito, ni materialismo, medios, la última canción basura...).
+####566superamenaza resulta que los partidos políticos son empresas privadas con números DUNS pregunta ánimo de lucro respuesta creo que sí.txt  
+####567superamenaza silencios y secretos de poco sirven.txt  LO QUE CALLAS A TRAVÉS DE TUS SILENCIOS Y SECRETOS, LO EXPRESAS EN LA VIDA. ¿DE QUÉ TE SIRVE ENTONCES?
+####568superamenaza subvencionar 5000 euros por vaca sacrificada o hectárea abandonada es un plan terrible.txt  
+####569superamenaza sí tanta IA tanta productividad que ya les sobramos a las élites y de ahí que promuevan estilos de vida antirreproductivos para los blancos y nos metan al enemigo en casa incluidas pseudovacunas.txt  
+####570superamenaza trabajos de Los Aurones serie infantil pero sabia para copiar en la nueva sociedad.txt  NO hay ni políticos ni funcionarios ni jueces ni... El Gran Rusó y el Maestro Jonc son 2 sabios, y bastan y sobran.
+- Argentina necesita asfalto. España, con gasolina y alimentos, va que chuta. NO es importante producir materialmente, pues todo podría acabar pronto, y lo importante es mejorar el interior (no ser esclavos, qué mala inversión!). Pasan muchos coches por la carretera enfrente de mi casa, y no los veo a todos cargados de lechugas (van a sus trabajos y tiempo libre de pega).
+####572superamenaza un influencer es básicamente un cura de Internet lo importante es que pienses por ti mismo.txt  
+####573superamenaza un psicópata tiene inteligencia masculina Si no es tonto sacará dieces sin estudiar como yo Notable en Tec Elec Un psicópata me pasó ejercicios resueltos y no miré ni uno.txt  
+####574superamenaza vaciar pantanos y subir temperatura artificialmente.txt  Las élites "abren" las compuertas de los embalses, y la "solbatación" hace que al juntarse el agua de río con la de mar, pueda subir la temperatura (reacciones...). Con los Nextrad's, se cambia la meteorología (y hasta el 2022, con mala intención).
+####575superamenaza vas en tren gratis cuando nadie regala nada y no te haces preguntas y nos reiremos de tu estupidez.txt  
+####576superamenaza élites quieren joder sin que se note pa controlar les saldrá mal pero son un reflejo de nuestra psique nos creemos completos.txt  
+####577superameza Marzo 2023 hacia el CDBC dinero controlador.txt  El dinero debe pesar y oler, y los idiotas que no quieran vida semiascética, que trabajen más.
+####579superpsicología el hombre sigue estando mal visto si llora en público o si hace movimientos de baile ochenteros por así decirlo o si no tiene su trabajito oficial eso es presión pero trabajable Y abajo los alfa son falsos.txt  
+####580superren 12 leyes del karma selección.txt  - La vida te pone las mismas pruebas hasta que las superas (y si tardas, te las pone cabronas). Mejora psicológica con pruebas sociales...
+- Tienes que cambiarte a ti, no a los demás, para mejorar la sociedad.
+####583superren en favor del efectivo.txt  Hacer compras el mismo día teniendo sólo efectivo. Restaurante: nadie lleva teléfonos o tarjetas de crédito.
+####584superren frases a narcis.txt  superrenacer frases a los creídos psicópatas (tras decir casi todas estas frases, contacto cero):
+* NO te debo nada.
+* NO.
+* Estoy ocupado.
+* Tienes que parar ahora (si eres víctima habitual). Se refiere a manipulaciones y ataques.
+* NO escuché tu mensaje, no me acordé de ti.
+##¿Y para los infelices del "¡qué bien vives!"?
+####587superren no importa cómo te describan.txt  Aún serás admirado por aquellos que realmente te conocen. Y cuando tú sabes quién eres (jung...) no tienes que demostrarle nada a nadie.
+####588superrenacer a mejor persona más transformación psique desrepresión Jung más feliz.txt  
+####589superrenacer a más inteligencia REAL INTEGRAL INTUICIÓN antes cansa la mente y antes se dan las alarmas de agotamiento.txt  
+####590superrenacer abraza el dolor plenamente como parte dle proceso de crecimiento personal cambiando creencias y buceando en lo más profundo de ti y tus ancestros Confusión único camino a necesitar menos.txt  
+####591superrenacer al desreprimir te vuelves intuitivo Un poco frustrante cuando intuyes que alguien está haciendo un papel y los demás no te creen Al sabio le mueve hacer por algo bueno.txt  
+####592superrenacer almas viejas más sabias solitarios pero iluminadores.txt  - Desinteresados de los intereses y actividades de las masas, con las cuales las amistades son insatisfactorias.
+* Ejemplarizar con estilos de vida sabios (dormir lo suficiente, negarse a hiperproducir o hiperconsumir, disfrutar de productos viejos y moralmente aceptables / inocentes, NO la tele de hoy...) es la actividad más satisfactoria.
+- Más:
+* Los problemas son pasajeros si los aceptas y aprendes de ellos. Somos muy poco (en general), pero algo aportamos. Lo de llegar lejos... no hace falta.
+* Cansancio mental. Conflictos menos llevaderos, por sensibilidad.
+* Saben que "son protegidos".
+####593superrenacer Astro49745.txt  Júpiter (bien controlado por fin, ¿con Virgo?): dirección "desconocida" a seguir con fé. Confiar en nuestra capacidad.
+##Sagi da un sentido a lo dicho por Géminis, creando una imagen integral. En Escorpio morimos, con Sagi renacemos.
+####595superrenacer Change the Score ni disfrazarte ni imitar Tony banks y Nick Kershaw.txt  Vídeo, tu psique te persigue a todas partes, no intentes disfrazarte de quien no eres, querer ser otro sin más (sé modestamente autocrítico y aprende a no dar imagen o sufrirás; cuidao con imitar, saca la esencia del otro para mejorar tu psique).
+####596superrenacer comprensión con las inteligencias diferentes y sus ritmos.txt  CONVIERTE A UNA PERSONA EN INTELECTUAL O EXTRAVERTIDA Y LA MATARÁS. Sin serlo, oblígala a hacer cosas de intelectual o extravertida, y la dejarás hecha caldo. Si mi inteligencia natural es quedarme ensimismado esperando "flashes", ¿qué le voy a hacer? ¿Formamos a la gente en comprensión?
+####597superrenacer corrupción Asturias Barbón Barbón infeliz y del montón Bon hueso calavera paio.txt  
+####598superrenacer Cuando tas cansao, deprimío etc Lo mejor es ser optimista y el día termina saliendo bien por lo general.txt  
+####599superrenacer desconectar del mundo exterior para recuperar empatía y recuperarse a uno mismo.txt  En la cuna ancestral del bosque podrás llegar al Ser lo que realmente eres. El mundo exterior no te deja prestarle atención a las señales de tu cuerpo, acostumbrándote así al malestar, confusión mental y un modo de supervivencia frívolo cuan bestia salvaje. Ése no eres tú. Si vas al bosque, mira algo dolorosamente dentro.
+####600superrenacer Disfrute son hormonas Felicidad es aceptación de todo lo que te pasa Sufrimiento es ausencia de felicidad Bienestar es felicidad más ausencia de dolor por así decirlo.txt  
+####601superrenacer el Be nació 3 veces es Trimegisto y dio luz a los Iudas malos o buenos.txt  
+####602superrenacer el camino solitario de los elegidos.txt  ##Desde siempre los relativamente avanzados introvertidos (no sé realmente si los extravertidos pueden ser o no sabios), que se recargan de energía solos, han dado su energía a los otros (chupasangre, lógicamente).
+##Los discursos no me parecen elevados, tiene que haber intercambio de opiniones, o si no, los jodidos conspis "de la guerra material y la intelectualidad" mandarán sobre los más avanzados, los esencialistas con intuición, que no serán oídos).
+##Al grano:
+- Los adultos entran en "la cárcel". Por ser aceptados / encajar, se ponen máscaras, aceptando reglas (vs intuición / inteligencia / sentido común) y dando importancia al status quo, y no a mejorarse o vivir dignamente.
+* De niños teníamos más conexión con la naturaleza, pero el sistema nos moldeó, y "nos gustan las maquinitas" (y ahora es peor, porque lo queremos todo ya, y al no pensar en el futuro y aceptar que las cosas tardan, nos deprimimos y frustramos). El bienestar tiene que ver con no hacer nada a veces, y motivarte para trabajar cooperando.
+* No me di cuenta de que me estuviesen quitando la identidad (escuela...), porque la tele daba cosas divertidos.
+- Estar aislado permite que veas que piensas como tu familia:
+* El candidato a sabio debe aprender a no dar su energía a gente tóxica (aunque esta gente puede enseñarte lecciones, incluso la lección de pasar de ellos "casi siempre").
+* Si te llaman loco, es una proyección de su interior (los locos son los normales, los que no han usado la Psicología...). A veces hay envidia.
+* Los demás se acercarán al elegido para ayudar, ser ayudados, conectar contigo...
+- Finalizando:
+* Con el tiempo te vuelves más comprensivo y menos iracundo (¿porque te enfadas menos contigo mismo?). ¿Aprenderás a desear? Así, ordenas tus emociones (recuerda NO quitar tu imagen objetivo de la mente).
+* Puedes pedir ayuda a quien haya pasado por esto.
+####603superrenacer el despierto las mentiras y el narcisismo o autoengaño.txt  El mentiroso (por autoprotección en general, debilidad...) debe saber distanciarse del otro, sentir sería admitir su fracaso (en cambio, al sabio le cuesta mentir, yo creo que incluso cuando quiere librarse del pesado):
+- El despierto sabe cuándo al otro le falta algo por decir. Siente "la débil sombra" a su alrededor, y confía completamente en su intuición ("es el momento de alejarse"...) Se ve claramente la mentira comparando la calidad de la música de ayer con la de hoy, no hacen falta "superpoderes", sólo inteligencia "sensible".
+####605SUPERRENACER EL MINISTRO DE SALUD COLOMBIANO YA ADMITE QUE LO DEL COVID FUE UN ENGAâ€˜O PARA EXPERIMENTAR CON NOSOTROS Y CLARO DE PASO VEN LO CONTROLABLES QUE SOMOS PARA SEGUIR SACANDO LEYES ABSURDAS VISTAS BIEN.txt  
+####607superrenacer el pelo largo es símbolo de masculinidad realmente.txt  Cuando un guerrero era capturado, su melena era cortada para humillarlo. Esa costumbre se reanudó en lo que hoy es el servicio militar (para socavar su autoestima, hacerlos sumisos). El pelo corto es "antimasculino".
+####608superrenacer el petróleo hay que extraerlo son los entre comillas mocos de Gaia.txt  ¡Europa manda a España a políticos españoles a controlar je je! Siguen comprando vacunas porque es un negocio (intermediarios...). El petróleo hay que extraerlo, son "los mocos de Gaia". ¡Quieren quitar los camiones! Nos quieren si nada y controlaos.
+####609superrenacer Hamer podría tratar casi cualquier locura menos la moral la de los psicópatas integrados o no Mucha gente podría tener constelación agresiva 2 focos de Hamer incluidos conspis Rencor NO.txt  
+####610superrenacer has nacido para curar si.txt  - La gente se abre naturalmente a ti (cuando tienes energía tranquila y segura).
+- Empatía estructural.
+- Deseo de aliviar el sufrimiento (llamada interior).
+- Alta sensibilidad al entorno (centro comercial pa almas tontas vs bosque).
+- Animales se acercan y plantas prosperan.
+- Tacto (¿se te ponen calientes las manos cerca del dolor?) o palabras, calman.
+- Te recuperas rápido tras traumas emocionales...
+- Eres calma en el caos (tu mera presencia equilibra).
+- Sabías que era tu destino curar (vocación). ¿Y si esto se presenta en la edad adulta?
+####611superrenacer importancia de no tomar activadores en una sociedad civilizada.txt  En una sociedad "de manada", no harán falta cafés para levantarse temprano (habrá "un hermano" que haga lo tuyo o equivalente si eres sabio / dormilón). Si te metes activadores, estás acortando tu vida sensiblemente.
+####616superrenacer la sólida Historia del sabio Alexandre Eleazar.txt  El descubridor de la desconocida Historia de Iberia y del Elengoa, el autor cuya extraordinaria narración, como bien explicaba su hijo Serdaniol, hacia esperar que:
+- "Impactara en las mentes modernas, produciendo un alivio espiritual retro-histórico en unos, es decir, el retorno de la memoria, pues en 101 años no han sido pocas las variadas explicaciones que se han dado sobre episodios de la historia antigua, pero sin interés, aunque también es verdad que estas suelen cambiar cada tantos años para amoldarse a los tiempos y a las modas que tan rápido nos asedian. Contrariamente, la historia narrada por el autor es inmutable, pues su verdad contenida, lejos de quedar convertida en ideas y explicaciones polvorientas en las estanterías del olvido, abre la mente hacia nuevas perspectivas y visiones y nos involucra de lleno en nuestra propia historia, la historia de todos".
+####617superrenacer la vida al final no quiere matarme.txt  ¿La vida quiere matarme joven, por no facilitarme más el acceso a la empresa, con tanto intelectual por ahí que quiere matar de hambre al intuitivo? Quiere que haga mi misión, y que mejore como persona, para encontrar las mejores personas, para hacer las mejores obras (necesarias...).
+####618superrenacer la vida es impredecible variada y disonante Me suele gustar algo lo monótono tengo que aceptar la realidad que esta llena de acuarianas sorpresas Hay variadas salidas de lo actual abrámonos.txt  
+####619superrenacer lo que debe permanecer y lo que debe morir.txt  Tú di la teoría base (la de las causas psíquicas), para ser buen maestro. La de la energía que fluye por nosotros... es secundaria.
+####620superrenacer lo que es peligroso para las élites.txt  Creo que lo importante es la moralidad y la Psicología; cambiar lo material desde lo material es la idea más impotente que hay. Lo que quiero decir es que toda esta gente (espartanos... ¡Cuidao!), no son sabios, son más bien "ídolos". Las Revoluciones es lo que quieren las élites, las evoluciones son algo peligroso para ellas, en cambio. Por ejemplo, si ves al "amigo de las mansiones" como un lujurioso sin cerebro, eso es peligroso para las élites.
+####621superrenacer los diferentes que te pregunten al menos sobre tus teorías o te dejen.txt  
+####622superrenacer los farmacéuticos dan la razón a los conspis DIRECTAMENTE.txt  Muchos farmacéuticos dicen ya que las vacunas eran un fraude. Los científicos se esfuerzan por explicar por qué el covid perdonó (je je) a los no vacunados. Es que el covid es muy listo je je. ¿NO dijo un mandamás que había que reducir la población mundial?
+####623superrenacer los psicoanalistas son necesarios por qué.txt  NO puedes mejorar sin poner el cuerpo, y ver lo negro en ti psicoanalizándote. Lo de "sólo me meto en la meditación y mejoro" son cosas de vagos o cobardes. Nadie ha conseguido limpiar su psique en menos de 3 años, ¡nadie! Mucha enfermedad hay que curar (la fase de cura es la de síntomas): recuerda, las enfermedades son psíquicas.
+####624superrenacer los éxitos no son tuyos sino de tus programaciones en principio la transformación personal sí.txt  
+####626superrenacer me gusta la gente que duerme mucho y consume poco Que es sabia y hace lo esencial estando tranquila Que es inteligente con alarmas de frío calor dolor y peligro e inteligencia femenina y adecuación de gestos.txt  
+####628superrenacer muerte en vida de gente a favor de ocultación de técnicas de producción y otros datos.txt  
+####629superrenacer no he venido a crear paz.txt  No he venido a este mundo a crear paz, sino guerra (la interior, mira tu psique). Ninguno de entre todos vosotros quiere aniquilar y destruir este mundo porque estáis dormidos. Sois los fieles esclavos del Dios de la materia, la carne, la sangre y los sacrificios. Adoráis al Dios del dolor, la enfermedad y la muerte.
+####630superrenacer no olvides que psicópatas irán muriendo por entrar más luz por así decirlo años 2024 y siguientes Pregunta a él cuál es la razón Pregunta Pablo envió a MOliva o al revés.txt  
+####631superrenacer orina.txt  Orina (Roma, blanquear los dientes; India: masajes para embellecer la piel; China, rostro bebés lavado para proteger piel; aztecas: limpiar heridas externas y prevenir infecciones. Ojos (no se cuenta).
+####632superrenacer personas inteligentes pocos amigos son selectivas.txt  - Valoran la autenticidad, la lealtad y la ética. No se juntan por conveniencia (el Universo ya te protegerá algo económicamente...).
+- Requerido nivel profundo y analítico en las conversaciones.
+- Preferencia por la soledad.
+- Intereses no normales (buscar sociedad diferente, lo cual puede dejar poco tiempo para "no ir al grano" o cultivar relaciones).
+- Al soler tener + capacidad para ver las emociones propias y ajenas (y las intenciones), das más en el clavo.
+* Quieres poder compartir lo que tienes dentro (el receptor debería ser comprensivo, abierto...).
+####633superrenacer por eso lo intelectual es antinatural.txt  - La ciencia ha encontrado que la fatiga intelectual es una especie de alarma que envía el cerebro. Indicación para que cambiemos la actividad por otra menos exigente y más gratificante (no hablo de placer). El cansancio opera como un protector de la función cerebral, igual que la fatiga evita que nos lesionemos.
+* La fatiga mental se da antes en gente con gran inteligencia integral (gente contraria a los aspergers) o PAS / hipersensible, gente con muchas alarmas, y que se aleja lo que puede de lo intelectual, mirar hacia fuera...
+####634superrenacer quererse a uno mismo tiene mucho que ver con poner la misión espiritual por encima de todo tras hacer tests Tzolkin Maya Diseño Humano y Nodo Norte Sí hay que trabajar pa sobrevivir lo sé.txt  
+####635superrenacer repaso Hamer Medicina Auténtica clave de misión de vida.txt  Sabemos que la clave de la vida es llegar a la fase de curación / síntomas (Hamer da las claves de por qué enfermas, y la causa es siempre psicológica). Dentro de la enfermedad, desreprimimos por Jung (puedes desreprimir también fuera de la enfermedad)... Y temas ancestrales (resolver psicológicamente lo que ellos no pudieron) pueden hacer que "por casualidad" vivas traumas para enfermar (por ejemplo, de toc). Enfermedades de origen ancestral:
+- En general, patologías de movimiento, sobrepeso y retención de gases.
+- Más: respiración y apneas, parásitos intestinales, algunas diabetes, autismo y esquizofrenia (estas 2 últimas indican muchas veces que el origen es el bisabuelo o el tatarabuelo, no el abuelo).
+####636superrenacer secar zapatos más métodos aparte de lugar fresco con aire.txt  - Muy saturados de agua: presionar con toalla sobre la tela exterior, luego meterla en el interior, ¿y hacer presión desde el exterior?
+- Rellena el zapato con bolitas de papel de periódico (sin grandes secciones de tinta oscura) o de cocina... Empuja dentro del zapato lo más que puedas hacia la punta. Cambia las bolas cada dos horas. ¿Forrar la parte exterior también ayuda?
+##Otros trucos:
+- Introducir la boquilla de la aspiradora o secador (poca potencia).
+- Llenar un recipiente con arroz crudo. Que entren los zapatos de costado. Tápalo y déjalo de 2 a 3 horas. ¿Y luego el arroz no se puede consumir?
+- Evita el uso del microondas o el horno. ¿Y un radiador? Recuerdo que el Sol no era la primera opción.
+####638superrenacer sentido del 8 de Marzo día de la mujer dormir lo suficiente usar toda la cabeza a la vez cansarla con intuición.txt  
+####639superrenacer ser exitoso significa encontrar tu propósito en la vida Puedes hacer tests espirituales Hasta entonces tu corazón es tu guía Nunca dejes que lo sea tu hemisferio izquierdo.txt  
+####640superrenacer superando la programación de la escuela respecto al dinero.txt  - Si te quejas de lo mal que te va, no tendrás éxito:
+* Las "escuelas fábrica" de las élites obtenían gente dócil. No ha cambiado nada en esencia, sólo que ahora se adoctrina mucho, no basta con que aprendas a calcular.
+- La zombificación (los villanos de las pelis suelen ser ricos, ¡no los odies, entiende lo bueno de los demás, y atraerás más de lo bueno! El dinero debe ser considerado "carburante", al menos este 2.023):
+* La publicidad nos hunde en las deudas (no sabemos ser felices). Nuestra familia, en la ignorancia (creencias negativas...).
+* Somos diferentes (misión de vida), y cada uno tiene un tipo de programación (7 primeros años de vida).
+####641superrenacer tertulia 4 jóvenes buenos En Tierra de Nadie.txt  - Ganas "inteligencia robótica" con la mayor parte de los estudios oficiales, y ahora recelo un poco de "los robots".
+* Casi todo el mundo tiene 2 traumas por resolver, que los vuelven asperger / trabajadores maniacos (Hamer, NMG). Los sabios tienden a la vagotonía, al haber resuelto los traumas, las represiones...
+- Malo: mirar hacia fuera todo el rato, memorizar Química en vez de sacar Física como siempre, con sólo asistir... Llenar bien los huecos de color (con ceras) y tener buen pulso, es lo de menos para hacer dibujos expresivos.
+* ¡Profes, nada de meter "el temario" a los alumnos, que usen Internet para buscar lo que quieran (claro que, la información oficial y la mentira son hermanas)! ¡Que se tomen un año savático los estudiantes!
+* El profe dice sí en un curso, y luego viene otro y dice no, y se pasa al resto de cursos ("cadena de montaje"). Las élites transmiten lo que quieren.
+- Si nos segmentan en grupos, saben qué tecla tocar para activarnos negativamente.
+####642superrenacer valor honestidad compromiso hacia mí implica hacia los demás vs miedo resistencia control lucha contra la vida implica contra los demás.txt  
+####643superrenacer zapatos lluvia recuperar.txt  - Seca el exterior con tela suave y absorbente, después con un cepillo para zapatos (de piel o de gamuza), elimina el lodo...
+- Coloca los zapatos de lado (va a permitir que el aire que corre llegue a los lugares más complicados).
+- Una pasada más con el cepillo. Después aplica crema para zapatos (o un acondicionador de zapatos) para evitar que la piel quede muy seca y que comiencen a aparecer grietas. 20 minutos para que todo se absorba bien.
+##Si lo necesitan, puedes pulir tus zapatos para que recuperen su brillo original (nunca lavadora).
+##Lugar lejos del sol y muy fresco, donde el aire pueda entrar para secar todo más rápido, se recomienda también papel de periódico dentro para absorber la humedad (retira las plantillas para secar aparte, y los cordones).
+##¿La grasa de caballo puede hacer que los recuperes?
+####644supersalud fuera del cuarto Cortinas y colchas negras atraen de todo también lo oscuro incluida la pobreza todo claro mejor Objetos con espadas o tijeras o similar La silla invita al mal Recibos Desorden.txt  
+####645supersalud insomnio + despertante y duermes menos uno por menos uno es uno.txt  
+####646supersalud me he afeitao mal y lo he soportao.txt  Me he afeitao mal, y me he dicho: olvida las críticas de cierto Virgo je je, y haz frente a todas las veces que te has afeitao obsesivamente.
+####647supersalud muelas pasó algo raro.txt  Los dientes que me dolían, pasaron a dolerme el triple, y vomité, y pasaron a dolerme casi cero (hay que tener en cuenta que algo tomé: Nolotil...). Vomitas cuando aceptas a alguien a quien no tragabas... Los dientes, ¿son de "Estomatología" no?
+####648supersalud NO hay gente floja sólo gente que no ha encontrado cosas sabias que hacer de forma sabia sin excesos En cambio hay gente que hace cosas no sabias de forma no sabia pero que está tontamente entusiasmada.txt  
+####649supersalud no hay que perder el tiempo aclarando rumores que piensen lo que quieran si no se puede razonar con ellos.txt
+####651supersalud por si no estaba.txt  La ambición negativa la mayor parte de las veces está originada por la frustración y similar.
+####652supersalud supongo que nadie ha muerto por recargar botella plástico pregunta Son realmente tan peligrosas estas botellas ligeras o quieren meter miedo Mirad el hombre que se comió una avioneta en unos meses.txt  
+####653supersocio IA pregunta 7 de cada 10 empleos caerán y habrá burbuja borsátil Invertir en las empresas que sepan beneficiarse de la IA para la productividad Nvidia produce chips pero no es de esas Bonos no preg Y agricultura.txt  
+####654supersocio La gente avanzada ve mejor a la gente tóxica pregunta Tú ves a quien manipula y es bien considerado Cuidado con quien NO se expresa con AUTÉNTICA afectaciñon emocional.txt  
+####655supersociología alguien sutil y alejado de lo intelectual sufre a ciertas personas y sabe lo que sobra.txt  
+####656supersociología animar la psicópata a escribir sus memorias poco le queda la sociedad mejorará y no tendrá hueco.txt  
+####657supersociología ante el acoso de un vecino.txt  - Que se vigile y/o persiga a un vecino con el fin de intimidarle o coaccionarle.
+- Establecer contacto en contra de la voluntad del vecino acosado, incluso a través de terceras personas.
+...
+##Hablar con el resto de la comunidad para tratar de unir fuerzas y lograr una visión coherente que haga recapacitar al acosador/a. Es la vía menos traumática.
+####658supersociología barbudos.txt  Un estudio realizado por el profesor Richard Wiseman, de la Universidad de Hertfordshire, reveló que los hombres con barba son percibidos como un 38% menos generosos, un 36% menos afectuosos y un 51% menos alegres que los bien afeitados. ¿Y los hombres con barba cuidada o la barba larga "de sabio", no de "macho"?
+####659supersociología cantos de manifestación.txt  Yo no voto a psicópatas integrados, ¿por qué quedarnos tranquilos cuando enfermos mentales quieren controlarnos? Otro: la huella de carbono - te quita libertades - no seas tonto.
+####660supersociología convivimos a diario con nuestros vecinos los psicópatas integrados matan hablando o estando con ellos.txt  Me influye que la gente de la EOI de Mieres sea algo inconsciente (no ven a los narcisines / psicopatines que matan gente allí mismo; al menos una de las 2 conserjes que murieron, estaba enamorada del psicopatín, que pasaba frecuentemente por Conserjería). El asesino se especializa en ganar batallas dialécticas usando trampas.
+- La solución es decir "te amo brilles lo que brilles" al asesino bien considerado, lo de brillar es un esfuerzo que se podrían ahorrar los poco elevaos.
+####661Supersociología cuando los blancos dejen en paz África será un continente libre y potente.txt  
+####662supersociología cuando menos busques más tendrás.txt  ##Ningún placer es plenitud, sino sólo la nada. Te meten creencias y deseos para sobrevivir (no para cooperar) en una sociedad injusta, que se puede cambiar. Quieres más o ser como los demás por no limpiar tu psique, haciendo que las trampas del ego (autoengañarte) sean grandes, para no verte. Los logros externos son sólo espejismos, el logro final es interior.
+- Valorarse no es precisamente decir "mira qué bien hago este café" ("exceso de calidad", en el Medievo había 8 trabajos "registrados"), sino "soy capaz de quedarme solo durante horas sin hacer nada" o "sé acompañar a la gente" o "tengo suficiente atención como para dar la vuelta a las tortillas de patata" (la verdad, a lo mejor podríamos vivir sólo de frutos gratis y una cocina supersimple).
+##Al grano, lo de buscar acaba en lo de siempre. Es mejor desear y moverse un poco, para que vengan las cosas nuevas (lo bueno viene también por nuestro karma positivo, misión de vida positiva acorde con la Carta astral...).
+* Deseemos ser mejores / limpiar la psique (así, seremos más agraciados también). La debilidad podría definirse como necesidad de estar por encima, sentirse valorado por otros...
+####663supersociología cuando un perro va a morir.txt  Su esperanza de vida oscila entre los 10 y los 20 años. Con alguna de estas señales, debes acudir al veterinario lo antes posible (pueden darle un final "digno" si ha llegado su hora):
+- Está como dormido. No sufren desapego, buscan a su familia, porque no se encuentran bien.
+* Totalmente inactivo y dormirá mucho (¿y si es porque en Verano hay menos energía? Incluso le podría costar respirar y tener temperatura corporal más fría.
+- Deja de comer y baja de peso drásticamente.
+- Se hace pis y caca encima. NO es obligatorio.
+- Muchos padecen enfermedades con dolores: huesos, articulaciones, músculos...
+##Cuando sea su hora, abrázalo y rodéalo de sus juguetes, estate con él.
+##Bubi duerme más de lo normal, aunque de inactivo nada (si duerme por el día está sus 2 horas por la noche sin dejar dormir; eso sí, vuelve a dormir). Todavía aguanta bien el pis. Últimamente se queja cuando mi padre lo coge mal para bajar las escaleras.
+####665supersociología en la Iglesia no todos son iguales hay protectores.txt  Que quede claro que siempre hubo curas protectores, no todos son "actores". Son todos paios, Iglesia y "masones" (mucho más peligrosos, son los de la Revolución Francesa y la Edad terrible que vivimos; los sucesores en lo paio, para asestar el golpe final: gente zombi...).
+####667supersociología estrella bere número de puntas.txt  Estrella bere: 8 puntas (Rey), 16 (Rey de Reyes). ¿32 es paia?
+####668supersociología Ferreras malote vs Juez Presencia benefactor Dación en pago.txt  Poner a todos los psiquiatras y psicólogos de acuerdo contra el narci Ferreras, y si no, ¡a escrachearlos je je!:
+- Puse "¿Entonces GG (supuestamente Ferreras) es ese pobre infeliz engañadito por las creencias modernas?", y abandonó el chat (al menos por unos minutos).
+- Ferreras se inventó "ayer" en El Hormiguero un origen humilde, obrero. "Me críe en una familia de mineros" (realmente, Ingenieros de Minas).
+* Como está acorralao va a intentar hacer todo el daño que pueda a Presencia.
+- Ferreras acusó injustamente (parece ser) a Pablo Iglesias de cuentas ilegales en el extranjero o algo así, ¡las cuentas las tiene él, y actúa como un psicópata, dándole la vuelta a la tortilla!
+* Podemos le dio por to los laos (Ferreras no puede demostrar que no tiene cuentas ilegales, Pablo, sí). Pero el comunista (Podemos) controla, y es porque cree que debe controlar, ¡y el menos sabio es el comunista (al menos las órdenes de la derecha para sus votantes es automejorarse, aunque sea superficial y falsamente, echando más horas...)!
+####669supersociología he dormío 11 horas y me he levantao muy alegre y fuerte Los jóvenes necesitan más horas durmiendo así como quien no es de hemisferio izquierdo Trabajo es para viejos subnormales je je.txt
+####670supersociología inteligente y solitario casan.txt  ##Nota: monotonía y soledad de una vida tranquila, estimulan la creatividad.
+##Al grano:
+- Prefieren autorrealizarse a estar mal acompañados. Ven dentro de la gente.
+- Su cerebro se sobreexcita en situaciones sociales (es molesto):
+* Su calma / bienestar viene de dentro. Detestan que los limiten (decir lo que tienen que hacer...). Quieren gente que los entienda (sus ideas elevadas...).
+- Suelen intimidar al individuo común, al tener pocas necesidades. NO buscan la aprobación.
+####671supersociología la Agenda nos quiere ansiosos y poco inteligentes emocionalmente el robot ya pensará por ti Diálogo crítico en las casas Escuela toca fondo.txt  
+####672supersociología las personas solitarias son más civilizadas, por supuesto que sí.txt  Hay signos del Zodiaco cuya misión pasa por comunicarse, así que si veis a gente comunicándose mucho, no significa que sean idiotas / peligrosos, pero deberían respetar al solitario. Más:
+- NO necesitan validación externa o atención, y prefieren enfrentarse solos a los problemas emocionales, en vez de cacarear simplemente sus pesares (y no chismorrean).
+- Evitan ruido, conversaciones prolongadas o superficiales, tener novio / a (relación estrecha), eventos sociales a los que se supone que tienen que ir (bodas...), grupos grandes o trabajos con mucha interacción social.
+####673supersociología las vacunas en España a niños no son obligatorias Como el pediatra no informa bien los padres creen que sí pero las guarderías pueden exigir vacunas Creo que alguna es buena sí alguna.txt  
+####674supersociología manifestación Madrid 2023 06 24.txt  Ayer estuve en la manifa para explicar lo terrorífico de la Agenda 2030. Algo, algo tiene que pasar con la gente que se cree las sandeces del Telediario, y también con la gente que tiene la suerte de no creérselas, pero que "no entiende de inmoralidades". ¿La gente "de Telediario" o "no moral" tendrá shocks irrecuperables, o verá que no hay que tener miedo aunque lo material descienda?:
+- Unidad, por favor, es importante ir a las manifas (es algo simbólico muy fuerte). Los conspis creen que no, ¡pero vaya egos que tienen muchos! Debemos mejorar para que las élites mejoren. El problema no está fuera, está dentro.
+- Terminé "hasta los huevos": muy larga... La gente que aguanta mucho y "exige" a los demás aguantar... son un peligro.
+##CUANDO RESUELVES PROBLEMAS PSICOLÓGICOS (UNICA FORMA PALPABLE DE AVANZAR COMO ALMAS), ¡HAY UNA FASE DE CURA CON SÍNTOMAS: A VECES NO SE VE, PORQUE ESTÁS MUY FUERTE, PERO TIENE QUE HABER SÍNTOMAS PALPABLES CON FRECUENCIA, O NO ESTÁS SANANDO POR DENTRO (DOLORES, DIARREAS, FASES HISTÉRICAS QUE PUEDEN LLEGAR A LAS 72 HORAS...).
+####675supersociología no darle al acosador la satisfacción de sentir tú miedo y no prever situaciones negativas con él la vida es maravillosa no es para focalizarse en lo malo.txt  
+####676supersociología no lo dudes nadie en su sano juicio es decir con el subconsciente bien explorado necesita validación externa es fácil no necesitarla Pregunta quién está sano Yo no casi nadie lo está.txt  
+####677supersociología película Macario.txt  - Macario habla del materialismo y los simples negocios (basura, vamos), y de cosas que deben aceptarse (los ricos también mueren... y más cosas).
+* Habla en general, de un orden espiritual. Hay toda una clase de suerte / hábitos (o ignorancia), para tener éxito material.
+- Macario es pobre materialmente, y sueña con tener lo de los ricos. No piensa + que en comer (la necesidad), aunque hace bien en agradecer lo poco que posee (aunque agradezca sólo por tradición cristiana). Por lo menos, vive en un ambiente natural (frugalidad y naturaleza, a lo que aspira el sabio).
+* El matrimonio no confía mucho en su capacidad productiva, más bien parecen víctimas de las que esperan, que personas que creen que se merecen lo que quieren (hay que querer cosas elevadas).
+* Y empiezan a pasar cosas mágicas, que se convertiran en pruebas. Si buscas lo negro de tu psique, el Universo estará de tu parte.
+####678supersociología por qué no aceptar la teoría paiobere es de creídos gente por hacer.txt  Es sólida, y mi intuición siempre ganará a vuestra lógica. Desaprender (creencias reprimidas, teorías...) mucho es el primer paso para ser considerado buen opinador (y desreprimir incluye Hamer con problemas de tiroides). ¡Malditos habitantes de Sudamérica antes de llegar los blancos! Los no intuitivos deberían sacar notazas sin estudiar, no tienen interferencias, ni inteligencia (la inteligencia "de médium" y usar todo el cerebro a la vez cansa de veras).
+####679supersociología si piensas en mejora psicológica propia eres civilizao Artesanía o buscador de verdad eres benefactor Dinero sobras.txt  
+####680supersociología sobre la canción supuestamente franquista Cara al Sol por si no estaba.txt  ##CARa (Gru 3) al SOL con la camisa nueva, que tú bordaste en ROJO ayer. ¿Paios (Sol) de izquierdas?
+- El objetivo paio (creo que Franco no era ni siquiera de derechas, no era paio; era mejor que Mussolini, Hitler... pero por detrás, había gente paia en general) es crear un camino a la izquierda, que acabe en el Comunismo hipercontrolador (falsos judíos).
+* La ultraderecha es una forma de etiquetar a quien denuncia a los malos del sistema en España, desde los 70.
+* La exhumación de Franco (por Fran, el de "Un Salto Cuántico"), fue una venganza espiritual satánica de la izquierda (más violenta, aunque PP y PSOE son hermanos; en cuanto Sánchez deje de fastidiar todo lo que puede, vendrá feijoo...). La gente está anestesiada, no ve que los portales de Internet hablan bien del "próximo peor".
+####682SUPERSOCIOLOGÍA tzolkins mayas alguna estadística.txt  Tzolkins, ¿cuál es el propósito, aparte de demostrar la eficacia del tzolkin y poner a famosillos en su sitio je je? Han acertao con mi familia...:
+##Miguel Bosé, Alaska, Andrea Bocelli, Donald Trump o Jair Bolsonaro han dudado de la veracidad de la pandemia y alentado teorías "conspi". Toni Braxton, Robert de Niro, Lisa Bonet, Alicia Silverstone, Rob Schneider, Jim Carrey y Novak Djokovic también ponen en duda la efectividad de las vacunas:
+- Novac Djocovik. 22 de mayo de 1987. Raza = 1 Sello = 9 Tono = 8.
+- Jim Carrey. 17 de enero de 1962. Raza = 3 Sello = 19 Tono = 1.
+- Rob Schneider. 31 de octubre de 1963. Raza = 3 Sello = 11 Tono = 3.
+- Alicia Silverstone. 4 de octubre de 1976. Raza = 1 Sello = 9 Tono = 2.
+- Lisa Bonet. 16 de noviembre de 1967. Raza = 3 Sello = 7 Tono = 10.
+- Robert de Niro. 17 de agosto de 1943. Raza = 4 Sello = 16 Tono = 12.
+- Toni Braxton. 7 de octubre de 1967. Raza = 3 Sello = 7 Tono = 9.
+- Jair Bolsonaro. 21 de marzo de 1955. Raza = 3 Sello = 7 Tono = 5.
+- Donald Trump. 14 de junio de 1946. Raza = 3 Sello = 7 Tono = 3.
+- Andrea Bocelli. 22 de septiembre de 1958. Raza = 3 Sello = 7 Tono = 1.
+- Alaska. 13 de junio de 1963. Raza = 3 Sello = 11 Tono = 6.
+- Miguel Bosé. 3 de abril de 1956. Raza = 1 Sello = 5 Tono = 6.
+##Análisis:
+- Aries: 1. Géminis: 3. Leo: 1. Virgo: 1. Libra: 2. Escorpio: 2. Acuario: 1. Piscis: 1. ¡Aire gana (y agua)! Tierra... no es tan conspi.
+- Gana la raza 3 (el reformador, que a mí me suena a los de aire).
+- Sello ganador: 7. Sanación y liberación del ego. Artes, danza, nobleza, altruismo. Suelen ser terapeutas. Intuitivos. Dormido: enfermizo e hipocondríaco, incapaz de manejar la energía a su favor. Fluidez de las cosas, liberar bloqueos.
+* 9. Recuperar la memoria ancestral (quién eres y adónde irás). Experimentar el amor y la lealtad. Personas muy psíquicas y emocionales. Dormido: no controla sus sentimientos.
+* 11. Artistas, científicos y magos. Alegres, en movimiento, espontáneos, humor (bufones...), ¡fiesta! Misión: Vivir el ahora. Dormido, sin espontaneidad, miedo a vivir la vida, serio y triste.
+- ¿Tono 6? Incansables mentalmente, logran comprender el funcionamiento básico de las cosas, son dinámicos, versátiles, rebosantes de información.
+##Si han ganado los de sanar el ego, saber quién eres y dónde irás... no son mancos los conspis, y realmentew lo del covid 19, tiene pinta de mentira, para ver cuanta mentira podemos tragar.
+####683supersociología un poco más sobre la homosexualidad.txt  La homosexualidad suele buscar lo masculino, y suele haber un poco de misoginia, alimentada cómo no, por las calientapollas y el neofeminismo, y es que ahora la mujer es menos mujer. Pero de ahí a verlas como monstruos incapaces de la ternura de un oso gay...:
+- El problema de querer a un efebo, es que no tiene la cara que se merece, es demasiado joven.
+- NO sentirse mal si tus amigos ya tienen pelo en pecho y tú no, ¡podría hasta atraerte algo, sólo porque en tu familia no se da (si una familia es lo contrario a la tuya, no significa que sea buena, nunca buscar lo que no se tiene porque sí)! ¿Y el vello por vejez? Puede que no tengas mucho vello, y seas "un 10" je je, y ellos menos de un 5.
+##Y a ver si curamos a las casanovas / ninfómanas por Hamer!
+####684supersociología viviendo un día con gente normal poco comprensiva.txt  No quiero volver a fingir que estoy bien: a las pocas horas de tar con gente, quiero volver a casa, lo mío son los planes cortos, o largos con introvertidos comprensivos. Cada vez me resulta menos aceptable estar con extravertidos: muchos te quieren obligar a socializar con desconocidos. Pero fue garadable ver que pude acostumbrarme a una ruidosa tamborrada.
+####685supersociología volver o no al mundo de la Informática.txt  ¿Volveré al mundo de la Informática? Marc me dijo que iba a hacer algo parecío a programar robots. Sería bueno que la gente recapacitase y no conviertiese la sociedad en una distopía electrónica.
+####687supersuperamenaza hay mucho criticón superadaptao por ahí no crezcas rápido.txt  
+####688supersuperamenaza rito pagano satánico El Hormiguero .txt  Lo del bebé (símbolo bere) de ayer de El Hormiguero, fue terrible. Aunque fuese un muñeco, lo zarandearon, lo hicieron vomitar con golpes en el culo repetidos, y estaba el arco iris (blanco, muerte) por todas partes. ¿Estáis ciegos o qué? ¡La lucha paiobere es evidente!
+####689supersuperamenza hijos producidos por las élites.txt  Se ha demostrado una bajada en la natalidad por las vacunas, y eso abre la puerta al plan de las élites: te entregan como madre un hijo "probeta" con el código genético paterno, pero artificial / robot (código añadido), y para colmo, no tiene el vínculo materno, no ha cogido esas bacterias del nacimiento normal...
+####690supersuperren dar ejemplo de felicidad para que la gente no se pudra.txt  Él compartía sus semillas con los vecinos (sin competir): "si mis vecinos cultivan maíz inferior, la polinización cruzada degradará constantemente la calidad de mi maíz". El valor de una vida se mide por las vidas que enriquece (criticar difícilmente se hace elevadamente). Enseña a ser feliz.
+####691supersuperrenacer vivir es atreverse a que sucedan cosas.txt  
+####692supersupersuperamenaza insectos con identificador numérico tatuado de laboratorio parece ser tirados desde helicópteros pregunta A que estoy loco Cuidado con las élites somos su rebaño.txt  
+####695supersupersuperamenaza SI TE DA MIEDO UN VIRUS, ESPERA A ENTERARTE DE LO QUE ESTÁ PASANDO EN REALIDAD LES SOBRAMOS A LAS CONTROLADORÍSIMAS ÉLITES.txt
+####698supersupersuperrenacer Si malinterpretas y desconoces a los conspis y aún así insultas tendrás problemas.txt  
+####699supersupersuperrenacer tomar más leche para combatir los demonios de la sociedad.txt  Estar más dormío, ser más agradable, más vago, mejor persona, menos abrumador. Los grandes demonios se llaman rapidez, cantidad e intelectualidad (que si la unes con la cursilería...). Y de tomar café, na, yo despierto permaneciendo una hora en la cama (me llena de sexualidad; el disfrute, al final, es con lo gratis, como la brisa, el descanso, la soledad, la oscuridad...).
+####701supersupersupersociología frase de Sagi sobre grupos y creerse algo.txt  - Nos dividen con etiquetas (izquierda y derecha). En un grupo / etiqueta nos sentimos más seguros (por LeoenPhi), sin necesidad de responsabilidad personal integral (moral, ser esencialistas...), y podemos basar nuestra valía / importancia en el grupo (cosa terrible, como basarla en tener, o en saber hacer SÍ, porque se aprende haciendo).
+* Atacando al otro nos sentimos importantes y nos autoafirmamos, y así, no necesitamos mirar nuestra parte negra, que es básicamente lo único que nos hace buena gente.
+####702supersupersupersuperrenacer Expresa tu maldad y después mejórate con manuales y expertos Da tu peor cara para ser buena gente.txt  
+####703supersupersupersuperrenacer Morrissey todos los días son Domingo.txt  ¿Quién en sus cabales hace algo por gusto dentro de una dinámica de esclavo (levantarse tempranísimo, a las 5:30, para ir a la Universidad y volver a las 23:59)? Pero si todos los días son Domingo y tienes tus propios PROFUNDOS E INTELIGENTES planes...
+####704supersupersupersupersuperamenaza Cuanto más consumes más esclavos creas en otros países Pregunta dependencia exterior y consumismo.txt  
+####705supersupersupersupersuperrenacer qué sabremos de nosostros mismos fuerza y delicadeza.txt  El fuerte puede caminar con delicadeza (para no hacer ruido por la noche). Pasa lo mismo con el machista, es muy débil, porque "lo delicado" en él... En cuanto un hombre llega a la segunda edad del pavo, ¡hay que sacrificarlo je je! ¡Somos "débiles" por naturaleza!
+####706supersupersupersupersupersupersuperrenacer EL GRAN ARTÍCULO DE 2022.txt  supersupersupersupersupersupersuperrenacer EL GRAN ARTÍCULO DE 2022. La gente corre por la cuarta vacuna, ¿tras manipulación mediática?:
+- Quien se vacuna voluntariamente a día de hoy, lo siento, pero tiene muy pocas posibilidades de ser una persona elevada / avanzada / sabia / profunda.
+* Los nuevos médicos: falta de vocación, empatía...
+* Ni una foto del "bicho" en todos los programas de Televisión.
+* Muertes antes de la vacuna: ¿ABOGADOS DIRIGIENDO LA MEDICINA OFICIAL, Y MÉDICOS CÓMPLICES APLICANDO PROTOCOLOS ASESINOS? "Médicos por la Verdad" debería haber denunciado al Colegio de Médicos, pero como viven de la Medicina "fría" también...
+* Inmunidad de "rebaño" es humillar a la gente (podían haber dicho "grupo").
+* SIDA: a los 10 años caducó la patente de los carísimos medicamentos, y bajaron de precio (obligatoriamente), y había que seguir ganando dinero, así que se sacó una nueva patente, y se dijo que el virus había mutado (para vender lo nuevo).
+* Dijeron que los altos cargos se habían vacunado, y al llegar al 32% de la población, van y sueltan que los altos cargos no necesitan vacunarse, ¿pero no lo habían hecho ya y sin embargo tenían pases?
+- Más:
+* El "matarratas" es a partir de la segunda vacuna, y cuantas más te pones, antes llegan los efectos secundarios (por acumulación).
+* LAS FIBRAS DE MASCARILLA (ARTIFICIALES CHINAS), NO LAS DETECTA EL CUERPO, LAS ENGLOBA (NO LAS EXPULSA), Y SE GENERA FIBROSIS PULMONAR. 
+* La vacuna de la gripe A sobró (5.000 muertos de 5.000 inyectados por así decirlo).
+* Si no se hacen públicas las autopsias, o no se hacen autopsias...
+####707supersupersupersupersupersupersuperrenacer mi sociedad maravillosa.txt  No se especializarán / serán cerrados, para que su inteligencia sea aceptable.
+####708supersupersupersupersupersupersupersupersuperrenacer el gran favor que los españoles hicieron a América.txt  Sé que los primeros españoles en llegar a América eran malotes (los "conquistadores"), pero igualmente, se encontraron a un montón de salvajes sacrificando BEres. Lo que hicieron los españoles fue desPAificar América, vaciarla de SEres VILes. Por eso soy del Betis, y no sería del Sevilla ni a tiros. Lo que quieren hacer las élites con España (de momento bastante blanca) es llenarla de HOMBRES subsaharianos más o menos musulmanes preparados para la guerra.
+####709traducción nobedadi noche de regalos de los be 26 Dic Esteban es de los Ban.txt  
+####710traducción una prueba de traducción Obama y Motomami.txt  Obama: O de los paios (arquitectura curvilínea, gónadas femeninas...); Ba de divinidad egipcia; ama como ana (trasero je je; voy a suponer que se pueden sustituir emes por enes). Motomami al revés es Imamotom: Imán (musulmán) + ano + ton (Atón). ¿Obligaron a Rosalía a decir ese palabro?
+####Cuando perdonas a quien te látimo, le quitas poder sobre ti.
+####Un trajeao (ni siquiera es un técnico, y menos, un espiritual) pregunta a un sabio el secreto de la felicidad eterna. El sabio le dice que está en NO discutir con ignorantes. El trajeao dice "no estoy de acuerdo". El sabio dice "tienes razón".
+####Los amigos como los libros: ten sólo los mejores.
+####Por qué tienes miedo a envejecer: reconoces que no vives la vida que quieres (es como usar mal el presente; hoy haces cosas importantes si has mirao bien en tu alma; mañana, ya se verá).
+####Qué es sentir vegüenza: aparentar algo que no eres, no usar siempre la misma ropa modesta.
+####Quienes no tienen remedio no me preocupan mucho. Estoy para despertar leones, NO ovejas crédulas y obedientes.
+####Y aprendí a desaparecer de donde NO era bien recibido. NO era un simple truco de magia, sólo un ejercicio de dignidad.
+####Si te sientes muy perdido la vida te facilita encuentros.
+####Ve despacio: donde tienes que llegar... es a ti mismo.
+####Si usted me conoce basado en lo que yo era un año atrás, usted ya no me conoce. Permítame presentarme de nuevo.
+####00201imagsviejas02.txt  ####renacer las ciencias naturales tras profundizar mucho. EL PRIMER TRAGO DE LA COPA DE LAS CIENCIAS NATURALES TE VOLVERÁ ATEO; PERO EN EL FONDO DE ESA COPA TE ESPERA DIOS. ¿CITA DE HEISENBERG? EL BUEN CIENTÍFICO ES ESPIRITUAL (LA VIDA EN LA TIERRA ES UN AUTÉNTICO MILAGRO, PARECE "DISEâ€˜ADA", AL MENOS, LOS PARÁMETROS FÍSICOS SON "UN DISEâ€˜O").
+####amenaza la gente cree que piensa (si los haces creer que piensan, te adorarán; quien busca que lo adoren, hablará bien de la gente. Quien realmente haga pensar a la gente con la verdad, será detestado por muchos).
+####salud poner las manos sobre el corazón armoniza (¿la derecha, antes?).
+####amenaza menos ganaderos y carne causa. JOSÉ MANUEL SOTO (NOP TAN MALO COMO SE CREE): SEQUÍAS HA HABIDO SIEMPR. Y EL MONTE ARDE PORQUE ESTÁ SUCIO DEBIDO AL ABANDONO, Y A LA ABSURDA PERSECUCIÓN A LA QUE SE HA SOMETIDO A GANADEROS, LEâ€˜ADORES, APICULTORES Y TODO AQUEL QUE TIENE (O TENÍA) EN ÉL SU FORMA DE VIDA.
+####amenaza NEFERmERAs usadas de agentes paios satánicos. LOS PAIOS LORITOS (ESBIRROS DE LAS ÉLITES, A VECES CON PICO DE METAL O SIMILAR) ENVENENABAN, QUEMABAN TIERRAS... ECHANDO AL CULPA A LOS BERE... A LO QUE FUESE (ME SUENA A LOS FALSOS ECOLOGISTAS Y EL TELEDIARIO, QUE ECHAN LA CULPA AL CAMBIO CLIMÁTICO, A LA GENTE... LAS ÉLITES MANEJAN AHORA LOS MEDIOS DE COMUNICACIÓN, 2.023). A LAS ENFERMERAS LES TOCÓ CUMPLIR SU PAPEL CON LA VENENOSA VACUNA DEL COVID (SÍ, UNA POR LO MENOS, ES VENENOSA). ¿Y CUANDO LA GRIPE ESPAâ€˜OLA?
+####amenaza terrorismo sentido común. CUANDO VEA A TERRORISTAS ATENTAR CONTRA INSTITUCIONES ESTATALES Y O CONTRA GENTE DE LA CALLE, PENSARÉ QUE LAS ÉLITES NO ESTÁN DETRÁS.
+####sociología deja de identificarte con sentimientos que te alejan de la misión:
+- TIENES QUE ESTAR CONSTANTEMENTE EN GUARDIA Y SER DESPIADADO CONTIGO MISMO. O TE ENCARIâ€˜ES CON TU FORMA DE SER, PORQUE PUEDE ESCONDER MUCHOS PROBLEMAS PSICOLÓGICOS (LA PERSONALIDAD ES UNA MÁSCARA, SE PUEDE DECIR).
+* CUANTO MÁS TE OBSERVES NEGATIVAMENTE (PERO COMPRENDIÉNTOTE, Y A LA VEZ, QUERIENDO CAMBIAR), MÁS CERCA ESTARÁ DE TU YO AUTÉNTICO, DEL ALMA Y SUS DESEOS / MISIONES.
+- MUCHAS VECES, SE CONSIDERA LO MALO COMO UNA CUALIDAD, Y SE LE CONCEDEN NOMBRES COMO PASIÓN, CARÁCTER...
+####Era Acuario: pueblo vs tecnocracia de control.
+####Coaching no iniciático (de limpiar la psique vamos). Busca "que estés forrao" y vuelve locos / angustia a muchos clientes.
+####Energía escalar: choque entre contrarios (los iguales no producen nada) produce vórtice, ¿gracias a los neutrinos / éter? ¿Y vienen i-fotones del 1 al 9? Mmmmm.
+####PROSPERIDAD (crecimiento constante). Hay gente que ya nace con estrella para alcanzar lo material. Los neuróticos lo tienen un poco más difícil, son más civilizados (almas más avanzadas, más inteligencia emocional o razonamiento...), pero más negativos (misión espiritual mas difícil).
+- ¿Con qué creencias limitantes asocias al dinero? Pensar positivo para no repeler.
+- DE INTROVERTIDO A EXTRAVERTIDO.
+* Una ansiedad limitada aumenta la productividad: puedes decir "si no lo hago...", o esperar sentado con ganas (visualizas con emociones).
+* Estar dispuesto a ver cosas nuevas. Poco a poco, te sientes cómodo.
+* Haz algo sin planear, algo que podría ser nuevo y con aventura. Mirar el reloj poco.
+* ¿Cómo romper el hielo? Preguntas abiertas (¿qué te mola? Nunca "¿qué haces en la vida?". Es superficial lo segundo), para que la otra persona pueda hablar de sí misma sin corsés, y disfrute también. Hay más posibilidades de socializar en lugares no sobreestimulantes o sobrecargados (las multitudes generan energía negativa por lo general).
+* Únete a clase de ejercicios (taichí...), club de politólogos, grupo de teatro...
+* Concédete un tiempo sin socializar, para recuperarte emocional y mentalmente. Regálales a tus amigos unas palabras de vez en cuando, pero deja claro cómo eres, y que no quieres perder el tiempo. Di si te lo pasas bien, si estás cansao...
+- Orden de la habitación (criterios): lo que más uso, lo valioso (to junto para salir de casa "con todo" en 10 segundos si hay incendio...).
+- Sin erotismo, la forma de desear cómo sentirte, podría ser visualizar, poner la emoción que tendrías en esa situación (seguridad...), decir lo que vas a hacer (quiero estudiar Alemán mañana con seguridad) mientras visualizas y sientes.
+* ¿Con erotismo?: ¿a la vez erotismo y sentir futuro? ejercicios eróticos (moverse sinuosamente...) para guardar energía... ahí abajo je je. Una vez almacenada , mandarla al "ser" (p'arriba vamos; junta las palmas si quieres, y "escalofrío y p'arriba"). Antes de dormir es el momento, porque mientras duermes, todo se organiza.
+####Sexualidad y familia:
+- Pongamos que antes la mujer mostraba menos e insinuaba más, ¿NO era esto más sano (ahora mucha gente sólo quiere golfas, y sobran; sonríen y NO se ven a sí mismas como terroríficas sin inteligencia avanzada)? Nota: tanto la ninfomanía como el casanovismo son 2 conflictos de Hamer.
+- Sobre tener hijos: los niños tienen que mamar, y estar con su madre hasta los 8 años (no ir a la Escuela, para NO pillar traumas de abandono, que desencadenan piojos: NO lo explico).
+- Homosexualidad (¿cuenta que Tauro y Escorpio se sientan atraídos por naturaleza? ¿Cuenta que el sudor masculino atraiga a otros hombres?). Si quieres cambiar (ya has resuelto el trauma de homosexualidad de Hamer, sea leve o grave, y yo creo que el ser gay tiene que ver con una "muerte" cuando tienes menos de 8 años, y NO identificarte con tu padre por ser un machista... O con los amigos. ¿Y ser lesbiana?):
+* Ver vídeos un tanto picantes (NO mucho, na de ropa porno).
+* Enamorarse de almas (las de ellas son bonitas, aunque quieran cosas materiales, exijan, se pinten como payasos, y las hormonas...), y luego va el cuerpo. ¿El hombre de hoy tiene cara de peluche femenino, y la mujer, de luchadora masculina? NO, son sólo unos casos.
+* No seguir buscando figuras paternas. Mi padre es lo mejor que me ha pasao, era lo justo pa mi misión espiritual, y además, sobrevaloraba al resto de hombres mucho mayores que yo.
+* Aceptar que el David de Miguel Ángel es bonito, no sexy. Y si te empalmas, pues lo aceptas igualmente. NO reprimir la femineidad (o tendrás una mujercita reprimida en la psique, y te comportarás como un idiota).
+* Si tus amigos te parecen antediluvianos, es su problema, tú, identifícate, eres igual, eres hombre, y "mejor".
+* ¿Te pillas a una mujer y los 2 intentáis sentiros eróticos independientemente? Lo que pase después...
+* No pilles gustos de mujeres, por mucho más razonables que te parezcan.
+* Fuera el Batman musculoso, ¡ha creado muchos complejos de imagen! Tauro tiene tendencia natural al bello y la corpulencia, pero NO es lo más sano y NO significa nada (bueno, sí, que si se enfada...).
+####003notas0103.txt  ####Ficha técnica del clan (todos contra el resto) del Club Ciclista Figaredo:
+- Son un clan, por lo tanto, pienso más en salvadores que en verdugos.
+* Sin embargo, Eduardo Antonio parece ser verdugo a veces, insultando a Félix (cobarde). Tiene pinta de Apolo, de pensar que mola a todo el mundo por su imagen; y prácticamente sólo hablaba de dinero por la noche (y del pasado), y eso me exasperaba; pero cuando le decías (indirectamente) que cerrase su cortijo privado para fiestas (el Club Ciclista), que no podíamos dormir, ya que por el Verano había que hacerlo con la puerta abierta, tanto él como su mujer de "aquí encajo, da igual que sea de gángster", seguían hablando, se creían algo y yo era el necio; muchas veces inclumpieron la ley, cerrando supertarde, y sus invitados (amigos di merda) decían a la poli "no es la una, puedo gritar lo que quiera". Acabé diciéndole que estaba gordo e iba a morir, nos tenían fritos a inmoralidades: luego se victimizaban contándoselo a todo el mundo.
+* Quizás sintió que yo podía pertenecer al clan (y me dijo "vas a cocer" cuando me vio tomar el sol en el corredor, NO por odio, como dijo mi hermano mayor). Eduardo Vázquez Prieto pertenece al clan y hablábamos (la terrible Eva le maneja el Facebook, porque me vetó; Eduard NO haría eso, ni daño a Eva, una cobardía). Lo peor es que EAntonio pensaba quizás que yo salía al corredor por motivos sociales (y era que esperaba a que "acabasen" pa dormir). Hay que ser mu tonto pa que Escorpio salte (salta ante los inconscientes, es el "moralizador" del Zodiaco).
+- Más:
+* CUANTO + RISUEâ€˜OS, Y MÁS BUENOS SENTIMIENTOS, MÁS ENGAâ€˜AN A LA GENTE. Como mínimo, materialista (ese cuerpón viene de su psique), hedonista...
+* ¿Sabéis dónde van los ciclistas? NO van al club ciclista, van al Centro Social. Los cafeteros van al Centro Social, los borrachos y drogatas, al Club.
+* El "mira lo que sé hacer" o el "acumulo conocimientos o experiencia, y por eso soy mejor", son superdañinos, y nos sumergen en el mar superficial de los peores Tauro y Géminis.
+####Educativos Facebook.
+##¡Jo!
+- ¿Dónde tendré lo del EFT básico para reaccionar con menos intensidad negativamente (al sonido de un uña contra el encerado...)? NO lo aconsejo mucho, aconsejo tener dolor y desreprimir.
+- No encuentro el texto del vídeo de hacer un turbante! ¡Los turbantes son la respuesta al calor!
+##Medicamento: Baalín. Las estructuras sociales (2022) son del agrado de las élites. Ellos son satánicos, adoran a Baal, y tú les sigues el juego. En una aldea gallega cualquiera (voz de la marca Acme, de La Warner Bros.), un niño enfermo y su abnegada madre católica practicante:
+- Madre: Estás ardiendo hijo, hoy te quedas en casa.
+- Hijo: ¡Qué faena no poder ir a la escuela, echo de menos el sistema!
+- Madre: Nun te preocupes, que ahora tienes Baalín. Voz de la Warner: Baalín, pa cuando estás malín.
+- Madre: Esto sustituye al sistema. ¿Recuerdas los 3 vapores de Baalín (parodia de Vicks Vaporub)? Uno, idiotiza. Dos, abre un portal anunnaki para que Baal baje. Y el último te obliga a ver la tele.
+- Hijo: ¡Qué pasada! ¡Qué moderno!
+##Acertijo cantado sobre el logo de unos centros comerciales. "Son gónadas, un falo y 2 testículos, una flor de lis, o un alien gris (quieren que pensemos en aliens, pa despistar; o los posiblemente inexistentes grises, tan serviciales y "de hemisferio izquierdo", son como quieren que seamos)". Las élites, altamente machistas y fálicas, han creado el feminismo standard, y se ha adherido muchísima gente inconsciente.
+##De Hueso Ancho (original o 2016): tú proyectas sobre los demás (reaccionando mal) cuando has rechazado / reprimido algo (por ejemplo, la delgadez; quizás sufriste la guerra y viste mucho cuerpo enjuto, o tus padres te metieron la creencia de que estar gordo daba una imagen terrible a los demás...), y entonces "te da repelús" cuando ves a los demás flacos. A lo Depeche Mode: mi padre es hueso ancho, mi abuela es de hueso ancho, mi tía es de hueso ancho,y todos lo dicen tan panchos. Y a más represiones, más preocupación por dar una imagen, y también más maldad (vives manejado por las represiones, pensando que eres bueno).
+##Una fantástica definición animada de psicópata (deficiente moral) con un videojuego: Astromarine Corps. En la fase 6 (parte 1) salen soldados aliados del protagonista, que no son peligrosos, ¿que no son peligrosos? Algunos psicópatas se camuflan como si fueran aliados (y son realmente dragones malos). Te recuerdo que el psicópata convence a cualquiera aunque no sepan hacer la o con un canuto.
+##Pacto, pacto mortal, nadie sobrevivirá, se ha hecho un pacto mortal. ¡Imagínates que las élites deciden por ti con sus pactos!
+##Comer niñera. Las élites quieren que los niños "sean suyos", para poder educarlos como robots obedientes (la tele...). Un tiburón de peluche canta: me he metido en la bañera, y he matado a la niñera, ahora cuido de sus hijos, ¡comer niñera, salteada, con especias!
+##The boy is a men (original o crooner; mi hermano mayor coge la tapa de una cazuela, y la acerca y aleja a / de la oreja, lateralmente: the boy, the boy, the boy, ¡is a men!). NO, los adolescentes NO son hombres, para serlo hay que desreprimir mucho, y el adolescente es por naturaleza ignorante y creído (sigue acariciándole la cabeza, que no busque ser adulto / imitar / dar imagen; antes, por lo menos, entraban a trabajar pronto, y eso los hacía más modestos, sin tontiProductos para ellos).
+####032notas0214.txt  ####El vecino Pablo. Sobrino de María Oliva, que le adora (o adoraba). Bueno, MO puede encajar en la categoría de clanista ("los míos son los mejores"), y quizás en la de consejera compulsiva (la vi metiendo su boca en la oreja de una anciana a la que estaba acompañando / aturdiendo). Podría ser Libra (se muere por relacionarse, y los demás por NO relacionarse con ella, al ser histérica, pasional y dominante, lo que nadie sano al 100% quiere en una mujer), porque quiere harmonía (para ella la harmonía es que todos sean iguales, y si es a ella, mejor). Podría tener autofobia (miedo a estar sola), lo cual me daría la razón al pensar yo que ella critica a los demás porque tiene miedo a estar a solas con sus pensamientos, con ella misma. NO para de pensar: soy una buena vecina, y tú una mierda. Creo que cierta gente con misiones sociales y poco elevados, mejor desaparecían de la faz de la Tierra. Y tiene nariz ganchuda (le llega casi a los labios: muy "apasionada" por el dinero).
+- Pablo siempre se había sentao en el bus para criticarme, ¿todavía eres becario (tortura para reafirmarse)? Yo pasaba el mal trago, y ya estaba (pero si tenía un Mercedes, seguro que se reía de mí porque no tenía un Porsche):
+* Un día Dijo con suavidad y "amor": "Gloria (su abuela), deja a pasar a Luis, que tiene cosas que hacer". Y al pasar junto a él, usó la figura de la pregunta para criticarme (con suavidad, ¡y vi que tenía algo de psicópata! Casa con el psicópata hermano mayor): "¿qué, vas a trabajar? ¿Por qué no trabajas?". La lección que me vino a enseñar es: pasa de mediocres como yo. Pero empecé a tener miedo a salir a la calle, a encontrármelo. Todo frases de desalmados (o almados mediocres).
+* Lo curioso fue lo que pasó después: me persiguió durante más de 10 metros, y cuando quise decir una palabra, ya estaba mirando para otro lado como diciendo "tu opinión no importa". Y su personalidad es masculina, sin profundidad...
+- La familia son víctimas del narci y, o se narcifican (¿María Oliva? ¿O es ella la narci?) , o se hunden.
+* Su padre huele a manipulado por Pablo. Ya cuando tuvo problemas de huesos y fuimos todos a su casa a verle jugar al Airwolf II y decirnos que no sabíamos, su padre parecía tener alguna especie de debilidad / lacayidad. JPM me llamaba mutante, y cuando se lo dije a él afectuosamente, puso cara serio. ¡Nos llamaba mutantes para autoafirmarse!
+* Viaje de estudios. A lo mejor tuvo algo que ver con que mi mellizo se abriese la cabeza. Pablo le pegó de pequeños también. Ahora, de adulto, quiere proyectar buena imagen.
+####Y el vecino de abajo (TPL) es intimidador (sin que los inconscientes con los que trata se enteren) y teatrero (soy un pobre...) que debió de conseguir con facilidad la minusvalía (teatro), cuando el TPL se cura en un santiamén buceando un poco en el pasado. Y su mujer, oculta la naturaleza de él, y ¿está empezando ahora a darse cuenta de que es un sinvergüenza? 
+####Pet Shop Boys, Pandemonium, Youtube (cuenta de Helber Morais): de tanto imitar a la tele, una mujer se fragmenta (no puede alcanzar "tanta perfección").
+####NO tomes drogas, ni uses mucha energía electromagnética (debilita, sobre todo las facultades de "ver lo sutil, lo profundo"). El éter es lo inteligente para las aplicaciones al final, la energía escalar.
+####Dinosaurios, "aliens" (espíritus de baja vibración, cabezas alargadas...):
+- Cosas de Marco (La Última ReEvolución). Los dinos y los humanos convivieron. Lo piensan los muy ignorantes y los sabios. Los del medio, por lo general, piensan que NO (año 2022). Pruebas a raudales en las imágenes de 2 páginas. ¿Fueron matados por nuestro bien?
+- Partidos de fútbol: las líneas del campo están preparadas para ciertos rituales "de llamada".
+- Los brujos yaquis creen que el "predador" (¿babosas mentales y eso?) nos dio su sistema de creencias.
+- ¿Los espíritus negativos (aliens, demonios...) pueden crear realidades virtuales (HAL) para que creas que has sido llevado a una nave...? Se sospecha que estas entidades se manifiestan como la gente normal espera / se imagina que sean.
+* Karla Turner, la persiguieron. Debía de saber mucho, ¿nuestro alma en un contenedor sutil y nuestro cuerpo con otro alma?
+- GATOS: guepardos, leopardos, pumas, gatos... NO pueden retraer las garras. Son, ¿de fuera? Sensibles a la música, al agua, y con una extrañísima y honda mirada, y un cerebro relativamente grande para su peso. Limpísimos, y al levantarse se estiran en una postura copiada por los yoguis.
+* Tienen lenguaje como monos y delfines: gemidos, ronroneos, gruñidos, lenguaje corporal, y vocalizaciones.
+* Animales y plantas usan la telepatía.
+##Los rollos del mar muerto fueron escritos por la secta Zaddikim, ¡satánica! ¿Y el Nag Hammadi, es semibere por lo menos?
+##Varios:
+- A veces es bueno haber aprendido a leer BIEN (sin tarjetitas con imágenes) antes de entrar en la escuela.
+- Creo que se han parado varios conflictos bélicos para celebrar los Juegos Olímpicos (para "dar de comer" a "los entes").
+- Al psicópata le interesa un pueblo conformista con lo cercano (pero debe sentir pena por conflictos lejanos), con entretenimiento, y dócil a partir de la frustración que producen las noticias del Telediario.
+* La gente se suma a un grupo propuesto por las élites (hinchada de fútbol, letras, ciencias...), por miedo de ser rechazada (seguridad, seguir al rebaño). Mucha gente querrá reafirmarse en el grupo extremándose. Busca críticas fuera de tu grupo, y si eres flexible, te harán cambiar de opinión.
+- El CO2 y el vapor de agua acaban entrando por los polos. En el centro de la Tierra hay un colapso, y de ahí sale CxHy (hidrocarburos). Cuando se encuentran rocas... se crean lagos. El lago se vuelve a llenar. Las élites lo saben, pero nos dicen que es difícil de extraer... El petróleo es renovable y además reciclas.
+* En el manto las condiciones son más favorables (¿uvas como puños?). Océano interior enorme.
+- El Instituto Smithsonian admite haber destruido miles de esqueletos humanos gigantes a principios del Siglo XX.
+- CO2 + H2O + luz (fotosíntesis) = C6H12O6, lactosa. La lactosa la usa la homeopatía, y cuando tomas la medicina, tomas "información".
+- ¿Ya hay nuevo Pindar (fecundador paio) = Macron? 
+- Elpidio José Silva fue capaz de meter en la cárcel al banquero Blesa. Elpidio fue destituido. Los ucos (semiberes) se cargaron a Blesa. Los Ucos se habían cargado a Bill (Villar, presi de fútbol español).
+* NO descarto que trump sea Uko.
+- ¿Ha formado parte Pablo Iglesias del programa de captación de jóvenes talentos de la CIA / dominicos / 888? Ha aprendido a mentir a la perfección (curso de adiestramiento).
+##Me he afeitado mal, todo un éxito. Me quedaban pelos por afeitar, ¡y los he dejao!
+##Aficiones: estar en la naturaleza y escuchar mi voz interior (y mis reacciones NO deseadas, pa mejorar la psique).
+##Definiendo la India en una palabra: locura. Antimaterialismo (es extremista) es malo. La escultura de un águila vencida en el país paio de la India.
+##Los que jugaban bien en las máquinas de los bares: me da la sensación de que tenían pocas barreras materiales que superar, por lo que son, en general, almas jóvenes / gente visual. Cuando eres narci, confías en tus habilidades.
+##Lo "robótico" / "científico" (quemarquen la pauta los intuitivos e introspectivos / "sabios") hace la sociedad mucho más injusta para la gente con inteligencia integral. Y los que se adaptan, terminan siendo "robots de cabeza fresca".
+##Por qué altas temperaturas en costa asturiana. Cuando agua dulce se junta con agua salada, hay ahí una cuestión "osmótica" (de equilibrio de sales). Se produce entonces una entalpía (calor... Por Raoult), ¡y puede subir la temperatura! ¡PORQUE DESEMBALSARON ADREDE! Sor Batación la monja (solbatación).
+##Cambiar lo material sin cambiar lo psíquico, es una ilusion creada por engañadores de dedos rápidos.
+##No has conseguido tus metas, te sientes frustrado, y te da por controlar a tu entorno, criticándolos sin razón. NO quieras ser útil sin limpiar la psique, o la fastidiarás.
+##El arte y el baile (erotismo, curvas) son más bien femeninos. Mejor NO pautados.
+##Admiramos a gente más bien energética y alegre (Perico delgado...), que no siempre es muy profunda.
+##Si hay que discutir con una persona poco profunda, puedes parar con un "eso no es constructivo".
+####013notas13.txt
+####014notas14.txt  ####Varios (muchos tramos de "varios" hay):
+##ficha técnica del típico vecino psicopatín. Necesita estar por encima de los demás (en videojuegos...). Suele camuflar los complejos de inferioridad con complejos de superioridad. De peque, puede pegar a los demás (orirar piedras), pero pronto aprende que unas palabras bien hirientes, camufladas con "saber estar".
+- Cuando la gente empiece a ver la expresión de debilidades como oportunidades de mejora... se les verá más el plumero.
+##Ol Alexandro (Energys).
+- ¿Cómo se encaja en un sistema que se rechaza (porque piensas por ti mismo)? ¡No se puede (y si te rechazan los inconscientes, es un alivio, NO un rechazo)! A menos que te traiciones a ti mismo. ¡Pero se puede presentar una alternativa (como el escorpiano crecimiento de uno mismo)!
+- ¿Por qué tanta gente todavía no despierta? Porque la realidad es una pesadilla. Prefieren seguir aletargados por falta de honestidad y valentía, pero entonces, ¿dónde queda la dignidad? Si pudiendo optar al libre albedrío, el ciudadano se somete a la falsa libertad del Estado, que crea individos "reducidos" / robot (en Verano, vacaciones, bip, bip).
+- Miedo, odio y violencia son cuestiones aprendidas la mayor parte de las veces. En las escuelas NO muestran cómo averiguar quiénes somos (y somos diferentes, y hay que aceptarlo, y quitar lo malo pegado por la familia) y para qué servimos en nuestra sociedad. Nuestra vibración exterior debería sentirse en la sociedad, y no al revés (el "bullicio" y la competitividad, ahogándonos).
+##Ol Alexandro ser dignos es nuestra responsabilidad. ¿Y si consideramos cierta sumisión a la energía cósmica que nos define, pero nunca a imposiciones de ley o fuerza (y lo normal NO suele ser elevado)? Con la libertad de criterio (NO sistema escolar...) te mantienes más animado, mejor informado (eso te acerca a la responsabilidad con lo que importa).
+- Mucha gente vive una vida miserable, atrapada entre el aburrimiento o el exceso de acción... Vibrar va más allá de la emoción. La ovación del público durante un evento deportivo, es una emoción generalizada. Pero no es vibración (la música REAL, sí, por ser harmónica, hacerse con amor...).
+##Ol: "soy un arroyo en ahora. Siento las ramas extendidas del árbol que soy".
+##Efecto pigmalión: en la educación suele sacar más nota aquel sobre el que hay expectativas positivas (nada de "tú, a la mina, que no vales pa otra cosa"). Para ayudar a una persona, cree en ella. E ignorar a quien te pide orientación, puede hacer fracasar a esa persona, ¿mal karma para ti?
+##La felicidad vuela de puerta en puerta, y dice, "¿alguien me abre?":
+- El alegre hace ruido en su círculo de alegria, y NO escucha (como la felicidad golpea tan suave...).
+- El que suspira sus penas: "no la dejaré entrar, la vida no puede ser tan fácil".
+- Los ricos piensan que llama la pobreza.
+- Los más cerrados, temen que sea la muerte.
+##SUPERAMENAZA INCENDIOS DONDE CONSTRUIRÁN PARQUE EÓLICOS.  
+##Putin podría ser la reencarnación de Omaitzoi, el paio sanguinario. ¡O NO!
+##La gente intelectual y con cabeza fresca nos está mintiendo a todos con sus capacidades, ¡no son integrales!
+##Los siglos 19 y 20 fueron el gran declive de "lo humano", y fueron de tierra, así que nada de buscar la salud (porque depende de la psique) o la superespecialización (que 3 meses sea lo máximo para trabajar satisfactoriamente en la gran mayoría de los casos, ¡maestro / aprendiz, no escuela!).
+- La felicidad (que me gusta más que el bienestar como concepto elevado), tiene que ver con estar en el momento presente, sin necesidad. El bienestar (superior a la comodidad), requiere de salud, y la salud, de la psique (Transgenealogía, Hamer, Jung...)
+- Poner cara "bueno" y "simpático" es casi como poner un cebo narcisista.
+##NO hace falta que seas útil, sólo eres útil en ciertos periodos... Y así, el fuerte es el que NO hace por hacer.
+##Jung: el sexo sólo puede alcanzar el equilibrio y la armonía pura en un ámbito religioso, esto es, cuando cada participante reconoce el valor y la riqueza del otro. El hombre agresivo y reprimido reduce el sexo a un acto meramente físico (pareja = objeto).
+##El fanatismo viene de la duda ("NO estoy seguro de ser un hombre"), por sobrecompensación.
+##Los médicos en general, me parecen peligrosísimos, al no aceptar que la psique (psicología NO universitaria) impacta en el cerebro, y éste, en el órgano. Y NO olvides que Escorpio huele la inmoralidad, es buen psicólogo.
+##Que eres inmaduro, ¡pues casas perfectamente en nuestro grupo de ingenieros je je!
+##Intelectual (que NO sabe enseñar, de cerebro izquierdo; quiere que sepas de algo, y lo importante es saber pensar e intuir / sutilizar), ¡NO tiene derecho a criticarte!
+##La gente debería defender la vida sencilla / sabia, por encima del reconocimiento ajeno. Quizás así habría menos préstamos que pagar.
+##Definiendo el mal: simple búsqueda de triunfo, atención por vanidad, comodidad, posesiones, conversación no profunda, perfeccionismo (sobre todo cuando lleva a la competición), ocupar el tiempo, ser tibio / ocultar.
+####015notas15 con Inglés al final.txt  ##Cuando seamos personas seremos más vagos (al curar enfermedades / fase activa) y comprensivos. Nos arrastraremos para llegar al trabajo (si sigue habiendo). La hora de levantarse, ¿las 10:00? Y si alguien recibe mucha ayuda, es señal de que debe recibir enseñanza gratuita de actividades. Seríamos familia todos. La gente buscará parejas inocentes y con gusto por la soledad y la introspección, la tranquilidad...
+##NO es "qué sabes hacer" (eso es de gente que se sobrevalora, o inconscientes), es "qué sabes enseñar gratis y con gran empatía, intuición, paciencia y estructura".
+##Si no eres profundamente crítico con los amigos (son lo que te tocó) no puedes ser comprensivo (son 2 caras de la misma moneda).
+##Cristín Lagarde no encarna valores humanos, no tiene na de femenino. Arriba estan los patriarcales. ¡Siiii!
+##¿Los 3 pasos son estos?
+1. Crear alianzas entre potencias para acabar con la producción de bienes necesarios: "NO, es que NO hay grano para hacer pan" (mentira).
+2. Les pedimos una solución, y nos dan la renta básica (una cucaracha diaria, ya NO hay campo, era malo pa'l cambio climático), y empieza el carnet social por puntos (dictadura; derecho según sumisión), al acabar el dinero físico.
+##Tu intención será buena cuando limpies la psique.
+##Los que llaman "moros" eran blancos Kristianos (Carestiu, Pablo) anticatólicos (CUtolic = los paios de la ciudad).
+##Los tibios "van al Infierno": pueden ser indulgentes con aspergers pesaos y con narcisillas, ocultan información, suelen ver el trabajo bien (por cierta sumisión). Cuidado con los que suelen NO decir lo malo del otro para conservarlo.
+##José Millán:
+- Saturno en Acuario: control social por tecnología.
+- Saturno en Piscis: en parte, realizar sueños sociales (abrir puertas a los "repudiados"...).
+- Capri eleva al pueblo (Cancer) hasta Acuario, para tener una mejor perspectiva, y "lanzarse en parapente acuariano" con "hoja de ruta".
+##La persona a la que le duelen los dientes suele tener dificultad para decidirse, por no analizar bien las situaciones. ¿Impotente e incapaz de defenderse en la vida? ¿Estrés?
+##En ocasiones, un niño superdotado puede padecer también el Síndrome de Asperger, pero los padres y profesores identifican antes la alta capacidad, y pasan del Asperger.
+##Nietzshe te deseo lo peor:
+- ¿NO entré en Oviedo Universidad (aunque sí en Gijón) por mi misión de vida (tal vez, de haber triunfado en el terreno laboral, me habría alejado de mi misión)? El NO tener a mi madre ayudó a que NO encaje / NO triunfe / NO sea un robot, ¡bieeen!
+* Nietzshe deseaba lo peor a sus seres amados (para que aprendiesen a ser más felices; el sufrimiento es una oportunidad). NO controles tanto, la gente (mala o NO) se cruza en tu camino por algo.
+##Justos (van al psicólogo a causa de los no justos, que se creen completos):
+- Ven que somos diferentes, con misiones diferentes.
+- Cierto aire de infravaloración. Muestran sus debilidades con cierta despreocupación, incluso con gracia.
+- Tienden al autorrespeto / dignidad.
+##Cuidado con decir que un elemento decorativo es imprescindible (al menos en su posición actual). Podría ser muy bonito y no casar (y al revés: casar cosas NO muy bonitas). Tu casa NO es un palacio.
+##Las feministas se victimizan, dicen NO a los normales, y terminan atrayendo a narcisistas que las ven como un reto, un juego...
+##Dimitri. ¿Por qué agradecer? En Europa muchos podemos comer... Vete a otros países, y ve cómo vive la gente. Agradece simplemente por respeto a la gente que NO tiene. Cuando enciendes la luz, ¿a que es una pasada?:
+- Agradezco la gente maravillosa que me rodea (en Facebook, grupo de teatro...), y estar lejos de "trabajos muy pesados físicamente" (o de intelectuales pesaos).
+* Al final del día: recapitula.
+##Evitar hablar contigo por apego:
+- Pensamos que quieren romper, y en realidad, están sufriendo miedo al rechazo.
+* Tienen miedo a perder el control diciendo lo que piensan y se acabe la relación. No saben que los conflictos pequeños (que con habilidad, se solucionan en nada) son la sal de la vida, y nos hacen mejores personas. ¿Vuestra madre os dijo que erais perfectos je je? NO pasa nada por conocer la realidad: yo sacaba dices porque estaba en fase robot.
+- El otro termina pensando que tú eres el malo, porque quieres hablar de los problemas con cierta frecuencia. Y se cierra. A la defensiva, te dicen que eres una persona problemática.
+##################Inglés. El maldito worth. It's worth trying for (merece la pena intentarlo). That film is worth seeing. It's worth a kick on my face to kiss her (me dejaría patear en la cara por un beso suyo). It's worth a fortune (o two, vale por dos).
+####016notas16.txt  ##De LeoMB e importante (leer entre líneas). ¿Si los hermanos se pelean / no cooperan, "los devoran los de afuera" (Martín Fierro el poeta)?
+##La luz no lucha contra la oscuridad. La lucha verdadera es una crítica general de la sociedad, pero sobre todo, autocrítica profunda.
+##El buen Tauro va de subir la salud antes de hacer otras cosas, no de vivir deprisa.
+##Mostrarme en balcón para quitar timidez, mentalización: acepto que cometo errores (como los demás, NO soy menos), y que tengo unos objetivos en el balcón, y que NO tengo nada que defender (desvictimizarme). Por último, si NO reconozco a alguien (por NO llevar gafas), pues NO reconozco, soy una prueba para gente NO comprensiva al 100%.
+- Sacao del muro de J. Pico: con estrés el tímido se "atranca"... ¿El estrés produce visión borrosa?
+##Aquí, una hipnosis clínica de "Doctor Mateo" para recuerdos (operación fracasada): recordar una exitosa. Imaginar que la primera termina igual.
+####Psicología:
+- A veces hay que vivir con muchas dudas, aceptándolas (y el imprevisible futuro).
+- Quiero dejarme mimar como un niño, para actuar como un hombre.
+- Hombres percibidos comoa atractivos:
+* Caras de peligrosidad en los hombres (en Escandinavia no ocurre eso, lo amenazante NO excita tanto). Y atípicas.
+* Abrazar a otros hombres y caras con rasgos femeninos (percibidos como más jóvenes): elegidos para casarse.
+* Los que más espacio abarcaban: gesticulando con los brazos o apoyándose en una mesa (territorio).
+- Placer mutuo:
+* Pasión mas intensa con la caricia más leve o el movimiento mas pequeño (incluye quietud). Mirada afectiva.
+* Respira al mismo ritmo, escuchando siempre a tu compañero. Comienza despacio. 
+* Es importante reconocer los músculos presentes durante "el orgasmo".
+- LA CARA (Julián Gabarre):
+* Una nariz cuya punta se acerca a los labios habla de atracción por el dinero.
+* Pómulos anchos: ¿necesidad de protagonismo?
+- Sólo hay adicción a las drogas cuando el entorno no es propicio y tú no eres feliz (una rata sola o "sin túneles para correr" es más adicta).
+* Si no podemos conectar con las personas (vínculos sanos), podríamos conectar con cualquier cosa que encontremos: el zumbido de una ruleta o el pinchazo de una jeringuilla.
+* En Portugal pensaron reconectar a los drogadictos con sus propios sentimientos y la sociedad. Necesitan algo por lo que levantarse cada mañana (¿escribir?), y amarlos incondicionalmete.
+- Perdón total: lo provoca el comprender al otro y la posibilidad de expresar al otro mi malestar con claridad, franqueza y respeto.
+- Está demostrado que a partir de 100 metros cuadrados o así, las casas producen más y más infelicidad?
+- ¿Es la iglesia una forma de hacer pensar a la gente lógica que la espiritualidad es una farsa?
+- Cuidado con correr muchísimo (hipogonadismo).
+- Bañarse con el padre fomenta la relación de niño.
+- Los hombres gordos eyaculan más tarde, debido a que producen más estradiol, hormona femenina. Pero son menos fértiles.
+####002aGithub00notas18.txt  - Para mí, una gran forma de rebeldía, es el sueño. Si todo el mundo se acostumbra a dormir mucho, ¡a ver qué monstruo va a obligar a los trabajadores a levantarse a las 5:00! 
+- No se puede ir por la vida negando la parte animal / "burda".
+- Andropausia psicológica (narcisismo por vejez no aceptada; pasas de inferioridad a superioridad): machista, y lo transmite a niños y psicópatas.
+-La segunda parte de las excursiones me la paso casi llorando, expulsando "demonios". Y luego sí, alegría y lo que quieras. Es lo sano.
+- Zodiaco borrachos. Aries pelea con todos, Tauro duerme en el suelo, Géminis no calla, Cáncer abraza a todos o llora, Leo arma un espectáculo, Virgo presenta a gente que ya se conoce entre ellos, Libra besa a quien se acerque, Escorpio habla de cosas raras y se ríe del suelo, Sagi busca saltar entre mesas, Capri escribe mensajes sin sentido a todos, Acuario hace de stripper, y Piscis se ríe hasta de sí mismo.
+- A veces ser perfeccionista te vuelve competitivo, y un exceso de espíritu crítico te puede llevar a subestimar.
+- EL HOMBRE ES EL PRIMERO EN SER MANIPULADO / ENGAâ€˜ADO (BRILLAR EN EMPRESAS, ABANDONANDO EL PROTECTOR BOSQUE PARA CONTROLARNOS EN CIUDADES, DONDE ES POSIBLE EL PODER DEL MALO. Ahora se lleva mucho el Erasmus universitario: quieren que te muevas constantemente para que no eches raíces / defiendas la tierra).
+* Al no poder permitirse pasteurizar, muchos ganaderos dejaron su trabajo.
+* Hay niños con hiperactividad por no tocan la tierra (déficit de paisaje).
+* Los aquelarres eran muchas veces reuniones de campesinos a los que el Estado había expropiado las tierras comunes.
+* Necesitamos dar prestigio al trabajo de cuidar que, resulta que es el trabajo más importante.
+* ECOFEMINISMO: feminismo radical, porque va a la raíz: para qué producir, qué producir, y cómo.
+- La masculinidad es algo inalcanzable (y sin hormonas femeninas, las masculinas descienden), y un constante esfuerzo (el teatro cuesta).
+- La tele da una porción de la realidad, y así engancha, y luego te lleva por donde ella quiere.
+- Las calles de Madrid no están hechas para los niños. Cuando los niños salgan a la calle, harán las calles más seguras para todos.
+- La canción de El Baúl de los Recuerdos (Karina), es fantástica. Vive siempre con ilusión, si cada día tiene diferente color. Si ayer algo te salió mal, hoy puede cambiar. Volver la vista atrás es bueno a veces (evalúa el pasado), mirar hacia el futuro es vivir sin temor (eres lo que haces hoy, tus objetivos).
+- Después de un buen ordenado con algo de TOC, te sale el chip de la responsabilidad (piensas: toy tardando demasiado, y debería estar haciendo...).
+- Hay depresivos que sonríen, son bromistas y tienen una vida social "rica". Ocultan sus emociones y demuestran sólo lo que se espera de ellos (reprimen / están locos). Temen que los demás los consideren débiles o raros. Y tienen energía para llevar a cabo su suicidio. Deberían buscar un confidente.
+- Desorden y causas:
+* ¿Objetos rotos o dañados? Simbolizan promesas y sueños rotos.
+* Desorden: dejas las cosas inconclusas. En la entrada de la casa: miedo a relacionarse con otros. Cocina: resentimiento o fragilidad sentimental. Área de trabajo: frustración, miedo y necesidad de controlar las situaciones. Salón: temor al rechazo social.
+* Todo detrás de las puertas: miedo a no ser aceptado por los demás. Debajo de los muebles: das importancia al qué dirán.
+- Si a las oposiciones se presentase gente habiendo estudiao poco, no se quemaría. Alguien quiere que tengamos el tiempo ocupado y que compitamos (y suframos).
+- Un tono alto en una conversación puede preceder a llorar y pedir un abrazo. No postergues las lágrimas.
+- El insomnio puede estar vinculado a mi actitud a amarme a mi y a la vida.
+- Columna vertebral:
+* La fractura de una vértebra es generalmente por inflexibilidad mental vinculada a la autoridad.
+* Lordosis (curvatura): vergüenza de lo que eres.
+* Disco desplazado: no te sientes apoyado, no te crees a la altura, careces de autoconfianza.
+* Desviación: resistencia a vivir plenamente tu vida.
+##Más psicología:
+- Escribe para poner al otro en su sitio (concienciando a la gente) sin violentarlo.
+- Si tenéis que prestar atención a alguien para pillar todo lo que diga, es que no está hablando con empatía.
+- Lo ideal pa Facebook son 25 contactos: 5 pueden ser amigos que no se enteren de la fiesta.  
+- La música ya no es lenta e íntima (bailar pegados es como se elegía pareja).
+- Ropa (un poco rota, no importa), con clase. ¡Qué poca ropa necesitas si estás en buena forma (el sobaco casi ni te huele)! Y sandalias con calcetín (y zapatillas en la mochila y lavapiés por doquier), ¿Bolsa en cabeza si llueve? NO seamos pijos.
+- Nietsche dice que NO nos fiemos de los pensamientos que no hayan sido desarrollados caminando y al aire libre (son mejores).
+- A los PAS (personas altamente sensibles / almas avanzadas por lo general) les hunde estar horas y horas con cuestiones intelectuales. Resumir y leer cosas resumidas es lo humano, menos es más. Y las novelas, que sean blancas (la gente supera conflictos internos...).
+- La rabia y la espiritualidad son compatibles. ¡Eh, revolucionarios ateos! El "espiritual" de verdad es íntegro, NO como creéis.
+- NO busques refugio, busca tú primero dar calor. ¡IMPORTANTE!
+- Quiero que los estudiantes, antes de entrar en la Universidad, sepan como mínimo lo que yo sé ahora, porque allí van a pretender especializarlos. ¡Y un año savático antes para despertar!
+- La gente son chonclones (clones que visten como chonis o poligoneros).
+- La rabia:
+* Permítete rabia por la crianza de tus padres, por favor. Luego ya puedes ver que estaban ahi por algo (misión de vida, mejorar tú).
+* La rabia es mucha energía de golpe (NO canalizada). Asumo la responsabilidad de mi enfado, en vez de acusar. En vez de decir me pones nervioso, decir me pongo nervioso cuando...
+* Sirve para: ser coherentes con nosotros mismos cuando vemos que algo "chirría" (los inteligentes suelen "saltar" con más facilidad). Energetizarnos y tender a la acción.
+- El sabor es secundario a la salud. Si comes verduritas, terminas adaptándote a su sabor. Y os recuerdo que los niños que comen bien salen más bajitos y flaquitos que el resto.
+- ¿Reforzamos España añadiendo a nuestro folclore el de otras regiones, pero NO de otros países?
+- Ya sabéis que si una generación es machista, la siguiente generación es mucho más homosexual (un inteligente NO se identifica con un bruto):
+* NO CONFUNDIR CARIâ€˜O CON SEXO. Más confusión: mi infancia (me metí de niño en la cama con un tío peludo, y hacía cosquillas el vello, NO va más allá de ahí).
+* Cuando ligar te resulta difícil (NO eres amoroso...) o ves vampiras por doquier (ambientes "nocturnos"), puedes odiar a las mujeres.
+* Si nos enamoramos de interiores, ¿podemos hacer sexo tántrico homosexual aunque seamos heterosexuales? Tiene que haber mucha testosterona.
+####004notas02.txt  - TOC homosexual. Te da miedo serlo, y te cuestionas continuamente tu sexualidad (y te preocupa excitarte con hombres), y eso puede llevarte a comportarte como "un macho" (un teatro con peligroso complejo de inferioridad / superioridad): se reafirman mucho ("definitivamente soy hetero"), neutralizan los "pensamientos homosexuales" con "pensamientos heteros" o violentos, hacen tonterías para demostrar a los demás su heterosexualidad:
+* Pueden pensar: "cada vez que me siento excitado sexualmente con una persona, significa que quiero tener sexo con esa persona".
+* Muchos afectados dicen de que NO funcionaron por ser homosexual. Adoptan estilos de vida "homosexuales", pero encuentran esta vida estresante, confusa y poco satisfactoria. 
+* Tratamiento: cada vez te expones a cosas más excitantes. ¿Y usar las 4 reglas del TOC (no pasa nada, es el núcleo caudado, haré cosas productivas, no soy el toc)?
+- San Valentín es una prueba dura para las parejas, en un intento como de separarlas por exigencias tontas. Y es triste para muchos que no tienen pareja. Para mí no, la soledad me va pero que mucho. ¡Cuidao con ver la perfección en otros, que luego te enemoras!
+- Cristian. Si eliges cuándo decidir desde el pensar, cuándo desde el sentir, y cuándo desde el actuar, das un paso de gigante hacia tus coherencias interna (ser buena gente) y externa (tener éxito).
+- Creo que la inteligencia está en poder seguir siendo intuitivo y racional (lógica + coherencia tras desreprimir), a pesar del mareo y el cansancio mental, sin necesidad de memoria o atención.
+- Empatía no estrutural (ver Heidi para la empatía en general):
+* Fíjate menos en palabras, y más en postura, expresión, silencios... Captas toda esa información de forma inconsciente, pero se oculta "en modo intelectual". Hazte preguntas que pueda contestar tu corazón, tripas...
+* Piensa en qué motiva al otro, y en alguna dificultad que pueda encontrarse día a día.
+* Evita decirle al otro "tu problema es que...". Si percibe que le entiendes (lo que siente...) se abrirá más (y si te pones hacia delante).
+- clase a aspergers más cómoda, pinceladas:
+* Poner reglas explícitas.
+* Anticipo la actividad que viene a continuación (con su relevancia). ¡Bueno para todos!
+* Esto, para todos. Ir de lo general a lo particular (con definiciones "matemáticas": una lavadora tiene como utilidad... y es...). Bueno, algún ejemplillo de entrada, puede estar bien a veces.
+- Tú tienes tus padres en ti (para mamá: cultiva cariño, ternura y protección; para papá: orden, disciplina, impulso).
+- Familia. Aprende los patrones tóxicos y deja de usarlos (se aprende mucho en una familia tóxica). Expresa tus necesidades con palabras. ¿Hablar de tu familia fuera de casa como un loco si eres el chivo expiatorio? Deja claro que NO eres tu familia (o serías mu tonto).
+- Falta de empatia estructural: intelectualidad temprana, madres que no gesticulan... Consecuencia: no leen las caras / los gestos. Hay Informática "musical", e Informática pa "robots".
+##Miedo (coopera y regala tus conocimientos; y autoanalízate psicológicamente):
+- ¿Funciona el acné como avisador para que afrontemos la vida con más tranquilidad? Internet dice que el acné surge tras sentirnos humillados (miedo a las críticas, ¿que se quita con la edad?)... sin esperarlo.
+* El pobre adolescente debe aceptar su imagen desgarbada. ¡También muchos adultos están rellenitos! ¡Hay "defectos" por doquier! El peor, sentirse superior. 
+* ¿Que muchas manchas del cutis surgen por miedo a que aparezcan?
+- Hamer:
+* ¿A + fase activa de la enfermedad (ser tú más activo), más miedo y más vello?
+* Miedo y resistencia (no se acepta una muerte... "No puede ser verdad": diabetes). Ectodermo (piel...).
+* Dolor de cabeza: resistencia, miedo, repugnancia... Migraña : impotencia o miedo frontal (te imaginas continuamente un encuentro...).
+* Miedo territorial (a que alguien te quite algo que ya tienes): no es enojo territorial (el puesto era para ti, y se lo lleva otro en el último momento; o crees que no se lo merece; o que no están tratándote según tu valía profesional).
+* Miedo al futuro, ¿se cura dejando de fijar tantas fechas / previniendo tanto?
+##Constelaciones de Hamer:
+- Confusión, Alzheimer, acumulación compulsiva: conflictos de presa (no aceptar...). Alzheimer... puede ser también por separación (pobres abuelos en los geriátricos).
+- Verborrea (políticos, vendedores, mercurianos varios je je...): identidad (¿NO encontrar mi sitio en ningún sitio?) + miedo territorial.
+- Agorafobia / claustrofocia, mojar cama (problemas de demarcación territorial).
+##Rescatado (por si acaso9. ¿Cuando NO acepto lo que hice (culpa...) aparecen pseudovirus (NO creo en los virus, de ahí "pseudo"), y cuando crees que algo que vino de fuera te va a hacer mal, bacterias?
+##"La distancia social a la que nos han obligado, es un entrenamiento para el mundo virtual que se avecina con los nuevos sistemas de trabajo a distancia y el alejamiento de las almas". Alexandro Energys.
+##Hemos nacido para liberarnos y dar ejemplo, no para liberar a otros directamente (a alguno, sí, prueba muy de vez en cuando, aunque NO te hable una semana).
+##Disney esconde blanqueado de dinero y falos subliminales dibujados.
+##amenaza el cardado del champú es imagen falsa de salud. Alternativas: jabón de abrojo, de lagarto...
+##De pequeñín, me daban asco las muñecas, y no me gustaban las mujeres que se maquillaban (me daban miedo). En Boy George, el maquillaje significaba otra cosa: buen gusto.
+##Mira lo que les falta a quienes están contigo, puede que te falte a ti. MUY IMPORTANTE PARA MÍ.
+##Es normal que te borren en Facebook, o que borres (limpiezas aceleradas...), tranquilízate. Si les caes mal, "la vida" te protege.
+##Te abandonan. Estudiar, conseguir un trabajo estable, casarse... Mucha gente van ciegos a conseguirlo (y te dejan por gente mucho más elevada je je, NO te preocupes).
+##¿Si eres complaciente te dan por seguro, NO te respetarán?
+##¿Las relaciones en el trabajo son siempre circunstanciales? Pueden ser pruebas de abandono: sé independiente como antes, si eres positivo, la vida cuidará de ti.
+##Signos del Zodiaco que se ilusionan demasiado de primeras: Libra, Virgo, Tauro y Cáncer.
+##¡El forense que habló amablemente al cadaver rígido, hizo que éste se suavizara!: tu familia te estuvo buscando, te quieren...
+##psi hermetismo Caro la Astrología es importante:
+- Los movimientos astrológicos (2.023) dicen que se estuvo tachando el polo de lo femenino, el hemisferio derecho, la conexión con lo invisible, la intuición...
+* Como humanidad hemos vivido Leo (brillar siendo diferente al clan = Cancer). Virgo: algo trasciende al ser (estampos conectados...). Organizarse en comunidad (trabajo...), sin sometedores ni sometidos.
+####006notas04.txt  
+##Quien se cierra en sus creencias, no atiende a razones válidas al momento de ejecutar.
+##Un político, igual que un psicópata integrado, puede razonar, y al final hacer lo que quiera.
+##Paternidad floja: quieres comenzar a madrugar por la mañana, y una parte tuya te dice "un ratito más".
+- ¿La "magia en tu vida" tiene que ver con tener la chispa para desear y empezar algo, pero también con la capacidad para nutrirlo durante un tiempo (femenino)?
+##Agradece pa dormir mejor, y fijarte menos en "los que molestan" (compréndelos, y ámalos si puedes).
+##Ol Alexandro. Una mentira, si es evasiva, no es blanca. ¿Pero a quién le contarías que te llevabas con tu mellizo competitivamente, como el perro y el gato EN CASA a veces, cuando todo el vecindario pensaba que éramos ángeles, porque afuera no nos atrevíamos a pelearnos? Lo he dicho, y libera.
+##Estar mucho tiempo sin conflicto, ya es un conflicto. No buscar agradar ni la aprobación de la otra persona.
+##Para adelgazar (ser menos materialista): separa tus cosas (las que realmente "te dicen algo", del resto).
+##Para el cansancio crónico: gratitud, olas de gratitud; e imaginar un futuro bonito.
+##Cierta posición adelantada de la cabeza por ver mal (¿+ mirada baja?) provocará disturbios mandibulares (tensión en musculatura masticatoria). Ladrar como un perro. Reprimir rabia (por estar acompañado...) empeorará el dolor.
+##Eso de "ya descansaré dentro de unos días convenientemente" o "ya lo haré" tiene que acabar, hay que respetarse a uno mismo todos los días.
+##¿"Ja ja" es masculino, y "je je" femenino, distinguido y con clase? Jo me parece tierno y bruto a la vez, Ju algo burlesco (o el plan te sale bien), y ji sería para el "mea culpa" o "aguanta esto que te digo aunque las formas no sean muy suaves".
+##renacer por amor no renuncies a nada de lo anterior.    
+##LOS CONSCIENTES VAN MÁS VECES AL PSICÓLOGO. LOS INCONSCIENTES NO DAN MUCHA IMPORTANCIA A LIMPIARSE PSICOLÓGICAMENTE. SE CREEN MÁS O MENOS COMPLETOS. ¿Y LOS DEL MEDIO, NEGACIONISTAS DESPISTAOS, QUE NO VEN QUE LO MATERIAL VIENE DE LO PSÍQUICO? PERDONADLOS, COMO A LOS INCONSCIENTES.
+##NO olvidemos que TODO es un plan de Gaia (incluidas las muertes de "almas" poco evolucionadas). Confianza y aceptación, y a tragar.
+##El sol se toma por salud, y poco (para no mermar la intuición...). Quien está moreno en Invierno... Yo voy por la calle medio rojo / medio blanco, y que sufran ellos con sus represiones y creencias conscientes, no tú.
+####SALUD####
+####General salud:
+- Estamos obligados a tener la máxima inteligencia (al menos integral, con intuición; a más intelectual / de hemisferio izquierdo más bien y sin saber "transmitir", menos integral; el asperger tiene 2 focos de Hamer perfectamente quitables con autoanálisis psicológico), para comprender la sociedad DE VERDAD y mejorarla (mejorándonos por dentro; lo de fuera depende de lo limpias que estén nuestras psiques sumadas). Y ALGO DE AGILIDAD, PARA REALIZAR TAREAS "CAMPESTRES".
+* Deberíamos sonreír menos (ser más honestos con nuestro interior atormentado) y confiar más en la energía incómoda de Escorpio (que ve inmoralidades). ¿"La alegría es la sombra que arroja el sufrimiento cuando éste desciende"? No olvides que trabajar de sol a sol embrutece (los aspergers están para eso, tú, NO). NO escapes de ti, quédate horas "en blanco", para ver tu roña interna. Las élites quieren que nos identifiquemos con nuestro trabajo, que nos especialicemos (ser robots), para tenernos controlados.
+* Para riqueza material: convertir necesidades (desear sobre necesidades empobrece) en deseos planeados en términos de mejoras psíquicas (hermetismo iniciático), y cambiar creencias negativas (sobre el dinero...) por positivas.
+- El ejercicio físico prima sobre que lo que comas; ventana de ingesta de menos de 8 horas al día (por Hipócrates: come menos de una vez al día). Por encima de todo, enzimas y flora intestinal.
+* Muchas revisiones médicas son invasivas (tú debes decidir si estás mal o no). ¿Plátanos pochos o verdes?
+* La enfermedad es psicológica (cuidado con diagnósticos negativos, nada de preocuparse) y los síntomas son más de la fase de curación (Nueva Medicina Germánica), cuando ya sabes de tu trauma (psicología). Los médicos dan pastillas que cortan esa curación (y dientes negros puede significar curar). El miedo a la guerra produjo mucha tuberculosis, que era parte de la fase de curación. El bacilo de Koch hacía el bien. El médico ayuda en fase de curación (parte crítica, del medio).
+* ¿Creer que no puedes morder acarrea caries? ¿Te pueden dar un palo pa que muerdas? ¿Preocuparse por el dinero también afecta a los dientes no? Si tienes problemas por el gluten, espera un tiempo sin tomarlo, y haz una dieta sana (y no te victimices). Acepta, llora para descargar...
+####007notas05.txt  
+##Cosillas de Marco (La Última Reevolución):
+- La medicina oficial persigue a cualquier otro tipo de medicina, nos quiere hacer olvidar la sabiduría ancestral, cambiándola por fármacos, máquinas...
+* EL CARTEL DE QUE FUMAR DABA + LONGEVIDAD Y CURABA EL ASMA (EN REALIDAD DA INTELIGENCIA), DA UNA IDEA DE LO ENGAâ€˜ABLES QUE SOMOS. Las élites, a través de sus esbirros oficiales, se pasan el día cambiando el discurso, y luego dirán: ay, perdón, que nos equivocamos.
+* A 9 pacientes se les abrió el pecho, y se les cosió sin operarlos. ¡5 de cada 9 se sentían mejor (placebo)! El médico debe ser afectuoso, compasivo, honesto y OPTIMISTA.
+- El hecho de venir de guerras (muchas muertes) nos ha hecho pensar que ahora estamos mejor, con lo oficial. Ahora hay enfermedades a edades tempranas.
+* Un chino llegó a vivir 256 años: baguazhang, chikung con respiración, y movimientos coordinados con sonidos específicos. Murió sin dolor durmiendo (deseaba morir así).
+* La Cruz Roja nos saca sangre para venderla en zonas de guerra, está con las élites.
+- De adultos mejor no tomar mucha leche (nos desaparece la lactasa). La pasteurización mata las lactasas y lipasas de la leche, y altera sus proteínas, lo cual dificulta la asimilación del calcio y demás minerales. Con la leche pierdes los dientes, los huesos, te esterilizas...
+* Soja (mucha es transgénica): declive cognitivo, hipotiroidismo... Tomar sólo fermentada (y poco).
+* Cocinar: recipientes de barro y barnices naturales (no los que vienen de China)... ¿Echar aceite al plato y NO a la olla?
+* Para neutralizar la acidez del cuerpo (que produce nerviosismo... de todo), los dientes y los huesos se desmineralizarán.
+- Finalizando:
+* Vacunas: Unicef está loca por vacunar.
+* La lucha contra el cancer es falsa: carreritas de rosa (cosas paias)...
+* Los retrovirales, es lo que mata (Magic Johnson los dejó, y se curó).
+* MMS / CDS (o limón con bicarbonato). No cura pero refuerza (para animales, cítricos, que van sobraos de clorhídrico; perros pequeños, ¿gota a labios?). Enfermedades que se van: impotencia, enfermedades de riñón, problemas de ojos, ¿exceso de peso?...
+####009notas07.txt  ####Malas costumbres y flora intestinal.
+- Una persona joven que NO eyacula durante mucho tiempo corre el riesgo de perder sus capacidades mentales, a no ser que transmute esa energía en arte, servicio y amor fraternal. Con sexo tántrico, puedes eyacular una vez al mes, durante la luna llena.
+- Guardar un secreto: más problemas para concentrarse en ciertas tareas, daño físico...
+- Hay relación entre el estrés futbolero y el estrés corporal (y a veces se pierde testosterona), resultados difíciles de digerir y problemas digestivos.
+- Con la bioresonancia se ven impactos de vacunas de hace mucho. NO te vacunes.
+- Los limpiadores quitan la grasa de la piel, tan necesaria. ¡Los platos se lavan con pan je je! ¡Mujer, pelo corto mejor!
+- Sensibilidad química múltiple: viene de una mala alimentación / gestión emocional y baja espiritualidad.
+- El azúcar, muy relacionado con el Alzheimer.
+- La gliadina (proteína del pan malo) produce permeabilidad macroencefálica. Las cadenas de gluten son más largas ahora (para la esponjosidad que tanto te gusta).
+- Deja de crisparte y el niño no será hiperactivo.
+- Estamos tomando frutas y verduras tratadas con fitohormonas, que pueden bloquear el acceso a la vitamina D. Además, los chemtrails llevan fitohormonas.
+##Flora intestinal. El apetito pasa antes si las bacterias están contentas (segregan substancias que paran la producción de grelina / hambre). Y estoy pensando en, ¡FIBROSAS VERDURITAS DE PRIMERO Y LEGUMBRES DE SEGUNDO!
+- El tipo de bacterias de tu flora intestinal marcará tu conducta: más osado (NO es valiente)... Los autistas tienen muchos clostridios (para tener menos, alimentación variada,y ajo, cebolla, puerro, col, nabo...).
+* Hay personas que no toman probióticos y que están muy sanos (la madre pasó lactobacilos). Fuera pasteurizados.
+* Cuando el microbioma está alterado, nada mejor que privarlo de alimento (ayuno NO muy prolongado).
+* ¿Implantes fecales? Te dan heces de gente de éxito en cápsulas, para que tengas éxito. 
+* El cloro es malo para la flora bacteriana (deja el agua reposar antes de beber).
+* Si hay una cesárea forzosa, ¿impregnar toda la piel del bebé con la flora vaginal de la madre?
+####Buenas costumbres:
+##Breves:
+- En Israel se aplica la Nueva Medicina Germánica, por eso casi no hay cáncer. Y los rabinos no quieren que eso se aplique a los no judíos, porque cura.
+- Agua:
+* Agua corriente no mata a la gente. Agua viva: en un recipiente azul de vidrio (luz del sol destapado).
+* Borrar memorias que ya no sirven. Se envuelve una botella con celofan azul y se coloca al sol una hora (al mediodía...).
+* Agua de mar en Nicaragua, Maria Teresa Ilari: el ganado es más sano, los niños y deportistas rinden más.
+- Los 100 oncogenes descubiertos, no son producto de una mutación, están ahí desde siempre. ¿La quimio / radio aumenta la resistencia de las cancerosas?
+- Si te cuesta retardar el orgasmo, intenta detenerte varios movimientos antes del mismo y relájate.
+- Donde vaya la atencion (el corazon por ejemplo) irá la energia.
+##Breves:
+- El hemisferio derecho ni filtra ni critica (la publicidad incide en él). Equilibrar los dos hemisferios, para comprender el entorno:
+* El hemisferio derecho está en el momento presente. Se le dan muy bien la percepción espacial, el movimiento y la orientación. Si ves con intuición, NO hace falta pensar.
+* El hemisferio izquierdo usa el miedo para protegernos y mantenernos a salvo de potenciales amenazas. Es secuencial (poco potente), no global.
+- Oler pedos es saludable. No los retengas, o tendrás problemas de colon.
+- Tomar bicarbonato para alcalinizar. El mejor momento es antes de dormir, nunca con el estómago lleno. NO tomarlo más de 2 semanas seguidas ni más de una vez al día.
+- Ignorancia: no saber que no sabes.
+- Nos hemos acostumbrado a un nivel de necesidades básicas cubiertas, de modo que cualquier pequeña contrariedad nos parece un problema.
+- Dar sentido ala vida (misión espiritual, numerología...) para llegar a la muerte en paz.
+- Dar las gracias antes de comer transmite buena energía a la comida.
+####010notas08.txt  - De la carne me quedo mejor con el hueso y su caldo.
+- Despejar la mente en el trabajo: camina, 4 minutos de gratitud (despejar mente), 3 minutos de meditación, 2 minutos de silencio. Encuentra un lugar tranquilo para sentarte, apaga las luces y todo aparato electrónico. 1 minuto de respiración profunda.
+- Garrapatas: ¿esperar a una fuerte, y que el experto te la quite, y de paso el resto?
+- CUANDO RECELÁIS DE UNA PERSONA QUE HABLA SOLA, ESTÉIS AFIRMANDO VUESTRA MEDIOCRIDAD / LOCURA. Activa la memoria, pues involucras tus emociones al vocalizar; te ubicas en la realidad. "Puedes hacerlo" funciona mejor que "yo puedo hacerlo".
+- Marihuana NO psicotrópica para la tercera edad (NO tomar tantas pastillas).
+- Bicarbonato y talco por la noche en los pies (olor), ponte calcetín.
+- Las personas nocturnas son más ordenadas. A las élites no les gustan estas personas.
+- El canto coral de tan sólo 1 hora, estimula el sistema inmunológico. Mucho mejor que tocar un instrumento.
+- Limpiar casa de espíritus (no muy poderosos): bendice un plato de sal y tira puñados alrededor de la habitación.
+* Para saber si nos han realizado algún tipo de influjo, trazar por la noche con sal líneas protectoras en el umbral de la puerta de entrada de nuestra casa y en los antepechos ¿lo contrario al alféizar? de las ventanas. Si al despertar se rompen hacia el interior...
+- Terapia diálogo abierto enfermedades mentales. Jaakko Seikkula. Sólo recetamos si la ayuda psicosocial y psicoterapéutica no son suficientes.
+* Suele acudir a casa personal médico y de enfermería (2 o 3 personas), que promueven un diálogo abierto con los familiares y el paciente. Varios días seguidos, hasta situación segura y controlada.
+- Al reconocer, perdonar y liberar todo el conglomerado emocional ligado a los arquetipos padre-madre podremos elegir relacionarnos con otro hombre o con una mujer (¿bisexualidad al sanar?). Trabajo tanto para los atados a la búsqueda compulsiva afuera de lo femenino, como a quienes canalizan su femineidad a través del rechazo a lo femenino y de la seguridad de relacionarse sólo con otros hombres.
+####dieta ficticia.
+- Evitar gases por legumbres: añadir a la cocción especias e hierbas aromáticas para la digestión (hinojo, tomillo, romero...). Una cucharada de bicarbonato de sodio, que además ayuda a acelerar la cocción. Antes de echar las legumbres.
+- Si comes sano, tus pedos van a oler. Las mujeres tienen más azufre acumulado. Si se reducen los carbohidratos puede que huelan menos. Y un aumento de proteinas también podría funcionar.
+####001notas10.txt  ########AMENAZA. Las élites están arriba, ¿pa joder exactamente? Nooo. Digamos que son un espejo de nosotros, que ignoramos nuestras represiones, que nos hacen reaccionar como una persona civilizada NO querría... Mejoremos (moralidad, buen gusto, limpieza de psique...), y demos ejemplo.
+####Gente:
+- El hombre no sabe hablar de emociones muy bien por lo general, y la mujer critica / exige demasiado. Entonces el hombre se va a beber y la mujer se queda sola. ¿Y es entonces cuando su desesperacion por la soledad hace que el hombre la tenga bien amarrada?
+- Divorcios, causas:
+* Falta de paciencia (debido a necesidad constante de estimulación sensorial en los tiempos modernos, lo quieres todo ahora).
+* Confort: el confort lleva al vicio, y los viciosos no aguantan los problemas.
+- Emocional pero sin empatía: un peligro.
+- ¿Es la guitarra eléctrica una manera de aliviar un complejo de inferioridad sexual?
+- Profesor empático: "ya sé que esto es un poco tostón, pero es necesario por esto, esto y esto".
+- Le quité un sitio a un adolescente en el tren (se lo había quitao a una anciana, por así decirlo), y no lo reclamó, ¡lo vio lícito!
+- Las personas que se dan cuenta de cuándo son pesadas, suelen tostarse a poco que lean. Resume para ellas.
+- Si haces los postres para otros (para tener poder sobre nietos...), come un poco (verás el dolor que causa el azúcar).
+- ¿A palabras necias oídos sordos? Contestar la primera vez es básico (si NO es un psicópata). Después puedes decir "esto no lleva a ningún sitio", con educación. Luego, puedes huir...
+- Quizás los "cazurros" (como llaman muchos asturianos a los leoneses) tengan cualidades que no tienen los asturianos (al frío le llamamos fresco, NO expresamos debilidad, y eso redunda en más cáncer, suicidios, machismo...).
+- Premian a los hijos por los dieces, y no por ser equilibrados en su vida (lo sabio).
