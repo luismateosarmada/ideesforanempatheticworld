@@ -1911,8 +1911,974 @@ tocar ikutu ruhren touch #tomar ortu nehmen have
 trabajar robotu arbeiten robotate #unir batu beitreten join
 usar erabilli gebraugen use #ver ikusi sehen see
 vivir bizi leben live #volver biurtu zuruckgehen goback
-####00404histoactualidad.txt  
-####00505tecnicas.txt  
+####00404histoactualidad.txt  ####Historia. Creo que se inventaron a Cristo a partir de Berengetorix o algo así (hace varios miles de años, le tocó ir de Francia a Murcia con una cruz), y en Caristio (Kristo), que es en realidad Santiago (llegó a morir a Galicia), el cual podría estar ahora en Italia como San Pablo. El catolicismo supone la destruccion definitiva de la cultura bere. Pero se hizo muy bien en expulsar a "la masonería" en el siglo 15 en España (aunque también se expulsase a unos pocos judíos relativamente responsables con las directrices bere pasadas por Alejandro Magno, el bere escandinavo, NO la invención griega):
+* ¡Pero surgen los jesuitas! Y los protestantes significan relativismo moral y ambicion desmedida. En el 18 vuelve la masoneria, acompañada de magia negra. Pronto cogerían metodos jesuitas para educarse. El "hombre nuevo" es el fin de lo humano.
+* La gente tiene que huir a las ciudades, porque la Iglesia en España se ve desposeida de tierras que ayudaban a la poblacion a no pasar tanto hambre. Sin el Catolicismo (o el cristiansmo a secas), estamos perdiendo valores, pero la meta final es poder recuperarlos sin artificios.
+####Historia reciente:
+- Para contarla, hay que acudir a los Rochiles (Rothschild, escudo rojo), que sin embargo no son los que mandan, pues ellos son cuidadores de las posesiones de los Jesuitas. ¡Y hay todavía capas por encima de los jesuitas!
+- Bueno, todo empieza con el engaño de la Revolución Francesa (lo relaciono con la aparición del dinero FIAT / de mentira, y la desaparición de la superestable pieza de a ocho española), la Revolución Industrial y reclusión en ciudades, y la escuela para todos (se acaba la relación maestro - aprendiz, para pasar a uan estandarización borrega del conocimiento; curiosamente las élites siguen con el modelo maestro aprendiz, ¿por qué será?):
+* Los Rochiles: primeros financiadores de Marx (y muy protectores con él). Le encargaron escribir "El Capital". El judío (en el mal sentido) comunismo satánico (el "no utópico") daba sus primeros pasos tras milenios sin usarse feacientemente.
+* Las élites generan la Primera Guerra Mundial (¿un familiar lejano de Zelenski, que sabe mucho y no nos lo dice?) para derrocar el poder cristiano (y bere / bondadoso) de los Zares en Rusia. Quiénes ganaban: UK, y creo que Francia (que extremó el mundo musulmán), que influyó mucho en transformar la Rusia soviet (estaba arrancando y dejando bien a Rusia económica y socialmente) en una Rusia bolchevique. Se empezó con Lenin, que no le llegaba en maldad a Stalin ni a la suela de los zapatos. Propio de las élites, empezamos suave y con ilusión, y luego viene el punto de inflexión extremista.
+* El propio Hitler (nazi) fue creado por el sionismo (UK). Hitler sobrevive milagrosamente (va a Argentina). ¿El objetivo era crear Israel con el tiempo para luego acabar con él? En los años 60 es cuando se empieza a hablar del Holocausto, unos teatrillos que nos hicieron a todos compadecernos del judío husurero (judío NO es hebreo; hay judíos que lo son, por fortuna. Muchos confunden una gran ambición bondadosa, con una casa grande, son los kosher). ¡Los nazis condecoraron a judíos, y muchos españoles y gitanos murieron por su culpa!
+- Finalizando:
+* Los Rochiles crearon izquierda y derecha (un tipo de colectivismo / aborregamiento / todos iguales) para dividirnos. Y financiaron a los 2 bandos en las guerras. Capitalismo es anterior al siglo 19, y es mucho más suave.
+* Financian la industria farmacéutica (haciendo que olvidemos la verdadera medicina, pues la oficial es de guerra, "de amputar"), la OMS (cuidao con ONGs y fundaciones)... Las vacunas se venden como obras de caridad, y sus objetivos son muy oscuros.
+* ¿Y qué es su neofeminismo? Parece que van contra los hombres malos, pero las élites (neofeministas y paias) persiguen victimizar a la mujer, y así, atraen a psicópatas.
+##Al NO conspi le jode lo que dice el conspi (por debilidad mental):
+- Ese "lo niego, lo niego lo niego", viene por la disonancia cognitiva ("dolor de cabeza" por entrada de información incoherente, pero si ya tenías información falsa / dogmática dentro...).
+* La sabiduría depende de cuanto desreprimas / te desprogrames / te reprogrames, y eso requiere "dolores de cabeza". ¡Duda entre varias opciones!
+####Meollo de la dominación del ser humano (aplastamiento de lo poco bere que quedaba):
+##Comunismo (tiene más de 10.000 años, los paios: iudas...): 
+- El padre del comunismo marxista y el sionismo (corriente negativa) es Moses Hess, judío (NO cumplidor) alemán, mentor de Karl Marx. En su libro Roma y Jerusalén expresó su aspiración a crear un estado judío en Israel (y al final se creó con perversas victimizaciones en los 60, NO en los 50, y tras la necesaria Segunda Guerra Mundial).
+- Karl Marx (amigo de los Rothschild). ¡El capitalismo de verdad (regatear, no suponer el mercado equilibrado ni controlar la economía, lo cual la jode...) era semidecente! Con El Capital (libro nefasto), las doctrinas socialistas anteriores pasarían a ser conocidas como "Socialismo Utópico" (así, por la cara). Frente a ellas, el Marxismo pasaría a denominarse "Socialismo Científico".
+- Trotsky: hombre de los Rothschild en Rusia (más que el pobre Lenin). Lenin se impuso a Trotsky y firmó el armisticio de Brest-Litvosk contra los planes de Trotsky y los Rothschild.
+- Lenin: quería vengar la muerte de su hermano. Era como Chávez, un relativamente suave ilusionador, para luego meterla clavada con Stalin. A partir de 1917 se llevaría a cabo el experimento socialista en Rusia (hambrunas...).Parte del pueblo picó, y fue arrastrado a la revolución, pero la mayoría, estaban con el Zar. LA CUESTIÓN ES QUE LOS SOVIETS (SEMIBERE), ¡FUNCIONABAN! Y ESO NO PODÍA PERMITIRSE.
+- Stalin: impulsa verdadera revolución industrial (peligro) y energética en todo el país. Gran criminal.
+##Más:
+- El nombre real de Marx era Haim Mardochai Kissel (judío). Eisenstein: películas de propaganda comunista.
+* El Registro Comunal Judío claramente establece que el sionismo es un movimiento marxista (hermanos).
+* Para que se cumpla el Talmud, los judíos deben dominarlo todo (el Islam caerá).
+* KOMZET (Julius Rosenwald): comisión para el asentamiento de comunistas judíos (NO cumplidores) tras matar a los cristianos en Ucrania.
+- USA con el comunismo.
+* Banqueros judíos de Frankfurt y Nueva York financiaron la revolución bolchevique.
+* Roosevelt (Rosenwelt, realmente), entregó en Yalta media Europa al imperio de la URSS.
+* Truman traicionó al nacionalista Chiang Kai Chek, dejando que triunfara el comunista Mao Tse Tung.
+- Castro: Su padre era un judío gallego robaganado (huyó). Algunos pandoleros (no BANdoleros = semibere) comunistas y Castro, fueron adiestrados en métodos terroristas en México, en el Rancho "La Rosa" (rosa, color paio, rosacruces), propiedad del delincuente Lázaro Cárdenas. Herbert Matthews (NYTimes, izquierda judía) le convirtió en héroe.
+* En 1.956, la Mafia de Wall Street decretó el derrocamiento del Gobierno de la República de Cuba. Helicópteros militares norteamericanos embargaron armas, llevadas a Sierra Maestra. David Rockefeller felicitó a Castro tras su victoria, a pesar de perder mucho dinero Rockefeller (le importaba el control). 
+- Escribió Juan Pujol (20-12-1936): "el furor iconoclasta que lleva a las hordas rojas a destruir las imágenes sagradas con verdadero ensañamiento... Para sentir esa furia vengativa es preciso estar animado de una especie de fanatismo religioso opuesto al cristiano, de un afán rencoroso de talmudista o de rabino, largo tiempo reprimido, u obedecer las sugestiones del que lo sienta. El puño cerrado y en alto es un ademán habitual de la Sinagoga. El bruto que en Castilla, Extremadura o Andalucía corta la cabeza a los santos de madera, obedece la impulsión religiosa del Samuel o el Levy que en Londres, en París o en Nueva York, parece un perfecto hombre de mundo".
+* La ANA(madre de los paios)rquía oficial es paia / judía. Se trata de matar y culpar a otros... En Baleden (planeta) los paios ya eran comunistas.
+- ¡Sólo la primera parte del incomprensible "El Capital" se publicó en vida de Marx!
+* Según el marxismo, tada actividad es económica, carente de espiritualidad, de causa sutil ("paraíso terrenal", pare Isis. Lenin: la moral NO existe). Marx niega el valor del inventor y su ingenio, la pericia del obrero... NO son materia (los medios de producción determinan la cultura, filosofar / pensar y amar la patria es ridículo). El "hombre viejo" (dotado de espíritu, inteligencia y propiedad), debía ser liberado de esos "inconvenientes". Ramiro Ledesma: "el comunismo procura borrar las peculiaridades de cada pueblo" (Marx quiere que NO haya estados, ¿uno solo tirano?).
+* Frase marxista: el único camino es rebelarse, pero solo bajo la guía del Partido Comunista. Las élites (las malhechoras) disfrutan con la lucha de clases perversamente definidas (los obreros pueden dar ejemplo, y los que atraen riqueza, ¡somos uno!).
+* El comunismo soviético "colectivizó" (confiscó) la propiedad rural en Ucrania en los años treinta (bloqueó el acceso a los graneros...). ¿Está España haciendo eso (con disimulo)? 1936-39: miles de niños fueron secuestrados para "reeducarlos" en Rusia.
+* Hoy el marxismo se mueve en base a principios del liberalismo:
+1. Negación de valores espirituales. Diferencia: el marxismo piensa en producción, el hombre NO existe.
+2. La familia esclaviza; la Patria es un accidente; el gobierno mundial garantizará la paz y la prosperidad; la moral no existe; es bueno lo que causa placer; Fuerzas Armadas profesionalistas y sin razonar.
+####Geopolitica y elites (el visible es el títere...):
+##LA DERECHA (paios) CREÓ A LA IZQUIERDA.
+- Se busca que el militante de izquierdas sea antiespiritual y odie. La izquierda vino después, ¿cuando las élites empezaban a querer desterrar su "cristianismo de Iglesia"?
+* ¿Unamuno primero temió al bando de Franco, pero luego vio cómo eran realmente los comunistas y dijo que eran peores NO?
+##autoatentado Charlie Hebdo.
+- Es curioso que en muchos atentados de perfecta ejecución se eche la culpa a islamistas independientes que, curiosamente, se suelen dejar el documento de identidad olvidado je je. El mismo día del atentado haya más policía (creo que internacional), ¿a veces es la propia ejecutora? Una misma actriz (contratada por las élites) puede aparecer en varios atentados.
+* Escapan de París como si nada los acusados (los dejan). Asesinan al policía responsable de la investigación y dicen que se ha suicidado (NO sea que difunda la verdad).
+* Razón de los autoatentados (élites): producir miedo (control mental, sin poder interior) para que aceptemos inmorales restricciones. Justificar un conflicto (una guerra para apoderarse de la historia del país y ocultarla).
+##Impulsores del fraudulento 15M: cineasta Stéphane Grueso y periodista Patricia Horrillo (trabajó en AECID, que permitía al gobierno español dar fondos a ONGs fraudulentas). Open Society Foundations de George Soros (menudo personaje: revoluciona a pueblos contra dirigentes relativamente justos / revoluciones de colores con dictadores al final, desestabiliza economías comprando mucha moneda del país...) está relacionado con el15M y las ONGs.
+- Hubo 15Ms por todo el mundo (huele mal lo planetario / NO modesto).
+##Los hippies fueron luchadores que se entregaron al LSD (facilitado por el gobierno). Más espirituales, menos buenos (placer...).
+##Los Rothschild son expertos en engañar: en Waterloo, Napoleón pierde (y los Rothschild dieron dinero a Napoleón y a Wellington, su adversario, lo hacen en todas las guerras), y hacen como que ganó Napoleón para ganar "en bolsa" (NO concreto).
+##En Europa las jornadas de trabajo son menores, y se produce mejor que en España. ¿Los empresarios españoles reciben dinero por tener a la gente en la empresa aunque no hagan nada?
+##Horno microondas, daños cerebrales (inmunológicos y glandulares) y los minerales y vitaminas se pierden.
+##Prince sabía cuándo iba a morir (pacto con las élites), y se puso a hablar de chemtrails. Rain (Purple) = hijo de Ra.
+##¿PIJAMA NO, REFRIGERACIÓN SÍ (ANTIENVEJECIMIENTO)? Una temperatura moderada incrementa la liberación de melatonina (favorece la grasa parda, que va bien para el frío). 19°C en vez de 24: más sensibilidad a la insulina (necesitamos menos dosis). Las parejas que yacen desnudas liberan una mayor cantidad de oxitocina.
+##Si hay que estudiar tanto (EN GENERAL) es porque hay bastante gente robótica a la que no le cuesta trabajo estar horas y horas pensando a bajo nivel. Bajar la necesidad de aprobación, ayuda.
+##Un día acabamos una carrera, y necesitamos comer de ella, y nos ponemos a venderla como si no hubiese nada más. Busquemos aplicar nuestros conocimientos fuera del trabajo oficial (en grupos elevados preparados para los PAS...).
+##En una acera, si vas por la derecha, y te encuentras con alguien enfrente, haz la primera concesión, y provocarás un efecto espejo en el otro (salvo si es narci).
+##falsas religiones:
+- Las sectas han proliferado como setas desde principios de los 90. Nueva Era fomenta el egoísmo y el éxito personal EN ÚLTIMA INSTANCIA. Habla de fluir sin conectar mente y corazón... Hace bastante milenios, la religión (religarse) era algo serio que incluso curaba.
+* Algún gurú hace creerse a ciertas personas la leche (porque sienten y disfrutan sin más je je) y despreciar al racional, al que rabie o esté triste a veces.
+* ¿Por qué las esclavas mk ultra (que no piensan por sí mismas) como Miley Cyrus recomiendan la ayahuasca?
+* Respuestas fáciles y comodas.
+- Algo de Historia:
+* El Islam fue bueno durante unas décadas, pero las élites cambian las cosas para controlar al pueblo.
+* Los poderosos teólogos fueron los primeros en aceptar la teoría de Darwin, que hacía aguas, porque podías decir que sólo los poderosos debían sobrevivir, que eran mejores (decía Juan Ignacio de Loyola el inconsciente, que si eras pobre te lo merecías, y así debías seguir).
+* Mitología (fuente de la religión, y ayuda a borrar la historia de los buenos): el hombre acaba supuestamente con el matriarcado.
+* Fue a raíz del colonialismo francés hace 2 siglos, cuando empezó el fundamentalismo islámico, supuestamente como método de defensa de las tradiciones.
+* Menos mal que está la Nobleza Alemana (si no, ya estaríamos supercontrolaos, 2.024).
+- Lo de querer ganar (deporte como religión)... suena fatal, como a pasar por encima. La integración de un niño NO debería depender de su desempeño en los deportes de equipo (NO son para los relativamente sabios introspectivos).
+- ¿Cómo funciona Nueva Era (LOS QUE PROMUEVEN EL ATEÍSMO SON LOS MISMOS QUE PROMUEVEN NUEVA ERA)? Coge teoría de todas las religiones tradicionales, para ser atractiva a todo el mundo. Durante el proceso de lavado de cerebro, te enseñan a pedir cosas (creo), y las consigues (pero asociadas a "energía negra").
+* Vas a clase de yoga para curar una dolencia, y de repente te meten ideas extrañas en la cabeza. Mindfulness es budismo (bueno) + yoga (bien) +... marketing.
+* NE Mezcla hinduismo con ocultismo y ateísmo (y sus líderes suelen venir de la revolución contracultural de los 60 y los 70, libertinos). A veces usa un lenguaje cristiano para expresar ideas muy contrarias al cristianismo.
+* Creencia: NO hay Dios fuera de ti, por tanto, la verdad de cada uno es "santa", incambiable. "Creer es crear" deformado.
+* El primer paso es el ateísmo. El último, el satanismo (Anton Lavey sabe que NE ha cogido toda clase de materil satánico para adaptarlo a sus propósitos).
+* Con su doctrina del miedo a sufrir huyen de la empatía, con lo que se vuelven especialmente inhumanos. Aman la belleza, el placer... y si pides ayuda pueden decir "NO, que lo has atraído" (deformación del "la causa de tu situación es psicológica").
+* ¡Hasta en las Iglesias está Nueva Era disfrazada de zen!
+- FORMAN NUEVA ERA: 
+* La Sociedad Teosófica: Blavatsky dice: Satán, el enemigo de Dios, en realidad es el más alto divino espíritu.
+* La Meditación Trascendental: se popularizó por los Beatles...
+* Más: La Gran Fraternidad Universal, La Iglesia de Cienciología, Spirit Science (canal), La Nueva Acrópolis.
+- MUJER QUE SALIÓ DE SUS MUROS:
+* Si un psíquico de Nueva Era te dice la verdad sobre ti sin conocerte, ahí tienes un gancho. 
+* Tras marcharse y tirar su tarot... tuvo ataques de demonios (ya los había tenido entre muros, y le decían que eran guías...), pesadillas muy fuertes... Ya no mide la bondad de la gente por su energía o poderes psíquicos, sino por la honestidad consigo mismos...
+- Más:
+* Como dice una sabia yogui: después de meditar sigo siendo igual de gilipollas, pero estoy más relajada.   
+* ¿Durante el bautismo actual católico te bloquean el sexto chacra (tocar cuello con substancia)?
+* Pornografía (religión) accesible para niños en redes: restringiremos nuestra parte reflexiva, llevando a querer experimentar compulsivamente. Mejor bailar pegados, para ver si hay química.
+- EL FÚTBOL DE MASAS (gran cobertura mediática, asisten jefes de Estado al ritual, se blanquea dinero en el estadio, las líneas tienen poder...) NO ES UN JUEGO:
+* El futbolista es un hombre anuncio (la idea surgió de la liga inglesa) pervetidor. Lo que los medios anuncian...
+* FIFA: campañas "filantrópicas", se regalan balones a los pobres materiales. EL OBJETIVO ES GENERAR FRUSTRACIÓN (NO TERMINAS TENIENDO EL "ENCANTO" DE TU HÉROE), BASE PARA LAS SIGUIENTES ESTRATEGIAS DE MANIPULACIÓN.
+* Durante 90 minutos, el aborregado ciudadano puede insultar, juzgar... sin rebelarse.
+* Al pertenecer a un equipo, se consigue rebaño y división. El mejor marcador es un "artillero" (palabra de guerra).
+* La energía del estadio puede actualizar mitos negativos (se vuelve turbia; sólo falta la magia negra, que existe y funciona).
+* Francmasonería y fútbol. Fútbol inglés: al principio eran doce contra doce, + un entrenador (13 vs 13). Como castas de la India: el entrenador es el sumo sacerdote / brahman, hay atacantes (guerreros o chatrias), defensores que administran, protegen y distribuyen el juego (comerciantes o vaishias), y están los porteros, que soportan la furia del ataque enemigo con sus manos (trabajadores o shudras).
+###manipulacion y trabas.
+##Moda, ocio y placer, controlados por las elites:
+- JUDÍOS:
+* La revista Hola (España): pierdes el Norte envidiando a ricos y famosos.
+* La moda está diseñada por gays judíos, de ahí que las modelos sean caballos flacos. Hugo Boss diseñó el traje nazi (en los rituales secretos los judíos se visten de nazis para hacer perrerías).
+* Tangas, consoladores (hace miles de años ya estaba en China), bikinis, uñas largas, ligueros, trajes de baño. Las bragas eran antes una prenda masculina (varón valiente = "bragado").
+- Más:
+* La mariposa (Voge...) y los pájaros azules representan lo que ven las esclavas mkultra cuando las torturan debido al dolor insoportable. Edward Bernays, sobrino de Freud, difundió la estética que los judíos querían implantar y los vicios. BARBIE, MODELO MKULTRA, FUE CREADA POR LOS JUDIOS DE MATTEL. KAREN MULDER (SU CIUDAD NATAL ES "ILLUMINATI") ES UNA MKULTRA BARBIE ("robot" activada a placer por su controlador mental).
+* Las divas cumplen misiones: Miley, pervertir a los jóvenes sexualmente, Britney, fomentar el lesbianismo... La mayoría de los famosos MKULTRA son mujeres (más tolerancia al dolor, y disasocian más fácilmente). A un esclavo que ve El mago de Oz se le enseña que "en algún lugar sobre el arcoiris" está el "lugar feliz" para escapar (disociación) del dolor. Disociación de hijos de "illuminati": confinamiento en cajas, privación del sueño, exposición a ratas, sacrificio de personas y animales...
+- Descripción fútbol (otra): 22 (María Magdalena) letras hebreas jugando al fútbol. 22 vírgenes negras (una virgen es una pirámide con un ojo encima). El árbitro viste de negro (culto a Saturno).
+- EL AMOR SE HA CONVERTIDO EN PERVERSIÓN: las propias neofeministas promocionan el sadomaso.
+- Las noticias suelen venir acompañadas de fríos datos estadísticos, combinados con un bombardeo de imágenes morbosas. Y así,las vemos sin sentir, VAMOS PARECIÉNDONOS A LAS ÉLITES. Por ejemplo, una voz en off dice: "cada año mueren 1500 personas atropelladas por distracciones en las ciudades del país, de las cuales, un 25% fallecen...". Y posteriormente nos muestran vídeos muy cortos o en multipantalla de muchos otros atropellos en diferentes países, con COMPARACIONES.
+* Hay estadísticas para generar crispación (hombres contra mujeres...), y para suavizar situaciones (un tanto por ciento bajo de paro, puede ser engañoso sobre la situación económica).
+- ¡LAS ÉLITES TIENEN DESINFORMADORES ESPECIALES PARA CONSPIRANOICOS, ASÍ DE IMPORTANTES SOMOS, Y LUEGO NOS LLAMAN LOCOS!
+* PONEN INCLUSO A GENTE QUE DICE TODA LA VERDAD PERO QUE DAN INFORMACIÓN BASURA.
+- Que el ser humano piense en hacer el bien a los que están lejanos y NO pueda hacer nada por ellos (pasará por alto que en su misma calle hay un vagabundo que necesitaría darse un baño o comer, y sentirá que en este mundo no se puede hacer nada, y el egoismo se apoderará de él).
+* Te enseñan a ["esperar" / tener esperanza] con las películas... en vez de desear algo e ir por ello.
+- La gente tonta habla mal de personas concretas (con nombre) y de sucesos. La gente inteligente habla de generalidades y soluciones. El Telediario, ¿para quien habla?
+- La discusión de taberna puede parecer + racional que el típico cotilleo sentimental entre mujeres, pero al final termina en discusiones por tener razón, y al no haber riqueza emocional, NO es saludable la charla típicamente masculina.
+- ¿Las élites quieren que nos peelemos con los musulmanes para imponer medidas terribles? 
+* A los inteligentes de las 2 de la madrugada los conducen por el camino del alcohol.
+- Los simpsons ya NO aportan (sólo dicen la verdad para que las élites NO tengan karma malo). Me gustaba ese episodio en el que iban todos por Nelson el abusón.
+- En la corteza prefrontal, nuestras "ínsulas" hacen que el corazón "EVALÚE y obre en consecuencia". 
+- Cuando podemos comprar todo lo que queremos, nos olvidamos de las cosas importantes, siendo más infelices. ¡Pobres niños que tienen mucho!
+- PLANES CONTAMINACIÓN: hay alcaldes que dicen que se usan aviones para disipar las nubes y que así haya turismo. Hay políticos que afirman que los aviones se usan para combatir el cambio climático (pero nada se hace realmente por bien, piénsalo, demasiadas catátrofes).
+* En los 70 se hablaba de enfriamiento global, y el calentamiento fue sólo una excusa para cargarse a los mineros de Gales diciendo que el CO2 era un peligroso gas invernadero.
+####Merovingios. Cataluña centro paio lotero:
+##Regiones con independentistas (tocahuevos). Iglesia católica vasca: ¿relación con organización "La gran Ramera" (que incluye una cábala mala)? ETA fue fundada por jesuitas vascos y la CIA. Los masones adoptaron la educacion jesuita. "Capataces": conducen un paso en la Semana Santa (dominio de unos pocos sobre esclavos).
+##Los merovingios paios (azulgrana) aparecieron en Francia. Una serie de catalanes merovingios (orden del TempleCatalán = templo) se fue a Tierra Santa a recuperar Jerusalén, ¿contra los semibere?
+##España, evolución:
+- Benedictinos (¿NO terribles?). En 1098, aparecería una renovación, el "Císter" (impulsor, Bernardo de Claravall, clave en la fundación del Temple).
+- Tres grandes órdenes de monjes guerreros (futuros espías y grupos de presión) nacieron al albor de las cruzadas. Era el siglo XII y acababan de nacer las sociedades secretas: Orden de Malta (monarquías, Skull & Bones, City de Londres; ¿Moloch?), Santo Sepulcro y Temple (compañía de Jesús: banca suiza y asiática, ¿Ishtar-Mitra?). Sionismo es banca judía. ¿Y Enki (revista balear)?
+* Un peregrino que viajara a Tierra Santa depositaba el dinero en las oficinas de los templarios en Europa y ellos le hacían una ·letra" que canjearía por su dinero, en el destino: intereses husureros y robar dinero de muertos.
+* Orden de Malta: ¿muchos actores vienen de Vlad Tepesh = Dracul, siendo familia de monarcas y eso?
+##La cruzada 0 nació en el valle de Tost, contiguo a las tierras de los Pinós, ¿sí?:
+- Coincidencia entre las leyendas de los "9 fundadores del Temple" y los "9 de la Fama" (¿catalanes?, ¡fotos del gobierno catalán, 9! Hugo de Payens y Otger Cataló. Hicieron su juramento ante la virgen negra Ishtar, Santuario de Montgrony, tierras de los Pinós, ¡como los del temple! Cesión de Galcerán de Pinós al Temple en 1170 de la montaña de La Palomera).
+* ¿Otger se llama históricamente Duque Eudó de Catalón?
+* "El Tesoro", ¿puede invocar y usar entidades sutiles? Lo guardaron en Rennes-le-Ch¢teux, Vilanova de Banat, Notre Dame o la Biblioteca Vaticana. Una rama benéfica encontraron otro tesoro, ¿Llevado a UK, y por eso desde Venecia, los malotes fueron a UK, a "eliminar"?
+- KUrdos y catalanes se parecen mucho (castillos humanos...). ¡Paios!
+- Flor de lis = abeja modificada = 666.
+- "Ojo de Horus": disociacion rojo-azul.
+####supersuperamenaza el plan para reducir la población. Copio textualmente:
+- El 22 de septiembre de 1991, nueve meses antes de que se celebrara la Cumbre de la Tierra en Río de Janeiro, se celebró en Des Moines, Iowa, una audiencia pública de las Naciones Unidas en el Medio Oeste sobre medio ambiente y desarrollo.
+- Un documento de esa audiencia señaló la urgente necesidad de reducir la población mundial. "La reducción inmediata de la población mundial, según la recomendación del Fondo Draper de mediados de los años 1970, debe verse afectada inmediatamente", afirma el documento.
+- El documento afirmaba que una de las políticas a implementar era que "todas las naciones [tendrán] cuotas de reducción de población anualmente, las cuales serán aplicadas por el Consejo de Seguridad [de la ONU] mediante un embargo selectivo o total de crédito, artículos de comercio, incluidos alimentos y medicinas, o mediante la fuerza militar, cuando sea necesario".
+####superamenaza la Universidad actual. "Solo un intelectual puede creerse semejantes tonterías" (Orwell):
+- Los días 8, 9 y 10 de Mayo se celebró en Valencia el V encuentro de rectores de Universidades españolas, europeas y americanas, sufragado suculentamente por el siempre "desinteresado" y "altruista" Banco Santander.
+* Lo que se busca es que "el conocimiento y la tecnología que se generan en la universidad han de ser transferidos de manera que se garanticen su aceptación y uso generalizado". Es decir, que las gentes acepten lo que venga desde los cielos universitarios acríticamente.
+- El sistema educativo ha sido el feudo natural de la izquierda ("el mundo se cambia a través de la educación": afirmación perversa, en realidad):
+* Bruja Avería: viva el mal, viva el capital, viva la Universidad! Pero qué mala, qué mala soy.
+* Los ecologistas de despacho se están cargando España. En la Universidad se oculta información de poder, se miente... Ahí están los creídos que buscan soluciones al cancer, ¡que es psicológico! Tenéis ahí la ideología de género, una barbaridad universitaria. Islamofilia... Estas ideas buscan blindar al Sistema de cualquier crítica (tú di algo sobre las mujeres, que muchas se han convertido en monstruos victimistas... y te expulsan a patadas, porque "el hombre es un violador" es undogma muy aceptado, y claro, falso).
+* Más: hiperespecialización sin hacer una mirada general, la arrogancia de quien está ahí, el tener que publicar cada poco aunque sea basura, inventado o ya se haya publicao antes...
+- Enorme poder universitario tras la Revolución Francesa:
+* No hay persona más crédula y manejable que un universitario, acostumbrado a aceptar teorías sin contrastar. No es casual que en la época de mayor cantidad de universitarios, la juventud sea anodina y desmovilizada. Las Universidades lo que hacen es preparar a los jóvenes en el viejo oficio de venderse al mejor postor, sin protestar.
+####supersupersuperamenaza las élites quieren matarnos de hambre.
+- Los holandeses sacrificaron sus vacas, por culpa de... ¡la Ministra de Nitrógeno (se dedica al nitrógeno, es una locura)! Con la excusa del cambio climático (producido por las propias élites), quitan los medios de vida:
+* En la escuela se incita al niño a comer gusanos, ¿y cuando no nos den más gusanos, moriremos de hambre?
+##Las élites contaminan las aguas para que compres agua embotellada (su poder es éste). Y te dirán que el agua de mar no puede usarse.
+####Árbol Rojo alimentación que eligen para nosotros las élites.txt  - Con la excusa del cambio climático (vacas emitiendo metano...), quieren conseguir que comamos menos carne, ¿para acabar con la ganadería, controlando nuestra alimentación paar debilitarnos? Sus animales transgénicos (ovejas...) producen alergias a la carne (planifican con mente criminal).
+- Las harinas de indigestos insectos salen más baratas a las élites (los insectos se multiplican rápido y comen "cualquier cosa"). Deberían estar en uan zona especial de las tiendas, y no en todas, confundiéndonos.
+* Los filatos impiden la absorción del calcio (como la leche pasteurizada)...
+- ¿Pirámide real de los alimentos?: quizás la base sean las grasas animales (cuidado con las vacas eso sí, ahy animales más saludables) y las proteínas. El cultivo, algo paio y relativamente reciente, podría ser antinatural. ¿El pico, las frutas, y en el medio, plantas? ¿Quitamos los hidratos de carbono (harinas, ¿malas pa los dientes, ya que nuestros ancestros de hace miles de años tenían dientes perfectos?) y el azúcar en general?
+* Veganismo: para adaptarnos a la escasez.
+##Etiqueta que marca que hay insectos: no apto para alérgicos a los crustáceos.
+####supersupersuperamenaza los secretos de la ONU al descubierto.txt  Un extrabajador de medio ambiente, vio cómo la ONU, manejada por oligarcas, explotaba África, para crear en otros continentes, esclavos consumistas "robot":
+- La ONU habla de guerra en sus reuniones privadas, y de paz para afuera. ¡Codiciosos! ¡La naturaleza nos lo da / daba todo! Y ahora echan la culpa al cambio climático, controlan a la gente con miedo...
+* A los de la ONU les importa... el buffet libre, los viajes gratis en avión... Para entrar hay que ser políticamente correcto (callar) y te dan dinero (por callar / vender tu alma).
+* EL FORO ECONÓMICO MUNDIAL LA ENGLOBA (COMO A TODA ONG QUE SE HACE GRANDE).
+* Trump ganó por sorpresa (gana quien eligen los oligarcas, pero esta vez les salió mal).
+- Más:
+* Desastre de alimentos y agua previsto (por la ONU, es su plan; si empobrces, controlas, comen de tu mano) para el 2025 (el CV, seguido de hambrunas, eran planes de las élites para 2016, pero algo salió mal).
+* Islas Marshall: antes de la radiación, ¿la esperanza de vida se acercaba a los 200 años?
+####EXPEDIENTE ROYUELA. En España, Zapatero y Compañía, compran a jueces, policía, políticos... gracias al narcotráfico (relación con Logia de Miami, ¿contraria a la CIA no?). Así, pueden matar / silenciar (llevan 2.000 cadáveres mínimo, y el PSOE, tiene mucha experiencia en el campo criminal). Quienes quieren denunciar esto, son tomados por locos, calumniados, muy perseguidos... La población está engañada, y esto debe terminar:
+- Papel que podría imprimirse. Expediente Royuela. Judicialización ya. Secretos de las cloacas del Gobierno español. Expediente Royuela, es verdad, aunque duela, y lo sabe hasta mi abuela.
+- Acodap (Juez Presencia, perseguido por denunciar al malo) cambia ministros corruptos, es sano. Tiene Rix un documental muy bueno sobre el Expediente Royuela, y también uno sobre alguien que puso su honestidad por encima de todo lo demás (enfrentándose a las élites): el Juez Presencia (Acodap, relacionado con el Expediente Royuela).
+* Ahora ya, quien no denuncie a Robles, Marlaska, Zapatero... es inmoral. Y el PP promete hacer una sociedad todavía más loca / inhumana. ¡Porque PP y PSOE sirven a los mismos!
+- Los periodistas, bien sobornados para callar. Y asciende sólo quien sabe callar (quien tiene ese "temple inmoral psicopático"). Parecen delincuentes con mucho poder que se encubren unos a otros.
+* La manera de acabar con esta mugre, podría ser abriendo los ojos: ellos son infelices, ellos son materialistas, superficiales que no entienden que te llevas contigo tu psique a todas partes, aunque vivas en un palacio. Creo honestamente que los excesos (yates...) no son de triunfadores, sino de gente que tiene miedo de mirarse dentro.
+####Valdeande INTRO.
+- El mundo es un teatro en el que la gente que tú crees que manda (presidentes...) sigue un guión escrito por élites internacionales en la sombra (no sabes quiénes son; nos ponen a los illuminati, que tampoco salen mucho en las revistas, como máscara).
+* La verdad está oculta, y los paios y los bere llevan más de 10.000 años "luchando entre ellos" (los bere solían ceder, aunque los "bere" de hoy, viven una vida de pecado, moderna). ¿He dicho ya manipuladores jesuitas, masones y nobleza negra veneciana?
+* La teoría de la navaja de Ockham (la verdad es probablemente la versión más sencilla) no sirve aquí.
+* Los antiguos daban mucha importancia a los números, y las élites los usan (junto con símbolos, colores...) para manipular nuestras mentes.
+###Política, y paios y bere (lucha):
+##Cuando en los medios oigas mucho una palabra como Brexit (algo un poco forzao, como una etiqueta) son planes de las élites.
+- BREXIT. ¿B = Baal (en sentido paio) y REX = Rey? ¿IT era camino?
+##Celebraciones con hostia. Tienen más de 12.000 años. La hostia / víctima (carnero bere) es entregada a un demonio (y se le ponía salsa con espelta).
+- Cristos: persona que realiza misterios con hostia (CR, car... es satanismo). Las hazañas de Julio César sirvieron de base para ¿inventar? a Jesucristo. Los lugares de Tito Livio contra los hebreos son los de Jesús. Esus es un Dios demonio galo, leñador y carpintero, también conocido como Señor.
+##Super Bowl (owl / búho es el demonio Moloc): portales energéticos. Chris Martin (Coldplay) se rinde en el escenario (ritual).
+##1 Mayo 1776 = 27 = 9 = destrucción; se reúnen los sionistas en Suiza para hablar del dinero FIAT, el falso que usamos hoy 2022, que permite que los bancos creen dinero de la nada, sólo con apuntes contables. El NO físico será peor (control):
+- Un Rotschild (¿Mayer?) organiza Revolución Francesa (la vuelta de los brujos paios) con libro escrito por Schwark. La policía alemana encontró el libro, e intentó alertar, pero nada.
+* Según Mayer, para controlar se necesita dinero, Universidades con becas para que la gente piense que puede aspirar..., infiltración en los gobiernos pero no muy arriba, y control de los medios de comunicación. Todo cumplido.
+##PODEMOS: morado = rojo + azul (merovingios paios). Hay un simbolo israelí rojo y otro azul, inventados por los Rothschild.
+- Se inscribe un 11Marzo (Madrid, Londres... atentados). TuerKa: k = 11.
+##Los epicentros de los terremotos están siempre a 10 km de profundidad. ¡Claro, se podrían producir con armas climáticas! Como el presi de Filipinas (buena gente medio rural) insultó a Obama, Filipinas "se ganó" un buen terremoto. Ellos pueden, sabes.
+##Hillary (mandó un email: "sacrificaré un pollo a Moloch") puso a Bill al frente de USA, y es ISIS.
+##ATENTADO CLUB GAY ORLANDO. Edad atacante = 29 = 11. Vivía a 130 millas de Orlando. 12 / 06 / 2016. Cambiemos el orden de las cifras: 6 6 1212 = 666. Cumple de David Rockefeller (había que celebrarlo, cumplía habitación 101).
+##Atentado Niza. Camión Blanco, ¿dominicos (ejército, junto a jesuitas)? 14 / 7 = 777 (inversión de poderes). LA POLI ADVERTÍA, ¡LO SABÍAN!
+##El Viernes 13 de 10 de 1307, felipe 4º de Francia y Clemente (Papa), decidieron eliminar la orden del Temple. Un Viernes 13 / 11 / 1992, las niñas de Alcasser son asesinadas (zona cartaginesa, de Baal, del Temple). Venganza llevada a cabo con una cruz de Caravaca (indica tortura).
+##Las élites:
+- Filantrópico (y ONG y Fundación la mayor parte de las veces), son palabras que indican poder, control, maldad.
+- Flores en la cabeza es asesinato ritual (virgen). NO es bonito.
+- Avanzadísimas pantallas de agua (agua + fotones = biones; Wilhelm Reich). Un dibujo sumerio: no es "rueca de hilar", sino pantalla.
+- China pone mucho dinero para chemtrails (veneno), y eso le da derechos de voto.
+- El Pilar (Zaragoza) tiene unas columnas muy extrañas. ¿Abrir portales? ¿Son bobinas de Tesla? Se adoraba un pilar, y se tapó con una virgen (todas son satánicas).
+- Jefes: Bill (mafia roja = rojos + azules), Cristo (Iglesia) y Álex (mafia verde / bere). ¿Un saltador de altura con camiseta roja se refiere a abuso sexual? ¿Y el número 88?
+##El ser humano es más inteligente que un animal corriente, porque el esfenoide tiene más giros en la forma.
+##¿Cuando Neil Armstrong y CIA grabaron en estudio (ojo, llegaron a la Luna y esa parte fue censurada), los sujetaban con cuerdas tirando p'arriba pa simular la gravedad Lunar? El astronauta no se podía agachar, curioso.
+##Cristo-Baal Colón salió el 3 de Agosto para salvar falsos judíos (NO superpractiantes). Los barcos llevaban la cruz templaria.
+##Un TDAH sin medicar (menos mal) usa muy poco el hemisferio izquierdo en comparación con el derecho (es inteligente casi siempre). El asperger iría más o menos al revés.
+##Los UKos (UK es lo contrario a KU de paio KUre) eran / son guerreros berebán.
+##A Un Técnico Preocupado le han dao la razón (la justicia) sobre el Bar España (Carlos Fabra matando y violando niños sobre pentagrama invertido...). La justicia le aconseja no meterse en líos, tras ir los malos a su casa a cargarse su ordenador.
+##Cuando la Lewinsky tenía 22, se relacionó con Clinton (el fecundador / pindar paio). Hillary taba tranquila, ya sabía que era un ritual.
+- Hillary ayudó a Soros al golpe de Estado nazi en Kiev (2014). Roberto Centeno mencionó a Soros y lo echaron.
+##Soraya (sáenz de Santamaría) no promete ante nosotros, sino ante símbolos, el rey... Incluso promete no revelarnos nada.
+##Las matanzas en estadios, muertes asistidas del futuro... son rituales.
+##El rey de España (Felipe) es medio bere: usa tapices (verdes...) enfrente de los cuales debes rendir pleitesía. Aunque actúa cuan paio. Los tapices (rojos...) cuentan la verdadera historia.
+##Pizza Gate: Pizza = niña, hot dog niño, sos = orgía, nat mujer de color, icecream chapero. ¿Y Gate? Suena a violación.
+##A nivel militar, el ejército español depende de la Orden de Malta.
+##¿Salvador allende fue buena gente? Posiblemente.
+##Los huevos de Dalí no son arte, sino imposición illuminati. Huevo = origen. ¿Y el huevo de Colón es para inventar a Colón?
+##El 13 del 3 del 2013, los jesuitas toman el Vaticano.
+##¿Que Papá Noel era en principio de los beres, y viajaba desde España? ¿Era Dardonos / salomón?
+##El cuchillo ceremonial maya era verdinegro (con verde NO bere). South Park: Kartman va de negro y se une a chica de verde...
+##El 11 del 9 de 2001 Bush estaba leyendo el libro "Pet Goat" a unos niños. El libro estaba al revés, ¿ritual? EL MACHO CABRÍO (PET GOAT) SIMBOLIZA PARTE DE LA CRUCETA DE MARIONETAS. ¿11 = paios a secas, 13 = Iglesia, 17 = paios loteros, y 19 tontos útiles?
+##Silencio de los corderos: con la quinta víctima (no hay quinto malo para los paios a secas, NO loteros / CATalanes), "los corderos callan".
+##Recuerda: "Pedro tiene las llaves".
+####FIN VALDEANDE (BURGOS, ESPA‘A)####.
+####Alexandro Energys, hacia dónde va el 2023:
+- El camino de "todos iguales" (INCLUSIVO, NO INTEGRATIVO) te quita "dones y talentos".
+- Nuevas generaciones: las nuevas tecnologías pronto irrumpen en sus vidas; y se alejan de lo natural. Hay que producir CON LAS MANOS (algo que suele generar alegría).
+* Se ha "progresado" muy deprisa, consumiendo frenéticamente, envueltos en deseos incontrolables que excita la publicidad, por lo que la mayoría se ha encarcelado voluntariamente en un celda que piensa que es la vida.
+* El sistema globalista nunca ha atendido las verdaderas necesidades del ser humano. Tanto conocimiento y saturación de información nos ha convertido en insensibles o cínicos. Tanta intelectualidad nos hace duros y secos. Se sienten muchas emociones, pero se siente muy poco desde adentro, se escucha muy poco la propia voz interior.
+####Vídeos Youtube.
+- La Ciencia oficial está con las élites oscuras. Fíjate en las noticias de los telediarios, ¿realmente tienes la evidencia de que digan la verdad y la noticia sea importante A LA VEZ? ¿Realmente la tienes? Tienes que pensar que son medios para manipular, medios de control mental.
+* ¿Recuerdas al presentador de "Dinosaurios", Howard Marioneta? Sus jefes son las élites: psicópatas (los integrados son casi el 100%, y con palabras suaves y "dulces", te van destruyendo)...
+- ¿Qué mecanismos hacen que acaben sacándonos de nuestras casillas?
+* Las represiones. Cuando reprimes algo, por ejemplo, meterte el dedo en la nariz porque te han dicho que es feo, puede ser para dar una imagen ante gente ignorante. Entonces, cuando veas a alguien metiéndose el dedo en la nariz, podrías reaccionar violentamente. ¡Y la mayor parte de las represiones son difícilmente accesibles!
+* El miedo: puedes cambiar el miedo comprendiendo "al brutote" (no puede reaccionar de otra forma, es la tradición y son...). Acudiendo al hermetismo iniciático, se te pasa el miedo cuando no combates, no piensas lo que pudo haber sido, ni lo que será, te fundes con lo que te da miedo, comprendes.
+* El complejo de superioridad. Éste siempre está originado por uno de inferioridad (competir...). Cuando ves a alguien que hace algo mejor que tú, podría salirte un complejo de inferioridad, y de ahí salir el de superioridad. A partir de ahí, necesitarás "llamar a los demás inferiores" para no descubrir la verdad sobre ti (el complejo de inferioridad tapado).
+* Resto de programaciones en ti (incluye lo propio malo de los signos del Zodiaco).
+####videoclips qué me cuentan.
+##Canción: Together in Electric Dreams. Human League (Phil Oakley) + Giorgio Moroder. Año: 1984. Un ordenador se interpone en los amoríos de una pareja humana:
+- Mucha gente quiere más capacidad (memoria...), más velocidad hoy en día, en 2021. ¿Se puede saber por qué? Carrera tecnológica absurda.
+* En el 84, la gente estaba loca por que la tecnología mejorase, y no los culpo, porque realmente, sí que podía mejorar. Lo importante es que salíamos a la calle. Yo, ponía mi Spectrum media hora cada 2 días. El ordenador era un bonito complemento, y hablabas con los amigos de él, mientras que hacías lo que hacían el resto de los niños. ¡Y se quemaba en 2 horas! ¿Fantástico no? Nadie podía pasarse horas y horas delante del "condenador". ¡Equilibrio por favor!
+##Depeche Mode, Get the Balance Right, 1983 (pobre niño pequeño, lo que le dicen, mientras juega con una grúa; hoy sería una XBOX...).
+- There's more besides the joyrides, little house in the countryside. Hay más que paseos de placer y una casita de campo.
+- Understand, learn to demand, compromise, and sometimes lie. Comprende, aprende a exigir, compromiso, y a veces mentira.
+- Get the balance right (balancea correctamente: las élites balancean para tenernos callados, y nosotros, para "medrar").
+- Be responsible, respectable, stable but gullible, concerned and caring help the helpless,but always remain ultimately selfish.
+* Sé responsable (haz cosas inútiles y piensa que son elevadas) y respetable (el respeto desde el exterior es de mentira, ¿son avanzados los que te "respetan"?). Estable pero crédulo. Concienciado (para lo que ellos quieren: recicla, que eres culpable de ensuciar, no nosotros las élites, por quitar las botellas retornables) y ayudador (ayúdate a ti mismo desreprimiendo por Jung, y por fin serás un ejemplo), pero en el fondo queda el egoísmo (eso les gusta a las élites).
+- NO vayas por este camino, tampoco por el otro, vete hoy por éste, y mañana cambiamos la teoría (televisión), y vas por este otro camino.
+####ÁrbolRojo incendios y su causa.txt  - En el siglo XX se culpaba a la gente, y ahora, al cambio climático (sospechoso cambio), ¿la cosa es culpar? ¿Provocar para construir...?
+* Ahora, en España, se debe hacer sitio para molinos y "cristales". Primero pusieron pinos y eucaliptos las élites, que arden bien...
+- Más:
+* Los incendios disminuyen, pero la cobertura mediática (no se puede decir informativa) sube. ¿Para crear sensación de alarma por el Cambio Climático, y así lanzar medidas de control de ti y de mí innecesarias?
+* Organismos oficiales que defienden el cambio climático coinciden en que los incendios son provocados.
+* El culpable casi nunca es cazado, ¿porque trabaja para una organización poderosa?
+####Naranjero (programa de Youtube):
+##El puesto de trabajo (Samu como moderador):
+- Samuel (Monroe, multinacional se supone): progresivamente va menguando la plantilla, domesticada, convencida de que los cambios son necesarios. Prejubilaciones...: lo que comienza como elección, termina siendo obligación.
+- Terán. Es el PSOE quien despide, no Duro Felguera. Y los negocios son salvajes.
+- Alberto (Matadero): los empresarios intentan hacerte sentir culpable (son narcis): "es que NO aceptasteis esto de los sindicatos...". La verticalidad sindical pretende aplastar el asamblearismo.
+- Terán: UGT y CCOO saben mucho de entorpecer asambleas y de no darles contenido.
+- Samuel: sería bueno unificar los conflictos de varias empresas.
+- Samu: Los liberados (que no están en puestos de "sufrir") son un peligro.
+##Nacionalismo:
+- Amador: los lenguajes asturiano y vasco impiden una comunicación fluida. Todo nacionalismo (Kike: con discurso emocional / manipulador) tiende a falsear la historia (yo: las escuelas de vasco se usan pa borrar la memoria bere).
+- Meana: autodeterminarse es decidir con quién se quiere relacionar uno o qué es lo que uno quiere hacer en la vida (que no sea como los trabajos de comemierda).
+##Neoliberalismo:
+- Larfe: liberalismo vs keinesiansimo, una lucha anticuada, todo malo (ya se sabe, cuando las élites te dan a elegir entre dos...). Proletario (esclavo) pasó a ciudadano (eufemismo).
+- Yo (pensando). ¿Son necesarias las grandes empresas? ¿Se puede empezar con expertos y exportar métodos a toda España?
+- Amador: las cárceles son empresas con beneficios, y deben estar al 90%.
+##Sindicatos: 9 Noviembre 2014 (Presenta Fernando Montilla; y me acuerdo de Rubén):
+- Manuel (Terán digo yo): al final del franquismo se propicia un cambio (asambleas y participación). CCOO y UGT destruyen esto nada más alcanzar el poder.
+- Ana: Se crearon un montón de estructuras sindicales (Pactos de la Moncloa...), al margen de los trabajadores, a los que hacían quedarse cómodamente en casa mientras se construía el "Castillo de Drácula".
+- La UE desindustrializó España (González). En Euskadi, los burgueses tienen más apego a la tierra, en Asturias es "coge el dinero y vete pa Madrid".
+- Manuel: En 1992 CCOO y UGT se reúnen por primera vez y firman los convenios de las ETTs, sin contar con el pueblo.
+##Democracia:
+- Se sube el salario mínimo (para despedir, hacer las empresas inviables...), y se habla de repartir en vez de producir.
+- Hay que tener capacidad de ser feliz, para expandirla a los ricos, que aprendan.
+##La lucha (no mires al monstruo, y desaparecerá):
+- Chan: acciones de amor gratuito sí cambiaron la historia.
+- Larfe: el 15M movilizó a la población para desmovilizarla, paseo tras paseo. UGT paró luchas de transporte y minería, dividiendo en 2 grupos. Una manifa donde en la cabecera no hay personalidades importantes, es una ratonera.
+- Inda: una manifa sin hablar después de proyectos, no es nada.
+- Terán: la marea blanca de médicos venció gracias al interés político, pero si no, una marea sola, no consigue nada.
+- ANDIBATZARA DEITU: Gran Consejo Llamar.
+- Esperanza (paia, jugar con nuestros sentimientos) = Es Pare Antza. Es manifiesta (vocal a, luego lo vemos) opinión del Pare.
+####Carlos Taibo y el 15M. Creo que me centraré en el capítulo de Álex Corrons.
+##Yo: el 15M es un movimiento que puso en contacto a gente con entrañas, y difícilmente engañables, aunque se nos engañó, con esas extenuantes manifestaciones que sirvieron como excusa para endurecer la ley. Parece que había una línea editorial y un control (se reían de ti si te salías del guión de "la mente cerrada de luchador con cuernos de izquierdas"):
+- Paro: es como si la empresa estuviese diseñada para excluir a la gente integral / pensante, intuitiva espiritualmente y empática. Hay que tener cierto grado de brutalidad psíquica para soportar el mercado laboral actual.
+##Al grano (Corrons):
+- Burbuja inmobiliaria: vivienda cara por tipos bajos de interés y liberalización del crédito (todos a comprar, una demanda increíble). Políticas fiscales: se desgravaba por compra (¡qué cabrones, todo un plan!). La vivienda social era casi inexistente. Los bancos tasaban las viviendas al alza siempre. Al final, las hipotecas no pudieron pagarse y los bancos empezaron a tasar a la baja y a quedarse con las casas y las hipotecas.
+- Los sindicatos (que controlan la Universidad) son estructuras monstruosamente grandes con una verticalidad que da vértigo. Tendrían que defender a la pequeña y mediana empresa, a la economía sumergida (de los abusos policiales), y el decrecimiento (ser más feliz con menos: menos necesidades al racionalizarlas, e ir más lento, más saludable). 
+- Ha de partir de la ciudadanía el proceso para recuperar y convertir en riqueza comunal los recursos productivos existentes, tanto en manos públicas como privadas.
+- Se recupera la humanidad y la confianza, con las cooperativas integrales. Pero la PAC ha convertido a los campesinos en esclavos de la industria agroalimentaria. PAC boicotea la incorporación de jóvenes al campo. Se dice que los pueblos no son rentables, y con esa excusa, se quitan servicios. Se dice que vivir en el campo es difícil, y que lo mejor son las enfermizas ciudades con gente llena de necesidades absurdas y salud débil, porque se dice que hay que tener y consumir, y nadie con dos dedos de frente se traga eso.
+####amenaza ceremonia satánica élites inauguración túnel San Gotardo:
+- Estuvieron Angela Merkel y Fran§ois Hollande, que por supuesto, estuvieron muy a sus anchas con tanto simbolismo satanista que conocen a la perfección.
+- Costó 11 millones de euros (o eso dicen). 11 de Septiembre... Los números tienen poder. Murieron 9 trabajadres, pero en la ceremonia mueren 2 más (como actores; es un rito de sangre).
+- Empieza con una marcha de obreros (los paios inventaron el ejército / desfile). Además van como zombis (cerebro sorbido por las élites). A medida que los tambores se vuelven más rítmicos, los trabajadores se ponen más excitados, bailando alrededor y saltando. Parece que el primitivismo les sale de adentro y en vez de "evolucionar", involucionan... ¡Cuidao con la percusión!
+- Un tío grita "Santa Bárbara" (demonio) mezclando "rezos", con el canto tirolés. La santería es satanismo. En Santa Bárbara (California) se puso la Iglesia de Set (una escisión de la Iglesia de Satán).
+- Hay gente de distintas razas (significa fusión, pérdida de riqueza genética y cultural, todos "con la tele..."). 
+##Ya fuera del Túnel:
+- En la pantalla grande aparecen 3 escarabajos. Las 3 ranas (RA y ANA, la "madre" de los paios) del apocalipsis son el ¿liberalismo?, el comunismo no utópico (Rothschild) y el modernismo.
+- El Olmo estaba consagrado a Marte.
+- Hay como cristianos perseguidos por leones. 
+- Aparece el tren, ¡algo relacionado con trenes!
+####Faul McArtney.txt  ¡A ver si metieron ahí a Yoko para echarle la culpa del mal rollo, provocado REALMENTE por el falso Paul! ¿Al auténtico lo habían mutilado por no querer ir con las élites? Creo que NO.
+- EL EXTRA‘O CASO DE WILLIAM (BILL, al que Lennon llamó "asesino" en una canción llamada "Bungalo Bill") CAMPBELL:
+* Paul (el verdadero) estaba prometido a la bella e inteligente actriz Jane Asher (NO "la otra"). En Otoño del 1966, Paul va conduciendo, ¿distraído? y un coche viene a gran velocidad y en medio de un cruce los dos autos colisionan. Paul es rescatado con la cara desfigurada y heridas por todo el cuerpo. Fue conducido en secreto a su finca de Escocia. Nunca saldría de allí. Jane Asher se ocupó de él hasta 1968. De las heridas jamás se recuperaría. Los únicos que le visitaron fueron George, Ringo y especialmente John.
+* 66, se acercaba la Navidad y los Beatles debían grabar el single navideño de rigor. Entre los miles de imitadores (vocales) de Paul McCartney se escogió al canadiense Terry Draper (NO es WC). Tanto los Beatles como toda su pequeña corte de colaboradores creían en la recuperación de Paul, así que esto fue visto como un engaño menor, pero necesario.
+- Pruebas:
+* McCartney medía lo mismo que Lennon; Campbell es un poco más alto, detalle que fue manipulado durante años. Otras son el color de ojos, el perímetro craneal, la forma de la cara y las manos... La famosa cara de pan de Paul desaparece con William, con facciones más acentuadas. Álbum blanco: William luciendo una cicatriz en la barbilla (operación).
+* Análisis fonéticos realizados en laboratorio... han demostrado que Los Beatles tuvieron tres McCartneys como cantante. El viejo Paul poseía una voz muy rica en registros, con bajos de gran intensidad. Con el tiempo se volvió más chillona, aguda y nasal; ¡y eso que el paso del tiempo vuelve las gargantas más dulces y versátiles!
+* Portada de "ABBEY ROAD": hombre descalzo que cruza intencionadamente la calle con las piernas en posición contraria al resto de sus compañeros. En la religión hindú quiere decir que está muerto, claramente. Matrícula IF28: si (IF) McCartney estuviera vivo tendría 28.
+* William tiró en un primer momento de las composiciones aún inéditas de Paul y del material de los otros tres ("Helter Skelter" es puro Lennon). Tanto en Wings como por su cuenta ha grabado verdaderas maravillas pero, ¿cómo un músico no va a salir curtido e inspirado tras haber pasado por The Beatles?
+* William se dedicó a seducir a todas las damas que se le pusieron en su camino. No era el asceta Paul, absoluto creyente en la monogamia vitalicia.
+####A PARTIR DE AQUÍ, HABLAMOS YA MUCHO DE PAIOS Y BERE (morenos / NO negros / enanos cabezudos, y blancos gigantes; las fiestas tienen su parte de verdad / BErdad, y la sociedad, su PAscismo; be es bueno, pa es malo).####
+####Origen grupos sanguíneos:
+- Tipo O: negros en origen. Sistema inmune resistente. Pueden comer carne tranquilamente. Son propios de la Tierra (Nigeriazi). Unos 300.000 años de antigüedad.
+- Tipo A: paios. Vienen del malvado planeta Hispanie (no me lo invento, por eso a los españoles nos llaman payos). Llegaron hace unos 17.000 años.
+- Tipo B: beres / nórdicos / raza blanca original. Los primeros en llegar fueron María Maiestatu, María Marta, y María Margot. Naturaleza bondadosa.
+- Tipo AB: hace unos 5.500 años, empezó el Imperio de la Medié (el emperador es siempre paio, los bere son reyes), y empezó a ser frecuente la mezcla.
+####Goerreig vivir vs pensar.
+- Cristianismo y Comunismo (sacrificio en vida: trabaja, ¿para qué?): quedarse sin nada, y pensar sobre la materia.
+* Agenda 2030 (bastante peor que la Iglesia incluso): no tendrás nada y serás feliz. ¿NO se parece al cristianismo y Comunismo?
+* Serpiente emplumada: despertar de la materia (sin pensar, con la vital intuición, ¡bien!).
+##"Rapado" (= "del padre creador") en las religiones: negativo.
+####Goerreig El quinto Elemento película que no deja indiferente. Único que puede derrotar al mal, a los paios:
+##Se basa en el cómic "Incal" (estrella de 8 puntas verdaderamente salvadora, no encanijadora). Cada unos 5.000 años viene una entidad oscura a la Tierra.
+- 5 significa man / mando (de buenos o malos).
+##La peli nos dice que atacar "no sirve", pero sí "burlar a la poli":
+- Ella es Leeloo (manifestación plena de "Él", el BE). Habla la lengua madre / Elengoa / Protoeuskera. Horrorizada con la tecnología de la Tierra.
+- Zorg: chispa (Z, Elengoa) organizadora. Representa a los brujos negros que esperan órdenes de entidades negativas. Lleva un círculo detrás (el halo de los falsos buenos).
+- Crucero: el presentador sólo se quiere a sí mismo, pero la gente lo adora. Como en la realidad.
+* Zorg es traicionado por aquellos que traicionó (es casi ley).
+* Él arriba y ella abajo, forman "un metatrón", pirámide ascendente y descendente, que está en el cubo de metatrón. El cubo es el cuarto chacra, el corazón, que gobierna a los demás elementos. Leeloo canaliza el amor hombre / mujer (los paios nos quieren "raros y feos"), para derrotar al mal, es la materiz (luz de la madre terrenal), el hombre "enciende la chispa femenina". Lo mental es secundario, y el presi los encuentra haciendo el amor (esto podría hablar un poco mal de esas religiones que prohíben el sexo; eso sí, la penetración sólo por un poco de placer...).
+##¿Indica que la Luna vino por el mal de los paios?
+####Goerreig origen pirámides ciudades excavadas y rocas talladas (Primer Imperio Paio):
+- ¿Las pinturas rupestres eran de los negros?
+* Los blancos (bere), gigantescos, llegarían después de los esclavizantes paios, para bien.
+- Los paios (Pachucho: paio que se lo cree todo, se autoanula y obedece; como hoy, nada ha cambiado, desde hace 5.000 años, todo es patriarcado encubierto psicopáticamente):
+* Primaban el intelecto sobre la materia (femenina), el Sol sobre la Tierra.
+* Egipato: erigido por el verdadero padre. Partido (dividido) / disociado (mente): del alto padre creador.
+* Los kures (es profundo cortador: cuevas, tumbas, ciudades...) iban rapados (del padre creador).
+- Más:
+* Mentira: alto mando de Ra. Morto: hecho piedra.
+* Tallando piedras: ¿Grito específico que "transmitía" imagen (desde la cabeza...) a la piedra?
+* 4: estabilidad (paia, supongo). 5: mando. Pirámide: 5 esquinas.
+####superren Conan el Bárbaro. Conan va evolucionando, y los personajes sienten vergüenza por "darse a los placeres" (a pesar de ser bárbaros):
+- El primer Conan es guerrero del acero, alguien que destaca y es reconocido... por aplastar enemigos.
+- Lo siguiente es vengar la muerte de su familia (ser justiciero):
+* En la peli se dice claramente que la ciudad, la "civilización"... es venenosa, "no corre el aire".
+- El acero del malo da paso al control mental:
+* Es una peli antihippie, anti newage / ritos (anti engaños o libertinaje).
+* Las élites inventaron la tele (tras fundar el Socialismo fabiano; no + sangre, sólo invisible manipulación) para adoctrinar.
+- Más:
+* Conan lleva un escudo "de carnero" (bere), no con un paio entrante en forma de V.
+* La abducida representa a la gente normal, y Conan, a los conspiranoicos.
+* Su amor pasional / de mentira, muere. Y renuncia a la princesa, para vivir solo, para la moral.
+####superren Don Bluth Anastasia.
+##Beres: haz lo que quieras. Paios: haz lo que te decimos (ser normal) y finge con imagen.
+- La vida de las bere zarinas era austera (dormían en catres, cosían para obras de caridad...).
+- Don Bluth era un dibujante benévolo que abandonó la satánica Disney.
+##Al grano (quien sobrevivió fue Tatiana, y Rasputin era bueno y amigo de los zares, y con nombre no judío / paionegativo; Rasputin se lo pusieron los paios para falsear la Istroia):
+- Ana = Diosa (en plan negativo, la Madre de los paios).
+- El noble trata al otro como igual (Dimitri aprendió a comprender que Anastasia era modesta).
+- Cuidado con lo que acaba en -ki.
+####superren Historia Interminable. BastIAN (Dardonos el amigo de Álex Magno, Salomón, Neptuno... La B es bere) es un niño atrapado en la falocracia familiar (su madre no está y su padre es un cerrao):
+- Librería del señor Koreander (k paia, algunos libros son poderosos, como los malvados paios en 2022, y desde el -3.500 más o menos).
+* Pero Koreander quiere que Bastian se lleve "ese libro especial vivo, lleno de deseos nobles". Atreyu el Guerrero, es un niño, es puro.
+* El dragón Fuyu, protege a la serpiente (Atreyu lleva el serpentino Aurin), Zodiaco Chino (bere, 13 signos, lunar).
+- A la vieja Morla todo le da igual (la ciudad, el trabajo... acaban con la moralidad del adulto).
+* Atreyu lucha noblemente (se diferenció de su familia), y al estar en peligro, "algo viene a salvarle".
+* El caballero fue destruido por ser falso (pura fachada). Delante del Espejo Mágico, la gente se ve como es, y huye.
+* La Nada es controladora, sus ataques son preventivos, y vulnerando a los demás, se reafirma. La gente sin sueños de una sociedad mejor es fácil de dominar.
+####Goerreig amenaza serie Los Anillos del Poder (los productores quieren borrar el mensaje de Tolkien):
+- Mezclas interraciales a tutiplén (mensaje: todos somos iguales, menos los "de arriba", que son "santos superiores salvadores").
+* Más: las mujeres deben ser violentas (y odiar), y los hombres, ser "suaves" (y al final, la protagonista Gabedriel, se pone furiosa cuando Sauron le habla con bondad, porque sólo concibe al hombre como algo dominador; hay un choque interno en ella).
+- Sauron (el "malo") es un hombre blanco heterosexual y bere (por su símbolo de la Diosa).
+* Al final, el enemigo de Gobedriel es su propio interior. Algo inteligente tenían que decir, aunque sea veladamente (hay que tener buen karma).
+####PAIOS Y BERE (razas originales en la Tierra, junto a los negros; los más benevolentes, los bere / libres, blancos, altos y robustos; los menos, los paios / Patriarcales / controladores, bajos, y "naranja", la "raza amarilla"; los chinos son un diseño paio "hecho para servir"):
+- ESKANDINABE = Es lugar propiedad del Be. De ahí viene el BE Alejandro Magno (y la "Guerra de Troya" se dio en Francia, NO en Grecia, que falseó la Historia / Istroia con mitos).
+* Ya lo dijo Kubrick en algunas películas: las guerras entre élites son en realidad guerras entre paios y bere.
+- Pa / Ra es el dios satánico Sol para los paios.
+- Los Iudas, creo que habían violado a mujeres bere, para mezclarse (algo horrible; nadie del planeta HisPAnie debía mezclarse con nadie de Baleden; los negros son los únicos verdaderamente originales de la Tierra; los paios fueron expulsados de Baleden, llegando a la Tierra). ¿Los "nasones" / narigudos tienen algo de naranja, surgen de obligar los falsos "meroBingios" supercatólicos a convertirse al mal judaísmo a mucha gente del Cáucaso tras cercar allí a los mongoles, que acordándose de su pasado bere, fueron a combatir el Catolicismo, que era un pacto (NO se sacrifican niños y borramos lo poco bere que quede)?
+- España significa "es de los paios". Su bandera es amarilla (paios) y roja (sangre, violencia, la mafia roja / comunista). EJEMPLOS DE CREACIONES PAIAS: MAFIA GAY, FEMINISMO OFICIAL, REVOLUCIONES HORRIBLES EN UCRANIA, GEORGIA, CATALUâ€˜A, CHILE... TIENEN MUCHA HABILIDAD PARA DESTRUIR PAÍSES ENFRENTANDO A LA GENTE, Y METIENDO GUERREROS DE FUERA QUE LOS MEDIOS DE COMUNICACIÓN HACEN PASAR POR LOCALES.
+- Julio César era bere (poco gobernaron los bere los últimos 5.000 años).
+- Algunas familias paias (pero de razas distintas) controlan en la sombra. El que se pone delante de un micro, es un pelele. Se hacen / hacían pactos con espíritus negativos, para que estos "coman" (les gusta la energía de sufrimiento, la de adoración de ídolos de masas...).
+* Los protocolos de Sión nos dan las pautas de la destrucción de la humanidad por parte de las élites, a través, por ejemplo, de la tecnología electrónica; nos quieren medio zombis, medio "máquinas", para establecer el gobierno mundial único, primero, islamizándolo, y luego, destruyendo el Islam.
+* Las élites provocan atentados / caos paio, para dar luego soluciones paio-psicópatas. Las élites controlan también las migraciones (pa que el mundo se quede sin blancos, que sabemos los planes de las elites).
+- Uniberse = la Tierra = "es distante de los Bere" (pero pertenece a la Confederación EDUen / bere). EDUcar vs ADIvinar o ADIestrar.
+- Más sobre los paios. Paleides (¿Pléyades?). El bello corporal es más bien escaso y solían ser imberbes. Ispanie ("es Propiedad de Pa"). 
+* Cuando no hipnotizaban a sus víctimas, las engatusaban, para que así se entregasen sumisas a sus requerimientos. ¡"Políticos" o vendedores!
+- Beres: su máquina Bialduotekai para ver el pasado... tiene imagen en color natural y sonido original. ¡El Cronovisor!
+- En Edenga, capital de Baleden, está el Trono Magnífico de Jaungoiko (Señor del Cielo, Dios primero, Magno era Dios segundo / BE / salvador / ordenador).
+####Gudaizeru: La Guerra de los Cielos
+- Los pales (cabezudos) de BalEDEN decían que el pueblo debía ser gobernado por el pueblo y no por una jerarquía de Sabios, Héroes y Reyes (muy comunista / marxista / de Revolución Francesa, muy de "todos somos iguales", cuando no es verdad). 
+* Los Eduen (bere de Baleden = bele; ¿muchos llegaban a los 3 metros?) expulsaron a los paios. Los pales (paios) formaron una (PELIGROSÍSIMA) élite de científicos materialistas, con naves (tras aprender de los bele). Vieron La Tierra, zona prohibida para ellos. Y allí llevaban los Níger unos 300.000 años (hablamos de hace unos 17.000 años).
+* Por si acaso, construyeron largos túneles y refugios bajo tierra con el fin de poderse ocultar de los Edu / bele. Pero la máquina Bialduotekai lo ve todo. Se asentaron principalmente en lo que hoy se conoce como Sudamérica y la Antártida (luego vendría el cataclismo, que incluye un diluvio).
+* Manaos, la capital paia de la Antártida (antes del "diluvio") estaba cubierta de oro, y no Eldoradu Be.
+- El Dios BE advirtió de ello al Zar de los Ele ("el más grande de los globos"). Eluis Alexandre era su nombre. La misión para él: habrás de investigar de dónde procede la maldad, la envidia, el odio, la idolatría, el afán de lucro que tienen los Pales, e investigar sobre cruces (a ver si fue él quien creó "cosillas"):
+* Eleazar queda carbonizado en la nave camino a la Tierra, pero las 3 Marías (Marta, Maria y Margot) le sacan el semen. En el año 10.876 Antes de Cristo, la nave aterriza en México. Desde el principio, los toltecas (paios claro) las acogieron con gran admiración y cuidaron de ellas.
+* Eva (modificación paia): "Eube ezuri" = "el semen del buen Be". Los paganos de Roma se inventarían a la pareja de Adán y Eva. Adama es un apelativo para Maria, no Adán. Ezur (ezuri) se traduciría por costilla, inventando esa fábula de niños que habla de la costilla de Adán.
+* Matuzaleme = "Querida hembra madre nuestra", fue una bella mujer, Maria, quién vivió cerca de 1000 años. María engendra a Iezus. IEZUS SERÍA LA PRIMERA REENCARNACIÓN EN LA TIERRA, DEL DIOS BE, CON SEMEN DEL ZAR DE LOS ELE. ¡Aaaaah, semen de uno, alma de otro!
+####007notas0107.txt  ####IEZUS (hace más de 12.000 años): 
+- Mariki, Mariaki o Mariatxi: pequeño de María o parte de María. En Elduradu (Brasil) vivió feliz Iezus. Pero el ejército de los Patos destruyó la ciudad.
+* Marta fundó Beranderburuga (Berlin), Amsterdame (Amsterdam), creada en el 406 de las Marías, Mosku (Moscú)= Mocbe = sepulcro de la moza (allí asesinaron los paios a Marta).
+* En Sudan, se asientan (¿sin Marta?) en Obeidu. Un grupo de paios Kain iudas atacaron con piedras. A petición del historiador paio Moisés, en el actual Bershebah, los bere perdonarían a los judíos (y Álex Magno les daría "El Secreto"), a condición de que "siempre pusieran la otra mejilla". Pero de allí saldrían judíos con malas intenciones (y serían grandes comerciantes... Los de Japón se volvieron bere). Etsiun (pacto de Alejandro Magno con los judíos) = sion (mal dicho). María moriría en Moscú (y por eso el Dios, ¿"primero"? lanzaría "el golpe 777", una de cuyas consecuencias sería un diluvio; el golpe separaría América y la Antártida del resto del mundo).
+* Margot llegó al valle del Indo. Casó con un príncipe Pute (paio), llamado Puterru. Su hijo fue llamado Buda "El invertido". Predicó la confraternización entre las gentes buenas y honradas. Vivió y murió en ZARinagar. Cerca hay un sepulcro llamado Kaxemere, o sea, "Caja de la Madre".
+- Iezus escribiría la Bibele (auténtica Historia). Baal / Enlil, ahora creo que es Jaungoiko, ¿y Enki = Ra (revista Enki, Mallorca)? No sé. Iezus-Eleazar vivió en el actual Byblos.
+* Fue enterrado en Geruszalem. Su muerte fue en 10.094. El sepulcro estaba construido en bloques de mármol verde con vetas blancas. EL BETIS (fútbol) TIENE UNIFORME A RAYAS VERDES Y BLANCAS. Iezus mandó construir el sepulcro para Alexandre (Magno), su otra vida (tenía un "cronovisor"...).
+####TRAS EL GOLPE:
+- Se fundó una nueva capital, Kaide (Cádiz, España), "es puerto". Con Magno, cambiaría su nombre por Gades. El segundo imperio puto (paio) duró 6.509 años, desde el 10.099 AC. Para el pueblo paio (engañado), la existencia era un regalo concedido por el Emperador (Paraón...), los Pares (parlamentarios...) y los Lores (eran como brujos). No tenían derecho a poseer nada, estudiar o replicar. Derecha e izquierda normales... son paias.
+* Territorios indómitos bere: Eta Berik (País Vasco, Navarra y zonas montañosas de Cantabria). También quedaba Karelie (Suecia, Escandinavia).
+* Paios loritos (dictadura médica actual; entonces envenenaban en secreto, quemando cosechas y echando al culpa a los bere).
+####ALEXANDRE (MAGNO):
+- Dice a los Iudas (tierra "Santa") tras perdonarlos, que volverá a la Tierra entre el año 1.951 y 2.006, ¿como Alexandre Eleazar, nieto del NO monstruo Nicolás II?
+* Los Paios Palestin (ahora llaman palestinos a los menos malos, todo al revés) ven en ellos a unos renegados de su propia raza a los que hay que perseguir y matar. En su tiempo, ya un tercio de los Be son mestizos, con madres violentadas por los Paios. Estaban perdiendo sus cualidades mentales, psíquicas y espirituales con la mezcla.
+* Alejandro (segundo Dios BE en la Tierra tras Iezus) nació el 11 de Enero del 3.621 (Karelie, Suecia). Fue en Zaragose (Zaragoza, muy bere), donde representa a los niños (26 Dic. 3.588), maravillados, como fue su Nacimiento (Navidad), en Gotburgo. Un be (cordero) ante la cuna de Álex. En LA SEO  (iglesia de Juan / Jaun) se puede ver esto. El Pilar es paio.
+* Álex, tras vencer en Troia a Omaitzoi (barbudos que expulsan agua por la boca, lengua roja de Einstein = ahogarse) fundó Betis (es del Be; Sevilla = ser bill, rufián). Torre bética Egiralda (cuadrada, como el túnel de la guerra de Troia).
+####Más:
+- Alex le dijo al paio Moisés: viviré bastante años en Berselone, población portuaria, y desde dicha ciudad llegaré hasta aquí.
+- Kurdistan = "es propiedad de los Kuras". Los primeros 65 paios eran kures pale (apale; Rosalía, pobrecilla, la obligaron a decirlo). Trataron de crear una nueva religión, sirviéndose de María como cebo, pero también de Iezus. Tal hecho, se produjo entre los años 800 y 787 antes de la Era Cristiana.
+* El engaño era: venid, venid a las Iglesias que acabamos de construir, ¡tienen símbolos bere! Y así, poco a poco, se fue acabando con los 7 sacramentos bere, sustituyéndolos por 7 tonterías paias.
+- Los Pares soñaban en convertir un día a los Berun (blancos con pelo castaño), Berbere (blancos, no muy altos, pelo rubio o pelirrojo, y pigmentaciones de color rojizo en la piel; me suena a Margot) y Arabe (blancos con pelo rubio, ojos azules y de alta estatura), en ateos.
+* Los Pares pensaban que podrían organizar la venida de un falso Mesías para que cundiese la desilusion respecto a lo bere. Un Dios perdonando a los ladrones (un mal Dios), a los heréticos, a los ateos, a los farsantes e incluso a los criminales (por la cuenta que les trae a las élites, que son todos unos bandidos). Y crearon a Jesucristo (Catolicismo).
+* ¿Quiénes les han enseñado a los musulmanes modernos que no pueden reproducir la figura humana? Los Paganos, que no querían ver difundir la imagen de Dios BE siglo tras siglo, a fin de que nadie más tarde reconociese en tal imagen la de Alexandre.
+- Antes de Cristo, en Muzul, se escribió el famoso y un poco peligroso Al Kurani (futuro Corán), el cual mezclaba varios pasajes de la Bibele primitiva con el vocabulario Pagano.
+- Teo II (Paraón de Egipato) imploró -casi de rodillas (un actor)- a Álex que le dejara al menos una parte del Delta del Nilo, con el fin de poder vivir allí con su gente. Astutamente había guardado para sí la ubicación de algunas minas muy pequeñas, pero ricas, las cuales explotó en paio secreto. ¡YA PODÍA MONTAR UN EJERCITO!
+* Teo II paga al asesino Iurri (egitano; los gitanos serán expulsados de todos sitios desde entonces; pero ojito, que los egitanos son altos y guapos), guardia de la escolta de Alexandre y ex-cura, para matar a Alexandre (¿Iurri es Hércules? Recordemos que mató al bere Gerión por orden de EurisTEO). Alexandre muere en Babel. Dios Todopoderoso (Jaun) provoca un fuerte seísmo.
+* Iurri intenta levantar una Torre más alta que la Giralda de Sevilla y además redonda (Babel). Pero Babel acabaría sepultada en arena. Después, los Paios proclaman el Tercer Imperio Español con capital en Roma. ¡Imperio mediterraneo de la Mediee!
+- Entre 1645 y 1602 A.C. (aproximadamente) la ciudad de Marseye es escenario de terribles jornadas revolucionarias donde la sangre corrió a raudales. Se cantan canciones de odio y venganza en contra de los Pares. La más famosa, la AMARSEYESE (de la que se apropiaron los paios). Todos sus habitantes perecerán quemados vivos. AL PARECER, LOS LOTEROS, QUE HACE POCO ESTABAN CON LOS BERE CONTRA LOS PARE A SECAS (MATATOROS), ¿AHORA MATABAN A LOS BERE? El Cuarto Imperio, llamado Español, se instala en Kartagen (España, con Cádiz no les fue mal).
+- Los "españoles" sufren derrotas en Inglaterra, guerrillas entre el famoso Robin Bote Paio "el rubio que arroja a los Paios" (es bere) y los ocupantes Paios. Igual sucede en Suiza con Onguille Home Teli "Bien hecho, hombre del Pueblo" (Guillaume Tell). Finalmente los Romanos Bere ocupan Kartagen, venciendo definitivamente al Imperio español. ROMA sería bere antes y depsués del "año cero".
+* Catolicismo: alemanes, austriacos, bandalos del Lebante Oriental... quieren castigar severamente a Roma. Los godos ("los de Dios") llegan desde Noruega y Suecia, y forman un Reino en Iberia, cuya capital será Toledo. Se les llamará Bizigodos (Bizigodie = Provincia de los Godos). Después se presentarán los rusos y los Unos. Les puso furiosos que llamasen Jesús al invento (¿y hacía siglos habían señalado a un falso mesías para bajar la moral?), porque Iezus sólo hay uno.
+####CURIOSIDADES (color rojiazul de los falsos "merobingios" paios):
+- Lebertad = la Tierra es de los Ber.
+- Zar = sabio; caezar = es Zar. Batzar = Consejo de Sabios (bat = uno). Toda pequeña comunidad tenía uno. Los Burubatzares agrupaban varios Batzares. El Andi Burubatzar, varios Burubatzares. Sus fundamentos de gobierno aún sobreviven en la Euskalerria rural y en las Ulamas, naciones árabes y musulmanas.
+- Benedictinos, bolandistas... han borrado la Historia. ¿En toda Europa hay monedas con el rostro de Álex?
+- Arte / arquitectura:
+* La llamada cultura helénica es la culminación del Arte Ibérico.
+* Margot es Venus. Artemisa es otro aspecto de Maria Maistatu. La Cibeles, Madrid: María, montada sobre un Carro de cuatro ruedas, símbolo del Antiguo Reino de Aragon, tirado por dos leones (Imperio Paien de Oriente y Occidente, ¿el cuarto? El quinto es del siglo 2, 3...). A sus pies, el rostro de Omaitzoi (emperador paio).
+* En el pasado la lectura era ceremonial y 3 veces: la primera lo interpretaba el intelecto, la segunda nuestra inteligencia (no es el intelecto) y la tercera el corazón. Novela histórica, policiaca... es escribir por escribir. Antes se escribia con nobles propositos.
+* Los Bere incineraban.
+* Satán está formado de Sa (este es) ata o aita (Padre) y an (de, propiedad).
+- Simbolos:
+* Bere (apropiados muchos por paios): cordero, águila, ángeles, Tridente, estrella de seis puntas (derivada del núcleo de la Flor de la Vida), ¿la de ocho puntas y la de dieciséis?, el cuadrado, el cubo, la Luna...
+* Símbolos Paios: el Sol, la pirámide, el círculo, la espiral, la cruz, el Báculo, la Tiara y el Tocado (flamenco...); rojo, negro y amarillo. El Ojo que todo lo ve es ahora el Ojo de los Pare.
+####Kristo (no Cristo):
+- ¿KARISTIO-PABELU-CARISTIU-SAN PABELU-SANTIOGO-CARISTU son todos lo mismo? Karistio (zona de Turquía, zona de violentos titos / tíos madrileños) defraudó en uno de sus negocios de esclavos (bere...), y en la cárcel un muchacho bere le ayudó a escapar. Se arrepentió de haber odiado tanto a los Beres.
+* Su nueva religión "preconizaba el entendimiento entre los Paios buenos y los Bere buenos". Los egipcios le llamaron PABELU (paio de los Beles). Siguió su camino hacia Atenas y luego a Roma y de allí se fue en barco a Ampurias. NO estaba cómodo o no le entendían.
+* En Iberia lo llamaron CARESTIU. También lo echaban a patadas, pero en Barcelona NO (allí esperaban al Mesías). Estamos en tiempos del Imperio Romano Bere (251 a.C a 315 d.C), la Roma-Nueva bere sería en Rusia.
+* En Santiago (de Compostela) tuvo que estar varias semanas en cama. En ese lugar lo llamaron SAN TIO GO (Santo Tío de Dios).
+* Falseando. Khristo, Khrestos (denominaciones paias, la H se utilizó muchas veces para camuflar la A). Los viajes de Pablo de Tarso, personaje probablemente inventado, se parecen mucho a los de Kristo. ¿Y los viajes de Jesucristo son los de un militar romano?
+* Lo que oyó en oriente medio: "Eleazar nacería en Damasco, hijo de un Rey (Faisal) y de una Reina (Tatiana Romanov, de ninguna forma Anastasia)". El lugar de espera del BE en Barcelona fue llamado TZARERRIE (hoy Sarriá).
+* Se fue hacia Zaragoza (muy custodiada). Las gentes del lugar, los BETURONES, no querían oír nada sobre el amor a los Paios.
+####¿Quien fue crucificado? Berengetorix:
+- Trescientos años después de la muerte de Santiago, los curas (¿por dinero?) hicieron desviar la peregrinación procedente de Aubernie, Nimes, Montpellier, Perpignan y Barcelona con destino a las tierras de Murcia (relacionada con el calvario), hacia tierras gallegas. 
+* Más tarde, los curas romanos, viendo que los Gallegos se enriquecian, se lo llevan a Roma. ¿O solo lo intentaron? ¿Falsearon la tumba de San Pablo?
+##LO DE LA CRUZ:
+- Dos son los acontecimientos que hicieron famosa a Kalairemont (lugar del Monte Ventoso):
+1. La muerte del paio Omaitzoi.
+2. La ¿ingenuidad? del Rey Berengetorix. Se rindió antes de combatir (pero tenía un buen ejército) al Emperador Sol, a cambio de que no ejecutasen a miles de prisioneros. Los Paios habían empezado a degollar a varias docenas de Auberniate, entre combatientes y mujeres.
+* Ber... tuvo que cargar una gran cruz en madera de roble blanco, para humillar completamente a los Bere, siendo la Kuruz de los Kure. En Panismes (Nimes) se la cambiaron por otra más ligera, en madera de Pain o Pin. Más de mil kilómetros insultado por los Kure hasta Cartagena. El camino fue llamado desde entonces BIEDOLOROSE (Es camino del inmenso dolor). NO HUBO CRUCIFIXIÓN, SINO CALBERE.
+####COSTUMBRES PAIAS EN LA TIERRA.
+- Los chinos tenían cola al principio, y eran superpeludos, ¿con qué antropoide mezclaron a los paios? Son hábiles con las manos, laboriosos, abnegados a las órdenes dadas por el paio. En otros casos, surgieron otros humanos terriblemente despiadados (con colmillos). Consumían carne humana en grandes cantidades, incluido a niños recién nacidos. 
+- La aristocracia Pale, que apenas llegaba a los 200 años, pensaba en grandes cantidades de sangre fresca humana. Los niger eran sacrificados en los Maia, Mesa o Misa, en la cima de las Piras (Pirámides). La sangre aún caliente era bebida.
+* Eran capaces de transplantar todo órgano, incluido el cerebro. Algunos reyezuelos Niger, convencidos pronto por los Pales, adquirieron algunas costumbres de éstos.
+####Cosas bere:
+- La mayoría de las Alexandrias fueron arrasadas por violentos terremotos, cada vez que un pagano las conquistaba. ¡Terremotos enviados por un buen Dios!
+* ¿Que el 15 de Agosto había lluvias torrenciales muchas veces (peores según los "pecados" cometidos)? ¿Que eran "lágrimas" vertidas por muertes de beres? Si tronaba, ¿significaba que los gobernantes Bere lo hacían mal?
+- OLIBE (símbolo de sabiduría) = viejo BE.
+* Los Argon no bebían nunca leche de vaca (sí de cabra u oveja), mala hasta pa la mente (perjudicaba la vista...). Ni siquiera se apreciaba su carne. En esto estaban de acuerdo los Paios. ¡Y NO llevaba hormonas!
+- Hasta el más humilde campesino se construía él mismo su casa de piedra, con techumbre de madera y losas o tejas ovaladas de arcilla, tal como las de ahora.
+* DURUIDI significa "propietario de bueyes".
+- Largos bigotes colgando más abajo de la barbilla: GALOS ¿De Galitzie / Polonia? del Reino de BITUREIGI (persona). Eran paios (o medio paios), ¿pero majetes?
+* En España se llama a los franceses Gabachos (GABAUXOS = los de los agujeros oscuros), refiriéndose a los del departamento, ¿de la Lozre? Numerosas grutas naturales, enlazadas con innumerables galerías (terreno de guerrilla...).
+####Ciertos flecos (antes de los anexos):
+- Hay que preservar lo asturiano (soy asturiano), porque si no, nos fagocitan de alguna forma, nos comen vivos. Pero para mí es una obligación moral mirar muchos miles de años atrás, hacia lo verdaderamente auténtico / original.
+- ¿Hubo una disputa entre paios y bere en el espacio, y a los paios les tocó la parte izquierda (América)? Y a los bere la derecha.
+- Los paios levantan un solo dedo (llegaron los primeros a la Tierra). Como Juan Bautista.
+- Inauguración del túnel de San Gotardo: los naranja (paios, color de cara) se retiran ante la llegada de los blancos. Se ve el gran golpe a los paios, y esto lo entienden los asistentes como Angela Merkel. ¡PERO A NOSOTROS NOS LO HAN OCULTADO TODO!
+- Regla general: cuernos paios, van un poco hacia arriba. Los bere no.
+- María venía de Eduen, Marta, del planeta de las Eliades (sus descendientes son los majos). Margot venía de Banus.
+- Catalanes representados por cerdos en cuadros viejísimos, Gru 3 (villano favorito). Antes se sabía leer símbolos, ahora...
+* Iulete, la reina ausetana, tuvo 2 gemelos: Irumeo (se parece a Roma)... Con su matrimonio, el reino pasó a llamarse Serdanie ("sardana", Cerdeña).
+- Los RH negativo son los beres. ¿Porque Iezus nacio sin ombligo?
+- Los reyes originales eran bere (los paios son emperadores).
+- Las primeras esculturas griegas, parecen como de chinos (piel entre amarilla y rojiza...).
+* ¿Intentó Grecia con txinos conquistar Asia poco antes del año cero? En China, hasta hace poco, sólo había blancos u "oceánicos".
+- El Coloso de Rodas oculta una estatua de Alejandro Magno.
+- ¿Motril es un homenaje a Alexandre?
+* ¿Que Alexandre construyó la Alhambra?
+####El Golpe. Los sensatos (advertidos todos), construyeron grandes arcas para animales. ¿Y ellos se pusieron en cuevas altas con agua y comida?:
+- América se deslizó bruscamente miles de kilómetros hacia el Oeste. Así surgieron los Andes. "Atlántida" (actual América) = ATELANDIDA: ATE = fuera, que se fue - L(ANDA) = tierra - ANDI = grande - DA = es. "Es tierra grande que se fue". Los Paios del Primer Imperio la denominaron SEPANGO o PATAGONIE.
+* ¿FUE POR EL ACERCAMIENTO DE LA LUNA NO? El Sahara, antes lleno de lagos, quedó calcinado. Casi todos los grandes animales del pasado (incluidos los grandes saurios) desaparecieron. Desde el desierto del Gobi, pasando por Irán, la península Arábiga, todo el Sahara hasta llegar al desierto del Oeste de Norteamérica, se produjo un inmenso arañazo de destrucción. Una masa continental (Antártida) se desgajó de África (y también Australia).
+* La Luna vino de otro lugar del espacio. ¿Es hueca? Hay grandes cantidades de agua congelada en la cara oculta (¿vienen de la Tierra por evaporación / arañazo?). Los científicos ocultan tanto...
+##Alexandre Eleazar dice que la Tierra tiene órbita, y que con el Golpe creció, y giró rápido. Disiento, creo que NO se mueve. ¿Que piensa mi Ticho Brahe?
+####La Bibele.
+- Fue escrito en ANERE (cuneiforme). Los paios traían consigo una escritura muy fácil de leer, los jeroglíficos, y se establecieron en tierras bere con éxito.
+- En la Bibele Iezus explica la Historia de la Humanidad desde sus orígenes hasta el Día en que será pronunciado su Juicio Final (está muy cerca).
+* ¿En la Meca cayó un Aerolito con instrucciones para Iezus? La Meca es desde entonces un lugar sagrado, pero realmente, hoy adoran al diablo allí, los paios metieron cierto objeto: los cubos negros son satánicos, culto a Saturno. Magno pudo, con mucha emoción y alegría, volver a verla y tocarla.
+* El Shariff de la Meca ordenó a sus hijos esconderla. ¿Y la encontraron los oscurovenecianos?
+* El Corán cita algunos pasajes de la Verdadera y Primitiva Bibele (NO como la Biblia Católica), tal y como fueron escritos y en buena traducción, pero otros... Posteriorme, fue retocado en algunos versículos. ¿El Shariff de la Meca escondió la auténtica, y dejó "más a mano" algo NO tan auténtico?
+####La Guerra de Troia (Álex Magno, Francia) marca la Is-troia:
+- Los paios decidieron llevar a cabo la vieja treta de la boda de una noble heredera Paia con el hijo del Rey de la Karelie (con lo que Álex, hijo del Rey, debía ceder parte de su territorio). Era un habitual chantaje para que hubiese paz (eso es la PAz, energía paia).
+* Álex decidió capturar a Ermione (la futura esposa). Y NO IRÍA AL LUGAR PACTADO. Alexandre proclama: "la guerra queda declarada entre los Bere de este globo terrestre y el Imperio Espaniol. ... Este Segundo Imperio Espaniol tiene que desaparecer".
+- Se reúne con el rey de Ucrania (DarDONos). Después con Bituregi. En tres años, la Alianza alcanzó la orilla Norte del Zen (Sena). Tras la victoria bere (toy adelantando), el colega Karronona recibiria el triángulo de Xeresgue (Jerez de la Frontera) a Begergue (Vejer de la Frontera) y a Makoisgue (Arcos de la Frontera). "DLFrontera" sale de aquí.
+- La victoria: tunel (de Agumena, Rey de aquellas tierras, con los BE) por debajo del rio, y provocaban pequeñas batallas para no levantar sospechas en el enemigo. ¿Y no había cuerpos astrales espiando? Raro. ¿Los ber buscaron pellejos de burros y cabras y con ellos hacían bolsas de aire puestas en sus barrigas, de las que respiraban con una pajita?
+* Los espias paios se hacían pasar por campesinos y se acercaban a los guerreros explicándoles cómo los paios les robaban todas sus pertenencias y les pegaban. Los Bere consiguieron que una docena de criados de la fortaleza de Omaitzoi (Troyes) colaboraran en sus planes (¿tras convertir a espías campesinos reales en espías bere?).
+* 26 de Diciembre del 3.589 AC (13 años de guerra; el 13 sería de buena suerte para los buenos). EL EMPERADOR logró huir junto a Moisés, su historiador oficial. Los combatientes Paios estaban hartos de esta guerra, la mayoría luchaban coaccionados.
+* Tras humillar al emperador atándolo a una rueda que giraba (o algo así, y el pobrecillo murió deshidratado entre burlas), los BE llegan a Espanie, esa misteriosa tierra de inmensos sepulcros de los cuales habían oído hablar muchas veces, por Canosa.
+####Testamento Político del Zar Nicolas II (mi Nicolasín, que fue tiroteado por comunistas sin entrañas). Lo siguiente lo escribe un psiquiatra o algo así, ¿tras el testimonio de su nieto Eleazar = BE3+- (porque a lo mejor Julio César era BE)?: "esta nota versa sobre parte del libro OPERATION ALISS, escrito por un conocido y paciente mío recientemente fallecido...". Y ahora, el testamento: 
+- Nuestra tierra no fue la obra de revolucionarios, anarquistas, judíos (yo: falsos, NO escrupulosamente practicantes), bolcheviques y otros libertarios ateos o prevaricadores.
+* Fueron estos mismos intereses ateos e inmorales, los que instigaron el asesinato del Archiduque Francisco-Fernando en Sarajevo, teníendo como fin obligarnos a la movilización, a fín de utilizar la tierra Rusa como único campo de batalla, y que los cuatro Imperios, el Ruso, el Alemán, el Austriaco y el Turco, se destruyeran así mutuamente. Mientras los pretendidos Aliados de Rusía se repartían los cuatro Imperios.
+* Íbamos a ganar la guerra y aplastar bajo el peso de nuestro formidable ejército a todo el ejército alemán y austriaco (yo: en Berna, ¿franceses y Alemanes pensaron la invasión comunista?). Nuestra abdicación no ha tenido el resultado de la voluntad de la mayoría de los Rusos, los cuales no han sido consultados. Tomaron el mando de nuestro ejército; espectáculo vergonzoso: la mayoría de los jefes huyendo del frente y proclamando la derrota en los campos de batalla, sin ningún fundamento, invitando a los soldados a abandonar el combate. ¡ME RECUERDA A CUANDO PEPE BOTELLA NO HIZO NADA COMO REY EN MADRID! VAMOS, QUE UK Y FRANCIA PUSIERON NUEVOS JEFES PAIOS EN EL EJÉRCITO BERE RUSO.
+* Ingleses y franceses pagaron y aconsejaron a los funcionarios de Estado a la desobediencia, al abandono de sus puestos y al Sabotaje. Fueron agentes socialistas franceses quienes destruyeron las inmensas provisiones de harina, los que prendieron fuego a las fábricas textiles y de zapatos, los que envenenaron nuestras bestias de carga, inutilizando nuestros depósitos de gasolina, saboteando nuestras máquinas en las fábricas de guerra, e introdujeron las canciones revolucionarias, gritando en la calle en voz alta: -¡A los Zares hay que cortarles el cuello, como nosotros hicimos con nuestros Reyes durante nuestra revolución!-. Armaron a los criminales depravados y homosexuales (eso lo dice él), con objeto de cometer horribles asesinatos contra los que denunciaban...
+- Finalizando
+* Si una sola de las Grandes Duquesas se salva, esta será la Heredera. Revolucionarios bolcheviques, ateos... cada día fusilan mujeres, jovenes y viejos, por el solo crimen de acercarse a nuestra prisión, gentes honestas y creyentes que rechazan su materialismo salvaje, bestial y sádico.
+* Hemos podido escribir este Testamento de Nuestra propia mano, en cuatro ejemplares, a fin de que cada una de las Grandes Duquesas, Olga, Tatiana, Maria y Anastasia, pueda llevar uno oculto en sus ropas. En Iekaterinenburg, el 15 de julio de 1918.
+* Y al final, les disparan (a Tatiana le para los disparos su perrito, y la meten en un camión con los demás, pensando que está muerta, pero escapa del camión, y tiene a Eleazar el barcelonés, con Faisal).
+####Falsos Merobingios (azulgrana, Francia): sus sucesores inmediatos son los Carolingios. ¿Eran católicos (kutolic: los paios Kure de la ciudad) o eran judios paiosatánicos sin más?
+- ¿Merobeo era bere? Los francos, de Centroeuropa, pasando por Francia, llegaron a Cataluña en pocos siglos, y fueron catalanes los que en las cruzadas, para recuperar Jerusalén, fundaron la orden del Temple (¿palabra catalana?), al dormir en la explanada del templo de Jerusalén.
+* El símbolo merovingio es la abeja (suena a bere), o la flor de Lis (suena a paio). Artur Más se sacaba fotos a lo "Otger Cataló" (personaje histórico) y ama Jerusalén (¿todos los que lo aman son malos?).
+* ¿Muchos reyes europeos vienen de Merobeo, y muchos de Drácula? De Drácula vienen muchos actores y cantantes famosos, como Brad Pitt y Madonna, son todos familia aunque sea lejana. Cataluña, linaje Pinós, en relación a la glándula pineal creo yo.
+- No dije que los benedictinos habían dado a luz al císter, muy mezclado con la orden del Temple. Parece que los templarios pasaron conocimientos a los jesuitas (que ahora dominan el Vaticano), y estos a los masones. Los políticos independentistas del País Vasco y de Cataluña, son masones y jesuitas. La orden del Temple dio lugar a la Compañía de Jesús (para acumular poder). ¿El resto de los merovingios formaron la orden de Malta?, y luego está el priorato / rabinato de Sión.
+####Alexandre Eleazar. Falleció en Barcelona en Diciembre de 2004. Ya sabes que el Latín (Lotín, de los satánicos "loteros") es una mezcla de derivados del Elengoa, para que no entendiésemos a "los jefes". El castellano y el Euskera vienen del Íbero, y éste, del Elengoa. El Inglés es otro "Latín", pero para expandirlo y tapar al resto:
+- La escritura cuneiforme no es jeroglífica, y consta de un elemento semántico clave y un conjunto de componentes aglutinados en torno a este, que lo complementan morfológicamente. 
+* "Los que dirigen las conciencias de las gentes... me hacen la guerra, saboteando la venta de mis libros porque la mayoría de los libreros son esclavos suyos".
+* Los libros clásicos fueron elaborados (casi todos) por encargo de gobernantes y autoridades eclesiásticas.
+* ARAGON (imperio bere): "la Creación de Dios".
+* SELTA "Es de EL". ¿Celta no significa "los últimos" (celtíberos...)?
+####Aragon (La Gole o imperio Bere). GOERREIG "Reino de Dios":
+- 1ª Capital: BABEL (BABELONIE). 2ª Capital: BURUGONIE.
+- La Gole iba desde el actual cabo de San Vicente en Portugal hasta el estrecho de BERIN. Siberia = SEBERIE "es propiedad de los Bere".
+- De Oeste a Este y sólo en España:
+* BETIS (hoy Sevilla -fundada por Alexandre Magno).
+* KARDUBE (Córdoba -Alexandre).
+* ALEXANDER (Alicante -Alexandre).
+* TARAGON (Tarragona).
+* ZARAGOSE ZALDUBE (¿nombre en honor a Alexandre?).
+* BERSELONE (Barcelona -fundada por los hijos de MARTA en el Milenio 11 a.C.-). ¿Es la única gran ciudad superantigua que se conserva?
+- Más:
+* Marabedí: efigie de Maria y del Be. "Mare o Be", expresión reemplazada por cara (Emperador) o cruz.
+* Adis Abebe es el nombre de un monumento (Etiopía) de Iezus. NIBELUNGEN (primera gente de los Bele negros-Abesenios).
+####Los ABE eran los Servidores de la Religión llamada BERDADI, es decir, "de los Bere de Dios". Verdad es una palabra fea (v y w son "paiosatánicas", ¿y f y p?).
+- La religión era el recuerdo exacto de todos los acontecimientos del ayer y el estudio de sus consecuencias. La palabra "Iglesia" proviene de IGALIZ "Es de los Galos", a causa del lugar donde el KARISTIO levantó su primera Iglesia. El edificio de la Eliz (edificio Iglesia) comprendía una nave principal flanqueada de tres cuerpos terminados en forma de cebolla, como las actuales catedrales rusas.
+- ABE: Entendían de ciencias matemáticas, físicas y naturales y velaban por la buena moralidad y sabias costumbres. Se les pedía consejo ante cualquier duda. Se casaban (sacramento del matrimonio, que me hace recordar "El Libro de la Depresión", que me descubrió Pedro Bárcena). Todas las niñas querían ser bestales (sus esposas), que casaban a la gente... ¿Los requeteavanzaos NO se casan NO? BEUTISMU: celebra el nacimiento del BE en TOLIMAK / ciudad de las Marías.
+##La Tierra era llamada GUELIBER (Tierra límite de los Ber), no Gulliver. Curioso que los paios llamasen a la Tierra Leleput.
+####BERSELEONE (Barcelona): creación entre los años 10376 y 10365 AC:
+- Había chinos (vienen "de España"...). Primeras Lotecie (cementerios subterráneos paios): en Putxet y Tibidabo (pa los importantes).
+* Los ber inventan el refrán "Tan si sona Ber como si sona Bar, Barsalona es bona" (hoy se dice "Tan si la bolsa sona com si no sona, Barcelona es bona").
+* Los espías paios solían pasar por buenos ("encantadores psicópatas", risueños supongo, como los "cabezudos" de las fiestas; conviven: encantador / engañador, cariñoso / materialista...), pero incendiaban lo que podían antes de marchar.
+- Marzo 3589, Alexandre la libera.
+- Iulius libera la ciudad y expulsa de ella a Paios, eGitanos y africanos (esbirros). Los txinos lo aplaudieron (algunos txinos / chiquitinos valencianos NO).
+####IRUMA (ROMA)
+- ¿Fundada por "Dardonos de Serdanie" y Iulia el 5 de Julio de 3585?
+- Tito "construiría" el sangriento Serkus (vigorizar instintos criminales de funcionarios...).
+####Elengoa, lengua madre (paios y bere): protoeuskera.
+##Dialectos muy antiguos tienen sonidos comunes.
+- En turco, padre es ATA. En dacota (sioux) se dice ATE. Galés, TAD.
+- ARGI significa luz en euskera, mientras en sánscrito ARQ es brillante (como ARGÉS, griego).
+- En finlandés, TUNTURI es monte bajo y redondeado (euskera, cima o chichón).
+- GAROA en vascuence es rocío (quechua, llovizna).
+##Características: coherencia grafías y sentimientos / significados... y adherencia al ADN (el ADN describe gramáticas, por muy raro que parezca), NO como el inglés (vives menos). El español y el alemán, creo que son bastante más sanos.
+##Diferencias Euskera - Elengoa (depende del contexto. Fuente: Web Egialde):
+- El Elengoa no hace diferenciaciones de sexo, mas que cuando es necesario (se añade eme, ema, ene, ne...).
+##Curiosidades casi:
+- BI LOTU (varias momias; "lo" es paio, los bere incineraban).
+####Paios y bere:
+- Los crathul sólo bajaban de las montañas (cuevas) pa robar niños: blancos, nariz roja (frío), ojos grandes, dientes afilados, pelo rojo (sangre).
+* Los col (paios comeniños) inventaron el circo de payasos (les iba bien por imagen). En el inconsciente colectivo, el payaso...
+- RH negativo: coeficiente intelectual alto, visión sensible, ojos penetrantes azules, verdes o avellana, cabello rojizo, sensibilidad a calor y luz solar, sensación de NO pertenecer y buscadores de la verdad, sentido de misión de vida, empatía y compasión por humanidad, intuición y premonición.
+####00505tecnicas.txt  ####Incluye Informática y Quim.
+####TÉCNICAS. ¿Nos hemos complicao la existencia con la tecnología?
+- El armario de mis sueños debe ser transportable y fino. Una barra arriba (ropa), y una balda. Los laterales pueden ser triangulares (diseño danés).
+- Nevera en maceta (maravillosa, como el botijo): una maceta dentro de otra. En la pequeña, los alimentos. Arenilla o así en el fondo de la maceta grande, y encima, la peque (con boca más abajo), y añadir agua. Se consigue contacto entre aire seco y humedad superficial, que lleva a evaporar.
+* Consejos: de barro sin barniz / pintura; tapa de barro o tela de algodón pa cubrir (la pequeña); un poco bicarbonato pa humedad y olores, al fondo de la peque.
+- Aire acondicionao con botellas (se basa en cuando soplas con boca pequeña; el aire sale frío): que sólo quede la parte de arriba, las vamos a poner sobre un trozo de pared. El tapón, más "grande" que el agujero.
+- Lavadora: el suavizante rompe fibras. NO dejes el tambor cerrao (mohos). Poner calcetines antes que el resto.
+- Mito batería litio: la primera vez, hay que dejar el chisme cargando hasta el total. ¡FALSO! En realidad, es recomendable cargarlas frecuentemente, sin consideración. Si dura poco, déjala descargar por completo sacándola, y luego, a cargarla del todo, mejor con el bicho apagao.
+- ¿La Astrología y la Astronomía estaban fusionadas y la Iglesia las separó?
+- AUTORUN.INF (como directorio en el raíz de los usbs): así no te entra cierto virus gracioso (no es grave) a ponerte el autorun.inf (fichero), con comandillos dentro.
+- Pier Luigi Ighina (menospreciado por bueno; para las élites, debemos ser débiles): "Elios" purificaba cualquier alimento. ERIM limpia el ambiente. Excitó los átomos de una pata de conejo fracturada para sanarla rápidamente (con la vibración de un hueso sano).
+####Inglés el maldito worth. It's worth trying for (merece la pena intentarlo). It's worth a kick on my face to kiss her (me dejaría patear en la cara por un beso suyo). That film is worth seeing.
+####Roma y agua. Sabemos ya que si tú pones agua en un botijo o en un recipiente ovoidal (de cristal...), y agitas, el agua se carga de vida, y que con frío y luna llena tiene más energía vital. Y que el plomo le quita la vida, así como el hierro. Cobre, plata... suenan mejor para las cañerías. Sabemos que con albahaca se purifica, ¿y con electrólisis?
+- ¿Que ponían piscinas de decantación de arenas a la salida de los mejores manantiales (ni ríos ni lagos)? Para el transporte, la velocidad del agua debía ser continua y suave (¿mejor sin curvas entonces no?), para no arrastrar cosas. Protegida de la luz (no algas o bacterias); mejor canales subterráneos. ¿Pendiente del 0.5%?
+- Conceptos (sólo los nombro a veces). Specus (El agua sube por capilaridad, teoría de vasos comunicantes...). Contectis Piscinis. Aireador, partidor. ALIVIADERO, COMPUERTAS, CONTENCIÓN. ¿Y una noria o poleas pa subir agua? 
+* ¿Y el agua kanger? ¿Y los tornillos de Arquímedes (subir peces...) y la ingeniería "árabe"? ¿Y el sifón invertido y el cabrestante?
+##Interesante el acueducto de Nimes, que sólo bajaba unos 12 metros, en kilómetros?
+####Parce y Robert viajes astrales energía. Lo que pretendemos es un viaje causal (para eso hay que pasar por el cuerpo mental):
+- Alargar la experiencia (tener mas energía):
+* Pensar en el plano astral antes de dormirte (¿antes de la tercera vez que te duermes?). Imagino muchas veces detalladamente lo que quiero vivir alli. El factor emocional cuenta. Estar 3 minutos concentrado sin pensar.
+* Olvídate de lo del dia, ¿para eso es bueno recapitular no?
+- Trampas arconticas:
+* Paredes que te atrapan a lo Indiana Jones.
+* Ilusionistas: si te duele un brazo y comienzas un viaje astral, se te tiran al brazo como diciendo: no es el brazo lo que te duele, son nuestras pequeñas mordeduras. Vete sin miedo así te partan por la mitad. Si dices "aqui mando yo", tienes menos pesadillas (te las producen ellos). ¿Saben a que temes?
+* El viaje astral tiene menos de tu psiquismo que el sueño lucido.
+##¿Las almas viejas tienen mas difícil hacer estos viajes por falta de energía?
+##¿Si tienes la energia baja en un viaje astral, o vibras bajo, o tienes un deseo "material", podrias acabar -aciendo un pacto con algún ente y pagar para siempre, como Dylan (Bob)?
+####Chikung y Bates.
+- Chikung. Posición zombi, pero manos unos graditos hacia abajo (inspiras). Centro (zombi zombi). Arriba (inspiras). Centro (y describes un cuarto de circunferencia con cada brazo; brazos extendidos). Ahora giras 180 grados para mostrar las palmas. Juntas yemas de dedos por encima de la cabeza. Bajas espirando un poco (vas para atrás deshaciendo, hasta al mitad del camino más o menos).Girar palmas 90 grados (ahora miran hacia delante), por encima de la cabeza, y ahora van hacia la punta de los pies, recogiendo los dedos poco a poco en puño (o algo así). Tras esta larga inspiración, subimos a posición zombi "arriba", luego abajo, y luego centro. Extender brazos con palmas mirando a izquierda y derecha. Contraer. Luego extender otra vez, y finalizamos en modo pantocrator (mano izquierda casi amenazando, mano derecha en el vientre). Podría hacerlo mejor, pero no quiero dedicar demasido tiempo.
+- Bates: para relajar los ojos (no aconsejo el ejercicio de potenciar, porque pueden doler los ojos... Bueno, el de "ahora veo a 50 cm, ahora a 1 metro, ahora a más y vuelta"... no está mal). 2 veces al día: primero relaja cervicales (cuello de izquierda a derecha y derecha a izquierda; de abajo a arriba inspirando por semicircunferencia, de arriba a abajo por la otra semicircunferencia espirando, y hacer la siguiente circunferencia en sentido contrario. Luego hacer palmeo (ya para los ojos).
+####Relajarse:
+- Quitar el estrés de un plumazo (por la tarde), parte 1.
+1. Respirar por la nariz y llevar la espiración hasta el estómago (4 veces).
+2. Esto es para los varones, que tienen mucha energía en el estómago: cantar como Louis Armstrong: es como gruñir mientras llevas el gruñido al espirar, del ombligo hasta más adentro (cuidao, que deja a uno un poco ronco). Prueba con una L hacia dentro (3 repeticiones; recomiendo 2 descansos).
+3. Suspirar 4 veces. No hace falta que los suspiros sean agudos, pueden ser relativamente cómodos. Tras los suspiros, añade un inspiro y me tranquilizo, espiro y sonrío (catatonia).
+4. 3 Respiraciones por la nariz como en el punto 1, pero en vez de llevar la espiración todo hacia abajo, se lleva sólo un poco, y luego se lleva hacia el frente, y con cierto erotismo / gustirrinín. Ayuda el hacer la primera parte (hacia abajo) como mmm (normal), y la segunda como un "taritotariro" je je.
+1.5 Palmas hacia arriba desde altura de estómago hasta la cabeza recogiendo energía. Esa energía se empuja hacia abajo poniendo las palmas hacia abajo. 4 veces.
+1.6. Mandar energía desde el tantién, las partes... a la cabeza. Pones las palmas juntas como rezando, y con un movimiento de pelvis o algo así, y como buscando el escalofrío, subes la energía desde el estómago a la cabeza. Después te masajeas el tercer ojo (2 respiraciones izquierda, 2 derecha) y la zona exterior a los ojos (4 y 4); luego, los temportales (ahí suele doler la cabeza), 6 y 6 (o más). Luego, catatonia.
+- Parte 2 (tarde):
+1. Inspiras y espiras todo lo que puedas. Luego hinchas la barriga y no respiras unos segundos, sigues sin respirar con los pechos (hombros hacia atrás, codos flexionados, palmas mirando hacia arriba pero algo cerradas, casi como "en meditación"), y luego pones los brazos hacia delante pero flexionados, intentando que no quede aire en las cavidades ya usadas (parece como si sólo hubiese en el cuello). Al final, espiras muy suavecín por la nariz, imaginándote que el aire sale por aquel sitio que quieras energetizar (la cabeza, por ejemplo; o los pies). Es bueno para limpiar la sangre y potenciar las neuronas. ¡Gracias Azucena!
+2. Lo cogí de un libro de Antonio Blai: mandas como desde el ombligo, hasta un poco más alto (espalda detrás). Cuando inspiro, me imagino el recorrido espalda detrás, "ombligo", y al espirar, al revés. Ahora lo mismo desde ese punto de la espalda, hasta más o menos el corazón. ¿6 ciclos?
+3. inspiro y me tranquilizo, espiro y sonrío (cabeza arriba y abajo) + catatonia.
+4. Ojos abiertos si quieres. Inspiras, espiras, inspiras, y retienes entre 5 y 10 segundos (o más). Expulsas por la boca pero no todo, y empiezas unos ciclos: inspirar (casi juntando las palmas, que irán hacia arriba) y espirar como abriendo unas alas (no digo más, como te salga; quizás como un cabecero que desde lejos es un poco un semicírculo, pero que de cerca hace "cabriolas"). 6 ciclos.
+####Para dormir, lo primero es equilibrar parte masculina y femenina (al menos, si estás muy activo / masculino). ¿Y simplemente potenciar la femenina, diciendo "eeeee", pensando en el corazón...?
+##Equilibrando:
+- Un suspiro.
+- 3 x espirar por la nariz, pero "ronco y hasta el estómago".
+- 3 suspiros
+- 2 x soltar una bocanada por la boca.
+- "Ladrar", poniéndose hacia delante, yendo un poco a los lados (al final, a los lados en posición no adelantada).
+- Nadi Shódena:
+* Tapar agujero izquierdo nariz mientras se espira por ese mismo agujero tapado.
+* Cambiando de agujero tapado (oríamos primero al derecho), espirar e inspirar (lo último). Acabamos en el izquierdo al contar 12. Informáticamente: Repetir {cambio de agujero y tapo, sumo uno al contador, espiro e inspiro} hasta que contador = 11. Cambio al izquierdo, y sólo espiro.
+##Primera táctica de cuatro, para dormir:
+- Inspiro y espiro por la boca, como si estuviese "silbando" (abrir poco), o enfriando un plato sopa.
+- 3 x 4 segundos inspirar, 7 retener, y 8 expulsar con la boca como antes.
+##Segunda táctica: masajea los mofletes en círculos, primero en un sentido, luego en otro. ¿Has bostezado ya?
+##Tercera: 2 x di para ti mientras visualizas "por la médula espinal y la espina dorsal (espalda)... no puedo más", y saca la lengua al final de la primera vez y no la metas, y las manos, caídas. 2 veces.
+##Vamos con la última táctica (ojo, uno no se duerme inmediatamente, puedes aprovechar pa... echar un Black Tiger je je):
+* Fase 1: desde la lengua hay energía que sube por la cara y va por detrás de la cabeza, y energía que va hacia el cuello. Ambas van hasta las manos, por los brazos. ¿Con 8 respiraciones de nariz basta? Es una simplificación de un método militar.
+* Fase 2: ahora van a los pies (olvídate un poco de los brazos? ¿Con 6 basta?
+* Fase 3: repetir desde el equilibrado, o tratar de relajarse por otros métodos...
+####COMUNICACIÓN HOMBRE MÁQUINA (MI QUEVEDO QUERIDO).####
+####9 reglas interface:
+1. Consistencia a varios niveles:
+* Las aciones complejas que estén compuestas de las mismas básicas, se definirán de la misma forma. Ejemplo, rellenar el fondo de una figura (acción compleja): seleccionar icono de cubo de pintura, seleccionar color, hacer click sobre el fondo.
+* Terminología: nada de "borrar palabra" y "quitar párrafo".
+2. Poner frecuentes enlaces rápidos (para los expertos...):
+* Ayuda, F1.
+* Parar, ESC.
+* Aceptar, ENTER.
+3. Dar información de retroalimentación (que el usuario sepa lo que tiene hecho):
+* Pulsar botón / icono: botón hundido. También el típico "tifón circular" de "estamos en ello". ¿Pero mejor la barra de progreso no? Yo he probao la barra, el tifón (creo)...
+* Color seleccionado: sombreado alrededor.
+* Tal vez, cuando el cursor está sobre un icono, éste aparece resaltado, y te dice lo que hace. Sobre opciones de menú, resaltar la opción.
+4. Tareas largas: el usuario debe poder identificar el principio, medio y fin (instalaciones de programas con configuración...).
+* ¿Y esas ventanas que no te dejan volver hasta completar (modales), aunque dejan ver la ventana padre?
+5. Prevenir errores. Con restricciones (si no las hay, las verificaciones serán mayores). Pero tampoco debe haber muchas restricciones (¿se refiere a decir al usuario en qué ha fallado en la entrada de datos...?).
+* ¿Que las validaciones las haga la parte de la interfaz en vez de la aplicación central, para descargar a ésta? Sí (al menos, intentarlo). Y además, interfaces parecidas pueden reutilizar código.
+6. Manejo del error correcto:
+* Nada de "¡Número!" (hay poca información). Mejor: número entre 2 y 34.
+* Indicar alternativas (si se puede).
+7. Deshacer acciones. Esta posibilidad permite al usuario explorar, y usar la aplicación sin ansiedad.
+* Un ejemplo: vas apuntando lo que hace el usuario (escritura de "es bello", borrado de...).
+8. Que la aplicación haga sólo lo que el usuario indica (da sensación de controlar la aplicación).
+9. 7 +- 2 elementos a recordar (los humanos; atención y memoria a corto plazo, no sobrecargues de información). Ejemplo: agrupar entre 5 y 9 elementos / botones (con de 5 a 9 grupos / paneles)...
+####Python es un lenguaje sencillo de leer y escribir (alta similitud con el lenguaje humano). Lenguaje multiplataforma de código abierto. Sencillez y amplias posibilidades: inteligencia artificial, big data, machine learning y data science. Más: tecnología blockchain, aplicaciones Web y videojuegos 3D.
+####Ruby on Rails es un framework (te obliga a seguir cierto patrón) de aplicaciones web (yo no concreto); de código abierto, escrito en Ruby (que permite la metaprogramación: un código genera más código...). Poca configuración o código.
+####SEO posicionamiento de webs un poquito.txt  SEO = Search Engine Optimization (optimización de motores de búsqueda). Aunque existen miles de factores en los que un motor de búsqueda se basa para posicionar una página u otra, son básicos: la autoridad (popularidad de la web: compartición de su contenido...) y la relevancia (relación con las palabras de búsqueda).
+- ¿A los "bots" les atrae lo nuevo (son peligrosos amantes de la moda)?
+- ¿Cómo se restringe el rastreo de tu web?
+####Valdeande FÍSICA y más (pero las matemáticas vorticiales de ifotones, de momento, no las estudio con ahínco):
+- La Cámara del Rey (Keops) manda información al espacio. En la pared larga de la Cámara (a la derecha), hacemos una espiral fibonacci PERFECTA de 34 a 1 (centro del "caracol"). Cuando el flujo que manda la orgonita (que estaría en el sarcófago o por ahí, a la izquierda) alcanza el 1, hay un colapso de energía, y se transmite (el 13 recibe la información de otras pirámides moduladoras; recuerda a un claistron, que produce información al modular un flujo recto de ifotones).
+* Nota: aquí NO hablamos de vórtices, date cuenta (al menos directamente).
+##Más:
+- Tesla y la energía fría. Pongamos una jaula de Faraday ("nada" puede escapar) en un tercer piso con energía fría. Tocas el pomo de madera ABAJO, y te da calambre (experimento de Tesla). ¿Y la controladísima energía nuclear moderna?
+- Planeta Tierra, descripción real (es como un átomo. Como es arriba es abajo, y los universos se comunican como las células):
+* Hay un flujo que sale de cada polo y entra por el otro. Los de la zona ecuatorial causan las mareas, no la Luna.
+* La Tierra es hueca, y en el centro hay un gran vórtice. ¿Puede considerarse sol?
+* Se bambolea, late (al menos el cuerpo etérico), lo cual genera gravedad, y no gira sobre sí misma. ¿Gira el Sol aldededor de la Tierra? Todo vibra siempre: absorbe y emite.
+- Estados materia: sólido, líquido, gas, condensado, ¡y plasma!
+- La suerte es el nombre dado a una ley no conocida:
+* Valdeande pensó en un móvil roto, y el "maldito" móvil del niño se rompió. Creer es crear.
+* Un ordenador que escoge imágenes "al azar" entre violentas o en calma, puede ir a remolque de lo que sienta tu piel.
+- Cuando hace frío, las enzimas trabajan de forma errónea, y tú podrías pensar que te ha entrao un virus. Con 55 grados, el cuerpo te avisa de que te estás cargando las enzimas. ¿Si varío la temperatura bruscamente (radiadores...) también funcionan mal no?
+- Cuando comes, estás obligao a hacer ejercicio (no deporte) pa eliminar las toxinas.
+- Entrevista a Dani Calleja:
+* Si las paredes de los mataderos fuesen de cristal, todo el mundo sería casi vegetaliano. En la peli Emma's Gluck, ella mata a sus cerditos de una forma muy especial. Los llama con dulzura, y... bueno, es mejor que lo de los mataderos. Recuerda que la carne de caza (hierro) es sanísima (andorranos superlongevos).
+* Yo comería los garbanzos remojaos sin ni siquiera cocer. La clorofila es beneficiosa (estructura parecía a la hemoglobina).
+- Elengoa, lengua madre: a = substancia. O = totalidad, orificio, tiempo. I = movimiento y pensamiento.
+- Todo símbolo tiene periodo y longitud de onda. ¿Estamos programados para reaccionar ante ellos como autómatas si no los conoce nuestro consciente?
+* Las élites te dicen el significado erróneo de los símbolos, y así, aparte de "mandar sobre ti", no eres consciente de tu verdadero poder. Símbolo negativo, el "corazón rojo" (o de otro color): es el Kulo de un paio lotero cavando (un Minion, que representa dominio paio): algunos dicen que es una mujer.
+* Cocacola debe de tener algún símbolo que hipnotice, y pervierta la "fuerza".
+- Numeritos:
+* Experimento XX de Wilhelm Reich: cojo agua y barro puro, sometido a 121 grados 20 minutos. Lo pongo en una montaña, y surge la vida. 1*1 = 1. 11 * 11 = 121. 111*111 = 12321.
+* Pablo Iglesias firma / ba con el 11 (1101). 13 = 3 - 1 = 11 - 01. ¡Y 13 en octal, es el número decimoprimero!
+* fi * fi = alfa * (Número de Balmer - (e + pi)). Alfa = 137 (constante de estructura fina y número escaños PP 2016 elecciones España). NBalmer = 364,62.
+* El 90 (pirámide Keops). 145 (altura = 90 * fi) * raíz de fi * fi = velocidad de la luz. (145 + 90) * raíz de fi = velocidad luz. 114 (semibase) * fi * fi = velocidad luz. Volumen pirámide = pi * fi. El error está en el arqueólogo, no en el matemático.
+- La luz, si se acerca, es amarilla, si se aleja, azul (el mar absorbe). Lo verde (amarillo + azul) es salud, nos alimentamos de luz.
+- El ADN (no lo hay basura, sólo que no lo comprendemos todo) tiene estructura gramatical (sonido, sílaba, palabra, enunciado y texto). Coincide con el arameo antiguo. Se cura con palabras, y la conciencia manda retraerse al ADN (es menos potente), ¿cuando estamos negativos?
+- Nuestro cerebro piensa menos de lo que creemos, y caza más pensamientos de los demás de los que creemos. 
+- Necesitamos ir a la naturaleza, tomar el sol... para "cazar ifotones".
+####Valdeande flecos:
+- Las teoría oficiales (C = longitud de onda * frecuencia) se aplican suponiendo que la luz va recta (pero los fotones son helicoidales). A veces, cuando 2 fotones en sentido contrario se encuentran (origen en objeto y OBSERVADOR por ejemplo), la hélice resultante es tan fina, que esas teorías funcionan.
+- Matemáticas vorticiales (explican el mundo):
+* El eneagrama vorticial (círculo con 9 puntos equidistantes en el perímetro / circunferencia) trazamos línea del 1 al 4, 42, 28, 85, 57, 71.
+* Formas de "latir" (aparte de 369...): 12 = 3 (primer latido) 23 = 5... O la Secuencia de Fibonacci (0-1-1-2-3-5...). A partir del tercero, los números son suma de los 2 anteriores. Cogemos de 4 en 4 empezando en el 3. Divido el primer número de cada grupo por 3 (3 / 3 = 1), y aplico mod 9. Observaremos que la secuencia mágica 173553719826446289 se repite. Si la ponemos en el eneagrama, ¿se tricotará una especie de ADN?
+####Energía Quim:
+- Energía escalar (éter): choque entre contrarios gracias al éter / neutrinos (NO materia, el plasma sí), genera vórtice, ¿y vienen los ifotones a formar materia?. Máquina escalar: transforma lo transversal, por ejemplo, la corriente eléctrica... en longitudinal, como el sonido, atrayendo así éter:
+* Los metales no magnéticos (oro...), el silicio, y el hierro (que roba energía) enlazan con el éter. La plata es positiva / masculina (paia), y el cobre negativo / femenino (bere).
+* Ejemplos de opuestos (sanar): Agua + fuego = vapor (terapéutico). Agua y tierra = barro (saludables botijos...). Baños frío y calor para sanar. Sonidos escalares de Joaquín Piquer (ondas neutras para despertar facultades psíquicas y sanar, que vienen del choque de opuestos). Ideal antes de dormir (si NO hay insomnio). Puedes usar audífonos, eso sí, la acústica influye. Frecuencia: 10 minutos (primeros 15 - 20 días). Luego puedes uno sí, otro no... Formato ".wav" (el .mp3 está "fragmentado").
+- Victor Schauberger inventor fuera de tiempo:
+* Llegó a conclusiones avanzadas viviendo en el bosque. El movimiento dominante son círculos y espirales (las curvas conservan la energía del agua, va más rápido; en cuanto al giro, debe ser implosivo para crear vórtices).
+* Respiraciones + sumergirte en agua a 4 grados (agua en auge): salud. Agua de manantial embotellada, pierde la esencia. Las cascadas dan vitalidad. Los árboles son también biogeneradores. Hay que cocinar con barro y cucharas de madera (y los cuchillos, cerámicos mejor). Si aras la tierra con hierro o acero, se pierde la fertilidad con el tiempo (los Aurones usaban oro, ¿y si sólo usamos las manos?). Con la oscuridad o la luz de vela se activa la glándula pineal.
+* Con actividad solar baja, los neonatos desarrollan más facultades psíquicas. La máxima vitalidad está en las ramas finas. Los druidas suelen cortarlas el día 6 de la Luna Llena, con una hoz de oro.
+* El agua, si va por cobre pero termina en grifo de acero (malo)... pierde la vitalidad. ¿Y cañerías en espiral, varios canales en trenza? En el éter no existen los relativamente peligrosos hertzios :).
+- Schauberger el motor "repulsine" de la vida (obtenía éter, para dar vida a espacios naturales; las élites lo querían por su levitación):
+* ¿Aquí los contrarios son agua girando a presiones parecidas (audífonos 240 hz izquierdo, 250 derecho)? Se obtiene VAPOR.
+* Tiene un motor de arranque, que se puede sustituir por una manivela. ¿Es para atraer el agua la primera vez, ya que con el tiempo los propios giros actúan como fuente de energía?
+* "Los aliados" hicieron un repulsine defectuoso / sin levitación (faltaban 2 piezas o así), para desprestigiar el invento.
+####Casco protector (cobre, aluminio, ¿los 2 por "tiras"?; vale un cuenco), ¿unidos por hilo de cobre?
+* Con 2 personas enfocadas en fondo negro. Las ideas sin palabra (para una manzana, piensas en un color) se transmiten mejor.
+####Ruido blanco (de 16 hz a 22.000). ¿Para el TDA (atención) y el rendimiento en general? Sí. Un televisor desintonizado, la radio entre emisoras... Dormir con un ventilador en marcha puede ser bueno.
+- Rosa (suena como el cauce de un río, una cascada, la lluvia...): mejor para dormir que el blanco. Para la memoria, aprender y estudiar. ¿Se puede hacer con la voz a baja frecuencia?
+####Ciertas tormentas eléctricas EMITEN ANTIMATERIA (¿propiedades curativas?).
+####Meditas para convertir la dualidad en algo neutro, ¿lo masculino y lo femenino?
+####Amanhui (JMDL) tiene chanclas curativas... Haciendo publicidad.
+####La energía psíquica es "longitudinal": ni el blindaje le influye: uno se cayó de la silla, porque desde otro cuarto le "dijeron" que "le estaban pegando". Puedes mandar energía a un enfermo (pero desear para él es magia negra).
+####De Constantin Buteiko, para hongos, corazón, asma (equilibra O2 y CO2, hay exceso de O2 en sangre y pulmones), regula el metabolismo, estimula el sistema parasimpático (timo...)...:
+- Todos los días. Boca cerrada, columna más o menos recta, durante 3 o 4 minutos respiraciones suaves y calmadas. Retener al final (tras espirar): si duras 40 segundos, bien. Yo le sumo otra respiración y otra retención (aquí duro poquísimo):
+* Y esto lo hago tras entre 10 y 15 minutos de 4-4-4 (inspirar, retener y espirar). 
+####Potenciar capacidades psíquicas: hacerlo entre 2 espejos cóncavos (a los lados).
+####Dioxinas. ¿Las han demonizado? Sardinas o atún en lata, leche de cabra o semidesnatada, yogur, queso manchego o fundido, mantequilla, huevos, ternera, pollo, bacon, aceite de oliva o girasol, nueces, plátanos, naranjas, arroz, judías, patatas, zanahoria (cruda digo yo), cebolla, espagueti, pan, ¿galletas?
+####La energía psíquica y los neutrinos, ¿son lo mismo?
+##Los pensamientos no duales, te liberan. Dual: pensar que materia e ideas son cosas diferentes.
+####Hay que estar despierto / consciente mientras escuchas los "Sonidos Escalares de Joaquín Piquer":
+- Náuseas, mareos, dolor de cabeza y fotosensibilidad los primeros días... indican que mejorarás seguro (tu cerebro está cambiando). Esto es una terapia, no un simple relax.
+* Sueños lúcidos, incluso viajes astrales. Premoniciones (gente que medita...). Recuerdos espontáneos de la infancia, sueños de hace tiempo...
+* ¿Mejora en la ceguera? Desbloqueo de olfato y oído. Mitiga el dolor (y a veces previene). Para las adicciones también va.
+####El oro (apantallamiento) era uno de los secretos de "Salomón".
+####Correr dentro de un círculo con piedras espaciadas (¿importa el sentido? ¿El sentido bere / sano era a la izquierda?)... activa la energía psíquica. ¿Y dentro de la roca también, y más si tiene magnetita? Las piedras de Montserrat causan mareos, sueño, aumento de la vitalidad... los primeros días.
+- El giro circular del péndulo activa ciertas energías, ¿campo magnético?
+####Construcción de aparatos no electromagnéticos (no hay cables): cobre, madera para aislar, figuras geométricas...
+* Con electromagnetismo, puedes confundir a aves (los murciélagos vuelan mejor sin sol).
+####Piedras que protegen mucho (todas negras): turmalina, obsidiana (además, sirve para introspección o hacer de oráculo) y shunguita (protege sólo del electromagnetismo). Obsidiana en ombligo, y si quieres, faja roja (lana de cabra...).
+####Psicotrónica positiva, Igor Smirnoff, mensajes subliminales: preocúpate por la familia un poco, merece la pena vivir...
+####Tom Bearden. Curar cualquier mal físico, enderezar espinas deformes... ¡Aplicaciones veterinarias!
+####Mío. El estrés libera endorfinas (de ahí lo bien que sienten algunos tras meditar). ¿La clave está en la hiperactividad de los circuitos límbicos del lóbulo temporal, y el apagado de otros? ¿Santa Teresa de Jesús era epiléptica?
+####Quim laberinto culturas ancestrales (el símbolo del laberinto tiene que ver con quién eres: misión, dones y talentos...):
+- La catedral de Amiens lo tiene octogonal: imprimir la plantilla (o la de Chartres). Mirarlo en penumbra antes de dormir, con los sonidos de Quim, ¿con una onda de 39 hertzios? Ahora tienes lamáquina Q-Per2 de Quim.
+##¿El laberinto recto habla de tu parte masculina?
+####Quim con Artur Sala (maestro). El "Tumbaga" es "oro nuclear", un compuesto intermetálico de origen artificial. ¿Es lo que Schauberger llama biometal, masculino y femenino (un electrodo de plata / masculino y otro de cobre / femenino, y a curar)?
+- La columna cobre / plata / oro (tabla periódica) tiene grandes propiedades, y pureza (y revierten el caos, y se usan en homeopatía).
+####Fran: ¿vamos a "subir de nivel" porque cada vez hay más neutrinos?
+- El acumulador de orgón lo chupa todo (tras la energía negativa, te absorbe la vital). Es bueno en clima seco y con sol, lugar elevado... con bastante energía estática.
+- Con el telégrafo, ya era notable la pérdida de poderes psíquicos. Luego vendrían las bombillas. Cuidado con muchas pantallas planas. En cambio, con antenas escalares, la gente se curaría.
+* Antes la vajilla era de plata (el hierro parece haber sido elegido a propósito).
+####Quim Interferómetro de Tesla:
+- Nicolás II (mi Nicolasito Romanov querido) fue el primero en acercarse a Tesla (USA lo despreció...). Le pidió una prueba:
+* 2 torres Wycliffe (emisor y receptor), en un terreno deshabitado de Siberia. Entre las 2, hubo una línea de fuego, y murieron hasta los observadores enviados por el Zar. "Invencibles", pero Francia y UK extendieron el comunismo.
+* AL GRANO: una onda escalar 2C +- y otra 3C, que al alcanzar a la lenta, produce una onda gravitacional. EN SIBERIA HABÍA PERMAFROST (METANO, CON 4 DE HIDRÓGENO, EN MEDIO DEL HIELO, H reacciona con el éter mucho).
+####Artur Sala (canal Magna Ciencia):
+- La ciencia oficial bombardeó mercurio con electrones (e + protón = neutrón, pasando de 80 a 79, oro). Si calientas sulfuro de mercurio, parte es oro. Cuidado, que te persiguen: nuestra escasez / NO autoabastecimiento es el poder de las élites.
+- ¿Se puede bajar la radioactividad de los isótopos con levaduras? ¿Y nuestro Wilhelm Reich, con orgon, descontaminaba en sólo 2 años?
+- El ruido (así llamado) de los circuitos electromagnéticos, suele ser energía escalar no aprovechada (y además, pagada, como el chispazo al poner un enchufe; en las centrales eléctricas, diodos "a la inversa", mandan esta energía a tierra, despreciada).
+- Las plagas vienen de suelos poco ricos (fuera mucha química, que impide fijar el hidrógeno).
+- Un "científico" NO quiere entender lo que entiende un niño.
+####Dorbuster limpia de energía densa / de electromagnetismo. Te vacía, y al final, hay que llenarse: imposición de manos, respiraciones, ir a cascada... ¿Los introvertidos se rellenan solos?
+- Construcción, funcionamiento, y precacuciones:
+* 2 tubos de hierro (juntos supongo, rifle je je) envueltos en cinta de plástico. Dejar un extremo libre como mínimo.
+* Al grifo (el agua toca el extremo "libre"). ¿Sentirás frío? NO tocar el hierro con la mano. Máximo 10 minutos (si no, empieza a chupar lo bueno).
+####La "electroterapia" precede a la bombilla (¿El technopop de los 80 y anterior son curativos?). Jaques Arsene d'Arsonval. Hace 100 años estaban más avanzados, con conocimientos de física, cuerpo humano, éter / neutrinos... En 1.940 se prohibe la electroterapia y se borra de los libros la palabra "éter" (orientarse a la molécula NO es bueno).
+####El interferómetro de tesla se relaciona con los círculos de las cosechas (con cereal maduro): un país loshace para demostrar fuerza.
+* ¿Los hoyos NO son "cárceles para entes perversos"? Muchos son fruto del entrenamiento. ¿Y si todo es cierto?
+####George Lakhovsky (murió atropellado, ¿asesinato o accidente?):
+- Bronce, Zinc, cobre... alternados en aros concéntricos (por lo general, los interiores tienen menos grosor), dan la resonancia perfecta para curar células dañadas, y vivir mucho más tiempo (la vejez se puede tratar). Se conecta a una bobina de tesla, y puedes estar sentado y descalzo, con 1 disco a cada lado (como orejas gigantes):
+* Tuvo mucho éxito en hospitales.
+####Plasma interacciona bien con energía escalar (¿cargar tubitos de plasma a partir de máquina escalar?). ¿De sólido pasas a líquido, gaseoso, y plasma finalmente? ¿Y esferas de vacío combinadascon sonido? Los tubos "lámpara" del techo interaccionan bien con la energía escalar, los led no (y las bombillas ahorradoras, con mercurio dentro, podrían ser curativas).
+####El terapeuta suele construir su propia máquina curativa (sin efectos secundarios se puede decir):
+- Bobina escalar (carga tubo, ¡y después enciendes bombillas!). LA GENTE QUE VENGA CASI MUERTA, PODRÍA TARDAR UN Aâ€˜O EN CURARSE FÍSICAMENTE.
+- Tubo de Koshirev (estimula la energía psíquica). Me suena a algo cóncavo pulido en espejo, y te sientas dentro. ¡Y me suena a Nostradamus y a la forma de huevo!
+####QUIM PIQUER.
+##Danza para obtener información sutil, basada en la Osa Mayor. Es como W + horizontal + V, en círculo, y cada vez más adentro. Donde empieza el segmento horizontal, no se ponen los pies, ¿diagonal? Ponte en ciertas horas con cierta orientación (una de las 8).
+##Máquina escalar Joaquín Piquer, ¿Q-Per2? Apunte: menos iones positivos en casa, y el "chispero" produce ozono.
+##Una sabia SAMI del lugar (la "energética" Península de Kola; y a Barchenko le ha dao un ataque al corazón), con una daga, hace giros circulares, y luego apunta al corazón: el dolor es intenso, pero al poco, ¿sanación total?
+##En seres pequeños, y al guardar el cuerpo etérico los patrones de órganos sanos... el órgano se recupera. En animales superiores, el cuerpo astral (emociones) está "entre" el físico y el etérico, fastidiando. Quienes lamentan durante años el pasado... pueden acabar con partes del etérico para siempre. ¿Los psicópatas se recuperan antes?
+##Las casas de los trabajadores (España) se construían sobre corrientes de agua (malo; recuerda a los cenotes para hacer rituales, ¿con piedra calcárea para filtrar el agua?), pero no la del capataz. Volviendo a los cenotes. ¿Permiso a duendes "aluche" para "cenotear", construir una casa...? Leyenda: a las 4 de la tarde vuelven los espíritus aluche a descansar, así que no te metas en el cenote. ¡Y te pasaban cosas realmente si no hacías caso!
+##Edificios circulares. NO hay goteras (el agua resbala), y es eficiente energéticamente. Koshyrev: te aisla del campo magnético (salud y energía psíquica).
+##La tumba de Napoleón es un condensador / acumulador de energía, ¿para rituales oscuros? Y encima la cúpula es oro y más oro. Capas: interna, estaño y acero; luego kaoba, plomo, madera de ébano y roble y cuarcita roja de Karelie (con energéticos hierro y silicio). Conductor - aislante - conductor...
+##Erik Dollar, difusión energía escalar con experimentos públicos (reprodujeron la mayor parte "de Tesla" él y 2 socios: las radios de los años 20 y los 30, "de galena", eran una bobina con 160 vueltas, toma a tierra por un lado, y por el otro, receptor; eran "de Tesla", y pasaron a ser eléctricas, para ocultar información al pueblo).
+- Las pirámides tienen balsas de agua subterráneas (conductividad "a tierra").
+##¿La terapia CRANEOSACRAL prepara el cerebro para los sonidos neutros? ¿Hasta cura el autismo leve (los sacadieces)? Los egipcios, al inclinar más el esfenoides, eran más poderosos.
+##Estado theta 3 a 7 hz: inspiración para crear. ¿Memoria y aprendizaje? ¿Caminar descalzo antes pa descargar y proponerse solucionar un problema? Gala (la de Dalí) ponía perfume en sus párpados, y él se echaba una minisiesta (máximo media hora).
+##Experimento Sevilla. Basado en el motor Repulsine B. Con turbina en espiral "rapidísima". Objetivo: potabilizar agua marina: EMPEZARON A VERSE TRANSLÚCIDOS (Y EL EFECTO DURABA UNA SEMANA... NO DEBÍAN SALIR A LA CALLE.
+##Joe Dispenza (logró volver a caminar) activar pineal (su calcio es positivo, si crees lo contrario, te estás limitando). Entre 1 y 4 AM, hay más efecto (melatonina "subida"):
+- Sentarse, respirar relajadamente (quitas las presiones del día atendiendo a varias partes del cuerpo). 5 minutos.
+- Contrae cuerpo al inspirar, relaja al espirar. 10 minutos.
+- Te concentras entre la garganta y la nuca, ¿situando ahí la pineal? Y a hacer preguntas, expresar deseos de saber.
+##Las células observadas por la intención, reaccionan (ejemplo: si miras a alguien por vídeo, influyes, y se podría dar cuenta de que está siendo espiado).
+##Majorana hoy debe de tener cara de niño casi (inmortal). Reconstruir la máquina rejuvenecedora requiere materiales y pericia (muchas salen mal), y te expones a "visitas". La información que falta, se dará cuando la información sobre Majorana esté suficientemente expandida.
+- Primero aniquila la materia, luego la calienta, se transmuta (¿oro?)... ¿en la última fase podría teletransportar, incluso al propio inventor?
+##Las truchas que remontan, ¿es por luz a partir de sonido (ejemplo: agua móvil, sonido por colpaso de burbujas): SONOLUMINISCENCIA?
+##Tuberías en espiral. Parece que las élites no quieren que nos beneficiemos de ellas, como la gente de Cnosos.
+##Ondas gamma (¡para despertar y sentidos como el olfato! ¿y para hacer un buen partido de fútbol, dormir poco?): percibir lo que tienes alrededor o alerta / supervivencia. O cuando pones la mente a buscar una respuesta.
+##Orgonita, ¿que no genera orgón, pero transforma en orgón bueno el malo? ¿Resina o saludable cera de abeja + metal (cobre, aluminio...)? Mejor si se ven la resina y el metal (orgonita básica, sin coloritos...).
+##percepción extrasensorial sala con espejos cóncavos de Kozyrev: no inflamaciones grandes, no problemas psiquiátricos palpables (la sala puede recordarte "cosas"). Puedes rejuvenecer, y ver cosas de hace siglos, y cambiar tu pasado, ¿e ir a otras dimensiones a través de Shambala?
+- Hay tubo, espiral y huevo (equilibrar lo que recibes y das) con cúpula rusa por encima.
+##Quim y Parce. 1 / 3 de la población no es hipnotizable, otro tercio, al revés; los esfuerzos de la tele se centran en vapulear informativamente al tercio restante (una mentira repetida mucho, termina aceptándose como verdad). El ruido blanco (tele con sus ondas alfa, móviles, lavadora...), que tu mente percibe, es "conductor" de energía psíquica / "mensajes" (lo traspasa todo).
+##Energía electromagnética (resumen): con "chispero" pasa a radiante (vital, aunque no pura). Máquinas deben resonar (frecuencia) contigo. Donde pones los pies (para curar), se llama pancake o algo así.
+##El éter puede potenciar las flores de Bach. El plasma (fuego...) es gran amigo del éter (cargas tubitos con máquina).
+##Animales semimoribundos que lamían shilajit, mejoraban. Juventud, desintoxica, mejora capacidad cognitiva.
+##EL CALOR DEL RADAR DEL AEROPUERTO (MICROONDAS MODULADAS) HACE QUE LA CÓCLEA (EXPANDIDA) MANDE INFORMACIÓN ADULTERADA AL CEREBRO, QUE INTERPRETA VOCES.
+##De menos a más activo: ondas Delta (hasta 4 años), Zeta (hasta 7 años), Alfa (hasta 14 años, eres esponja), Beta y Gamma. Gente depresiva: bajos en A, el solucionador de problemas (propiciado por la música o aprender un nuevo lenguaje, instrumento musical...).
+##Quim y Fran Parejo. Armamento escalar / etérico: vemos "nubes" espirales. ORAC (acumular orgón y sanar dentro): lugar caluroso y seco (por encima de 1.000 metros, perfecto). Alejado de electromagnetismo. ¿Y separado de los puntos cardinales? La arena de la playa tiene silicio beneficioso.
+##Sonidos escalares de Joaquín Piquer muy efectivos en momentos críticos. ¿Cubrir la cabeza (oscuridad), ejercicos de relajación (cuenta de 10 a 1...) y luego concentrado manifiestas tu deseo (que esta puerta se desbloquee...)?
+##La glándula pineal capta información etérica / neutra. ¡Eso es Hermes! Transmite a los mundos electromagnéticos (neuronas), y a nuestro subconsciente o Hades.
+##Protegerse en una empresa que no es "fengshui": silla pared, con visión general. ¿Si no, silla hasta la nuca?
+##El Otoño (Curar) es para la introspección, con elemento agua. El Invierno (Filosofía), para el conocimiento (tierra). La Primavera, para escribir y el arte (aire). El Verano (viajar), para las emociones (fuego).
+##Febrero 2024 a 2044, energía fuego, ¿casa de orientación Sur mejor?
+##Número kwa: compatibilidad con otros kwa (casi parece un Zodiaco chino alternativo, o un eneagrama). 
+- Mapa bagua. Arriba riqueza y prosperidad (madera, kwa 4), fama y reputación (fuego, 9), y amor y matrimonio (tierra, 2). Medio salud y familia (madera, 3), nada (tierra, 5), y creatividad e hijos (metal, 7). Abajo saber y cultura (tierra, 8 ), carrera profesional (agua, 1) y amigos provechosos y viajes (metal, 6).
+* Mi Kua inicial es 5 (1977; 77 = 14 = 5). 5 pasa a 8 (mujeres) o a 2 (hombres). Los hombres nacidos hasta el año 1999 deben restarlo al 10 (¿yo NO porque soy la excepción = 5?). A partir de 2001, de 9. Las mujeres nacidas hasta el 1999 deben sumar 5 al número. A partir de 2001, 6. Si la persona nació justo en el año 2000 tendrá Kua 9 (niño) o 6 (niña). Cambio de año: 4 de Febrero (si naciste el 3 Febrero de 1998, juegas con 1997).
+* 2, madre tierra. Energía protectora, fértil y proveedora de alimento. Personas muy receptivas e intuitivas, con capacidad para enseñar, administrar y guiar. Su fase negativa es el exceso de control y sobreexigirse en pos de los demás. 8 y 9 compatibles.
+##El silicio (material del cuarzo) estimula la mente. A + cortes del cuarzo, + potencia (intercala "columnas" planas, con cóncavas): amigo de tu voluntad / interés
+##Tener sueños y recordarlos. "Prueba de realidad" (aparte de pregunta "estoy soñando"): mirar manos, voltearlas y mirarlas otra vez. Si cambian, es un sueño:
+- Diario de sueños (desarrolla la memoria onírica). ¿Inventarte el sueño que querrías tener?
+- Te levantas a las 4 o 5 horas, actividad entre 15 y 20 minutos que active el cerebro y no dé insomnio. ¿Escuchar música o tejer?
+- Gente que hace cenas ligeras, cuando hace una pesada, tiene el sueño lúcido.
+##Los científicos de hace un siglo iban haciendo ejercicio hasta el río, cuyo agua "crea más vórtices, más comunicación entre células" (mejor cognición). Lo electromagnético reduce las capacidades del cerebro. Y hoy la ciencia oficial nos da burdos avances tecnológicos y peligrosa comodidad.
+##DMSO, ¿MEJORA LA VISIÓN?
+##Sábanas con toma a tierra (se venden en USA).
+##Ver demonios internos a oscuras (mejora la glándula pineal) 3 días seguidos mínimo. Alguien desde fuera te pasa la comida y avisa del final.
+- Quim segregó DMT el cuarto día, vio cosas... Durante + de 50 horas, no pasa nada. El tercer día casi no duele. Haz ejercicio, memoriza, ¿tras tocar?, juega a desorientarte...
+##La pineal se abría en cierta congregación "SONORA" con un caldero de bronce (resuena). Receta: vapores, olores de plantas, lira (alfabeto de 20 sonidos / caracteres: s, f... para describir árboles, dar mensajes... Traducible a gestos manuales, alfabeto Ogham / mahgo), voz del druida... y te fortalecías en varios sentidos. ¿Esto inspiró las flores de Bach?
+##La pineal se abría en cierta congregación "SONORA" con un caldero de bronce (resuena). Receta: vapores, olores de plantas, lira (alfabeto de 20 sonidos / caracteres: s, f... para describir árboles, dar mensajes... Traducible a gestos manuales, alfabeto Ogham / mahgo), voz del druida... y te fortalecías en varios sentidos. ¿Esto inspiró las flores de Bach?
+####ener Quim crecer significa no ver a la gente de siempre.txt  El éter busca expandir, hasta que ya no se puede más, y comienza la implosión / muerte (como cuando se camina, ancestralmente, en contra de las agujas del reloj). ¿Y es hora de encontrar un nuevo entorno social, incluso casa?
+- Una casa "con miedo al cambio" puede traer [enfermedad / muerte prematura para nacer en otra realidad + favorable], carencia económica (todo fluye, es regla Universal). ¿Se tiende a destruir el entorno cuando se quiere cambiar de entorno y hay "fuerzas magnéticas" en él o en ti?
+####ener Quim el sonido es creador.txt  Culturas antiguas: el Universo fue "cantado":
+- Éter (vida...): onda longitudinal ("se [encoge / estira] una espiral"; transversal, va "arriba y abajo", ¿una comba?). El sonido forma geometrías en nosotros (pobres ciudades), abre vórtices...
+* ¿Enfermas al otro hablando demasiado rápido?
+##Los sonidos escalares de Joaquín Piquer no son bineurales, son únicos (y tú, visualiza lo que quieres).
+- Bebés y niños equilibrados (puede ser de ruido de fondo, sin oscuridad además...).
+- La voracidad va desapareciendo. Menos autismo. Agilidad mental. Estratégicamente superior. Volumen bajo.
+####ener Quim Koshyrev ver pasado.txt  - Tecnología para visiones pasado (incluso en otro cuerpo) y futuro.
+- Cápsula de Nostradamus: silla bronce, y concavidad (tubo o huevo pulido en espejo, cobre, aluminio...).
+####ener Quim Polos.txt  Cerca de los polos, concavidad (chamanes "mejores"). Auroras, rojas fuera de los polos, ¿presagios de algo malo o violento?
+####ener Quim Rhodiola Rosea superplanta.txt  - Menos estrés (para el azúcar, hormonas... Que lo tomen muchas mujeres) para decisiones, agresiones naturales (temperaturas extremas... Es "adaptógeno"), ¿tóxicos?
+* NO embarazadas en principio (si hay problemas de parto, echarán la culpa a la planta los inconscientes).
+* De 1.000 mg (no tomar menos; 2 de 500, 4 de 250... Mirar en Internet, es conocida).
+##¿Esencial para el botiquín (levanta el ánimo, absorber conceptos...)?
+####energía escalar Quim electroterapia orígenes Arsene Darsonval.txt  - Inventó el desfibrilador... ¡Jaula de cobre! Para lograr distermia REAL (mejora la circulación de la sangre para calentar tejidos internos y curar así tumores).
+* Con la excusa de que el "chispero" (traduce las ondas transversales en longitudinales para atraer éter) impedía la comunicación, se prohibió / modificó en 1949; y ya no curaba, aunque siguen usándolo las clínicas para dolores...
+####energía QUIM  para atraer lo que deseas Franz Bardon hermetismo y Kábala sana.txt  energía QUIM para atraer lo que deseas Franz Bardon hermetismo y Kábala sana:
+- Preparación, a diario unos minutillos:
+* Respiración: 4-4retener-4, sin pensar en na más.
+* Concentración: en llama vela (cómo se mueve, color... Y si no, en objeto, aunque no es lo mismo). Y dejar pasar los pensamientos.
+- Al tener Resp. y Concen., visualizar lo que deseas:
+* Primero, maqueta con detalles, luego, tamaño real (interactuando con el "vendedor de coche"...).
+- Atento a las señales en la vida real.
+####energía Quim abejas y electrocultura generan electricidad para las plantas.txt  - El polen se adhiere (imantación).
+- Cable eléctrico parte baja colmena (entrada): mejor miel, y para ellas, longevidad y menos plagas.
+* ¿Y un imán Norte y otro Sur? ¿Y tiras adhesivas de nevera?
+- Tetragonula carbonaria (no aguijón, miel de muy buena calidad): colmenas espirales.
+##La cera es increíble (protección, transmisión...).
+####energía Quim agua hexagonal.txt  - Cascadas, manantiales, ríos turbulentos, nieve... suelen ser fríos, y hasta -40 grados, el agua aumenta su hexagonalidad (recuerda que es +4 el punto de mayor energía, sin embargo), asemejándose al agua de las células, + densa y viscosa que la del grifo.
+* Con máquinas, el agua puede magnetizarse.
+##En el Cáucaso envejecen más lentamente, así que, ¡viva el agua en estado "gel": H3O2!
+####energía Quim anomalía temporal Antártida.txt  - Partículas raras / de otro Universo paralelo con tiempo pasado. ¿"Agujero" + materia oscura intraterrena?
+- Portal dimensional (gran parte de la noticia, casi no se difundió, sólo en ruso... cuando la primera parte, salió en muchos medios): muchos secretos, pero pusieron la noticia de un Boeing 747 aterrizando en la Antártida, para que pensásemos que se "abría al público".
+* Los paios vivían en La Antártida. Ahora (2023) ya no vive casi nadie (tras la deriva continental, asociada al Diluvio).
+##La Segunda Guerra Mundial siguió en La Antártida?
+####energía Quim anomalías agua El agua desafía las reglas químicas.txt  - Gracias a la memoria del agua, ¿podemos revivir memorias de otros?
+- El hielo (agua congelada) flota en el agua. La máxima densidad se consigue a 4 grados. ¿Y el hielo protege lo que hay debajo no?
+- El agua caliente se congela antes (Mpemba).
+- Muchísimo más rápido (no simplemente + rápido) por canales estrechos.
+- A 63 bajo cero, ¿se comprueba que el agua son 2, y no 1?
+####energía Quim Anomalías temporales 3.txt  Montañas Zhiguli:
+- Orillas Volga neblina azul (ciudad flotante... ¿mundo pasado o lo que no vemos, incluido un Universo paralelo?.
+* Como "La Isla de San Borondón" (visiones que tienen los canarios).
+- ¿Leyenda? Ancianos que aparecen si te has perdido... ¿Entran a cuevas por aberturas invisibles al ojo humano y pueden transformarlo todo en oro?
+- Platillos "BMW" (no con aliens, si los hubiese, abrirían portales sin usar platillos para viajar).
+####energía Quim anomalías temporales niebla y espejos.txt  - Niebla (natural o no, aparece y se va de golpe, varios colores): antes, campo electromagnético que desactiva aparatos cercanos. ¿El lugar se vuelve "denso" al final?
+* + posibilidad: agua, fallas geológicas (las placas se mueven longitudinalmente / "escalarmente").
+- Himalaya: montaña con roca en espejos: cuidado (envejecer).
+* ¿Agua viva de allí momifica a monjes que luego despiertan? ¿Napoleón despertará ji ji (lleva código de barras)? Me recuerda a lo de la momia del Tirol (cuando la menciono, se ríen, lógico).
+##Si ves varias realidades (sombras...), mejor estar enseñado, para no afectar al cuerpo.
+####energía Quim biodinamización del agua I.txt  energía Quim biodinamización del agua I:
+- Marcel Violet. Agua tormentas: buena cultivos y animales. Su "agua violeta" (se ve rayo violeta o algo así) es parecida (se consigue con una máquina escalar y frecuencias altísimas: sonido DO en agua, y cera de abeja para filtrar energía negativa; y una antena que recuerda a las de Lakhovsky).
+* Muchos humanos mejoraron. Muchos médicos rabiaron.
+####energía Quim Buteyko para neurosis problemas de memoria y más.txt  - Buteyko se dio cuenta de que los enfermos respiraban más aceleradamente. Lo sano es que el 50% sea CO2, y el 50% sea O2, ¿y esto se consigue respirando pausadamente por la nariz y con el abdomen?
+* Ejemplo: respiración cuadrada (4 segundos inspirar, 4 retener, 4 espirar). Suficiente 10 / 15 minutos al día.
+* Evaluación: inspira normalmente, espira, y aguanta. 30 segundos está bien, 40 es óptimo (día a día mejorando un poquito).
+- Más:
+* En 1.985 se implantó en la sanidad rusa (para tropas, menos estrés...).
+* Bueno para desear (manifestar), mandar mensajes "etéricos". Buteyko da "atención".
+##¿Esparadrapo para dormir en la boca, y mejora la salud?
+####energía Quim construcción en líneas Ley que van por la superficie terrestre.txt  - Los druidas vieron que en esas líneas la energía se movía ondulatoriamente (benigna "serpiente cola de flecha").
+- Hacer catedral... Los masones marcaban un rectángulo con el ocaso y salida del Sol en cada solsticio, y hacían otro para la Luna, superponíéndolos. Se conseguía un punto de poder, una planta energética... A veces, sólo interesaba la fecha del "Santo".
+* Los rosetones (tienen "frecuencia"): éxtasis con el canto gregoriano (visiones...), si tenían colorines.
+##Ojo, es para un uso concreto. Para las casas, mejor curvas.
+####energía Quim cuando uno está de mal humor la energía psíquica puede fundir bombillas o estropear ordenadores pero no se mezcla con la electromagnética aunque se complementen.txt  
+####energía Quim cómo estructurar el agua.txt  - Previamente refrigerada entre 4 y 10 grados: remover con cuchara sentido antihorario (crea vórtice).
+* ¿Puedes cargar antes con luz infrarroja (bombilla, botellas azules al sol...)?
+##Agua manatial: 2 traguitos, refrescar nuca (y frente...), ¡y como nuevo!
+####energía Quim el Universo y sus dimensiones.txt  11 dimensiones (para sentido matemático) en un solo plano (decir "varios planos" podría ser limitante) creo. Teoría M (maestra):
+##Materia y energía oscuras permiten esto. Menos de 1 milímetro de una dimensión a otra. ¿Vibración muy fuerte antes del salto?
+- ¿La cuarta está muy cerca de la quinta?
+- ¿Alguien de quinta o sexta ya puede venir aquí, y estudiarme sin que le vea?
+##Al grano:
+- 4: tiempo de tu línea de vida actual.
+- 5: a vida paralela (imagínate que en esta vida eres Informático, y antes tuviste la decisión de ser Informático o médico, ¡pues en la otra puedes ser médico!). Y ahora me acuerdo de Frank Parejo (eso de "toma riesgo", que no pasa nada si "te sales un poco"...).
+- 6: 2 líneas a la vez (en una 30, en otra 70...), habiendo comunicación.
+- 7: 7 realidades. Así hasta 10.
+- 11: ¿a Universo distinto?
+####energía Quim electricidad atmosférica intentando aprovecharla.txt  - Yun Yao, aprovecha el baile aire (+) y suelo (-), para producir microtormentas, gracias a geobacterias (transforma química en electricidad, descontamina el uranio...).
+* Las placas usadas ocupan muy poco.
+- A ras de suelo, 0 voltios (se aplica lo de 100 voltios por metro, menos en Verano, y mucho más en Invierno, época mucho más activa).
+####energía Quim electrocultura.txt  - Caricias a tu cuerpo, energizan.
+- Regar plantas con fluído cargado eléctricamente (crecen más rápido).
+- 1841, Alexander Bain: cobre y zinc en la tierra.
+* Hoy, imanes (orientados al Norte) recubiertos de protectora cera de abeja. Hilo galvanizado al Sur.
+##Las guerras mundiales nos hicieron olvidar la buena agricultura, medicina...
+####energía Quim energía del basalto.txt  Como el de la Calzada de los Gigantes:
+- Limpia energéticamente con agua de mar o río. Bueno como toma de tierra.
+- Rituales (bueno para ellos); leyendas de hadas, porque el pelo se trenza DE VERDAD...
+- Carga, aporta alegría (si está húmedo), ¿y riqueza?
+####energía Quim fuego y psique potencia.txt  - El fuego es plasma:
+* Te hace sacar cosas ocultas, te abres.
+* Una llama (vela) llega a un familiar recien fallecido (su energía). Tenemos la intención (influir, manipular) vs ser escéptico (¿protege de la influencia? Pensaremos que sí, es importante creerlo).
+##Sonidos escalares de Joaquín Piquer (Spotify...) + llama (fijarse): 15 minutos * 15 días, y lo que deseas, se cumplirá, salvo culpa, creencias de merecer o no merecer...
+####energía Quim los estados mienten los platillos son terrestres.txt  - Man Made UFOS (1944 - 1994, el hombre hizo a "los aliens"):
+* Franco vio una demostración de platillos, consciente de la verdad (gente que salió de Alemania, ¿Operación Paperclip, con países alrededor de Suiza? Bunkers en Suiza para toda la población y más).
+- Gente:
+* Hans Kammler: "los construimos nosotros".
+* George Lusar (vio las patentes).
+* Wilheim Landing (proyecto).
+* Thomas Townsend Brown (libro de Rix, Energía y libertad).
+- Finalizando: ¿sólo se admiten las formas circulares o triangulares?
+####energía Quim Muldashev II Pen de Kola.txt  - Chamanes sami podían zombificar (Haití, esclavos para tareas domésticas, por Bela Lugosi) a grandes grupos con cierto grito. ¿Se usaba para que la gente estuviera activa y no se congelase? ¿Aguantan + los tontos "dirigidos"?
+* Llevaron chamanes a Mathausen (eso dice Muldashev), donde estaba Schauberger con ovnis de la BMW. Repito, lo de los aliens es para dar fuerza a espíritus malignos. No vayas por "lo que mola".
+##Los ovnis se cargaban en círculos de hormigón y agua (piedras húmedas daban poder a Chamanes; cuarzo bajo tierra, y sobre ella, piedras grandes sobre pequeñas).
+####energía Quim máquinas escalares hoy.txt  Son como hace unos 80 años, hubo un parón para engañarnos con medicamentos. En 10 años serán magníficas en todo (y se usan para tantas cosas...). Somos una máquina escalar, pero vinimos sin instrucciones.
+####energía Quim Paul Marie Oudin seguir con lo de Dansorval.txt  energía Quim Paul Marie Oudin seguir con lo de Dansorval:
+- Sintonizaba a la máquina con el paciente, bajo amperaje, y voltaje altísimo.
+- Recordemos: quitaron el chispero, que permitía acceder a las células dañadas.
+##Los médicos de antes eran físicos (somos electricidad)... Los de ahora, ¡ni HamerNMG!
+####energía Quim preludio teoría Viejísimo Artefacto de Antikythera.txt  - ¿Primera computadora analógica (un reloj con sus ruedas dentadas es un ejemplo "simple")? ¿De Arquímedes?:
+* Aparece el número 235 en ella (19 años solares son casi 235 meses).
+* Predecía eclipses con exactitud ¿número 223 lunas completas / 18 años y 11 días?
+* Indy 5: aparato que predice alteraciones del tiempo (producidas por materia oscura, o un remolino en el mar que hace que un barco con este mismo artefacto se hunda, o el motor Repulsine...).
+####energía Quim propiedades del agua muerta o viva recuperar visión.txt  - Alloplant (Munlashev): para regenerar el tejido receptor (transplante de córnea...).
+- Munlashev accedió a lago "prohibido, de yogis" (Himalaya):
+* El agua muerta (a 30 metros) elimina células malas (¿primero las agrupa? Mmmm).
+* Luego viene el agua viva (rejuvenecer).
+##Para conservar al yogi en hibernación, cueva a 4 grados.
+####energía Quim tiempo pasando más lento o rápido y traslados espaciotemporales.txt  ##Temas gravitacionales:
+- Reloj a nivel del mar se adelantará (tiempo más rápido) con respecto a reloj en la montaña.
+- Gemelo al espacio envejeció menos que gemelo en La Tierra, ¿se le alargaron los telómeros temporalmente?
+##Temas no gravitacionales:
+- Soldado vio proyectil a cámara lenta (el subconsciente cambia el tiempo) para esquivar.
+- Yogis aparecen al otro lado de la habitación en 1 milisegundo (para la audiencia, no para el Yogi).
+##Factor Oz: remolino de tiempo al entrar en neblina, cuevas... ¿Ir incluso a mundos paralelos?
+####energía Quim valle bambú negro provincia Xi Xuan no entres o perecerás.txt  Muchos lo hicieron por escépticos, estaban locos, no se creyeron que la mayor parte de gente que entraba no salía:
+- Pierdes el conocimiento, te desorientas, ¿por perturbación magnética?
+- ¿Puerta a civilizaciones avanzadas secretas terrestres? ¿Confluencia con algo "paralelo"?
+##¿Volverán todos (Canosa)?
+####energía Quim y Fran sobre el éter y el plasma o quinto elemento.txt  Quim y Fran sobre el éter (lo que compone el mundo no electromagnético / psíquico) y el plasma o quinto elemento:
+- Cuando piensas en una persona y te llama, "eso viaja por el éter", y es inmediato (no electromagnético, no sujeto al espacio).
+* La llama del fuego es plasma (que dialoga muy bien con el éter y la psique), y en una fogata en círculo, te abres y conversas con más profundidad.
+- Recordando: oído izquierdo pitando, puede que te estén criticando. ¿Y si es en el derecho, dicen cosas buenas de ti?
+* ¿Y puede haber pitidos cuando intentan manipularte?
+- ¿Son las grandes pasiones / gritos emocionales (gente no muy elevada) lo que atrae a las larvas?
+* Si tienes que recuperar alguna parte del cuerpo, lo mejor es emoción "cero". Lo de la "emoción que no deja sanar" pasa en le hombre...
+- Antes de dormir, limpiar, ¿palmas arriba y palmas abajo?
+* Planta enferma: aro de cobre, ¿que vaya a la tierra de la maceta no? El aro "se mantendría en el aire", ¿es así?
+##Recordar: cuerpo etérico + cuerpo astral (emociones) = espíritu. ¿O alma? ¡Qué lío je je! ¿Qué es lo que NO incluye la psique, lo "menos gordo", lo que NO es eterno?
 ####00606anexos.txt  #########################################
 ############ANEXOS IMPORTANTE############
 #########################################
@@ -6457,6 +7423,462 @@ Casa 12	16° 11'	Sagitario ¿Pruebas de explorar?
 - ¿La literatura tras LSD es chunga no? ¡Viva lo estructurado, resumido y razonado!
 - Cuando madrugo, quiero estar solo, y en la oscuridad... un buen rato. ¿No se activan "los genios" por la noche?
 - Lo intelectual, sin una base "sutil", es integralmente negativo, y se debería revisar todo lo construido por esta inteligencia pobre y vacía de esencia.
+
+#########################################
+############ANEXOS IMPORTANTE############
+#########################################
+#######Miguel Rix, Goig, Julio García, Canosa y Santi Royuela#######
+####Y tras ellos, el Libro de la Depresión (NO, NO es simple psicología, es más).
+##Goig frases (y mías):
+- La obediencia no es una virtud (¡mira los obedientes de Hitler!).
+- Votar es la versión adulta de escribir una carta a los Reyes Magos. ¿A menos (en españa) que votes a Iustitia Europa?
+- ¡Si educas a tus hijos en casa, no se adaptarán a la sociedad!, dice una mujer. Correcto :) , dice un sabio.
+- Buenas noches en el Telediario de las 9: y esto es lo que queremos que piensen hoy (salen 2 robots presentando).
+- Esclavo dice: los impuestos son el precio que pagamos por vivir en una sociedad civilizada.
+####Canosa amenazados por demostrar dinosaurio vivió hace 5000 años No hay esqueletos quemados la gente no piensa porque da por sentada la veracidad de los pseudocientíficos Sacar carrera es 0.
+####Canosa Si gana Trump no vayas contra Dios él pone a los presidentes como pruebas para el ego malo de la gente Y pone empeoramientos que pueden llevar a mejoramientos.
+####Teoría paiobere + Canosa. ¿Los Iudas se blanquearon al raptar mujeres bere? ¿Las traian del futuro (Canosa, ya sé que suena raro, pero NO lo descarto)?
+####Canosa 31 Marzo 2023 Trump no entrará en la cárcel menos mal es semibere de los nuestros.txt  Canosa 31 Marzo 2023 Trump no entrará en la cárcel; menos mal, porque es semibere de los nuestros:
+- Con Trump (no muy buena persona, no es un ángel, pero es un enviado para el grupo de "los buenos"), se redujeron las guerras. Con Biden (que es pederasta, tal vez psicópata primario), aumentaron. ¿Trump es parecido a Kennedy, peligroso para "las sombras" porque va a decir la verdad, y con muchas cualidades positivas para gobernar?
+####Canosa China todo preparado para desenlace final.txt  Enigmático reloj de anillo...:
+- Gran muralla China (ya dijimos que no era pa defensa).
+* ¿La construyeron los altísimos y alegres (y están vivos y congelados) "guerreros" de terracota (no llevan armas, tienen las manos de cierta forma...)?
+- ¿Pirámides mayores que la de Keops? ¿Xian?
+####Canosa guerras se controlan por humanos superavanzados centrotierra.txt  - Segunda Guerra Nuclear parada (las bombas nucleares van "milagrosamente" al desierto o al mar, ya desactivadas, y los países lo saben, pero podrían creer que las desactivan otros países).
+####Canosa Kennedy no quiso ceder a los deseos de poderosos en la sombra no identificados ni por él Pregunta lo mató un rayo y su sarcófago está vacío.txt  
+####Canosa Machu Pichu revelando parte de la verdad.txt  ##Mientras mientes te llevas premios Nobel...
+- Piedras enormes PERFECTAMENTE acristaladas (y alguna pirámide, 5 = mando; son los sangrientos paios). Lo construyeron je je llamas (animales) esclavas.
+* Debajo hay túneles (canosa lo descubrió). La UNESCO lo saqueó. ¿Hallaron 150 esqueletos de mujeres (traídas del futuro supuestamente)?
+##Se calla cosas terroríficas por prudencia (la UNESCO está pendiente, aunque los vídeos de Canosa no tengan millones y millones de visitas).
+####Canosa rocas y edificios.txt  En cuanto un edificio viejo no encaja con la teoría oficial (impuesta), "¡es un templo!" (o un enterramiento...). ¿Y gigantes petrificados (con órganos...), ya no dentro de rocas?
+####Canosa sabía con unos 9 años lo de gigantes dentro de rocas y muchas cosas más Él no le daba demasiada importancia.txt  
+####Canosa si infringes las normas de la Cueva de Hércules Toledo.txt  - Las élites en la sombra suelen coger niños y "estamparlos contra superficies", sí.
+- ¿Varios robots en la Istroia de Toledo? ¿Los musulmanes son plagas por si no cumples las normas?
+* Sí, hay cronovisores (saldrán imágenes del asesinato de las niñas de Alcasser, pero antes la gente debe despertar, o enfermar, porque se resistieron a la verdad).
+####Canosa supervivientes Armagedón al centro Tierra.txt  - Dios tendrá que intervenir, no con Diluvio, ¡con fuego!?
+- La sede ocultista / satanista, ¿está en Toledo?
+- Si los conspis son silenciados, las piedras "hablarán" (se oyen sonidos, por ejemplo, en la Calzada de los Gigantes, hecha con ciclindros, no lava, miente la información oficial).
+- Dentro de la Tierra hay una cultura "perfecta", longeva. ¿Y siempre es de día? ¿Y rejuveneceremos?
+- Yo: ¿nadie realiza "el acto" (tener hijos...)?
+####Canosa ya tamos en el tiempo del fin del sistema satánico.txt  ##Renne-le-Chateau (malo, supongo, como los templarios). Lo apunto. Más:
+- Los gobiernos anteriores a 2.024 son pa joder ("castigo de Dios"). Pero me da que protegen al sabio, n al rebelde sin causa.
+- ¿Todo lo del Vaticano a los hispanoamericanos y los indios de Norteamérica (masacrados por ingleses y negros, los ayudantes de los paios que se convirtieron en reyezuelos... y a los que se ha venido dando derechos poco a poco, con cuidado, que no se note "eso"; primero se los quitaron; me recuerda a primero machismo, para poder implantar el hembrismo, y joder de verdad) :) ?
+####Cosas de Canosa: Fíjate en Roswell (1947): ninguna nave auxilió a la supuesta nave alienígena. ¿Fue una broma?
+####Canosa impresionantes piedras de Ica (Perú): ¿se ven gigantes vs dinosaurios, y hay dinosaurios con 4.500 años sólo (carbono 14)? Si hasta la ciencia lo dice... ¿Mapas de Venus? Se ven terribles cesáreas.
+####Julio da en el clavo Guerra África salen mujeres niños y los hombres se quedan a luchar Guerra Oriente Medio mujeres y niños se quedan y hombres en edad militar salen a joder el mundo.
+####Julio García militares españoles tanta legión tanto jurar bandera y sin huevos para actuar por el bien de España están para chuparla a intereses internacionales planes futuros matarán a sus hijos.  
+####Julio la masonería campa a sus anchas desde la muerte de Franco Nos hacen jugar a enfrentar izquierda contra derecha algo absurdo Mientras ellos enfermos mentales se sirven del rito Derribo cruz es comienzo de lo malo.
+####superamenaza Julio cualquier objeto volante sin transpondedor información de vuelo debería ser derribado Drones que contaminan el cielo.txt
+####Julio El camino a la felicidad es hacer el bien sin mirar a quién sin esperar vuelta.
+####Julio 686.txt  - Intro. ¿Quién compró la bala para Alejo Vidal Cuadras? ¿Tendríamos algo psicosomático al conocer la verdad? ¿Quién escribe el discurso del Rey? ¿El PSOE? España sirve de "basurero" de Europa. Nombrar para el Tribunal Constitucional a un miembro del Gobierno, ¿sólo ocurre en España? ¿Quieren un enfrentamiento civil para imputar muertes a este enfrentamiento y no a la mala medicina (verdadera causante)?
+- SergioCebolla (sabe bien que Sánchez no tiene escrúpulos). Sánchez: más que mentiroso compulsivo, psicópata (está bastante claro: el ignorante que no sepa de psicopatía...). Va a haber mucho dolor en Cataluña. Sergio ha conseguido que la Plandemia no declarase a gente buena (que no se cree las noticias) culpable.
+- El Libro Negro de las Vacunas: no te lo pierdas, explica lo que pasa contigo, tu familia... Datos históricos lo avalan:
+* Contienen células de fetos abortados... Aumento exponencial autismo / verdadera pandemia (¿triple vírica?). ¿Por qué las llamamos vacunas? Cancerígenas... ¡Covid, no había ni virus atenuados (los virus son funcionales, los de la ciencia oficial no existen), y causan muertes y envejecimiento anormal! Los pediatras han recibido millones de Pfizer. Polisorbato, mercurio, formaldehído, aluminio... ¿Grafeno?
+* Covid. Illa compró 4 x la población de España de vacunas, ¿por qué dijeron que con una bastaba? Es muy extraño. Había lotes tóxicos y otros que no ("how bad is my batch", en Internet: cómo de malo fue el lote que me tocó; eso es que se puede saber). Problemas graves en niños y ratones (ya sabían que mataba). La vacuna para la bronquiolitis PARA RECIÉN NACIDOS es también falsa (¿MUERTES SÚBITAS?).
+##Antes, ante efectos adversos graves, se retiraba la substancia (o si curaba, lo cual no da dinero). Y recuerda que el miedo mata (produce neumonía, que sumada a protocolos homicidas médicos... Si aplicas respirador eres un asesino sin conocimientos o sin voluntad propia).
+####Julio García entrevista a Juan Zaragoza.txt  Julio García entrevista a Juan Zaragoza:
+- Las farmacéuticas, sí, controlan los temarios universitarios. Al parecer, las élites quieren autistas (hacendosos aspergers, en concreto). Se vacuna más a los niños de hoy. A partir de la triple vírica, los hay que dejan de caminar...
+* El Paracetamol (toxinas) hace que el hígado no desintoxique, ¿tras afectar al hígado el mercurio de las vacunas? Mejor Ibuprofeno. Médicos siguiendo protocolos, para que no los despidan (¡el daño que han hecho los trabajos oficiales, ahí, controlados!). Es muy difícil convertir a inteligentes almas viejas en máquinas de memorizar / prestar atención, ¡y pocas terminan la carrera!
+##Más. Quitina de insectos (se los dan a los africanos tras dejarlos sin comida, está ya en el pan...): produce histaminosis.
+####Julio García mentiras 2020.txt  Julio García mentiras 2020:
+- La policía se saltó la Constitución (que no es tonta), no protegían al pueblo, obedecían a los superiores (multas por salir a la calle...).
+- La primera vacuna, decían que tenía uan eficiencia del 100%, pero las élites "cambiaron de opinión", para seguir envenenando (nos quieren débiles para controlarnos).
+- Sanitarios: haciendo vídeos de humor en hospitales vacíos, ¡no estaban saturados!
+##El virus no entraba por el oído decían, y así se justificaba el uso de la debilitante mascarilla. ¡Y el virus era inteligente / selectivo en general je je! Políticos (pueden simular que están recibiendo la vacuna).
+####Julio médico conspi / acertado en Menorca. Élites OMS y médicos no se disculpan.txt  Las élites ya maquillan las estadísticas de sobremortalidad ("vacunas" covid; ojo, la de la varicela y otras pocas más son relativamente benignas). OMS es una empresa privada (y protocolo OMS, contrario a lo estudiado en la carrera:
+- "No nos vamos a disculpar de haber recomendado que te inyectes un veneno, porque somos LOS DOCTORTES SUPERIORES".
+####Julio médicos y Palleter varios.txt  - Médico, llevas mascarilla porque te has callao, ahora no pidas que la lleve todo el mundo (además, se lleva porque es un negocio de familiares de políticos...).
+- Palleter:
+* "Ley de diversidad animal" va contra la diversidad (es como la llama un manipulador que quiere el control mediante la escasez).
+* Y La Agenda 2030 nos unirá (y pobrecillos en África: en Senegal ponen naranjos, y la gente d esclavos...).
+####Julio superamenaza los médicos reportan más visitas por cambio climático Un periodista dice esto hace 15 años y se ríen de él Pregunta no será por otras causas como una fumigación excesiva o la alimentación.txt
+####superamenaza El Expediente Royuela es un compendio de lo luciferino que se esconde bajo España capas y capas de malvadotes dispuestos a destruir España.
+####Expediente Royuela. superamenaza Ningún abogado entiende por qué prisión preventiva para un anciano que no va a escapar (Alberto Royuela) o a delinquir. Se trata de represalias contra justos denunciantes de corrupción Royuela y Juez Presencia.
+####Expediente Royuela chica va a abortar y la ordena asesinar el exfiscal Mena amigo de Zapatero:
+- La chica entra en coma, y no la pueden llevar al hospital (se destaparía el pastel).
+* Mena (compinche del doctor Morín y su clínica abortista) llama a su sicario Ruiz (la letra es de él, está claro, pero como tanto España como el Mundo son turbios... la justicia no prospera de momento, Septiembe 2023). Él se encarga de "hacerla desaparecer".
+* Ruiz (guardia civil, creo, y posteriormente asesinado, esto es así, es el mundo de Zapatero) se encarga de saber si allegados estaban al corriente del aborto (para hacerlos desaparecer).
+##Y no me olvido de que no quisieron comprobar las cuentas bancarias ilegales, ¡pues de un montón de poderosos! Barbón (Asturias) tiene un montón de pasta ilegal, por poner sólo un ejemplo.
+##NO os olvidéis: expedienteroyuelalibro (punto com). Yo no creo que compre más libros, quiero las cosas ya en cortos y espléndidos artículos. Y los documentales de MiguelRix.
+##Los Royuela, familia maja e independiente, que sabe pero que mucho. La extrema derecha es una forma que tienen los corruptos de indicar a la gente molesta para "sus negocios".
+####superamenaza el miedo infantil a que sea verdad que las élites controlan el clima incluso con terremotos y son narcis Se vengaron de ZARagoza ciudad bere y ahora de VOX creo El Expediente Royuela es verdad también.
+####Expediente Royuela ataque a los denunciantes de corrupción. El expediente Royuela es verdad (no se querellan los aludidos). Con él, se acabaría el Régimen del 78, saltarían muchas cabezas "famosas". NO han ido contra las notas manuscritas (Zapatero hablando de matar gente "molesta"). Acusan injustamente al denunciante de injurias y calumnias.
+####Expediente Royuela bonitas aclaraciones sobre Santi. Las élites etiquetan al enemigo como quieren: hoy de extrema izquierda, al día siguiente de extrema izquierda... Santi usó pólvora cloratada (y no prensada), la cual no era explosiva, sólo generaba humo. Lo hizo en una plaza donde al día siguiente habría un acto de apoyo a ETA. Y las élites, lograron encarcelarlo años y años (porque sabía lo que ahora saben miles y miles de personas sólo en España).
+####Expediente Royuela Libro y capítulo. expedienteroyuelalibro@ (gmail) (.com): dudas sobre la compra. El capítulo:
+- Fiscal Mena (cliente de una prostituta, Mercedes de Pablo Vinaixa, que acaba asesinada por el equipo de Ruiz, lacayo de Mena; ella lo planta, y él demanda siempre pleitesía):
+##Mena seguía queriendo tener sexo con Dolores, pero a ella Mena le daba repugnacia pura.
+####Santi deja Expediente Royuela en Youtube.txt  ¡EL EXPEDIENTE ES CIERTO, lo dicen pruebas y lógica, E INTUICIÓN! Mena siempre se ha negao a una pericial, y nadie ha negao lo dicho de los asesinatos, y han atacao con triquiñuelas... Las élites son oscuras y poderosas (Zapatero y Conde-Pumpido comprando magistrados...). Santi es un físico respetable llevado a prisión injustamente.
+####Santi robos del PSOE desde Leganés hasta el hotel.txt  - Nota de Zapatero a Sánchez: trasladan lo de Leganés (sin los cadáveres) a Beziers (propiedad de Enrique Sarasola: lingotes de oro de Belloch, Robles, Conde-Pumpido, Marlaska, Borrell, Carlos Jiménez Villarejo, Dolores Delgado, Cano Vidal, el propio Zapatero, José Arimáin...):
+* 27 Rue Etienne docet 34.500.
+* Y hace unos meses pasó al hotel Room-Mate-Oscar de Madrid.
+####Santi Royuela partido político Marzal.txt  En un partido político debe haber sabios, gente "de HamerNMG". La corrupción permite callar bocas (matando...), para silenciar cosas terribles sobre la estructura de poder mundial y los objetivos de manipulación mental (de la población), no sólo es robar... ¿Se lleva el 25% del gasto público en España además? Si denuncias corrupción, van por ti, haciéndote pasar por malo, saltándose toda clase de normas para encerrarte... El sistema no puede combatir la corrupción, porque la corrupción es el sistema (2023).
+####Santi Royuela seguimos con la secta de los Sabateos.txt  Sabateos (secta gnósticos panteístas): buscan la "saturación de pecado" (tele, divas... creemos que son positivos) para que su mesías se presente, ¿y ellos también? Se sirven de la Masonería (paios, claro). Quieren que la gente se entretenga (tele, claro), sin ver lo que hacen "desde atrás". se creen el Pueblo Elegido, pero odian a los judíos (aunque se mezclen o quieran pasar por ellos):
+- Kissinger y Chomsky (amigo del proxeneta Epstein y Santón del Progresismo), son sabateos excolumgados por el Pueblo Judío:
+* ¿Y no serán los Iudas ingratos que salieron de "Tierra Santa" con información privilegiada tras ser bendecidospor el bere Alejandro Magno?
+- Están en el origen de la revolución francesa, y fueron destruyendo las monarquías.
+##Ejemplo de autor (de los bondadosos, no sabateo): Clifford Shack.
+####Santi Royuela ya salió de la cárcel Entró por manipulaciones.txt  ##España está contaminada. NO les importan los hijos de los denunciantes de corrupción.
+- Galimatías que ha montao la Audiencia Nacional, que no se sostiene. Querían que se creyese que eran banda organizada, cuando son gente con ganas de que se haga justicia, gente buena, que ha denunciao a personas malas, no a las Altas Instituciones (otra manipulación de las élites españolas).
+* 4 personas en prisión, Acodap desmantelao... por mentiras. Alberto, 8x años, con problemas de salud...
+####Santi y Presencia finales Marzo 2023.txt  - ¿Quién juzga al juez Marchena, defensor de la corrupción política?
+* No se investiga la falsedad de la que se acusa al Juez Presencia (el bueno, dación en pago).
+##El PSOE mató a + del doble que ETA. Y está ampliamente documentado (Expediente Royuela). Y ahora se dedican a represaliar a los denunciantes. Pero Rajoy no denunció por intentar asesinarlo (el PP protege al PSOE).
+##Youtube quita visitas a los grandes documentales "La Organización", y el de Presencia, ambos de Miguel Rix. A mí Youtube me quitó por lo menos 2 (de 1.131 a 1.129).
+####superrenacer manifestación 26 Marzo 2023.
+- Cuando eres elegido a dedo (Tribunal Supremo), se deben favores (a los políticos y a sus jefes la banca...).
+- Las denuncias que ponen mis conocidos son inapelables, pero los aludidos se intentan vengar suciamente.
+* Santi Royuela, ministro de Ciencia y Meditación. ¿Y el de Psicología y Automejora (ésta depende básicamente de la Psicología)?
+* Sale a hablar un auténtico juez (y conspi, que si no eres conspi, no te enteras de una). Él SÍ cursó los años legales necesarios. Al final no se juzga al malo. Carlos Lesmes está denunciado, y alguien debería sustituirlo.
+####superrenacer segunda macromanifestación Madrid Octubre 2023.txt  Tuve que abandonarla en el Paseo de la Castellana (coger el bus de regreso). Lo importante es la unión entre gente desigual. Cada vez habrá más agricultores en las manifestaciones contra la Agenda 2030. Y tú, si quieres luchar, escribe un librillo (no tiene por qué llegar ni a una página), de mejora social, automejora... Agenda 2030, hambre para controlarnos todavía más:
+- Plagas: vienen de terceros países, y se prohíbe hasta curar a los animales (el Gobierno quiere acabar con la producción española, no te pierdas el documental Yerma2030).
+* Quieren controlar a agricultores que no son ni de móvil ni de ordenador, con el "cuaderno digital".
+- Morir sabiendo es como se muere, no habiendo acumulado una fortuna. Más frases:
+* Las élites nos culpan de "enemigos del planeta". ¿Y ellos, por qué no se autoacusan?
+* Tendrás un patinete y serás feliz. Salió en Los Simpsons, ¡soy un pobre del futuro je je!
+* ¡Esta agenda, la vamos a parar!
+* Agenda genocida, y la gente dormida.
+* La "información" que da la tele es miedo y propaganda.
+* Saltamontes no, chuletones sí. Aunque se sea vegetaliano, se entiende el sentido de la frase.
+* ¡Cuantos trepas caen bien!
+- Más:
+* La operación covid fue un ensayo para ver cómo reacciona la población ante una emergencia PLANIFICADA. Ahora quieren crear divisiones en las ciudades, con sitios por donde sólo los coches más caros (menos CO2 o lo que sea) podrán pasar. Cuando se quemen los árboles y los ríos no fluyan, veremos que el dinero no se come.
+* Tedros (OMS) ordenaba empalar a los presos en Etiopía (funcionario de prisiones). Algo va mal arriba.
+* ¿El objetivo de la Agenda 2030 es controlarnos con nanotecnología? En las escuelas se habla cada vez más de sexualidad, para ir normalizando la pederastia. Con fondos europeos, están convirtiendo Marruecos en un vergel. Es como si quisiesen acabar con el hombre blanco. Por supuesto, el expediente Royuela, que es verdad aunque duela, y lo sabe hasta mi abuela.
+##Lo de informarse por la tele... ¡Las élites controlan los medios, y no son angelitos! Por eso hay que ser un poco "conspiranoico".
+####Manifestación Madrid 17 Septiembre 2022. Ayer estuve con gente despierta, pero los vi demasiao intelectuales / niños (que si Grafeno, que si NO grafeno en las vacunas). La raíz, aparte de despertar a la gente con la bomba del Expediente Royuela, es la comprensión psicológica del otro (y de uno mismo claro). Esa es la verdadera revolución.
+- "Dios" no permitirá que quienes se ven "negros por dentro" lo pasen "como para suicidarse".
+- Si nombras algo, lo atraes (no usar "contra" + algo malo, usar "por").
+####Expediente Royuela amigo traductor se fue con Santi al Líbano (censura dictatorial al ERoyuela). Refugiado palestino, de joven llegó a España. De peque sintió el odio de los cristianos libaneses (en Hezbollah hay cristianos, pero H. no es antipalestinos, ¿es iraní, tradicionalmente antiisraelí? Es antidaesh / antiClinton). Los judíos ortodoxos son antisionistas (respetuosos con palestinos). Chávez hablaba del "Estado Sionista de Israel", y poco a poco se lo cargaron.
+- Conociendo el Líbano con Santi. Pluralidad de religiones (y están vivas). Los musulmanes respetan mucho a la Virgen María. Se autofinancian entre ellos (eso sí, se agrupan por religiones muchas veces).
+####Exp Royuela. Extracto flipante de la peli JFK, donde Kevin Costner habla de que a Oswald se le ha cargado con la culpa (es un simple chivo expiatorio), y habiendo tantos documentos que llevan a la verdad, ¡USA actúo como fascistas!
+####Exp Royuela película el Creyente (censurada): el ateísmo es negar la naturaleza humana sin demostrarlo. ¡Ya sólo los sueños, son pura "magia"!
+####ER / Santi, Varios, ¿con Rix?:
+- Lo de "me debo más a mi partido que a la gente" suena a logias.
+- Venezuela: sala de la batalla comunicacional: 15 jóvenes recibían órdenes para atacar a gente consciente. En España pasa algo parecido. Incluía suplantar, pa dejar mal al denunciante de corrupción.
+- Libia iba a sacar el dinar "oro", y el sionismo vive del dinero deuda, por eso se cargaron a Gadaffi en parte.
+####Santi (Royuela) creencias de cierto musulmán (con Santi en Líbano):
+- Creen (Islam) en el anticristo tuerto (Pablo Iglesias no estaba llorando, estaba tapando un ojo / ciclopeando, como señal de victoria paia, o de los col). Aman a Cristo, pero no creen que haya venido.
+- Según él, los judíos sembraron discordia entre cristianos y musulmanes (¿franceses hace 2 siglos, obligando a los musulmanes a extremarse entre chiíes y suníes?).
+####Rix inteligencia artificial de Microsoft da la razón a los defensores del Expediente Royuela hasta que se la reprograma.
+####Rix Ni te cases ni teembarques izquierda y derecha malas pero izquierda bastante más violenta estalinista y tractores para simular que se trabaja la tierra.
+####superrenacer si quieres quitar el miedo a la verdad mira el documental Yerma 2030 La España Vacilada de Miguel Rix.
+####SUPERSOCIOLOGÍA RIX TIENE UN DOCUMENTAL GENIAL LLAMADO YERMA PODRÍAMOS QUEDAR SIN COMIDA AL NO TENER NADA QUE OFRECER A LOS PAÍSES QUE SÍ CULTIVAN Y TÚ ESTÁS TRANQUILO.
+####supersupersuperrenacer tras ver Yerma2030 superdocumental de lo mejor de lo que llevamos de siglo.txt  Yerma2030: Miguel (Rix) y familia. El documental es superinformativo y de sobresaliente mínimo (si quieres saber lo malo de la sociedad, míralo). A mí no me resultó terrible de ver, porque ya sabia algunas cosillas. Como está "en activo", no voy a poner un resumen. Puedo decir esto: las reglas las hacen psicópatas integrados (es mejor confiar en la tradición de gente sabia, para no cargarse el mundo).
+####Documental Yerma20230 (la tierra acaba yerma, por las narcisistas élites) Miguel Rix. Podemos, como falsos que son, cogieron eslóganes del pueblo, que pronto cambiarían. Teatrillo "universitario" el de Podemos, ¡yo quiero camisetas estampadas con Jung, nunca con Freud, mardita y falsa Universidad! Lo que sienta mal es el pescao de piscifactorías (piensos, vacunas...), mientras que las élites quieren acabar con la pesca (como con la agricultura: regulaciones estrangulantes...). El pueblo (ecologistas) contra los ecoloJETAS (no ecologistas): con la excusa del "cambio climático" = "en nombre de la fé", pueden destruir tu casa...
+####Rix Flipiti Flop incendios Asturias 2023.txt  Quizás la gente normal se siente fuerte con los grupos (equipo de fútbol...) a los que pertenece, y se ríe del otro. ¿Por qué, si traen la fruta de África, y las élites pueden ya ahogar al agricultor español (pa tenernos controlaos)?:
+- Lo primero es identificar chismosos y psicópatas integrados.
+- Te dicen: te damos dinero por dejar tu negocio de vacas y poner "esto" (molinos de viento...).
+* Algunos se dejan quemar el sitio por un puesto de trabjo, y no "pueden" (quieren) hablar?
+- Félix (Rodrigo Mora): defender lo tuyo es morir, hay que soñar con una sociedad moralmente superior además.
+- La jubilación desaparecerá pronto (los robots nos podrían sustituir, la pensión es una estafa piramidal, y los ancianos pueden enseñar...).
+##Ver lo que pasa está bien, pero ver lo negro que pasa dentro de uno, y tardar años en sanarlo, ¡eso es lo que realmente da poder! El problema es que nos creemos preparados psíquicamente.
+##De verdad, gente no propsicología, vamos de culo (el interior genera el exterior).
+####Rix incendios unión y camisetas.txt  - Las rastrojos siempre se quemaron en Asturias de forma controlada, y las cabras comen rastrojos, previniendo incendios, pero los políticos ponen cada día más trabas a la gente del campo. El político incendia, y de muchas formas.
+* NO es el cambio climático.
+####Rix jueces periodistas y políticos por encima de la justicia Juez Presencia bueno.txt  El juez Marchena es más intocable que el Rey Emérito Juan Carlos:
+- Zapatero querría matar a Presencia, y que pareciese un suicidio, menos mal que Presencia denuncia esto; y Zapatero quiere que muera el Fiscal Mena, que tiene información jugosa:
+* Ferreras no demanda a Presencia por falsedad documental (no puede, no hay falsedad, nada de comisión rogatoria...), así que le demanda por "daño al honor" (algo que la UE ha tildado de patraña, mientras que ve delitos de difamación / represalias contra el denunciante Presencia). El buen juez es el juez represaliado, el que se ha mojado denunciando.
+* LA GENTE DEBE DIVULGAR, PUESTO QUE LOS PERIODISTAS SE HAN VENDIDO (Y RECIBIRÁN SU CASTIGO)... Y HAY TRIQUI¢â‚¬ËœUELAS LEGALES (HASTA PARA DECLARAR ILÍCITA LA OBTENCIÓN DE LA VERDAD).
+- Presencia sacó la dación en pago, el banco malo... para que no se sufriese tanto por los préstamos hipotecarios; y ahora las élites, van por él, cerrando canales...:
+* Alguien de la familia Rouco falsificó sus antecedentes.
+####Rix mesa redonda Agosto 2023 documental Yerma.txt  Más pronto que tarde empezarán a pasar cosas "heroicas" (proféticas) que nos sorprenderán. NO llegamos al 2030 sin algo gordo. El psicópata integrado se derrumba como nada (le importa el que dirán). Tenemos el poder:
+- ¿Es cuestión de que los buenos conspis se conviertan en personas elevadas / "masa crítica" (lo que más "nos ennegrece" es el no solucionar los problemas psicológicos que los ancestros no pudieron)?
+- ¿Y si el Universo no quiere que la gente defienda lo suyo sin una moralidad profunda?
+- Cuando éramos niños casi no necesitábamos na pa ser felices, ahí está una clave de muchas.
+####Rix Programa06.txt  - Róbert martínez:
+* ¿Deberíamos ser positivos y además apostar tan fuerte como las élites?
+* Mani 17Diciembre Madrid 2022: ¡un juez denunciao por corrupción se autojuzga, y termina insultando como un macarra al denunciante de corrupción!
+- ¿Rix a cantar de nuevo? ¿+ sobre conspis o sobre quienes no cambian su psique (sería dar un paso más)?
+####Rix programa08.txt  Rix programa08:
+- Benizar (la gente ha dejao de votar, para deslegitimizar el sistema, y las cosas van bien, y les empiezan a escuchar) tiene un nombre muy bere.
+* Lo de matar el campo es un plan global de las élites. ¿La revolución efectiva saldrá de las gentes del campo?
+* 2 votaciones: poder legislativo y ejecutivo (y que se vigilen). Que estén separados.
+- Más:
+* Si te pica un huevo es el cambio climático, porque las élites NO PUEDEN GENERAR NI DESTRUIR UNA SOLA NUBE JE JE.
+* Indígenas (no hablo de inmigrantes) en BUENOS países hispanos: muchos. En los anglosajones / protestantes (inmorales y materialistas / luteranos): pocos.
+####Rix sobre yerma2030 Nov 27.txt  - Los de arriba están "encantados de conocerse". ¿Se necesitará "sanar" (encontrar las represiones, lo cual lleva décadas...) tras despertar (las élites son reflejo nuestro)?
+- Roberto López con Flippity Flop: obligan a ganaderos a hacer cursos, y ellos saben más que los que los imparten. Anotaciones iguales en 3 libros diferentes... Medidas asfixiantes.
+* A la gente le importa que el día de hoy haya leche barata, da igual que cada vez haya menos ganaderos por políticas nefastas desde los años ochenta. Y algunos están las 24 horas los 7 días de la semana alerta.
+* Está mal visto estar en el campo, por eso mucha gente que se ha ido a Madrid a compartir piso con otras 6 personas. ¡La sociedad está amaestrada, les importa lo que digan 4 políticos manipuladores! Se dicen mentiras, como que "el trabajo en el campo debe estar mal visto", ¿y entonces, de qué vivimos, de las oficinas de datos?
+* Cuando la leche venga de China, sólo los ricos podrán comprarla, y el resto, tendrá que comer cosillas artificiales de laboratorio.
+* Leche UHT es peor que la pasteurizada (menos temperatura, ¿más tiempo no?). ¿Mucha leche UHT se dice que es pasteurizada? En España hay bricks, en Europa se consume leche fresca, y picamos.
+* ¿Y si el sector primario se une? Podría hacer falta un poco de hambre pa que la gente recapacite.
+* Si la UE es tan verde, ¿por qué compramos a China, el más contaminante? Europa ya no produce, está muerta.
+####Rixprograma07.txt  Rixprograma07 (ahora, muchos millenias suben en sus empresas, pero son necesarios, pues querrán cambiarlo todo, y eso está bien):
+- Las élites hacen a la gente sentirse culpable, y la gente hace lo que ellas quieren "por el bien climático". En Oxford no podrás salir "de tu zona" "por el bien del planeta", ¿sospechoso no?
+* ZBE (zona de bajas emisiones, un invento para convertir el centro de Madrid en exclusivo para coches caros).
+- Óskar:
+* Se sacan pelis en Netflix como churros (cada 2 horas), para adoctrinar más rápido (y encima pagan para ser zombificados):
+* Sí, las PCR atacan la glándula pineal, para convertirte en "humanoide".
+- Irene Montero. Le gusta el Comunismo, que es robar mucho dinero, y repartirlo caritativamente por tiendas de lujo je je.
+####superrenacer Iván Rix entrevistao por Verónica Manjón.txt  Vídeo del amigo Iván (El Llou). ¿Qué significa "persona válida"? ¿Y si a mí se me ocurre decir que una persona válida es un mago de transmitir ideas complicadísimas con máxima sencillez? La Universidad está llena de ignorancia y tozudez. El día antes de la exhumación de Franco, faltaban niños, y Marina Abramovich (de izquierdas, como la Universidad) hizo un ritual. La derecha también es mala. Son las 2 paias (Gran Bretaña, siglo 19 en adelante...).
+####superrenacer Jaque mate a la Corrupción Judicial Miguel Rix 2023.txt  Fernando Presencia (Juez), blanco de la prensa, por defender causas buenas. ¿Existe una mafia judicial en España?:
+- A su padre lo "desterraron" a Canarias (las típicas represalias por denunciar). Luego fue a Mallorca, y allí estaba Margarita Robles, ¿encargada de que Pujol no fuese procesado?
+* Fernando quiso ser juez, por todas las injusticias vividas en su familia. 100.000 Hijos de San Luis: jueces sin oposición (torpes lidiando con las recusaciones...), para entorpecer la justicia. ¡Los del Supremo actual vienen de ahí! Luego se endureció otra vez el acceso (ya habían pasao los esbirros).
+- Forja la tesis de la dación en pago (que los bancos no sean tan abusones), y se convierte en un juez estrella (ahí empiezan las verdaderas represalias, acoso INSTITUCIONAL).
+* ¿El honesto exministro del PSOE Antonio Asunción le dijo que iban por él, y Robles le dijo que ella no podía hacer nada?
+- Le dijeron que no fuera varias veces A EJERCER, ¡y a la vez anotaron sus faltas para acusarlo, menudos psicópatas!
+* El Supremo le devuelve la plaza (Presencia tenía razón), pero un tal Torner amenaza al Supremo. ¿Botín (Banco Santander) presionó al estado para generalizar el soborno a magistrados?
+##Más:
+- 2.017: se crea ACODAP (denunciantes represaliados). ¿Hay que revisar las condenas e indemnizar? Chorizos denunciando al denunciante.
+- El Expediente Royuela, ¡da la razón indirectamente al juez (caminos separados que confluyen, porque no son inventados)!
+- Yak42, avión muy viejo, y alguien que no lo renovó se quedó con dinero.
+- Gadea desimputa (presiones) a Dolores Delgado tras imputarla (cuenta ilegal). ¡Y se le descubren cuentas a Gadea! Y él solito, sin buenas razones, cierra ACODAP.
+* Presencia va al Doctor Cabrera (Cuarto Milenio), que le dice que está sano y es inteligente. Gadea fracasa.
+- ¡Con lo fácil que sería investigar a los aforados, pero el Real Decreto de 1882 en vigor, lo prohíbe!
+####supersupersuperrenacer Miguel Rix Programa Gato al Agua Documental Yerma hay que verlo.txt  Costó que Miguel fuese de izquierdas "de corazón" nada más, dándose cuenta de la maldad de las figuras "de izquierda":
+- Lo que para el señor de ciudad es conspiranoia es verdad para el agricultor o ganadero, porque lo sufre en sus carnes, el Estado lo está poniendo muy difícil, queriendo convertir a España en un desierto, convirtiéndonos en dependientes.
+* Sin vaciar desvergonzadamente España, no pueden "alicatarla" de placas solares (hornos).
+* Los ecologistas de despacho se creen iluminados.
+- Más:
+* Llevan las témicas al FAVORECIDO Marruecos, donde no hay cambio climático je je (máquinas elitistas que fastidian). Usan pesticidas de los que siempre se habló mal...
+* La ganadería extensiva es la que limpió siempre. Incendio provocado, órdenes a los profesionales de no hacer nada (o los dejan sin recursos). Y luego vienen los "buitres": eléctricas...
+##Prohibido desbrozar, regar con agua de lluvia...
+####Rix (inspirado). ¿Por qué de primeras no creí que lo de las Torres gemelas fuese un montaje? ¿No podía creer que el primer mundo fuese un engaño, que se tambaleasen mis creencias? Una torre cayó sin avión... Rix se puso rápido a pensar, porque estaba (y está) más despierto que la mayoría. Taba en la Universidad, mediohipnotizao, pensando que si sacaba la carrera todo sería más fácil, lo cual me impedía confiar en mis opciones reales en el momento (sin malignas esperanzas / ilusiones).
+####Rix GRAN docu (NOTAS sacadas en vivo, un poco malas). EXPENDIENTE ROYUELA. Alberto Royuela detectaba a falangistas corruptos (Primo de Rivera con Alfonso XIII, NO estaban tan mal; peor los comunistas), y "le tenían manía" por eso. ¿Mena y Villarejo ya dirigían los medios en los 70? A Alberto, cada vez le ofrecían peores trabajos / contratos (por los largos tentáculos de las élites).
+##La transición es un engañabobos. Los del antiguo régimen son tildados de extremistas ("ultraderecha" es un insulto que realiza el malo, para parecer más inocente), pues interesaba que los votos fuesen al Centro Democrático (para crear "una ilusión", como con Lenin o Chávez, y luego viene el coco, el bipartidismo PPSOE). ¡Pero los descendientes de los del antiguo régimen, siguen hoy como socialistas...!
+* Franco "el abuelete", ¿semibere?, no mandaba tanto como se creía (tampoco era muy brillante; simplemente, tenía "los astros de su lado y un montón de angelitos protegiéndolo"). ¿Había un pacto izquierda - derecha para el franquismo (recordemos que Largo Caballero quería que brotara la sangre si él no ganaba)?
+* Cuesta creer que inexpertos etarras mataran a Carrero Blanco sin oposición, y con buenos medios. Y Kissinger, estaba presente (como cuando mataron a Aldo Moro).
+##Acoso a Alberto Royuela:
+- El PSOE crea la "Unión PROGRE(sista) de Fiscales" (malos, como "Jueces por la democracia").
+- Villarejo y Mena usan a tontos útiles para denunciar falsamente.
+- 1993: Javier (hijo) aparece muerto. Hicieron creer al mundo que era por drogadicción.
+- Alberto ve la cantidad alarmante de dinero de Mena, Margarita Robles... Silencio (juzgado 32 Barcelona), y al poco llaman loco a Alberto. Pero el informe psiquiátrico decía cosas muy buenas de él. Luego vendría un psiquiatra trampa a un juicio.
+##Santi (hijo de Alberto):
+- 2000: se planean actos "etarras", y el día antes, Santi (hijo) y amigos, hacen pintadas y tiran un petardo de humo, de madrugada, sin dañar a nadie. El que se quemó la mano fue al hospital, cantó...
+* El primer juez (no comprado) dice que es una chiquillada. Interviene Mena (manipulador, hasta se hizo pasar por Alberto) ocultamente, para que sean 6 años de cárcel.
+##Más:
+* 2004, 11M (¿atentado para el ascenso del PSOE?), no dejan investigar a Fungairiño. ¿Otegui dio un montón de dinero a Carod Rovira para que se callase?
+* Alberto conoce el expediente de su hijo, que fue asesinado con jeringuilla. ¿Lo tenía el doctor Morín, asociado a Mena? El doctor Arimáin, crea expedientes falsos. Ruiz, Peña, Cano Vidal... mataban por orden de Mena, falsificando sus muertes. Las fosas comunes (más de 2.000 muertos) están / estaban en Mequinenza, Vinaroz, San Sebastián de los Reyes (la pasaron a Leganés...), y Almacellas. El 60% del tribunal Supremo, comprado, pero no hay ganas de llevar a la gente a juicio). 
+* A Alberto le llegan notas de gente (espías, ¿buenos o malos? La CIA quiere la cabeza de Zapatero, que está con la Logia de Miami): lo digital es arriesgado.
+* Conde Pumpido: destruir propiedades de Alberto junto a Mena.
+##Más (volvemos a Santi, insultado organizador...):
+- Noviembre 2006, Santi entra en la cárcel Modelo. Y Mena meterá mano en su cautiverio. Y lo clasifican como preso peligroso.
+* Santi defiende a su hermano en un juzgado con un teléfono móvil, que los medios convierten en una navaja...
+- Zapatero (menuda frase psicópata): "la tierra no pertenece a nadie, salvo AL BIEN" (los psicópatas se creen perfectos, buenos...).
+- María Eugenia NOséqué, empieza a investigar a Mena, y perita su letra, y así, se prueba su criminalidad. ¿Mena intentó matarla... y al final un soborno surtió efecto?
+- Santi sacó un examen de Física (nuclear creo) en la cárcel, tiene el cerebro bien asentado... Y es abierto.
+##Finalizando:
+- Alberto manda al juzgado correspondiente el expediente de cada muerto (tras una investigación brutal), y le contestan unos 30 de más de 800.
+- La logia de Miami financia el antiTrumpismo. Quiere crear un estado sionista. Con droga, que sale supuestamente de América, se soborna a todo el mundo, y por eso España es un Narcoestado.
+- El CNI es corrupto, dirigido por una élite foránea.
+########LO SIGUIENTE VA SOBRE EL PROGRAMA DE RIX, Y LO QUE LE ENVÍE O LE QUISE ENVIAR########
+####RIX01.
+- Cuidado con el ocio y el entretenimiento. Diversión (es salud), recreo (puede significar relajarse, y te ves por dentro)... ya casi no se usan.
+- ESDSherwood es un trabajo fin de máster para instruir policías violentos: trato humillante para encender más los ánimos... Tiene que parecer que son los manifestantes los que atacan (también hay infiltrados volentos de las élites).
+- Cocacola y Pepsi comparten accionistas, son amigos que quieren que el agua esté contaminada, para que bebas su agua y venenos azucarados. Les interesa tu malestar (en México la Cocacola está más barata que el agua; el negocio es lo de menos). Nestle envenena acuíferos.
+####Rix 21 10 2015
+- Público habla del falso régimen de Basar al Assad y sus víctimas. Son unos mentirosos. Primero se cargan a todos los países "NO hamburgueseros", y ahora nos meten expresidiarios islámicos.
+- Alejandro Bolívar Guevara. ¿Cómo es posible imaginar algo bueno si siempre nos proporcionan la imagen (vivimos en un mundo con imágenes en pelis, series... terrorífico)?
+####Rix 04 07 2016: si no hubiese ganao el PP, los juicios contra ellos habrían seguido. Elecciones amañanadas, siempre (decide el ordenador).
+####Rix 15 09 2016:
+- Tras la caída del muro de Berlín, la terrible globalización / todos iguales. Terrible, como privatizar la Reserva Federal.
+- Cada año en Europa desaparecen 250.000 niños (silencio). La red de tortura de niños incluye policías, jueces, primeros ministros...
+- Richard Bird alcanzó en avión el Polo Norte. ¡Había encontrado tierras verdes, censuradas en la red!
+- Las élites se han gastao todo el dinero del mundo en ateísmo y darwinismo. Y la gente pica.
+- El humor llega lejos: mi coño es mío y mando yo, ¡todos somos trisexuales!
+####Comunicado de Rix. En Venezuela los autoproclamados "hijos de Chávez" venden el país a las multinacionales. La oposición (Capriles por aquel entonces) saca a la calle a violentos que se hacen pasar por estudiantes. ¿Chávez recelaba de Goldman Sachs y Maduro el lacayo de USA NO?
+####007notas07.txt  ####Rix 17 11 2016
+- Niños enganchados a tecnología de mierda, niños que consumen lo que al mercado le interesa.
+- Jaime Garrido: ¿Hitler perdió porque los oscuros cambiaron la línea temporal? ¿Y en otras vence? Hitler empezó a cometer errores, cuando anteriormente lo había hecho todo bien.
+- Il Hereji :) : ¿que la zapatilla voladora es un rito de iniciación je je? ¡Vuelven los Cachetti! ¡Bene! Armonizacione ancestrale.
+####Rix 31 05 2017: los poco humanos que el Telediario decía que era gente justa luchando contra el "dictador" sirio, eran AlQaeda trabajando para ElMossad. El dictador lo pone USA después.
+####Más: ¿a Chávez se le manipuló (Monedero - Soros)? Bolívar no era más que un masón destructor, eso seguro.
+####RIX libro Chess. Es una novela. Pero como mi memoria episódica casi no funciona (soy casi incapaz de seguir los argumentos de una novela, una película algo complicada...), pues dejo el resumen en contar generalidades:
+- El plan de control de la población se acelera porque saben que estamos conectados (Facebook...) y ya sabemos mucho. Los medios de (des)información manipulan para que el rebaño se mofe (como inconscientes) de la gente que se ha enterado de que nos ocultan algo. Los conspis dudamos, no descartamos.
+* ¿Un illuminati es un masón de grado 33 (hay hasta 360)? Hay masones engañados (NO conocen lo que se cuece en las altísimas esferas, pero defienden a los illuminati y los jefes en la sombra de los illuminati, como borregos).
+- Si autodialogas (si NO, estarás un poco loco), tu vida se rige por la curiosidad infantil y... descubres cosas.
+* En la escuela hay interés en que odies la Física... Y por eso la hacen tan intragable. La ciencia oficial pertenece a los malos (la han comprado). Investiga en armas (los videojuegos de hoy son armas que zombifican, quitan valores...).
+- Think Tanks, asociaciones de pensamiento único: Pablo Iglesias (Podemos) salió de una.
+* Las élites provocan una escasez artificial. ¡Y LA GENTE PICA, CREE QUE ES NATURAL!
+##Mas:
+- La guerra de Vietnam nunca se quiso ganar, era excusa para experimentar con armas (y venderlas) y substancias (agente naranja), y producir asesinos en serie con substancias. Cuanto más durase, mejor para las élites.
+* Tras las Torres gemelas (autoatentado), se reactivó el tráfico de opio (control mental).
+- La tele hipnotiza (ondas "nazis"). CD: espectro de frecuencias menor que el vinilo. Menos salud. El móvil usa frecuencias muy dañinas. La Wifi es peor. ¿Las pastillas psiquiátricas vienen con "algo" para debilitarnos? Haarp (las máquinas de las élites): tsunami de Indonesia (no quiso alinearse con USA). Para recibir ayuda, ¡tuvo que alinearse!
+* El empirismo acabó con la ciencia: mucha rigidez. Luteranismo: versión del calvinismo. Materialismo anglosajón, sueño americano... Telediario: nos presentan criminales para que nos olvidemos de los peores: los que "hablan bien y parecen buenos".
+- Ejercicio saludable de niños: lo del "escalofrío", que va de la pelvis a la glándula pineal.
+##Segunda parte del libro:
+- Hay redes de informática sólo para illuminati (incluye élites por encima de ellos), con los 23 archivos de Albert Pike (dominación mundial de forma lenta). 
+- La OTAN es el ejército ejecutor (Zelenski es títere).
+- Kissinger le dijo a Aldo Moro: o cambias o te liquidamos. Dicho y hecho.
+##Parte III
+- En las reuniones, los no illuminati (periodistas...) son manipulados y chantajeados.
+- Iniciación: violar a un niño y matarlo.
+- El humano prefiere ser gobernado a buscarse a sí mismo y pensar. Muchas veces juzgamos para no juzgarnos.
+##Grandes maestros de cada logia, sabían los objetivos elitistas:
+- Acabar con la familia: lucha de sexos, promiscuidad, escasez de tiempo para los hijos. Infertilidad (vacunas).
+- Fomentar vicios (y convertir lo superfluo en necesidad). Los niños competirán. Necesidad de triunfo y belleza superficial. Paralizar a la gente de miedo con las noticias.
+- La piratería les sirvió a los illuminati para dejar 3 o 4 productoras bien controlables. Los libros digitales terminaron con las editoriales no satánicas.
+- Enfrentar a patrones y obreros, ¡qué malnacido el Marx! Dar imagen de altruistas (Bill Gates engaña mucho). Fomentar ideas utópicas (ejemplo, "estado de derecho"). Acabar con la monarquía. Los reyes suelen enfrentarse a los masones, y gracias a ellos no estamos todavía en el Nuevo Orden Mundial de superesclavos.
+- Agotar materias primas, devastar agricultura y ganadería, mandar a la gente a la ciudad con la excusa de que la vida en el campo es muy dura. Privatización del aire, agua...
+####MANIPULACIÓN. ####
+##Si vas a donar resfriado, da positivo la prueba del sida. Por eso NO quieren que dones resfriado.
+##Nuestros ancestros dormían en 2 tandas. Es natural despertarse a las 3 - 4 horas. Ver a sus vecinos, realizar alguna tarea NO intelectual...
+####El ser humano puede llegar a sospechar del sistema, pero eso pasa rápido, se le lava el cerebro en 2 minutos. NO estar tanto en la Mátrix (Phillip J. Watt). :
+1. Cuestiona toda narrativa oficial, incluso lo que crees (escucha perspectivas desafiantes a menudo), para enriquecerte. Hablar habitualmente de la mátrix (hacerlo con suavidad, el otro defiende este sistema).
+2. Pasa tiempo en la NO consumista naturaleza. El ego malo debe ser reparado (causa sutil).
+3. Desconectarnos de los subsistemas (medios de comunicación, medicina...).
+####Wilhelm Reich. La orgonita (metal, resina y cuarzo) transforma la energía negativa en positiva (mazazo a la medicina oficial). Ya sabéis que con su máquina podía hacer que lloviese (y absorbía el orgón negativo). Podía quitar fuerza a una tempestad.
+####Estudias o trabajas (la frase trampa se refiere a títulos y trabajos oficiales; perder el tiempo, vamos). Los títulos valen para decir: yo soy subdito del sistema, no aprendo haciendo:
+- La pregunta, ¿qué quieres ser de mayor?, reduce tu potencial.
+* Las notas de acceso altas hacen que sólo frikis del estudio (sin un buen desarrollo, por tanto) puedan llegar (y cuanto más estén, más inconscientes). Dte cuenta de lo que es importante estudiar (tras ser conspi).
+- La empresa aumenta el miedo a la autoridad y desaparecen los principios. NO aprovechas el tiempo (y con muchas horas te desmotivas, haces como que trabajas...), tu trabajo lo hace el becario...:
+* Para entrar tienes que fingir que te parecen buenas para la sociedad, parecer tonto vamos.
+- Cuando buscas trabajo, hay un proceso de selección, pierdes tiempo (mejor ir por tareas).
+####008notas08.txt  ####Eugenesia Legal (Rix). Un libro clave, ameno (bueno, la primera lección es un poquitín técnica) de cómo las industrias agroalimentaria y farmacéutica se alían con las élites para sus planes de adormecimiento de la población. La verdad va contra nuestra felicidad INMEDIATA, pero autoengañarnos no viendo la realidad, puede salirnos muy caro.
+##0. Introducción
+- A las farmacéuticas no les importa tu salud, sólo sus beneficios.
+- La industria alimentaria pone aditivos en las comidas, que debilitan, pero lo peor son los alimentos transgénicos y los herbicidas, que desertizan (las plantas macho TRANSGÉNICAS polinizan a las hembras de las especies autóctonas, y se acaba con la biodiversidad = llega eldesierto).
+* ¿Mutan los insectos, haciéndolos más resistentes?
+- ¿Qué pasa si se habla de esto en los medios? Los periodistas pierden sus trabajos.
+##1. Industria agroalimentaria:
+- Las agroalimentarias (grandotas) pagan las campañas a los políticos, y hay que devolver el favor. 
+* En 1994, la FDA dio luz verde a la hormona rBGH: Posilac. Las vacas dan más leche, pero produce mastitis, esterilidad, cáncer en humanos... Los antibióticos que toman las vacas, generan resistencia a antibióticos en humanos. 
+* Los transgénicos se obtienen por bombardeo de genes (una forma atroz, una lotería). Es mentira que los transgénicos den más producción (a veces dan menos). Es un plan para debilitarnos.
+* Los Gates comenzaron un Arca de Noé para semillas naturales (ya lo sabían todo lo que iba a pasar, y callan).
+- Más venenos:
+* Glutamato monosódico (E621): adictivo, dificulta pensar, recordar, hablar... Hay que perder el 90% de las neuronas para que aparezcan los síntomas.
+* Edulcorantes: Aspartamo (E951, E962): provoca acidosis (responsable de la mala salud)... de todo.
+##2. Industria farmacéutica
+- Para ella, el cliente perfecto vive en el Primer Mundo, ve la TV, y va al médico por cualquier tontería.
+* El efecto nocebo (contrario al placebo, que hace vivir) enferma y mata. Ejemplo, preocuparse por el colesterol.
+- Si la OMS (una mafia) da un nivel de alerta alto, estaremos obligados a vacunarnos.
+* LOS INFORMATIVOS PONEN MUCHOS CASOS DE MUERTES DE FAMOSOS PARA QUE CREAMOS QUE MUCHAS ENFERMEDADES SON MUY DIFÍCILES DE CURAR, Y SÓLO LAS PUEDEN CURAR LOS MÉDICOS.
+* Las pruebas de prevención producen cáncer (la máquina que hace las pruebas del cáncer de mama fríe las mamas).
+##3. Élites negativas: guerras + macrovacunaciones no necesarias + hambrunas en el tercer mundo + sociedades avanzadas sufriendo (parados, enfermos, ignorancia).
+- Darwin (las élites serían "los más fuertes", les encanta Darwin, otro "illuminati") dijo que los cambios se daban tras una selección natural de los más fuertes: falso, los cambios se dan con una agresión ambiental, y el cambio es en todos a la vez.
+##4. Más: la amnesia del pueblo (de métodos naturales...) es el mayor logro elitista. ¡En los 90 volvimos al Paleolítico!
+####Energía y Libertad (apunte, energía escalar / ifotones que chocan y crean vórtice, ¿para que vengan más?, es un paso para energía fria).
+##1: Introducción.
+- Sistemas de propulsión avanzada: usan campos electromagnéticos para alterar espacio-tiempo alrededor de objeto para que se levante. En 1953 se dejó de hablar de electrogravedad, pues el ejército de USA retiró a Thomas Towsend Brown, que copaba las revistas científicas (Eugene Malve habló de él y murió apaleado en 2004)... para silenciarlo.
+- EL CO2 NO PRODUCE EFECTO INVERNADERO. Se usa el cambio climático para quitarnos los coches de gasolina...
+- Tasa de retorno energético = 1 + energía neta producida / energía invertida. Eólica 18, En los Simpsons dicen claramente que es un atraco a mano armada. Solar 7. Residuos de maíz para etanol: 1.3. Energía libre, ¡250 (la segunda ley termodinámica es una memez estudiada en universidades, porque aquí, la energía viene "de allí")!
+##2: Los inventores maltratados.
+- Edison (ladrón de ideas) era jefe de Tesla, que no tenía olfato para los negocios. En 1943 USA lo reconoce como inventor de la radio (Marconi lo había plagiado). Decía que soñaba sus inventos:
+* Tesla (¿que a su vez copió un poco de un español?) nos vio como a uno (conectados), y si no uníamos las mentes, se acababa en monopolios, guerras y poderes económicos. ¡Para eso hay que desreprimir, y una vez quitao el ruido, podemos potenciarnos meditando! Torre de Wanderclyffe: coge energía de la tierra (la Tierra es -), y la envía por la ionosfera (+) a torres + pequeñas. El FBI lo requisó todo.
+- Métodos de las élites para ocultar información: denegar patentes, robo de tecnología, ataques al inventor, rechazo por parte de la comunidad científica (pagada por los malos).
+##3. Debunkers: desinformadores. Cuidado con las personas con bata blanca que salen en la tele, muchos ni tienen título. Luego están los buenos (Arturo Estevez Varela, cuya moto que funcionaba con agua pasó al olvido, no daba beneficios a las petroleras).
+##4. Stanley Meyer:
+- Célula de gas "HHO" (obtenido gracias al éter): hizo circular gases rodeando el hidrógeno, reduciendo la velocidad de combustión de 345 a 47 cm / sg (menos peligro). Conseguir el hidrógeno: HHO separado con electrólisis, 2 campos de voltaje opuestos. Para amplificar el voltaje con energía radiante, condensador y 2 bobinas (resistencias) en serie.
+* Como Meyer rechazó usar sus inventos para tanques, fue a juicio NO mostrado, con la excusa de "defecto en la grabadora". Murió envenenado mientras tomaba un zumo de arándanos con 2 hombres de inteligencia de USA (esto constaba en el informe policial, ocultado; la versión oficial fue aneurisma).
+##5: fisión o fusión fría (un núcleo pesado se divide en otros) obtiene energía en condiciones casi ambientales. Los malos hablan mal de ella. Gene Mollove renunció a su cargo en el MIT para revelar sus secretos (buena gente).
+- En 1953, Michael Meyer logró resonancia magnética por resonancia atómica. Cobre se cubre con una bobina, que permite un campo electro-magnético oscilante. Se conecta el cobre a un oscilador conectado a un generador de 9V (parte negativa). La parte positiva del generador da a un diodo conectado a una resistencia conectada al cobre. La corriente devuelta era x40.
+####009notas09.txt  ##6: varios:
+- Patentes: trampa del mundo capitalista para dar beneficios y denegar los inventos que realmente beneficien a la sociedad.
+- Operación High Jump. USA quería destruir la región alemana en la Antártida (con platillos): Schwabenland.
+##7: Henry T. Moray: extraía energía radiante del punto cero o vacío. Su válvula fue el primer transistor. NO tuvo patente por excusas. Hoy sabemos que 1 cm cúbico de vacío puro tiene suficiente energía para condensarse hasta 10.120 gr.
+##8: más:
+- Efecto Casimir: interacción de objetos sin carga inicial, en el vacío, que hace que se carguen y acerquen. Es por el paso de partículas entre "aquí y allí".
+- Teoría del campo unificado: los fotones generan la materia y la antimateria.
+- Experimento Philadelphia: un barco viaja espaciotemporalmente...
+- Más sobre Reich:
+* La represión sexual genera pasividad y dominio entre "clases" (y si la tele no para de mostrarte cantantes mediodesnudas...). Dominando el clima para el 2025, es un documental de la CIA, que hace pensar que la CIA no quemó todo de Reich. Su terapia tenía en cuenta zonas cercanas a los chacras, ¡sin saber de chacras!
+* El acumulador de orgón es una caja de madera (o biológica) con revestimiento interno de metal. La primera capa absorbe y la segunda atrae (se crea condensador).
+- Ondas escalares (usadas en medicina). Desventaja: pueden controlar la mente.
+- Bedini: motor de imanes permanentes: funciona perfectamente.
+- John Hutchison: efecto Hutchison. Produce ebullición, dobla objetos y los envía volando, ¿vacas levitando por efecto de la electricidad?
+####RIX OTROS
+##falsas religiones consumismo, ¿vestimos "bien" por miedo a la reacción ajena? Túnica modesta (recoge energía del suelo), y basta:
+- Si NO eres feliz con poco y NO haciendo nada, NO lo serás con nada. Yo me conformaría (a nivel material) con una habitación pequeñita que pudiera decorar a mi gusto, sin importar lo que dijesen los demás.
+* Quieres "el coche del anuncio" para sentirte más seguro, pretendes convertirlo en tu alter ego.
+- Un libro no se escribe por dinero, el dinero viene después de rebote, si ha de ser así. Escribe tu cutreenciclopedia con lo que consideres más importante.
+- La gente de la tele parece que termina siendo tu familia, les coges cariño, y te venden cualquier tontería.
+##Cosas:
+- Al poder no hay que pedirle nada (son narcis).
+- Es curioso que rodeados de cosas (o en grupo) nos sintamos más seguros que si sólo tuviésemos las más útiles y agradables, y a mano. ¿La satisfacción al comprar (por ejemplo, por depresión), nos exime de ser buena gente y mirar dentro?
+* La gran aliada de la publicidad es la educación estatal, convenciendo a pobres criaturas de que serán algo grande en el futuro (algo superficial).
+- La plata coloidal evitará bacterias en la ropa interior.
+##Disonancia cognitiva por qué no aceptamos la verdad (gracias a Leo, que vivió en casa Marco un tiempo; era un tanto iracundo, y NO me parecia tan mal).
+- Tenemos un puzzle de la realidad, y hay informaciones externas que son verdad, que chocan y hacen que nos duela la cabeza entre comillas, o nos estresemos... Cambiar una creencia es muy difícil, pues está asociada a muchos recuerdos. Los políticos usan la emoción para que cambies y saben callar. Perfil de los políticos (aljo me dijo Samuel Gradín): si no tienen estudios, se matriculan de algo, por ejemplo Derecho, y se pone en su currículum sin ir a clase.
+* Defenderás a muerte lo estudiado. Y no suele conectar sabiamente con el resto de disciplinas.
+* Podrías decir: ¡pero si yo llevo toda mi vida dedicado a esto, y resulta que es una mentira! Importa más tu cambio que haber sido útil. Empresas más sabias con metodologías horizontales tipo SCRUM... no son suficientes, aunque ayudan.
+##¿Os imagináis que en un futuro cercano nos pongan como excusa que hay que invertir en tecnología para los minusválidos, para seguir la escalada tecnológica absurda? LOS ROBOTS, EN UN ENTORNO ÉTICO, NO HACEN DAâ€˜O, PERO HOY...
+##Acoso escolar: 
+- Hay niños que se usan de chivos expiatorios (todas las culpas e iras, incluidas las del profesor, van contra ellos), lo cual permite una mejor convivencia para el resto del grupo. Los niños normales optan por meterse debajo de las faldas de los matones por miedo o incluso por admiración de su poder, ¿y callan?
+* Los niños empezarán a pensar que tienen algo repulsivo (esto es grave), y agacharán la cabeza, siendo su vida más difícil (depresión y ansiedad). El niño poco a poco aprenderá la indefensión, lo cual les gusta mucho a las élites. Callará, ante la incomprensión ajena.
+- El niño, en clase, reprime hasta que le dan el balón en el recreo y lo patea con rabia:
+* Todos los viernes por la tarde una profe pide a sus alumnos que escriban en secreto los nombres de cuatro niños con los que les gustaría sentarse la semana siguiente. Patrones: niños solitarios (no quieren sentarse con nadie; ¿son avanzados?), niños con dones inadvertidos para sus compañeros (nadie los menciona). ¿Quién tenía mil amigos la semana pasada y ninguno esta semana? Problemas.
+* Los niños pueden definir el trato que no les gustaría recibir, porque les cuesta mucho infringir sus propias reglas.
+####010notas10.txt  ##Acoso laboral (puede darse por tener mucho trabajo, y descargas con la víctima):
+- Los primeros signos son problemas físicos que el médico no va a saber qué causa tienen. Se acaba con bajas laborales. Durante la baja se debería hacer algo con el acosador, o el regreso de la víctima será terrorífico.
+* Los acosadores son asquerosamente prudentes, y si hay un protocolo, se piensan 2 veces el acosar. Debe haber una política antimobbing buena que al menos diga por escrito (y que todos lo conozcan): los trabajadores deben ser tratados con consideración, dignidad y respeto, y el acoso psicológico es inadmisible y se perseguirá.
+* Hay que hablar con mucha gente, y no tener miedo de que el acosador te denuncie. ¿Te victimizas y por eso hay un verdugo encima?
+##Para quitar la timidez al hijo, NO lo critiques por su imagen, que le importe un pito, no te avergüences de que otros lo vean como "alguien que no reacciona". El tímido reprime para dar una imagen.
+##Niños índigo y de cristal. Los niños de hoy son más intuitivos, debido a que sus almas están más evolucionadas.
+- Capacidad de pensar por sí mismos, superando a las viejas generaciones. Son racionales (explícales la vida en el siglo 18 y la actual, no trabajarán oficialmente ni a punta de pistola).
+* Mientras que los índigo son los típicos rebeldes, los cristal son más pacificadores, y todavía más sensibles.
+* Piensan con el hemisferio derecho, que va muy rápido. Quizás no soporten tantas horas de clase y exámenes. No aprenden memorizando, y no esperéis que saquen dieces en todo (y se cansarán de la escuela tarde o temprano).
+##La mujer NO es libre porque es machista (Alejandro Bolívar = Alberto, me ayudó a escribir esto):
+- LA MUJER DEBE DEJAR DE ADORAR AL MACHO (machismo, siglo 19, para inventarse el neofeminismo como respuesta absurda), que es para una masturbación puntual (si acaso). Ha empezado la carrera por igualar al hombre (que abandonó el campo en parte por creído). Se echa de menos a la mujer que defendía los bienes comunales. Y muchas mujeres siguen de amas de casa abnegadas (su lugar es el campo... Solución: escribir pequeños articulos, NO planchar...).
+* Ahora hay más mujeres que van "de flor en flor" ("liberales"). Y LA PENETRACION ES PARA ENGENDRAR VIDA CON AMOR (y el niño, que se quede con mamá si papá y ella viven lejos; depende energéticamente de ella). Encuentra en tu pareja virtudes, y defectos para mejorar en ti. Los desacuerdos, las dificultades, la rutina... son parte del matrimonio. Elige a alguien con tus mismos valores o te arriesgarás demasiado.
+* La ley española de violencia de género, al dar la razón casi siempre a la mujer, crea división entre hombres y mujeres, y acaba por hacer terrible la vida para las mujeres, tras victimizarlas / acanijarlas.
+##Varios:
+- Cuando alguien te insulte, ten compasión / comprension (y te ríes después), otros estan en otras fases.
+- No llores por la leche derramada (recuperarás lo perdido según tu psique). El Universo te protegerá si tus objetivos son realmente nobles.
+- Optimismo, que no es de tontos. En vez de "o duermo 3 horas o...", "si duermo 3 horas, mañana será un día estupendo".  
+- Si te abandonaron: la informacion negativa sobre esa persona, te llegará de varias zonas del cerebro (ten paciencia). Nadie es esencial para ti, y el mar está lleno de peces, y tras mejorar tu psique, vendrá alguien mejor.
+- Todos los lugares son en esencia el mismo, el viaje con el que aprendes realmente, es el interior.
+- El miedo y la culpa son sólo alarmas, deben durar como mucho unos pocos segundos. Los perfectos son odiados.
+- Los Simpsons hacen una crítica bastante buena de la sociedad, e incluso te cuentan los secretos de las elites. Hay que verlos con un guía, porque poca gente se entera de lo que cuentan en realidad.
+- Date un beso en la mano, ámate (acepta tus sentimientos y desreprime por Jung...) antes de nada.
+- Aprende a decir que NO en el momento oportuno y serás más libre.
+##Consejitos navideños:
+- Nada de mascotas: el niño termina NO cuidándolas.
+- Los juguetes tienen que activar la imaginación: un palo, una lata... NO son un modelo exacto de la realidad, eso es lo bueno. ¿Por qué no muñecas para los niños, para que les salga su lado tierno, que tanto reprimen para ser "higos secos"? Las típicas piezas de madera pintadas tampoco están nada mal.
+- Seleccionar y llevar cosas al trastero, porque con desorden, no sabes ni por dónde empezar a disfrutar. 
+##Agricultura:
+- ¿Y si el agricultor NO ha conseguido la misma producción que todos los meses? Podrías pagarle lo mismo (sé comprensivo).
+- Control de precios: técnica del dumping (primero los precios son competitivos, por lo que se acaba con la economía local, y luego los suben), o retienes alimentos, y puedes subir los precios.
+####Libro de la Depresión: control mental de élites a nosotros: 
+- La depresión (NO la que te pide descansar, sino la "macabra") surge por la activación de un marcador / códigos que tenemos en la parte astral cerebral: miedo, substancias psicotrópicas presentes en bebidas y comidas... La cafeína crea adicción, anulando la voluntad (Y GENERA DEPRESIÓN). ¿Mejor fumar? Sólo la persona adecuada puede desactivarlos.
+* Si solo tienes un pequeño bajon en tu vida y te suicidas, tu "cáscara astral" revivirá una y otra vez "el asunto". Cuando reencarnes, traerás grandes vacíos energéticos, y "karma" (vida "triste", ¿eso les gusta a las élites NO?).
+- Hasta los 7 somos como esponjas altamente moldeables. Entre los 7 y los 14 tenemos el primer despertar, empezamos a dudar de las reglas absurdas que impone la sociedad. Entre los 14 y los 21, vemos que la sociedad hace daño. De 21 a 35, se asimilan los comportamientos de manada (¡qué triste!): venta de tu fuerza de trabajo; e ideales y creatividad van hacia abajo. ¡Cuidado con Myo y la moda!
+- Cuando el pueblo tiene el convencimiento de que ha elegido al gobernante idoneo, pasa como cuando una mujer elige por marido a un desalmado: está dispuesta a tolerarle todo y a aguantar las peores humillaciones, porque su orgullo le impedirá reconocer que se equivocó.
+* Tecnología HAARP (ahora nextrad...): genera un malestar que propicia dolores de cabeza y estados de tipo depresivo.
+####LAS HERRAMIENTAS DE MANIPULACION. "Vida sólo hay una y hay que aprovecharla", es una gran mentira, ¡hay que cumplir la misión para la que viniste! Éstas son las "10 FAMOSAS ESTRATEGIAS DE MANIPULACIÓN":
+1. Desviar la atención del público de los problemas importantes (con series...): ocupados sin pensar.
+2. Crear problemas, por ejemplo, dejar que se intensifique la violencia urbana, para que el público sea demandante de leyes inhumanas.
+3. Ciertos cobros que antes se daban a primeros de año, ocurren a lo largo de todo el año y ni nos damos cuenta.
+4. Presentar la decisión como "dolorosa y necesaria", para una aplicación futura (y si se anuncia como temporal, podría ser eterna). La masa tiene tendencia a esperar ingenuamente que "todo irá mejor mañana" (podrán evitar el sacrificio).
+5. Discurso y entonación infantiles (publicidad...). Se espera una reacción infantil (actuamos imitando).
+6. Emocionalidad para cortar el análisis racional (minusválidos, melodramas...).
+7. Que seamos incapaces de comprender los métodos utilizados para el control y la esclavitud.
+8. Hacernos creer que es moda el hecho de ser estúpido, vulgar e inculto (programas de la tele...).
+9. Culpabilizarnos de nuestra propia desgracia ("estáis acabando con el planeta", cuando lasociedad se la inventan las élites...).
+10. Ciencia oficial: permite que las elites nos conozcan mejor que nosotros mismos.
+####Parece inofensivo, pero...:
+- Si eres sano, percibirás algo extraño cerca del alcohol. Haz caso de los niños mas "soft".
+- Cocacola (logo) subliminal: agarren una lata o botella y pidan alguien que trate de bajarles el brazo (extendido, palma hacia abajo): NO será difícil. Basta una gota para que el aura se oscurezca escalofríantemente. SUS CÓDIGOS MENTALES ESTÁN PRESENTES EN EL ESCUDO Y BANDERA DE LOS PAÍSES E INSTITUCIONES QUE DOMINAN EL MUNDO...
+* El ácido fosfórico hace que la sensación de náuseas por la gran cantidad de superadictivo azúcar, pase desapercibida. Con la orina salen calcio, magnesio y zinc (bloqueados por el fosforico). La falta de químicos irrita a la persona. El cuerpo neuronal es excitado y luego deprimido (como pasa con el glutamato monosódico, que causa hasta epilepsia, de todo): adicción (y podrías ir a drogas más duras). Sirve para limpiar un inodoro, aflojar un tornillo oxidado, quitar manchas de grasa de la ropa... ¿Las bebidas energéticas están ahí para arruinar tu salud / vida?
+####A partir de cierta edad se suele empezar a ver a los demás como sujetos que pueden proporcionar dinero:
+- Cuando lo que se vende beneficia al comprador (lo "necesita"), "el karma" es positivo. No manipule con el factor emocional. Haga un seguimiento, ¿el comprador esta contento?:
+* Asegúrese de que ha convertido al otro en vendedor / enseñador (sin competencia, ¡bieen!).
+* Vendedor con desequilibrio energético NO suele cerrar ventas (aunque la presentación y el producto sean excelentes): la gente tiene como un sexto sentido irracional (aunque parece que terminan comprando a los psicópatas). Al "espiritual verdadero" no se le engaña.
+####Cosas:
+- Hace unos siglos, la iglesia cambió "reencarnación" (casa con la ley del karma; y NO hay retroceso, NO serás un perro en otras vidas) por "resurrección".
+- 2 fuerzas espirituales a trabajar. Fé: Capacidad de concreción de lo planeado (depende de la coherencia / desrepresión). Voluntad: ánimo hacia los objetivos.
+####LA RAZA HUMANA CULMINA SU QUINTA ETAPA. Pronto el planeta será liberado de los guerreros de sombras y la tecnología (la favorece "el mal" para manipularnos).
+- Una cosa es tu nivel evolutivo / "inteligencia" (alma, varias vidas), y otra que despiertes, y otra, que desreprimas.
+- Tenemos una marca ("astral"), que repercute en uno de los hemisferios cerebrales (digo yo que será el derecho), haciendo que el cerebro trabaje desfasado, generando una sensación de fatiga que conduce a desconcentración, desatención, estrés y otros síntomas más complejos (los de hemisferio izquierdo son robóticos, NO se cansan).
+- FUE CONSTANTINO QUIEN SE LIBRÓ DE LA MADRE (de la Trinidad).
+####Se ha curado a gente con los sacramentos antiguos (está demostrado):
+- BAUTISMO: su tono de desactivación era enseñado (incluso a neofitos). Quita el miedo.
+- CONFIRMACIÓN: sacerdote, neófito... lleva ante su maestro a quienes limpió, para que se verifique.
+- CONFESIÓN (de un bautizado).
+- COMUNIÓN, común unión: estando alrededor del maestro, cerraban los ojos y con la fuerza y poder de él, generaban a través de la meditación, vórtices energéticos que los potenciaban y protegían.
+- MATRIMONIO: en el acto sexual, las dos auras se funden en una, con fuerza creadora especial, para gestar hijos libres de marcas. El acto sexual burdo / normal, agota.
+- EXTREMAUNCIÓN: un "bautismo especial" durante el proceso de desencarne. Para que al abandonar el cuerpo material, se puedan sortear las almas negativas (plano astral).
+- SACERDOCIO: para meditadores que mejoran la vibración del entorno y conectan saberes, yendo a la causa primera (psicología).
+####ACTIVACIÓN DIARIA DE LA CONCIENCIA CREATIVA:
+- Antes de salir a la calle, deténgase un momento en la puerta. Levante los brazos hacia arriba formando una U (bere, W es satanico) durante dos minutos y con los ojos abiertos enfoque su pensamiento en las acciones del día. Antes de bajarlos, cierre los ojos 10 segundos y diga: daré hoy lo mejor de mí. Lo haré por lo que soy, por mi familia, por la raza humana.
+- Los ejercicios de meditación, hacerlos mejor sobre las 2AM (onda expansiva energética generada por guerreros de luz, aunque NO siempre ocurre).
+####CONSEJITOS:
+- Lectura antes de dormir (despertar imaginacion creativa). Noticias NO.
+* Determine una hora fija para ir a dormir y un periodo de sueño.
+- Escriba en un cuaderno sus problemas (sentado relajado). Puede usar música de vibración positiva. Deje que su mente quede vacía de juicios y críticas, sentimientos de odio o de amor. Ordene los problemas por importancia (2 grupos). Ahora agrupe los problemas ¿de los importantes? que puede cambiar (Letra grande y papel aparte). Repase. Prioridad más alta para los que son más fáciles / inmediatos de solucionar.
+* Problemas solucionables (todos): manera de solucionarlo, mejorarlo o cambiarlo. Tiempo de inicio, duración, último dia de plazo. Un poco cutre. Dígase a sí mismo con frecuencia que va a seguir el plan. ACCIÓN DE COMUNICACIÓN: reúnase con la persona que siente que le va a ayudar a comunicar a las personas de su entorno, su familia, amigos, compañeros de trabajo, lo que pretende hacer.
+- SANANDO EL PASADO, CONSTRUYENDO EL FUTURO: lista de personas que le han causado daño. Cuando crea que es el momento, piense en las ofensas que le hicieron y diga: te perdono por el dolor que en mi causaste, quizás yo te atraje para ser más libre o simplemente mejor persona. Extracto la enseñanza de no cometer este error con mis semejantes.
+* ¿Pedir perdón si es posible a las personas a las que se ha causado daño? Vale, Fanjul, por dormirme el día de los centros telemáticos (a lo mejor taba Roberto Bayón ahí), a Marco Tamargo por tirar un servidor abajo (no había ido a clase cuando los forks ji ji), a mi madre por no ser muy cariñoso con ella...
 ####00707antes de 2024 sin orden.txt  ####Hacer:
 - Test de autoconocimiento (sólo preguntas, la evaluación corre a cargo del usuario). Por ejemplo, ¿te gusta machacar a los otros en competiciones? ¿Es por ganar, o es porque quieres dejarlos en su sitio (esto es un atenuante)?
 - Buscador por compatibilidad de valores, desrepresión, edad del alma...
@@ -7867,3 +9289,2032 @@ Sarah: sí, eres uan auténtica tertuliana.
 - ¿A palabras necias oídos sordos? Contestar la primera vez es básico (si NO es un psicópata). Después puedes decir "esto no lleva a ningún sitio", con educación. Luego, puedes huir...
 - Quizás los "cazurros" (como llaman muchos asturianos a los leoneses) tengan cualidades que no tienen los asturianos (al frío le llamamos fresco, NO expresamos debilidad, y eso redunda en más cáncer, suicidios, machismo...).
 - Premian a los hijos por los dieces, y no por ser equilibrados en su vida (lo sabio).
+####00808 2024.txt  ####Capri####
+####Mejor mucha motivación por el bien común y poca por los ritos comerciales y festivos Y poquísima por la validación externa.  
+####Escorpio no se ilusiona mucho Le gusta la esencia No entiende lo salvaje por así decirlo Tiene que estar informado sobre acciones y personas y seleccionar Capri es su amigo y Sagi también Tauro su joya y persona opuesta a la vez.
+####prebrindis 2023: 
+- Hábito automatico que mas me permití:
+* El no esperar a tener ganas para relacionarme con la gente, el ver la vida demasiado como una obligación.
+* El sentir presión ante autoridades o gente poco avanzada.
+* El pensar que caigo mal a mucha gente, y que eso no me permite vivir bien.
+- BRINDAR POR OBJETIVO PARA EL 2024: dejar de ser tan corto de vista (menos procastinar). Ahora veo un poco mejor pero, ¿son las gafas, son las pastillas, un año con poca energía?
+- Deseo años sucesivos: ser buen terapeuta.
+##Más:
+- No lo dudes, la duda es ruido (NADA DE "no sé si lo conseguiré"...).
+- Deseo: Algo que te dé cierto miedo cosquilleante.
+####Se trata de NO parecerte casi nada a lo que eras NO de flotar y sentirte alegre porque te pisa uno de una casta superior en la India, que se paificó mucho. Realmente es mucho más sabia la cara seria típica de Rusia.  
+####superdir Serdaniol Diccionario de la lengua Elengoa Debe de estar francamente bien Va a la raíz no miente Otros libros Bialdu.  
+####hacer cuento Historia multipsicológica (El Spa de la Verdad y la Mentira y Otras Aventuras):
+- Ludo es un funcionario (que se va a correr aventuras antes de la edad de jubilación, y le queda una paga chiquitita para ser feliz) en un castillo lúgubre con 2 niveles:
+* En el de arriba (por encima de la superficie), hay puertas LUMINOSAS siempre abiertas, en medio de las salas. Quien las atraviesa (pagando a Ludo), ve qué falla en su organismo (y suele enfadarse cuando Ludo le dice que la causa es psicológica, y que abajo hay una puerta que gratis dirá la causa psicológica). Según el Zodiaco, escogen una u otra puerta (REALMENTE, UNA PUERTA ES ECONOMÍA, OTRA...).
+* En el de abajo, funcionarios aumentan inmoralmente el éxito de los clientes. Un ejecutivo pide garras (no podrá expresar sentimientos como castigo). Un gordito materialista y exhibidor de talentos, pide pasteles infinitos (tiene gula, no soporta la verdad, y convierte muchos complejos de inferioridad en complejos de superioridad).
+####superrenacer ríete de la gente a la que le gusta trabajar en horas terroríficas como los aspergers Clave muchos ejercicios para dormir Tal vez leche y tal vez con pan tapones oídos y biombo frente a cara.  
+####Pregunta si el café me pone nervioso podría NO ponerme así si soy cooperativo.
+####Astro Caro relaciones tóxicas:
+- Nadie debe decirte lo que debes o NO hacer (tenemos misiones diferentes con actividades más elevadas que las de los trabajos oficiales en 2.024). NO es raro que quien te dice qué hacer haga falsas bromas, que disfrazan agresiones, críticas enfermizas de fallos materiales NO importantes... Pero puedes decirle a alguien lo oscuro de su psique si se llegó al límite.
+* La relación es un acuerdo inconsciente entre almas (para automejorarte...), ¿se elige libremente alguna vez (seleccionando...)? Si no te valoras, atraes "confirmadores" de que NO te valoras (engañadores...).
+- Venus en Piscis = amor idealizado (idealizar al seductor...), ¿tóxico?
+####¿Más prebrindis?
+- Experiencia: he conseguido tildar a los demás menos "de monstruos", conocerlos más y tener menos miedo y más optimismo, y disfrutar el presente aunque en poco tiempo haya "desafíos" o gente criticona. Y si alguien "me mete en líos que duran poco", puede ser para aprender.
+- Mejorar. Sigo diciendo que sí a comidas que no son "para el templo que es el cuerpo" (eso es debilidad). Me gustaría poder decir NO claramente (dije "ay, no, que me pongo como un globo").
+- ¿Qué he aportado en 2.023? He estao en Facebook con gente no muy adaptada a esta sociedad enferma. NO están solos. He estao con gente que me necesitaba (para contarme cosas malas, subir de curso en la EOI...) y he cuidao al perro Bubi antes de morir. Y tengo una Cutreenciclopedia relativamente pequeña / manejable.
+- ¿Cuál es mi lugar en el mundo? ¿Programador? Nodo Norte Libra (acompañar, con Psicología = salud...). Detective (casa 10 Escorpio, Serpiente...). Cejas: puedo empezar, desarrollar y finalizar proyectos (a los que puedo dar "un chispazo", semilla Tzolkin, abstrayéndome del mundo por un tiempo, tono resonante). Nombrelogía: aprender a ser pionero (aunque ahora esté para aconsejar a líderes sociales). Eneagrama: persona empática que se amolda (2). "Diseño Humano": absorbo información para dar ejemplo. "Jung": INXJ (dar luz o liderar). Me gusta estar solo (aunque trabajo bien en equipo, pero a las 2 horas de estar con gente, ¡pido auxilio!), y puedo estar años en un proyecto que no dé frutos (hasta el año XX).
+##Deseo estar con gente un poco despierta, para algo que sea útil de verdad (o para mi crecimiento interior, con pruebas sociales).
+####energía Quim Británicos muy cómodos en Cueva (Puebla, México, 2.004):
+- Las autoridades loales querían rescatarlos, pero Londres exigió que lo hicieran británicos (estaban completando la formación militar, REALMENTE). A un británico se le escapó "la guerra se gana así". ¿Una guerra subterránea?
+* Sanísimos, pensaban estar más de un mes. ¿Dispositivo "de poder", portal, civilización intraterrena?
+##El embajador de UK en México tenía perfil científico, todo muy raro.
+####energía Quim portales subterráneos:
+- ¿Los supuestamente avanzados intraterrenos (quizás viniendo de fuera hacia el centro de la Tierra) podrían tener cabezas alargadas, o ser altos como beres?
+* Hombres hormiga (¿por el casco?), creencia hopi: contacto en cuevas, portales a Orión / otros planetas (así debe ser la exploración planetaria, por lo que la NASA miente. ¿Los indios dibujaron dónde están los portales?).
+##Lo que vendrá (¿tras la advertencia al mundo de la "cachina roja"? ¿Cielo rojo?):
+- Bestias: incluso del pasado (¿por deshielo?).
+- Castigo (a los NO conspis) antes de reconstruir.
+- ¿La reapertura de portales para protegernos dará niños malformados?
+####energía Quim Tecnología de templos griegos Frecuencia particular:
+- A mayor suelo, más potentes (energía escalar / psíquica):
+* Apolo, 9 Mhz; Zeus, 5... Ibas a un templo por abundancia, para generar guerras... ¡eran intenciones!
+##¿Qué clase de personas se sienten mal en ciertos templos, las malas (a mí las Iglesias suelen transmitirme calma)?
+####Exp Royuela:
+- De las notas que ponen a Zapatero y a Mena muy mal, no se dice nada. De las cuentas ilegales, se intentaba trampear, hacer el mal a los justos denunciantes de corrupción...
+* Mejor centrarse en la querella y los crímenes. El Juez Presencia quiso focalizarse en las cuentas ilegales y le dieron palos aunque tuviese la verdad de su lado.
+- Bañeres Santos, comprado...
+- Los cabronejos archivan el caso y luego represalian. Llaman afición a lo de Mena de matar gente por poder o lo que sea.
+- Mena ordenó matar al magistrado Cesáreo Rodríguez Aguilera con esbirros médicos (parada cardiorrespiratoria por medicamentos, forenses compinches; y policías compinches también. Mena no se mancha las manos, y ordenaba matar sin pestañear, NARCISISMO / PSICOPATÍA):
+* Cesáreo preparaba unas memorias, ¿peligrosas? para Mena, ¿y para Villarejo? Quizás ni los incriminaba.
+- Si Mena se niega firmar (autógrafo)...
+####Julio las autoridades ven que pocos van a vacunarse / envenenarse y se echa mano del miedo y la mentira (que si la alarma sanitaria continúa...).
+####Julio mediaos Dic 2023:
+- 25 Grados en Valencia (reportados por Selena, la de "Yo Quiero Bailar...", que es conspi, ¡bieeeen!) es algo más que cambio climático (son máquinas pa fastidiar). Quieren controlarnos (que no podamos usar coches... Que usemos dinero) y acabar con el campo (¿cómo que el jamón y el queso producen covid?).
+- Antes de las vacunas, sólo morían ancianos desatendidos en residencias por aplicación de protocolos asesinos, y gente con miedo por culpa de la tele (ese miedo produce neumonía, y si les pones un respirador, los matas, de primero de Medicina). Los "médicos" de residencias mataron al tío de Julio, y al padre de Javier Villacorta.
+####Pamiés y Terol. Tras Franco sigue lo mismo. En esta sociedad "de héroes y villanos" el héroe es el oficialista, y el villano, el conspi / negacionista (la sociedad está loca). Heroicidad verdadera: quedar mal por decir la verdad, ser despierto entre gente normal 8que te comen, NO aceptan la diferencia) y el cambio psicológico profundo.
+- Los jubilados deben ser "los nuevos rebeldes" (los jóvenes no se mueven, tienen malos padres). ¿Esperar a que las élites ataquen te da poder "mediático" como víctima? NO dejemos que los universitarios de despacho acaben con la tierra.
+####psi energía Quim sueño lúcido (¿a + sueño lúcido, + ves que NO ven los demás?). ¿Hacer las manifestaciones en el sueño lúcido, que necesita mucha energía vital?:
+- Energía: cansarse físicamente (suena a perder energía, realmente), por ejemplo, con la misma tabla de ejercicios diaria, luego ducha fría (¿y una sauna después je je?) y luego ejercicios de psique (concentrarse en la capa negra de la llama de una vela...).
+- Voluntad: voy a tener un sueño lúcido... Leer sobre el tema ayuda de forma sutil.
+####psi hermetismo Cristian 2024 Argentina cambia para bien aunque haya dolor ahora:
+- Sí, un niño al que de repente le pones sabios límites, acaba llorando para volver al estado anterior, "como" los adultos normales (las pérdidas son pruebas para seres poco avanzados; para los avanzados tenemos la angustia,el terror...), y eso no puede ser.
+* Debemos aprender también a NO buscar atención por nuestras habilidades, ni querer obtener emociones de los demás sin consentimiento.
+####psi hermetismo Cristian 2024 de Estado castrador (madre sobreprotectora que da y encanija) a responsabilidad con Miléi (padre incentivador y protector en su justa medida).
+- 29 Dic 2023 ante el Génesis (caos necesario antes de "ver la luz"). Pásate al grupo de la responsabilidad psíquica (las cosas salen mal por no bucear "dentro"). Si sabes lo que tienes dentro, ¡desenmascaras mejor a los políticos!
+* Si no cometes ningún pecado real, ya verás cómo tus necesidades bajan muchísimo.
+####psi hermetismo Cristian Kábala benéfica en política argentina:
+- 5.000 años han pasao desde la muerte de la segunda reencarnación del BE, Álex Magno, quien perdonó a los Iudas y les dio luz (es Hermes Trimegisto, 3 veces nacido).
+* Génesis (Torá) = Berexit (it = camino). Relación de los buenos bere y los judíos cumplidores.
+- El 2.024 es "judío", y debe ser así por nuestro bien, por el orden. Miléi (orden = palabra / discurso + Ley / léi) practica el judaísmo "a rajatabla": 
+* Juró la presidencia el 10 de Diciembre (Hánuka ya había empezado; y ese mismo día encendió una vela en señal de "dar luz"; puede que "venga del cielo", por ciertos signos). Yo NO temería a Miléi, sino a quien se haga pasar por judío (recuerda que los poderosos malos odian al judío REAL).
+####Miléi es judaísta practicante (mientras no sea Sabateo, falso judío en general...). ¿Por qué se comportó simpáticamente con el terrible Zelenski?
+- Miley no es partidario de que se use al otro hasta gastarlo (si tu papá está cansado, ayuda si él quiere), y luego se pase a otra persona. es partidario de la responsabilidad.
+- Más:
+* Integración religiosa (buena señal, NO se quiere cargar a los blancos "rasos" como las élites en general).
+* Miléi hace el discurso delante de la gente (¿"con el corazón", sin guión?, NO de los "políticos". En los discursos había banderas argentinas, ninguna o casi ninguna partidaria. "Prefiero decirles una verdad incómoda que una mentira comfortable". Que quede claro que es terrible lo que le deja el anterior mandatario.
+* Fecha de investidura: Sagitario (expansión, educación...). Hora: 11:55 = 12 = 3 (comunicación...).
+####psi hermetismo Cristian política.
+- Política: habla de las necesidades de los pobres, de los trabajadores... Eso es manipulación. Si deseas negativamente, en base a "necesito..." u "o consigo esto o pasa algo malo", te empobrecerás (regla universal).
+* Los sindicalistas (España) están a favor de crear pobreza e ignorancia (Universidad...).
+* Hacer el Robin Hood acaba con el que produce.
+- La función paterna mira más al adulto de mañana que al niño de hoy: "si sigo comiendo tanto podría estar algo impedido de adulto".
+####Será el sabio el único adaptado si el futuro consiste en "cárceles" en vez de en especializarse en "rosas azul cobalto" (como ahora se hace).
+####El que se ve "pulpo hermafrodita", tiene que aceptar que los demás no le vean así, para ser un poco sabio. ¿Lo hace?
+####Sergio Cebolla recogidas firmas (manifestaciones...) adónde van:
+- Hacen censo de los que están en contra de la Agenda Globalista.
+* ¡Estoy seguramente en una lista negra, nada ha cambiao desde Franco (cambia "la imagen" pa dejar tranquilos a los superficiales)
+* Change (org) es de los malos malísimos.
+* Los datos se venden para hacer publicidad...
+##¡NO existen iniciativas legislativas para tumbar leyes! Son para la presión política...
+####socio Zodiaco los más chulos, simpatía arrogante:
+- Leo (nivel bajo): semblante que, ¿intimida? y cautiva al mismo tiempo. Su pecho se infla de orgullo con los elogios.
+- Tauro (no todos): desespera por atención, le encanta reírse y hacer reír a los demás, y si en ello puede alardear de sus habilidades, lo hará sin culpa.
+- Acuario: asegurar frente a todos que ellos son mejores (yo he ganao estudiando a Acuarios [semi]asperger; y Escorpio gana a Acuario en inteligencia emocional). Cualquier excusa es buena para demostrarlo.
+####socio Zodiaco los más ásperos:
+- Acuario: llegan a ser percibidos como agresivos. NO se relacionan fácilmente con personas nuevas (son cortantes con ellas y establecen límites muy rápido).
+- Tauro (cuando están de mal humor): responden cortante. Evasivos, NO dudarán en sacar su lado más frío y antipático. ¡Infantiles!
+- Virgo: prevenidos y calculadores. Incluso conociendo bien a sus seres queridos, puede haber frialdad y antipatía. Pueden pasar de la calidez a la indiferencia y llegar a ser muy desagradables. Dales su espacio para que se calmen.
+####super sociología si me obligas a poner la mascarilla es delito de coacción Sanidad pasó la patata caliente a las Comunidades las cuelas no tienen competencias Denuncia en centro y Policía.    
+####superame dulces suenan a gente necesitada de tranquilidad afecto de los demás y dulzura hacia uno mismo Con miedo a sí misma etc.  
+####superamen cuando vacunas a tu niño o le llevas a Escuela le quitas la empatía estructural.    
+####superamenaza Bill Gates primer latifundista de USA Los latifundios son realmente antihumanos Pregunta qué pensaís de que gates dijese que las vacunas eran buenas para matar gente.  
+####superamenaza el funcionario de turno no registró lo del examen psicológico del Juez Presencia El plan era obligarle a hacerlo para luego falsear sus datos.  
+####same Empleos inmorales como teleoperador o empleos basura con nombres en inglés Herrero es un trabajo.
+####superamenaza el PIercing KUllares PI es el miembro viril y Ku es de Kure paio.txt  
+####superamenaza en el siglo 19 se abandonaron las sandalias de cuero perdiendo conexión con la tierra salud.  
+####superamenaza Infantil es adaptarse a una sociedad inmoral y criticar al diferente sistemáticamente en vez de soñar un mundo nuevo Infantil NO es NO tener trabajo oficial y dormir lo que necesitas.
+####superamenaza Lo importante no es que Sánchez sea psicopatín Es que hay 2 millones de adorables españoles así.  
+####superamenaza cielo Líneas rectas son sospechosas Ondas que se ven en las nubes y empujones a nubes con máquinas que quizás podrían producir granizo Se absorben nubes y aparecen en otro sitio Las élites manejan el clima para mal en España.
+####superamenaza Ministerio de Transición Ecológica y Reto Demográfico Las 2 últimas palabras son un eufemismo de matar a mucha gente.
+####superamenaza preg sólo puedes fiarte de médicos españoles de promociones del 81 al 91
+####superamenaza pregunta el PSOE se fundó para vender la Industria pública del Franquismo que no de Franco a Europa Y unos alemanes sufragaron los primeros gastos importantes del PSOE.
+####superamenaza pregunta y si los grandes edificios y en general grandes construcciones de la humanidad salieron de mentes enfermas o con poca edad mental Sugerencia 2 pisos buhardilla y elevación 1 metro del suelo.
+####superamenaza la gripe desapareció un tiempo y ahora aparece de repente Las élites y sus mentiras.
+####superamenaza tener un amigo NO conspi Tiene miedo a la verdad Pregunta entonces tiene miedo a la verdad de la gente incluido tú y NO te valora realmente como te mereces.
+####superarte La música británica es de lejos la mejor de la Historia Al resto le falta clase y unión de lo masculino y lo femenino Le debe mucho a Bowie NO es una música de sentimientos es algo más elevado.
+####superrenac Ya que la carrera que estudié estaba llena de monstruitos sin inteligencia integral y ahora pronto me tocará incorporarme según leyes universales Que se llame a las cosas por su nombre Enfermos psiques por investigar.
+####superrenacer 25 Dic Mañana empieza la verdadera Navidad Nobidade conmemorando una victoria sobre los paganos Que eran la Iglesia y pasaron a ser la Ciencia oficial etc Preg y el 31 último día es el reparto de regalos no pagano.
+####superrenacer en 2026 no más lucha contra élites Se separa la buena gente de la gente 3D o de servidumbre En 2075 se acaba la oportunidad de salvación quizás NO nazcan más niños antes.
+####superrenacer arcade Black Tiger Contemplando los cuadros de siempre en este mundo loco ávido de novedades baratas.
+####superrenacer En España se debería producir el 70 por ciento de lo que consumimos España sin producir y otros países son esclavos.
+####superrenacer los Reyes Magos eran los bere que acabaron con el imperio Paio El 26. Antes Enero se llamaba Febrero (conmemorativo):
+- En Roma, durante el Imperio Mede, los Ban siguieron celebrando secretamente la Victoria de Troia, primero de año bere (el 26 de Diciembre era llamado ESTEBAN "Es de los Ban"). En el Imperio Paien, quien las recordaba casi siempre terminaba quemado o asado vivo en el circo pagano. ¿Si ves la ruleta de la Fortuna traes la energía de ese evento atroz?
+* Los Ortodoxos Rusos consideraron el 13 de Enero actual como el día de año nuevo, engañados.
+- El día 25 de diciembre se recordaría la fecha del arresto de San Peiduru de Roma y de paso se festejaría el último día de existencia del Imperio Paio. El 25 se celebra la exaltación del Imperio Paio. El 1 de Enero está fuera de "los días bere".
+* El 31 de diciembre presente, es la Fiesta de los Reyes Magos o de la EPEPANIE, llamada hoy Epiphanie o Epifania.
+- Álex Magno dispuso alrededor de una cunita varios abetos recubiertos de lana y empolvados de harina, simbolizando la nieve.
+* NATAL viene de NODEL o NOTEL, "Es nacimiento de El" = NOEL. NOBEDADI es "Regalos de la noche del Be". CHRIDMES es "Keride mes" (se refiere a la Victoria de Troia). SANTA KALAUSE es "El Santo Lugar arbolado" (abetos).
+##AARON es bere.
+####superrenacer pregunta entonces gastamos gran cantidad de energía en controlar lo reprimido o similar.  
+####superrenacer pregunta Navidad es acompañar y dejar la empresa un poco de lado y mantener esto en el tiempo.
+####superrenacer pregunta si digo bret en vez de pan me entendéis NO.  
+####superrenacer si hablamos bien de otros eso nos da poder Validar para recibir Validarse con Psicología NO con tu naturaleza Para validar.
+####supersocio del discutido anarcosindicalismo surge la falange verdadera Que mala NO es.
+####supersociología las vacunas son pa matar gente Preg es deseo del cielo que los inconscientes mueran por el bien del resto.
+####supersociología los dulces son para gente estresada NO permitas que tus subordinados se estresen ni estés con ellos con mala energía. ####Psicopatía es protección para débiles NO sentir es de débiles.
+####supersociología El violeta va bien si hay elegancia en el resto. El morado va fatal si es ropa de Decathlon.
+####Prefiero pedir a robar desestabilizar.
+####Si el cometido de un aspi es trabajar para la comunidad... ¡que vengan a España muchos japoneses! Los paios crearon a los txinos para obedecer.
+####Borré un artículo. Quizás si se hubiera empezao por lo general, con sana disciplina top-down (el arte es secundario a la estructuración de la información; se trata de sacar el mismo producto con la mejor metodología, y "aburrir")...
+####NO hacer fiestas ruidosas es básico para ser civilizados. Y los pájaros, muchos perros.... lo agradecerán si NO hay voladores...
+####supersociología Todo publicador debe esforzarse por resumir salvo Géminis que pilla información aunque no le dé sentido Resumir no es su labor.
+####Que nadie mueva un dedo sin la orden de los filósofos.
+####Vida de 10 para mi caso particular es estar quietecito hasta que te pidan ayuda compañía etc
+####Tahyah 2024 Urano rompe los caminos que no nos convienen NO alineados con nuestro ser Surfea la ola de novedades Se puede incluso con consciencia.
+####¿Serbia era Serbere?
+####supersocio sobre ucraniano refugiado en Rusia (la periodista se despide "a lo bere"):
+- La gente que nació en la URSS entiende Ucrania, Bielorrusia... como un solo país, echan de menos la unidad. Aquí está Occidente dividiendo, intentando que todos los países sean proOTAN.
+* Y seamos o no ateos, el cristianismo es la espina dorsal de valores y éxito / funcionamiento de Europa y América (con mucha novedad, se acabó eléxito). Putin no es un ángel, pero es algo independiente, y NO pretende que el resto de países sean como Rusia.
+* Al grano. Terribles represalias de UcraniaOeste contra el este (pasarlos por el cuchillo sin piedad).
+
+####Acuario####
+####Muchos vídeos que no son protagonizados por PSICOLÓGICOS me hacen perder interés. La lucha es interior (el órgano es dirigido por el cerebro, y éste, por la psique, y cuanto mejor tu psique, mejor la sociedad).
+####Mi vecino de abajo dice que tiene trastorno de la personalidad límite (expresión oficial un tanto vasta), pero casa mucho con la Constelación agresiva (rabia, loco homicida). El individuo se vio arrinconado, y este trastorno es una respuesta de defensa. ¿De adultos ven injusticia donde No la hay?:
+- Gran dinamismo y energía.
+- Dispuesto a la violencia / lucha, vengativo.
+- Conflicto de identidad (de peque ningún sitio era su sitio) y de enojo territorial (para hombre diestro). Hamer, Nueva medicina germánica.
+##A estas personas hay que darles su sitio en el grupo y reconocerlas; ser comprensivo y concienciar al entorno (que NO lo condenen antes de tiempo). NO han sido deseados por los padres, han estado en internados:
+- En la fase maníaca: se activa el conflicto de identidad: furia, tendencias sádicas, son capaces de cometer un suicidio brutal.
+- En la fase depresiva: dirigen la agresión hacia ellos mismos, tienen tendencias masoquistas y tienden a auto-mutilarse (piercings, dilatación lobular de oreja...).
+- Se puede castigar haciendo ejercicio. En el caso de la vigorexia, hay conflicto de desvalorización (constelación megalómana).
+####Mis chorradas 18 Enero 2024:
+- superamenaza las ondas de las élites por ejemplo NextRad causan dificultad de movimiento dolores etc Síntomas que podrían confundirse con resfriado Y luego te obligan a vacunarte Cuando hay moco natural lo llaman gripe A o covid.
+- superamenaza mayoría hombres son secos y prejuiciosos con miedo a sus sentimientos y a la gente completa Pregunta dominados por su mujer pero gallitos fuera de casa Propelis tontas con sangre y acción. ¿Si se enfrentasen con su peor trauma infantil, serían sensiblemente mejores?
+####salud el asma podría tener que ver con la ansiedad anticipativa Cada cosa a su tiempo lo afrontaré en su momento Aunque para los trabajos te quieran ya formado.
+####superamenaza el mismo imbécil de "hay que ir a misa todos los días" de ayer es el imbécil de hoy de hay que creer en los científicos oficiales y expertos si la TV dice que lo son.
+####superrenacer el asistir a un acto donde se cuente la verdad por fin Ya es joder al narci de arriba Les jode mucho que empecéis a ver a los conspis como lo que son Gente que se ha dado cuenta de lo que el resto NO.
+####superrenacer una abuela de las de antes te recriminaría el haberte convertido en picapleitos matasanos vendehumos deformaniños etc.
+####supersoci los intérpretes han hecho un pacto con el Diablo 3D para oír Y los que captan detalles periféricos Percepción NO inteligente.
+####supersocioagricultura Enfrentarse al Gobierno sin intermediarios chupasangre en este caso los intermediarios agrarios Los verdes de Alemania de los 90 eran de la Stasi.
+####Zodiaco bondad:  
+##Modestos. A Tauro (jefes materialistas) y a Virgo les importa demasiado el dinero (como a los modestos Libra y Cancer):
+- Piscis: muy modestos, nunca alardean de todo lo que han logrado (lo ven inmaduro).
+* En público, siempre agradecerán a quienes los ayudaron y reconocerán sus aportes.
+- Cáncer: no gritan al mundo sus habilidades (incluso si llegan a convertirse en los número 1 de sus disciplinas). Siguen centrados en objetivos.
+- Libra: no dejan que el éxito se les suba a la cabeza. Aunque parecen superficiales, dejan que sus acciones hablen por ellos.
+* Reconocen que han recibido ayuda para llegar a donde están (si la han recibido).
+- Escorpio pueden pasa por engreído y antipático, pero es muy modesto. 
+* Disfrutan de sus logros en privado y sólo con quienes realmente confían.
+#Recuerda que es la introspección profunda lo que lleva a la bondad (y presionar al otro porque tú lo lograste, quita muchos puntos, ha de haber comprensión), y el ser más calmado, y más vago.
+####¿Quién puede dar ejemplo trabajando oficialmente en cosas que no importaban en el siglo 18, o limpiando como enfermos, o no pensando por sí mismos, consumiendo o viajando por puro placer / escape...? Si la sociedad sigue así, puede que No lo soporte más.
+####Astro Caro Carta NO Natal sino de Revolución Solar una por cumpleaños:
+- El ascendente nos dice en qué tenemos que fijarnos (el mío del 03 / 11 / 2.023 es Piscis, ¿enseñar al otro a sacar sus propias conclusiones y a encontrar su camino?).
+- Mi luna (talento) es Cancer.
+##El día del cumple siembra con lo que amas, y evalúa lo recorrido en un año.
+####Astro Caro:
+- Leo:
+* Lado negativo: ansias de reconocimiento (ascenso...). Aprobación del otro. ¿Por qué haces las cosas? ¿Te enojas si no te reconocen? ¿Qué quiero conseguir y qué tengo que cambiar? NO hay que fijarse a una imagen, como hacen muchos Leo ("yo soy así" es rígidez).
+* Lado positivo: el corazón, lo que amas hacer (el "brillo" es sólo una consecuencia)... y más cosas.
+- Cumple: 50 días antes, falta energía, 50 después, la vida se ve más clara. ¿Y 2 meses antes ya viene algo de energía de los signos "anuales" (revolución solar)?
+####Astro Cebadera:
+- Llegan unos años de libertad acuarianos, en los que se nos va a dar la oportunidad de tener criterio propio sin delegar tanto (es bueno, porque la salud, primero la percibe uno, y luego, el médico si vas) ni echar culpas al "de arriba de la jerarquía".
+* ¿Saturno / Capri es el padre que dice "tienes que ser médico? Urano / Acuario se encargará de destruir "el camino Capri". NO te resistas al nuevo camino o será peor).
+* ¿Será todo una transformación para futuros años de trabajo (en el que las almas viejas, las mejores... son peores, y mejores para filosofar...)? ¿Con el tiempo se apreciarán los inteligentes artículos de las almas viejas? ¿Nuestras cosas malas se exteriorizarán este año, y yo tuve que buscarlas con manuales avanzados, con mucho esfuerzo enciclopédico? Bueno, tengo ganado que mejorar como persona (limpiar la psique) enferma (ya he pasao por ello).
+####Que ningún envidioso con miedo a sí mismo se atreva a llamar vago a un sabio; se llama en cambio "rémora" a quien necesita validación externa (la verdad es que sigue importándome algo que me vean "tonto").
+####2024: no actuemos acuarianamente desde el arrebato emocional o la resistencia; sí desde aprender a ser libres y cambiar el rumbo en la vida. NO recular, aunque duela.
+####bestiario humano 01 me parece muy bien que tengas mucha energía para hacer cosas pero que esas cosas sean esencialistas y por favor no me metas en tu vorágine de energía loca Molestas ignorantín.
+####bestiario humano 02 infeliz vecina habla de los demás porque teme meterse en su propio interior Los consejeros que NO quieren desentonar son lo peor Cúrese no humille.
+####bestiario humano 03 tú que has crecido maldiciendo lo femenino en ti pues tu cadera era más ancha que tus hombros Alégrate porque la imagen es cosa de sociedades ignorantes.
+####bestiario humano 04 tú simpatiquín y / o "yo lo paso peor que tú", ¿eres un psicópata?
+####Canosa liberación de los humanos con la verdad:
+##Nota: la gente buena respeta lo diferente (NO reacciona mal cuando las creencias del otro chocan con las suyas) y es feliz con poco. Acabas pensando lo que piensa la mayoría "para casar", y el que aspira a sabio termina siendo cada vez más diferente.
+- Cada vez que hay algo nuevo, la ocultadora UNESCO pone el cordón "de seguridad".
+* La gente cree que los medios no pueden engañar vilmente (el problema es el "orgullo" de la gente que no lo admitirá).
+##Tras la verdad, caerán los ladrones... ¿eso implica que sepamos la verdad sobre nuestro negro interior?
+####energía Quim conseguir. Diferentes formas / personas:
+- Gente que con decir algo, se cumple. Oradores y vendedores (¿suenan a embaucar NO?).
+- Visualizar. Muy sensibles (nada de ver pelis de terror o noticias negativas). Positivos y con vibración alta, sí.
+- Planificadores al detalle. NO dicen lo que piensan.
+- Dar la orden antes de soñar para que se resuelvan sus problemas. Probar.
+- Los que saben lo que tiene el de enfrente con sólo mirar los ojos. Usan la intuición.
+- Personas con mucha empatía y abiertos (relaciones interpersonales). Hacen que el entorno funcione bien (no necesariamente ellos).
+####energía Quim Laia (para Lúcidos sueños Asistente IA). Preguntar "al cerebro" sobre qué soñaste, las prácticas mejores para ti...
+####Exp Royuela Mena preparó "el accidente" del helicóptero de Rajoy (rifles con silenciador). La policía científica, "comprada" (dirá "exceso de carga"). Lo intentaron con Aznar. Y después todos los políticos se han rendido y han mirado para otro lado por salvar su confortable estatus.
+####Julio. Europa reduce la soberanía de los países (recursos...). Cada poco pareciera que ayudan un poco al pueblo, para que no se levanten ante los narcis. Mucha gente propuesta por políticos (fíate). Europa riega con dinero a Ucrania (agricultores).
+####Julio uniones de países (ONU para control poblacional...) asfixian a la población:
+- Crisol (de razas) es una palabra con malar intenciones (Cr son los paios CAR, y sol es evidentemente paia).
+* Los países de occidente ponen a dictadores para crear pobreza en África... pero también se demostró (ÁrbolRojo...) que zonas ricas mandaban musulmanes negros para desestabilizar.
+- ¿Países cedieron territorios tras la primera guerra mundial y eso sirvió de pretexto ("queremos volver a lo de antes...") para la segunda? NO entendí muy bien.
+####psi hermetismo Cristian para un 2024 exitoso. Yo me he sentío "Burnedout" ("quemado") por cómo gira el mundo de rápido, y sobrepasado por "tontos" / inconscientes (por rapidez o cantidad / NO equilibrio):
+- El problema NO es en un área (u obra), es algo común / psicológico.
+- Claridad en objetivos (decirlos / escribirlos sin errores)... ¿Están fuera de "tu psique" / zona de confort? Ver el objetivo como un camino de crecimiento.
+- Pensar, sentir (con "pasión"; conseguirla a veces con curiosidad... Y motivación) y hacer "en línea".
+- Evaluación constante. ¿Me desvié?
+####psi hermetismo Cristian Argentina mugre histórica:
+##¿El auge parlamentario en España se dio con monarquías medievales (el Rey simplemente daba fé de las reuniones de aldeanos más selectas)?
+- Argentina: es bueno liberar los precios, pero las empresas tienen que subirlos (hasta llegar al precio internacional) con cuidado, si NO, el estado, sabiamente, tendrá que intervenirlos.
+* La izquierda prohibió durante 4 años manifestaciones sociales, y ahora vuelven, pa joder, claro, como Capriles, Maduro...
+* Cuando dicen "soy la voz de los débiles", es una treta: mejorar / fortalecer la psique (nunca endurecer) es clave.
+- Hay que ir a una en la que se valore al sabio, no sólo al sierra-madera o al camarero que, por no ser profundo, tiene buena memoria a corto plazo. ¡Los aspergers aguantan tanto lo intelectual! ¿Y la gente menos peligrosa son los de tono 7 de Tzolkin Maya (necesitan aislarse "de las 3D" para conseguir información, eso es lo humano, lo elevado)?
+##¡Usó la palabra gustado, bieeeen (es que "disfrutado" suena a hormonas, a ver vídeos por placer, y los vídeos se ven por utilidad)!
+####psi hermetismo Cristian pensar sólo en la conducta / imagen (para el éxito, esclaviza) mantiene los demonios internos y te autodestruyes acabando con tu personalidad natural (NO te quejes de la sociedad si parte del problema eres tú, tu interior, todo suma):
+- Tras descubrir reacciones tuyas negativas, indaga en el porqué, que está en la Psicología: creencias que te limitan, problemas pasados por ancestros, traumas que hacen enfermar...
+* Por muchos dieces que saques (que NO implican inteligencia integral), el alma tiene para ti un plan de aprendizaje / fallos.
+- Cuando doy un paso del mundo de la deuda, la culpa y la victimización en general, a un proceso de aprendizaje, me libero de miedos... NO dejes a alguien con poca inteligencia emocional programar, diseñar... sin que antes haya visto lo malo de la sociedad.
+####psi hermetismo Cristian responde:
+##Yo, Felicidad: hay que volver al siglo 18 para no buscar el placer en cosas que prometen mucho y al final defraudan (el ocio NO es diversión, ¡y es moderno!).
+- Violencia: no me gusta lo que el otro dice de mí (me cuesta verlo diferente...) y voy por ese otro.
+* Hay que protestar alguna que otra vez, cuando hay cosas terribles pero normalmente aceptadas (ruido por la madrugada... En este caso es el malo el que se queda callado).
+- Individuación significa salir del colectivismo mental. Hay que dar otro paso: ver tu suciedad cuando te vinculas (¿y si los otros se callan ante tus fallos sociales, por verte normal / de rebaño, dicen "difiero" cuando querrían decir "tú estás muy mal"?
+- Ansiedad: lo quieres todo ya, sin aceptar que todo lleva sus fases y sensaciones incómodas.
+* Pon una semilla en una maceta, y mírala día a día, y probablemente mejore sensiblemente tu problema de ansiedad.
+####Rix. Entre narcisines (pobres infelices) hay traiciones, y acabarán mal. Las élites "incendiarán" las tierras de quien no acate órdenes:
+- Dicen que debe acabar el gasóleo, por el cambio climático, ¡lo que quieren es acabar con gran parte del comercio, para empobrecernos y luego controlarnos! Reset para que un solo banco se quede con todo.
+- Hay que irse de la ciudad y vivir como siempre (no como en la ciudad), cambiando de actividad cada poco. ¿Llegar en grupos para producir sin experiencia?
+- Rix salió en Equipo de Investigación en La Sexta. Dramatización: "y ahora vemos a Rix lavarse las manos y no secarse y además me ha pedido sexo" (la tele manipula). Si ves el superdocu de Rix (Yerma2030) siendo no conspi, ¡lo flipas, muy intensa!
+- España, pa entrar en la UE, tenía como condición no hacer competencia a Alemania (el país que relanzó al PSOE).
+- Se aprovechan de que en muchas zonas de cultivos vive poca gente, para quitar esos cultivos silenciosamente (los medios de comunicación tienen poco alcance allí).
+##Cuando ya no haya que luchar, la gente profunda y esencialista puede seguir dando abrigo elevado (NO material). Los demás, sólo caras "amorosas".
+####superame NO expresar nos convierte en bestias inmundas porque después recurrimos a la rabia y la venganza Expresemos con todo el sentimiento.
+####Vi a un manifestante superficial barba gafas de diseño y gorra de vestir Terrible. Lo primero, NO dar crédito a esta gentuza superficial.
+####superamenaza Zorra canción Dice que ser empoderada es bailar hasta el amanecer.
+####superamenaza a menos de 150 partículas de CO2 por millón las plantas tienen problemas para crecer Pero si cualquiera se quiere vender y le ponen una bata blanca y dice que el CO2 mata le podrían creer (y hala, a prohibir lo que quieran las élites).
+####superamenaza ChicoTriste sobre las élites desde siglo 18:
+- La Teosofía (esoterismo oscuro, aunque podría usarse creo yo, benévolamente) ha ideado la ONU, los nazis, Logias... Cuando los teosóficos hablan de "telepatía", hablan de mente única (toda la gente zombi e igual en creencias).
+* Cuando Sánchez dice "convivencia" sin más, quiere decir empeorar la convivencia trayendo por ejemplo, africanos que estuvieron en la cárcel. Gran parte de los negros son islamistas y se chulean, recibiendo pagas por no hacer nada, y haciendo gestos penosos a los blancos.
+* El Foro Económico Mundial y la Agenda2030 son grandes catalizadores hacia "el mundo tonto y sin posesiones".
+####superamenaza CÉSAR CARBALLO EL TODÓLOGO DICE EN LA TV QUE LAS ONDAS ELECTROMAGNÉTICAS NO AFECTAN A LA SALUD SINVERGÅ“ENZA.
+####superamenaza dijimos que los psicópatas eran tontos por no tener fuerza mental para enfrentarse a sus sentimientos traumas.
+####¿Marruecos controla a los eurodiputados?
+####superamenaza Juan Zaragoza control en el futuro:
+- ¿La ropa que llevaremos estará conectada a la red? Brrrr.
+- Ciudades de 15 minutos (todo cerca, pero el coche debe ser autónomo y dejarte subir según tu carnet social de puntos, decididos por las élites = psicópatas muchos de ellos).
+- Antenas 5G (¿peor que wifi?), colocadas cada poco (para verte mejor), a 26 MHZ (los vacunaos lo sufrirían más probablemente).
+####superamenaza la agenda 2030 es un adorable psicópata con muy malas intenciones.
+####superamenaza la peli de la Fábrica de Chocolate nos pide que nos arrodillemos para coger una moneda que nos dará acceso al mundo oficial lleno de sumisión y estrés Y el estrés pide terrible azúcar de golosina NO precisamente chocolate.
+####superamenaza el ser humano no tiene culpa nos culpan para que aprobemos sus acciones terribles
+####¡Ay esos hoteles que acaparan el agua! Duerme en casas de amigos.
+####superamenaza preg Cuantas más antenas ponen menos cobertura telefónica Preg son para destruir nubes y mandar muchos datos a la central.
+####superamenaza preg cuantos médicos saben que al dar la noticia de un cáncer pueden disparar otro por impacto.
+####superamenaza en África pueden devaluar moneda para competencia desleal de comida.
+####superamenza los nombres de mujer hispanos suelen empezar por a y tener otra lo cual trae riesgo de dominio despótico Llámala An je je No olvidemos que la J al principio implica más energía sin más control.
+####superamenaza un Acuario que no es conspiranoico y vacuna a sus hijos es que hay que ser tonto o aspi con todas las herramientas que da Acuario para pensar con independencia.
+####superren me gustan los semilocos que se comportan con coherencia sobriedad y sólo en breves momentos ponen caras raras para evitar acabar locos de verdad.
+####superren toso con moco bronquial quizás busque un expectorante natural Aha especias ecucalipto miel y limón
+####superrena sal marina si nos falta litio o hay brotes psicóticos o etc Asegúrate de que sea sin refinar Mejor varios recipientes planos al sol para evaporar una semana Remover y poner al aire libre pero sin sol Aplastar y envasar.
+####Ahora trabajaría haciendo satánicos CARamelos que son pruebas para mentes débiles (mel es bere, caramel es paio).
+####superrenac Tu desgracia puede sensibilizarte Tu carencia puede acabar con tu arrogancia Tu enfermedad facilita autoconocerte.
+####superrenace los agricultores tienen un mensaje importante para nosotros Los de Bruselas los quieren fastidiar.
+####superrenacer celebrar sólo lo que yo consiga e interiormente Intentar NO celebrar la caída del malo Dar gracias.
+####superrenacer es muy fácil vencer a las élites son infelices y débiles mentalmente narcisistas Sólo hay que decírselo Que buceen en su infancia Pobrecillos.
+####superrenacer recuerda que muchísimos hombres dicen Soy un macho rechazo lo floripondio en mí y soy mi profesión que NO cambia.
+####Yo pedí una segunda oportunidad a auténticos ignorantes La vida sabiamente me la negó.
+####Cuestiones visuales NO psicologícas:
+- Cada vez más niños tienen problemas para ver de lejos (miopía por no estar expuesto suficientemente a luz azul, aunque debemos dormir totalmente a oscuras, y con tapones je je).
+* Baja luz, bajo contraste, ¿y falta de movimiento propio?, son factores negativos. ¿No es tanto culpa de las pantallas, sino de no enfocar algo lejano lo suficiente?
+* La exposición a luz brillante origina dopamina (entonces, el ojo no crece demasiado), cortada por las gafas de sol. El mínimo dentro son unos 20.000 lux (para estimular). ¿Bueno enfocar hacia delante (poco visión periférica)?
+* Más: Ojo vago (tapar el bueno de 5 a 10 minutos al día). Luteína... Ejercicios de acomodación, ¿enfocar cada vez más lejos (1 metro, 3, 10, y volver)? ¿Sol por la mañana?
+####supersoci dejen de hablar de famosos y de las violentas guerras de nuestros asesinos favoritos en el deporte Por favor seleccionen y vean lo malo.
+####supersoci ser capaz de cuestionarse todo aquello que nos dijeron antes es la clave para acceder a la verdad Está muy oculta a quien no se lo cuestiona todo.
+####supersocio aburrido es quien se aburre No quien No tiene planes ni los necesita.
+####supersocio alguien muy bueno en muchas cosas sobre todo intelectuales y 3D ES CASI SEGURO UN INCOMPLETO Si quieres ser filosófico esencialista y psicológico resuelve tus problemas internos y fíjate en el malo Rejuvenecerás.
+####supersocio LA PERSONA OSCURA convence más QUIEN ES FELIZ CON POCO Y SIN APROBACIÓN es poco peligroso.
+####supersocio olvida la democracia Los agricultores saben que ese pin circular de 17 quesitos esconde algo terrible.
+####supersocio si sabes hacer A o B eres un cero a la izquierda Deja de chulearte y enseña con gran empatía gratis Lo que hace grandes a las personas es La modestia exterior e interior o REAL.
+####supersociolo Niños sin celulares móviles niños felices.
+####supersociología Cada vez que regreso a mi Cuenca Minera veo a gente gritándose Acepto que son así NO soy culpable de su ganadera je je forma de ser.
+####supersociología la constelación agresiva afecta al recto el estómago y vías biliares y pancreáticas. ¡LA LECHE!
+####superamenaza analizamos Zorra canción de España para Eurovisión 2024 (que verán niños):
+- Es un himno neofeminista (respuesta al machismo del siglo 19), que ahora invita al libertinaje, no a la libertad: 
+* "La incomprendida". Típico victimismo neofeminista, que acaba encanijando a la mujer (aunque quiera ser empresaria, imitando al terrible hombre; así, se mata la empoderada vida rural), y haciendo que se queje como un chacal contra el hombre, y que éste se sienta pequeño también. ¡Y cambiando la Ley negativamente!
+* Voy a salir a la calle a gritar lo que siento (como la típica neofeminista con el seso sorbido, enseñando las...).
+* La palabra "empoderado", si no viene acompañada de más, es pura propaganda.
+####supersupersupersupersuperrenacer Filosofía o nada.
+####supersupersuperrenacer Si no crees que la enfermedad es psicológica desaparece TROL matagente por confiar en matasanos.
+####superamenaza el gran enemigo es la actualización tecnológica (los trámites marean; te quita lo que tenías, como conexión a Internet con la desaparición del ADSL o libertad con los espiables y cancerígenos móviles 5G, eres público; todo el día obras en la calle).
+####superamenaza el primado negativo NO es sólo verdad puesta como fantasía en películas para que la tomemos por fantasía y las élites tengan menos karma También son inserciones en nuestra mente que terminan haciéndose realidad Lo material viene de lo psíquico.
+####same Marruecos líder en estupefacientes espía a Sánchez y le pide cosas Poco después Marlaska cierra OconSur organización antitráfico de drogas y la poli se queda solita Se meten inmigrantes ilegales Sánchez cobra dinero.
+####superame pregunta has oído alguna vez que la financiación del ejército esté en peligro Pero la de las pensiones sí Quizás es que tú no has sido nunca la prioridad.
+####superamenaza hay que tener cuidao con el azúcar Cuando la tomo los días son sensiblemente peores que cuando eyaculo (NO con mucha frecuencia).
+####superamenaza o conspi o engañas y te autoengañas Cuidado con la Universidad Remodelada para propósitos oscuros.
+####superrenacer para mí felicidad es no sufrir por nada (estar en el momento presente ayuda). Más parecido a bienestar (ausencia de dolor) que a alegría (es fácil pasarse de alegría, y eso enferma).
+
+####Piscis####
+####Acepto que hay matrimonios que duran, dado que algún cónyuge prefiere sufrir a cambiar (infantil) o está ciego o es inmoral (permanecer con inmorales). Terrorífico.
+####Astro Caro Carnaval la esencia (suena a LeoenPhi). El Carnaval es en Acuario, ¿para qué? CON UNA MÁSCARA YA NO TE MIRAN MAL, ERES MÁS LIBRE PARA EXPRESARTE Y CONOCERTE:
+- Capricornio te lleva al status y el éxito, y en Acuario te sientes vacío. ¿Quién soy (qué nuevo Leo / personaje quiero encarnar)?
+* ¿En Acuario ves que atraes ciertas situaciones y Escorpio ayuda a aceptar mi oscuridad interna? Cuidado al ofendernos y buscar argumentos "para defender nuestra imagen actual": cansa muchísimo. 
+####Astro Cebadera relaciones auténticas (los que te llaman por soledad lo tendrán más difícil); con compromiso interno (los papeles sobran), sin traición, desconfianza o duda. No se jura fidelidad (rotura cuando los valores difieran, ¿y si eres protector de otro con valores diferentes?). Amar es la libertad de volar solo, sin poseer.
+####Equilibrio energía / masculina femenina nos conecta con el alma. ¡Nadi Shódena (yoga)!
+####superren relaciones menos románticas (Tauro) e idealizadas (Piscis). ¡Más pragmáticas, bien!
+####En Piscis nos gusta evadirnos y dolerá deshacernos de nuestras ilusiones, para resucitar en Aries.
+####Canosa 2024 02 20 (Él va de Jeovah, yo, de paios y bere, pero venimos a decir lo mismo):
+- El norteamericano, en la calle pasando hambre. El inmigrante, con casas y dinero.
+* La ruina para los países blancos (cultural...). ¿Augurio de algo terrible? ¿Y la salvación viene de algo judío (enseñanzas de Álex Magno = Hermes Trimegisto a los pecadores paios Kain Iudas)? Hay judíos buenos y no tan buenos (algunos confunden desear mucho, que está bien, con tener mucha materia).
+####ElChicoTriste Esperar tú es la fuerza del político la fuerza del mal Mejor crear y sin IA que mata la inteligencia humana. El fatalismo (filosofía) es NO esperar si NO se va a dar algo con mucha probabilidad.
+####energía Quim Torres del Diablo (orificios en la corteza terrestre con la disposición de La Osa Mayor), buscadas por Hitler:
+1. Níger (conflictivo). 2. Sudán (zona rica en oro). 3. Siria, ¿Shambala (ciudad secreta)? 4. Irak (conflictivo). 5. Turkestán (Montaña "Obelisco", desapariciones). 6. Urales, ¿siberianos? Un sitio con mercurio. 7. Círculo Ártico.
+####energía Quim Huevo de Nostradamus para predecir (viaje temporal):
+- Dentro, en espejo (captura el tiempo, que es una energía, te encuentras mejor); fuera, hilo de plata, ¿como si fueran meridianos y paralelos?
+* Abierto por arriba (usa luz de estrellas en posición concreta; efecto similar a cuando se remueve caldero a un lado u otro).
+##¿Las predicciones pueden ser de mundos paralelos (erróneas)?
+####Al sentir, se miente al cerebro diciéndole que el entorno es lo real.
+####Expediente Royuela el amigo Jaime buscaba una dedicatoria de Mena y acabó apalizado La letra de Mena debe continuar en secreto Si Jesús Gil que sabía mucho viviese cuanta gente estaría en la cárcel.
+- El jefe de los Mossos de escuadra (Febrero 2.024) sabe que el Expediente Royuela es verdad, pero no puede hacer nada.
+* Alvise Pérez, ¿ha vivido lo que cuenta el Expediente? Exclama: ¡cómo no vamos a creer en el ER! Zapatero encargando asesinatos a Mena CNI protege a los del trabajo sucio.
+####Julio 11M. La tele sabe la verdad, pero miente (por dinero...). El PSOE, Francia, Marruecos... son mis autores más probables:
+- ¿El "petardazo" (11M de 2.024, Madrid) fue un rito? El 11 podría significar "fijar algo nuevo" (y malo).
+####Julio García Canal 5TV.
+- Los marroquís violan y roban en Canarias. Muchos viven en hoteles de lujo sin hacer nada. Vendrán aquí. Los bereberes eran buenos; los musulmanes, castigo "divino".
+- RESPECTO AL CLIMA, SE EMPEZÓ SEMBRANDO NUBES (1946), Y SE ACABÓ USANDO EL CONOCIMIENTO PARA EL MAL. Lindon B. Jhonson: quien posea el clima, poseerá el poder. Los NextRad excavan las nubes (ondulaciones): las nubes entran por Galicia, pero no llegan a Cataluña, donde es importante el negocio del agua. ¿Y las mepresas que garantizan una boda sin nubes? Aviones que dejan estelas, ¿aviones del pasado?
+####Julio Villacorta y Pardo:
+- Ley de Restauración de la Naturaleza (fuera agricultores...) genera escasez:
+- Si Villacorta pone todo lo censurado por Google (que domina la publicidad, por cierto), la gente se desmaya, empiezan a comprender muchas cosas.
+- Impuestos SUPUESTAMENTE para Ucrania, ¿para ganar con el negocio de las armas?
+- ¿Mascarillas "NO solidarias" (Telediario)? Político dice: no eres solidario... con mi bolsillo (sólo cobra por las "solidarias").
+- Apoderados de todo partido (y sin los del PPSOE dictando) en cada mesa electoral. INDRA no podría meter mano: publicar en tiempo real los resultados de cada mesa, y fotografías al final obligatorias.
+####psi H Cristian pobreza y riqueza son estados mentales Valora lo que tienes para aumentarlo o disminuirlo NO sufras por lo que no tienes.
+####psi herm Cristian Si aprendemos la lección interna hacia la libertad REAL... da igual que no seamos exitosos para la gente (los padres adoctrinan).
+####psi hermeti Cristian sin crítica y angustia por lo actual que eres y el posterior entusiasmo por lo nuevo NO te puedes transformar Cuidao con el "eh no pasa nada", atraerás idiotas normales.
+####psi hermetismo Cristian cuanto más quieran los malotes seguir como siempre más diferencia habrá alrededor de ellos más bondad.
+####psi hermetismo Cristian 2024 el pintor del futuro Parravichini:
+- El hombre estará en el inicio del inicio (2.024, año del Génesis) y entenderá lo que no entendió (que tenía un discurso egocéntrico, de uso, abuso y descarte).
+- Número 3, ¿instauración de la función paterna (prohibirme cosas malas e incentivar)? Miléi y el PApa (PAterno), pintados juntos. Laléi / miléi del 3, del padre (de pedir a responsabilizarnos).
+####psi hermetismo Cristian Agenda 2030 (el narci tiende a controlar al otro, y si está en lo más alto, échate a temblar: impuestos abusivos, hipersexualización del niño...):
+- Educación y cultura, están tomadas por "socialistas" (digamos). Demonizan o prohíben cosas y lujos que ellos disfrutan: no comas de la manzana (sabiduría), que sabrás lo que sabemos, y NO queremos eso.
+- Hambre cero. En realidad, es un control total sobre lo que comemos (si nos debilitan, ganan / controlan).
+- Mundo sin fronteras significa realmente un único Gobierno Mundial hipercontrolante.
+####psi hermetismo Cristian feminismo real:
+- Mirar la capacidad, no el sexo.
+* Resaltar lo que diferencia al hombre y la mujer, porque las diferencias son éxito / chispa (aunque realmente todos debamos comportarnos masculina y femeninamente, no como machocerrados, que son el problema original).
+* ¿Las bombonas de butano son tan pesadas adrede, son machismo real?
+####psi hermetismo Cristian Miléi y qué personaje quiere ser (yo, mito del Ave Fénix, escorpiano):
+- Dragón purifica, sacándonos del terrible año del conejo de madera. Miléi: mito de Moisés (se infiltra en la casta / los de arriba, como Moisés, y ahora lidera, con sus propios objetivos, diferentes a lo anterior; dice "de 35 a 40 años" en modo simbólico sólo). Escoge fechas "de liberación Histórica" (si es liberación falsa, para machacarlas, cambiar), cumple profecías de Parraviccini...
+* Abrir mar Rojo: dividir entre los que quieren lo de siempre, y los que quieren civilización. Nota: el Moisés verdadero NO es éste.
+####psi hermetismo Cristian cambio para tener más éxito (que está en tus creencias...).
+- La voz "paterna" (genera culpa, como que vinimos al mundo a quitar a la figura paterna tiempo y recursos) "nos dice": NO puedes hacer esto. La voz materna genera deuda. ¡Tu familia NO eres tú, di basta frecuentemente! Ellos te meten creencias a quitar con el tiempo (ocultas o NO).
+* Un cambio psicológico es importante, NO pienses "si cambio, ya no me quiere" (claro que, si curas el asperger, que son 2 traumas, vas a tener menos memoria).
+####psi hermetismo Cristian personalidad emprendedora:
+- Hay gente cuya naturaleza es emprendedora (empresa, "papeleo"...), y hay gente cuya personalidad es de empleado. ¡Y sirven para cosas opuestas, duran días fuera de su naturaleza / estado mental (Diseño Humano te puede decir si empiezas o respondes a: ¿quieres continuar con esta empresa ya fundada?)! El pionero, creo que no es necesariamente emprendedor, simplemente es "un loco diferente" (¿Es también quien empieza a programar en un lenguaje diferente dentro de la misma empresa?).
+* Disciplina, continuidad (NO tomarse mucho descanso), y "soportar bien" socialmente. Más: orden, claridad de ideas, paciencia (respetar las etapas), y seguir a pesar de todo, contra viento y marea (aparte de ver lo incomfortable como una oportunidad de cambio).
+* La creatividad surge de la conexión con uno mismo, no de copiar al otro más o menos.
+####046psi hermetismo Cristian Religión y Política:
+- ¿El político no estaba de acuerdo en ser sacerdote, y cambió el "en nombre de Dios" por "en nombre de mí mismo"?
+* A "todo el mundo" le gusta que le dén falsas esperanzas (el cielo, la subida del sueldo mínimo, que puede ser terrible...) para solucionar los problemas. Pero la Psicología no es atractiva, parece "de locos" para solucionar lo material, y lo cierto es que es lo único que funciona.
+##"A ver para qué me alcanza con lo que tengo": negativo, necesidad. Piensa en lo necesario para lo que quieres realmente (pero eso de "yo trabajo 6 de media, porque quiero un yate", es la frase de un infeliz total, un vergonzoso impotente).
+####psi hermetismo Cristian tecnología atonta y esclaviza:
+- Hace que lo queramos todo ya (acostumbrados a las entregas a domicilio...) y nos frustremos con facilidad, y el proceso de psique interna requiere sus tiempos. Abrimos líneas de tiempo / deseos (gasto continuo de energía) que no cerramos (falta disciplina...).
+* Para no atrofiar, hay que almacenar en nuestra memoria, escribir a boli (gran ejercicio) y calcular mentalmente.
+- El "me gusta" te lo pone muchas veces gente ignorante (sé independiente de aprobación, publica para mejorar la sociedad / psique).
+* NO lo compartas todo, aprende a estar contigo mismo, lo cual es esencial para mejorar como persona.
+* Redes: sobreinformación y subeducación.
+* Queremos lo último en tecnología (para que nos espíen), que es innecesario.
+##30 días, cada día mínimo un diálogo profundo con otro, y conexión emocional con otro, ¿leer en papel? Abúrrete (te salen ideas).
+####Rix superdocumental Yerma2030 acabar con los pescadores pequeños NO con los terribles industriales (que los quitará el Gobierno cuando quiera pa comer insectos):
+- La caja azul de control (GPS, para no pescar en zonas prohibidas...) está cara (y quitaron las ayudas para las licencias). Los de fuera NO la llevan.
+- Criminalizados en muchos sentidos, para acabar con ellos (multas por un pez pequeño de 200...).
+- Sacar un montón de títulos antes de la primera salida / jornal.
+####Santi Royuela y Extebe Farrerons:
+- ¿La mayoría de los masones son narcis / manipuladores?
+* "Te voy a ayudar" (cuando no tiene intención).
+* Caso concreto: vender como joyas del pensamiento parte de la tesis Doctoral (llena de sofismos; a los psicópatas les gustan las citas).
+####Sergio Cebolla pregunta hacemos una superdemanda contra Youtube (por la libertad de la gente). El que trabaja para Youtube y obedece censurando es un delincuente (Youtube incumple sus propias reglas).
+####supa si eres adorable y encantador probablemente no hayas hecho esfuerzos por mejorar como persona todo va muy bien Si te quieren son tontos.
+####supera subvenciones si NO cultivas para cargarse el campo con paneles Ganadería industrial es maltrato.
+####SUPERA SI LA TECNOLOGÍA ES TAN BUENA Y SE APLICA PARA BIEN COMO DICEN LAS ÉLITES PREGUNTA POR QUÉ TENEMOS QUE TRABAJAR INCLUSO MÁS QUE NUESTROS PADRES PREGUNTA QUÉ SE PRETENDE EN REALIDAD TENERNOS OCUPADOS.
+####superame matando a policías en el estrecho de Gibraltar El Gobierno no sólo cuida su negocio de narcotráfico también saca el foco informativo de las peticiones de los agricultores.
+####superame 11M Se lanza el bulo de que fue ETA. Desde USA ya se dijo que NO fue ETA, desde el primer momento. Los trenes / pruebas desaparecen en 72 horas Dejando un carnet como siempre para culpabilizar.
+####superamen Apolo es Ciencia y poesía pero para mí NO deja de ser "burdo" (ni psicología, ni filosofía ni esencialismo: vamos, un peligro creído necesitado de admiración).
+####Control total y eliminación de quien no sea superidiota. La propiedad privada es esencial para la libertad Cuando tienes luchas por conservarlo además.
+####superamen casarse con un psicópata es muy fácil Te hacen creer lo que ellos quieren con suma facilidad Y los criminales salen en la tele condenando asesinatos relacionados con ellos.
+####superamenaza Términos para suavizar Ahora se llama friganismo a buscar en la basura Las élites nos quieren débiles con coliving y Coworking.
+####superamenaza Aznar sabe la verdad y dijo que España NO estaba preparada para la verdad del 11M.
+####superamenaza cuidao con la gente que no se mete con nadie por la calle Pregunta cómo será en casa o con los vecinos.
+####superamenaza España ya es el segundo país de la UE donde resulta más caro crear empleo Por Yoli y Sánchez.txt  
+####superamenaza incendio edificio 14 (= el Papa) pisos en Valencia Febrero 2024 14 Pregunta y si se incendió para desviar la atención sobre el caso Ábalos y PSOE en general Es algo general en los paios y NO ha cambiao nada (sólo se ha camuflao).
+####Marruecos hace pasar su comida por española.
+####superamenaza Laura Pausini Tú y Mil Mares Menudo terrible abandonador profesional Es más fácil aceptar una muerte que tener a alguien que sí que NO.
+####superamenaza los aerogeneradores pasan el aire húmedo a capas altas Pregunta eso provoca sequía y desastres.
+####superamenaza Litio con agua reacción NO deseada Coches eléctricos.
+####Francisco Turrión, uno de los mayores expertos en aguas subterráneas de España, el cual realizó muchos pozos, denuncia:
+- Que en el subsuelo español disponemos de 15 veces la cantidad de agua de todos nuestros recursos hídricos superficiales (el gobierno oculta este hecho, porque vive del miedo que produce: que si los trasvases son necesarios...). ¡Y el agua es un negocio! Y desembalsan...
+####superamenaza, ¿los medios se compraron por los beneficios que la droga da a los políticos españoles? Y van por las vacas (vacunas).
+####superamenaza el yodo fue eliminado del pan en 1987 en España y sustituido por peligroso bromuro de potasio.
+####superamenaza veo que gente con trabajos inexistentes en supercivilizaciones se los toman en serio Son los payasos del hacer.
+####superamenazas DESDE QUE HAY MÓVILES Y TO ESO LA VIDA ES PEOR ERA MÁS FÁCIL CON DESPLAZAMIENTOS Y PAPEL.
+####superre Franco NO era mu malo el Franquismo con gente detrás de Franco tanto de derechas como de izquierdas sí Josep Soler Barberá PSUC fue condenado por Franquismo y República porque era muy bueno y amigo de Alberto Royuela.
+####superren la naturaleza es perfecta harmoniosa en ella puedes estar muy bien sin hacer nada Pregunta y la belleza y harmonía de tu hogar Es más importante la harmonía creo.
+####Cortan el agua en Cataluña pero tras desembalsar lo cual causa subida de temperatura en la costa Solbatación.
+####superrenacer 2 Marzo 2024 Pub la Radio Oviedo. Ambiente cordial y consciente (todo conspis, no gente que se autoengaña por debilidad mental):
+- Marx NO hablaba de los banqueros (era malo Marx). Álvaro, el cómico.
+- El humor gráfico (tan necesario) está comprado (el Jueves, recientemente; Mongolia, desde que nació). Lo dijo ElChicoTriste.
+####superrenacer Carmen París Canción preciosa, Por Favor por Amor (si no ves el cielo más raro este siglo, te autoengañas mucho):
+- Hoy es todo el cielo una gran pantalla miles de aeronaves (aviones...). Estelas que crecen en formas muy raras cubriendo ante tus ojos.
+- ¿Dónde está la gente, que no dice nada? ¿Dónde va el camino en la Humanidad? Flota la anestesia generalizada. Si esto no te alarma, ¿dime qué lo hará?
+- Basta ya de violar al planeta, y de jugar a ser Dios... En el Show de Truman, ya te lo contaban, hoy el clima puede ser modelado a la carta.
+####superrenacer Cerdo Los Meconios respondiendo a Zorra Nebulossa.
+Aquí no hay malos y buenos (cerdo, cerdo)
+No es una guerra de sexos (cerdo, cerdo)
+Has confundido igualdad con querer acabar
+Con mi especie y que ahora sea tu cerdo con collar.
+---
+(Cerdo, cerdo, cerdo)
+Busquemos la igualdad real
+(Cerdo, cerdo, cerdo)
+Pero a ti eso te da igual
+Pues sólo buscas controlar
+A tu fiel cerdo con collar
+####superrenacer españoles que hayan aportao bastante Miguel Bosé y sus canciones sofisticadas Perales y sus canciones humanas Goya y su conocimiento de la sociedad Y Unamuno por lo mismo.
+####hachazo La base de la Carrera de Medicina deben ser la intuición (consulta superior) y la Nueva medicina germánica (demostrada, tabla psique-cerebro-órgano).
+####superrenacer NO hagas vida normal esto es la guerra para echar las élites, pero sobre todo para sacar las represiones de uno mismo la oscuridad genuina.
+####superrenacer Para tener nivel tu colección de canciones debe tener bastante del género marica tipo Duran Duran NO te cierres Viva la New Wave inglesa nuestros superiores je je. ¿Te cagas encima para expresar sentimientos?
+####superrenacer poesía Rix Miguel.
+- Marché porque comprendí (la gente todavía no comprende esta sociedad Marzo 2024).
+- NO es falso que el mal y que el bien sean relativos, una confusión inoculada en nuestras mentes (por los poderosos), que tiene sus motivos.
+* Con miedo NO levantas tu propio mundo (así, ellos conservan el poder).
+- Tú comes bombones, porque AÚN tienes casa y avales. Tanto derroche inútil te hace menos sapiens (seamos felices con poco, no con nada, como pretenden las élites).
+##La sociedad de la Ciencia (la nueva Iglesia) es una Memocracia.
+####superrenacer si los no vacunados son más librepensantes Pregunta hay algo más que decir.
+####superrenacer Suecia saca al ejército a la calle contra las pandillas Esa inmigración masiva BUSCADA PARA DESESTABILIZAR es terrible.
+####supersalud pregunta primero MMS lejía de Trump para limpiar el cuerpo y luego máquina de energía escalar y agua de mar ciertos días.
+####supersalud manía de ordenar puedes decirte NO es lo peor que he visto en mi vida je je o Podría ser mucho peor y ya he hecho mucho.
+####Punto pa la gente del campo, poco permeable a la cultura loca (Drag Queens...).
+####supersoc Los ateos son muy irracionales creen que Dios NO existe exclusivamente por fé Es mejor ser agnostico Realidad recibes información espiritual en tu cabeza.
+####supersocio Alexandre Eleazar (libro Los Bere, 1.985) hablaba de manera innata varios idiomas sin tener conocimiento.
+####supersocio los débiles copian a los demás Los fuertes pueden diferenciarse y llegar a ser buena gente.
+####supersociología El Palleter Ir con notario al Supermercado para cambiar la alimentación ganando el juicio seguro.
+- Coges una bolsa de tomates de fuera, mira el notario (que hay que pagarlo) si lleva pesticidas. Nota de prensa posterior. Cultivando cerca de casa, alejamos el hambre.
+####supersuperamenaza Cuando se dice que hay escasez de agua se dice con malas intenciones España ta rodeá de mares y hay desalinizadoras.
+####superamenaza las élites están creando catástrofes de todo tipo destacaré las meteorológicas Porque se van viendo arrinconadas.
+####superamenaza por error entre comillas se pierden las pruebas contra políticos que hacen como que se pelean y hacen negocios juntos.
+####Árbol Rojo (Yo: cuidado con los científicos NO asesinados, podrían ser SISTÉMICOS) Hay una primera causa que no tiene causa y que es Dios.
+- Hay una inteligencia detrás de crear estrellas... Ajuste fino (137, la constante G... si los cambias un poco, ya nada funciona. Todo es diseño, creación).
+####¿Las relaciones homosexuales pueden causar problemas de todo tipo con el tiempo (habría que quitar los 2 focos de Hamer)? Bailar con mujeres (¿una sólo, tu mejor amiga?) puede ser saludable.
+
+####Aries####
+####Ame En Octubre de 2019 dije a los 4 vientos que lo del 2020 iba a ser una manipulación tras decirlo Rafa Palacios.
+####Médicos están para operar y urgencias Del resto NO se enteran al NO saber de NMGHamer.
+####Astro Cebadera. Cambio progresivo (Tauro, cuerpo físico: activará meridianos para conectarnos con "lo que NO vemos") que se consolidará:
+- Urano y Júpiter juntos son libertad (por conciencia de cómo lo que hago afecta negativamente al otro). ¿En gente de baja vibración causará caos (rebelión, libertinaje...)?
+- Seremos más genuinos (más conexión con deseos del alma, y NO del vecino o la sociedad en general).
+####psi herm Cristian. Tras muchas percepciones erróneas relacionadas con creencias familiares... algo se fija en nosotros y duele que contradigan, aunque sea con la verdad (la familia es nuestro dictador de creencias al que obedecemos ciegamente, por ser un lugar de amor que no queremos abandonar):
+- El dolor (asociado a la "importancia personal" / el ego) es una buena señal entonces (encuentra errores en ti). Claro que, una creencia va asociada a tantos recuerdos, que es difícil de cambiar por otra. VETE A 1.000 LUGARES DEL PASADO Y USA LA NUEVA CREENCIA A FIJAR.
+- La locura (Preguntar a maniquíes cómo resolver tu problema...) puede ayudar.
+- Cosillas de Castaneda:
+* El nahual es la realidad (lo simbólico: psicológico...), que causa lo material.
+* Una piedra cogida "sin ritual" tenía la conciencia de un brujo, y empezaron a pasar cosas malas. Y Cristian uso un ritual para amigarla.
+####psi hermetismo Cristian por la noche ves en qué fallaste a partir de tu lista de prohibiciones y el día siguiente buscas vivir los escenarios que te presenten las pruebas para cumplir esas prohibiciones.
+####semana con restricciones01:
+- Sánchez (cerrar medios informativos por denuncias artificiales) sigue los pasos de Maduro, llegó para quedarse, sea lo malo que sea. ¿Marruecos le obliga a seguir como presidente?
+* VENEZUELA: SE PROHÍBE EL PENSAMIENTO CONSERVADOR. CENSURA TOTAL EN REDES PARA QUIEN MANCHE LA IMAGEN DEL GOBIERNO (AQUÍ EN ESPAâ€˜A YA SE TRATÓ DE HACER CERRANDO TELEGRAM). NO DERECHO A REUNIÓN O MANIFESTACIÓN CONTRA EL GOBIERNO. CHAVISTAS JUZGANDO AL RESTO DE LA POBLACIÓN. Ley terrible llamada "Ley contra el fascismo" (manipulando con el lenguaje).
+- Si alguien sospechoso dice a un periodista "tienes tendencia enfermiza a hacerme preguntas", es probablemente psicópata.
+- Santi Royuela, cumpleaños: informar contra tu pellejo te hace grande, como la lucha interior.
+- superamenaza deportes espetáculo nos hacen esperar e ilusionarnos lo cual nos hace menos fuertes ante la dura pero sabrosa verdad.
+- La broma del covid: primero, que con las mascarillas vale. Luego, que necesitas 5 inyecciones venenosas y... Pasaban autos con sirena, y lo primero que pensaba la gente es, ¡el covid mata! Era una operación psicológica perversa.
+- España, Javi Villacorta. Borrasca Nelson (el de los Simpsons, ¡ja, ja, que os quedáis sin Semana Santa!). Producida por las élites, que odian a los cristianos). Máquinas siguen destruyendo presas con excusas.
+####semana con restricciones02:
+- Superamenaza. Vivo en un sitio en el que si te enfadas con quien no te ha dejado dormir 270 días (además, organizaba fiestas, y se iba pa casa varias horas antes de terminar éstas), te dicen que tienes carácter difícil, se victimizan (insultos). NO puedo mirar bien al clanista / nepotista Eduardo Antonio, tiene el síndrome de Apolo (ámame, que soy muy guay; reforzaría su síndrome. Materialistas amigos de la imagen y de hablar del pasado). Pensaba que salía yo al corredor por afinidad, y era para esperar a que apagasen las luces y se marchasen de una vez (creído).
+* El vecino de abajo depende de los estupefacientes para poder salir a la calle sin armarla. Los consigue en el Club Ciclista (Eduardo Antonio) de Figaredo. JM es teatrero y su mujer oculta su personalidad, y son violentos discutiendo, y como máquinas hablando. JM tiene constelación agresiva y no deja dormir, siendo muy vengativo si no andas por la casa "de puntillas":
+* ¿Es mejor vivir en una futura celda de las élites para todos nosotros, con calorías restringidas, que vivir con gente que cree que te conoce y NO? Me diagnosticaron epilepsia, y podría ser la causante del TOC, aparte de cuestiones genéticoancestrales, Zodiaco, electromagnetismo, química agresiva... Es cierto que debo pasar pruebas de abandono y rechazo, pero a veces es demasiado rechazo (¿o es lo que piensa mi parte Capricornio?).
+- superamenaza los políticos españoles van a los Goya en vez de al entierro de los policías que murieron por quitar ellos efectivos en el estrecho (para favorecer sus negocios de droga).
+- Mejor no hacerse el héroe (palabrotas en Youtube...), y esto estará ganao.
+- Astro Cebadera. Urano nos saca de nuestra ilusoria estabilidad (PGabriel: nos sentimos tan seguros con lo que compramos y hacemos...). NO necesito permiso de nadie para ser y existir (conseguido desde el negativo "no me dejaron ser"). El diferente será valorado al fin. El que no sabe lo que busca (tú haz tests espirituales de misión) NO entiende lo que encuentra. La vida planeada podría morir (ahora manda el alma).
+- Nadal no se recupera porque la salud es NMGHamer.
+####supera Con esta sociedad de obedientes creamos polos gente utilizable por el antiético y gente rebelde sin causa Basta de reglas ya, ¡generan robots que una vez sin reglas, revelan su falta de humanidad!
+####El hombre por lo erótico y la mujer por lo romántico quedan como tontos.
+####Planas (ministro) ofrecerá 18 ["medidas" = trucos] para los agricultores. Trucos: pequeñas tiritas, trampas, cosas que ya existen. Todos juntos, o se acaba el campo español, y se acaba la comida, porque Sánchez sólo abrirá el grifo a saltamontes y similar, prohibiendo importar. Les interesa poner los paneles para hacer daño a acuíferos y plantaciones.
+####Me borraron una imagen llamada "superamenaza de qué sirven los cursos si existe el modelo maestro aprendiz". Decía algo así como que los títulos NO te permitieron ver los engaños de las élites, que faltó inteligencia y consciencia. Y que en una sociedad civilizada servirán como papel higiénico: es terrible tener que esperar tanto antes de trabajar.
+####superrenacer 2024 03 19 preg se acaba un ciclo de miles de años para la Humanidad.
+####superrenacer debo ser libre de elegir y con angustia cuando me importa lo que piensan de mí Para hacer tras profunda introspección y no acabar encajando como amo o esclavo.
+####superrenacer Serpiente y Escorpio junto con los de Jung [introvertidos-intuitivos-X-juiciosos] deben dictar el camino a seguir Eso sí unos son más filósofos y otros más de "plástica".
+####superrenacer Sí es importante evaluarse por la noche para incorporar la experiencia.
+####Tengo que aprender a ser persona (aceptando a los demás, aunque sea como "parte del paisaje", cuando son inconscientes), a quedar como:
+- Un mononeurona (los mononeuronas, realmente, son gente que "huye" de la tranquilidad y con mucho entusiasmo, ávida de novedades).
+- Un vago (lo grave es NO tener objetivos nobles / del alma y hacer por tener miedo a estar contigo mismo. La motivación para hacer debe ser elevada).
+- Un malote (la gente normal es mala / inconsciente, y NO se mete con el malo, es decir, otra gente normal, porque es meterse consigo misma).
+- Un loco (seguir las modas y tener las mismas creencias que el resto... eso sí es estar loco).
+- Demasiado femenino / elegante / sofisticado. Hay gente que se refugia "sólo en el rock" (y los hay peores). ¡Volvamos a los 80, el patriarcado moral volvió en silencio!
+####supersalud epilepsia y toc (obsesión, Plutón y asteroide Sappho / Safo, Silvia Magi). Sólo epilepsia:
+- Malo: vida NO tranquila. Evitar azúcares simples como carbohidratos con alto índice glucémico (pan y arroz blancos, patatas, piña...), dulces, alimentos procesados...
+- Bueno: dormir bien y yoga (¿Vale con el nadi shódena, o hay que "estirarse"?). Vitamina E: fresas, frambuesas, naranjas, arándanos, uvas, melones y manzanas. Omega 3. Hoja verde: espinacas, brécol, lechuga, zanahorias.
+####Preg hablar sobre malos en vez de sobre nuestra psique les da fuerza.
+####superrenacer puedes poner un cartel de pago sólo en metálico Lo que está prohibido es negar el pago con monedas y billetes.
+####superamenaza El gobierno dice que la gente se vacunó voluntariamente (tras un plan que incluía meter miedo y presionar). YA AFIRMAN LA RELACIÓN ENTRE VACUNA Y MIOCARDITIS.
+####superrenacer Peli Están Vivos Rodi el Gaitero se pone las gafas de ver la verdad Cuando llevas tiempo sin pueriles ilusiones ya casi NO duele ver la realidad (la que cuentan los conspis, claro).
+####Acepto a quien me hizo daño porque NO sabe lo que dice y sigo modestamente intentando aprender lecciones de vida sin pretender ser bueno en nada en principio.
+####ame 23 Abril muerte de El BE asesinado por paios Muchas celebraciones del calendario celebran algo malo El día del trabajo hubo una matanza o algo así.
+####Astro Cebadera. Libra en positivo: que ambas partes ganen, sin presiones para que seas igual y cases con el entorno. NO evita conflictos.
+- Tensión: simplicidad Tauro (hedonismo...), complejidad e intensidad emocional de Escorpio (llegar al fondo / lo esencial / lo sabio), y transparencia (poca educación a veces) de Acuario.
+* Tauro ayuda a Escorpio a desdramatizar, y Escorpio ayuda a Tauro a "Ir a su Inframundo".
+####Astro Silvia Magi chispa sexual:
+- Planetas sexuales: Venus, Marte, Plutón y Juno (astro). Cuando se juntan hay chispa (no compatibilidad en principio). Saturno puede crear fijación por una persona, y si ésta parace buena pero NO lo es, defenderás a...
+* Juno (el más sexual y "pasajero"): ¡fuera compromiso (te casas y acabó la chispa)!
+* Planeta sexual romántico (Venus...) con planeta sexual: funciona. Las personas con bloqueos sexuales se atraen.
+####ener Quim astronautas (o se callan o los toman por locos):
+- Escuchan un ladrido, ¿de la pobre perra Laika? Y el llanto de un niño.
+- Ver como pilares de colores. Y el efecto Zoom (a muchos km, ver personas en la Tierra). Dinosaurios.
+- ¿Ponerse en la piel de un demonio astral? Ver cómo se abren y cierran portales dimensionales de la Tierra.
+##Turismo espacial retrasado, ¿porque la gente sería más consciente, y eso es peligroso para las élites?
+####energía Quim preguntas máquina salud QPER 2 (salva vidas):
+- Para un buen voltaje celular, no sobrecargar (las células son como muchas baterías, se reduce la vida útil).
+- A más suave el efluvio violeta / chispa, más salud.
+- Cuidado con usar bombillas. Hay ciertos electrodos translúcidos... que valen.
+##Y recuerda: limpieza energética y emocional (bueno para psicóticos), así como potencia mental: predices mejor, NO te engañan...
+####energía Quim punto ciego del ojo (¿un 10% del ojo, tan grande? Los animales NO lo tienen):
+- Puede hacerte ver destellos...
+- El cerebro se encarga de mostrar una imagen completa (es un truco, se puede decir):
+* Puedes buscar un objeto y NO darte cuenta de que está delante (por el punto ciego). ¿Y si giras la cabeza?
+- Los ilusionistas aprovechan el tuyo para "mover cosas sin ser detectado" (se parece al "mira aquí, mientras yo opero en otra zona").
+####Fran y Quim carga etérica en cosas heredadas:
+- Deshacerse de lo que NO usas (acumula carga negativa), o moverlo / agitarlo.
+- Ropa usada: si el donante tiene buena energía y fluyes bien con él.
+* Chaqueta rockera poco a poco absorbió "de su energía favorita" (pobre mujer). ¿Quemarla (así acaban los problemas económicos...)?
+* Ponerse zapatos de otra persona = heredar sus pesos.
+####Exp Royuela. Santi NO firmó una sola vez en el juzgado (la excepción que confirma la regla) por la operación de su madre. ¿Por qué le persiguen las élites? E Ignacio (Rubio del Pino), su abogado por un tiempo, ¡es amigo del terrible Juez Gadea! ¿Mala suerte?
+####Javi Villacorta USA y UK quieren guerra en Europa para matar blancos y cristianos Primera Guerra Mundial acabó con cristiano Imperio Austrohúngaro Segunda Europa pasa a ser juguete de USA. Y en los nuevos coches te lo espían todo.
+####Javi Villacorta. Los matarratas actúan con el tiempo, para que las ratas NO los asocien a enfermar. Pasa lo mismo con las vacunas. ¿Podríamos actuar como antenas 5G para nuestra propia prisión de IA? ¿Es adaptarse al sistema más sabio que saber la verdad y pensar por uno mismo? NO.
+####Juan Manuel de Prada Las élites dan a la gente hedonismo barato y chivos expiatorios que necesitan para calmarse Esos son los como mínimo semisabios.
+####Julio 2024 03 19. Lo que tiran en el cielo... acentúa lo que ya tenemos (garganta...). Pintan de rojo España (mapa), para meter miedo: ¡es que vamos a tener 34 grados en Sevilla, lo nunca visto! ¿Qué causa el "fallo" de pronóstico? El propio ejército, que debería defendernos, contamina el cielo. Hay que provocar sequía pa vender botellas de agua:
+- Javi Villacorta. Los independentistas son "del Estado Español" (servicios de inteligencia). Su función es "armarla". Más:
+* Legalizar la eutanasia es grave. ¡Sería legal matar enfermos, discapacitados y viejos!
+* Casi todos los políticos que llegan alto, vienen de logias (satánicas).
+####Julio 2024 04 18: los temporales han existido siempre, y hoy los llaman "cambio climático". Dicen que desde los 90 ha subido el nivel del mar 10 cm (con voz alarmante). El Mediterráneo era 2 grados más caliente en la Época Romana.
+- BlackRock... mandan la noticia generada por ellos a los medios, que publican sin rechistar (mentiras, claro).
+####Julio 786 (si eres conspi, tal vez te interese poner en la red a tu programa, la etiqueta de "cómico"):
+- Las "ayudas" para Ucrania, se las queda la Empresa Zelenski.
+- Un crucero contamina lo que 100 millones de coches (se dijo oficialmente). ¡Y el Gobierno se mete con los coches!
+####Julio García Canal5TV (a NO aceptar planes de control de la población, lo llaman "inacción climática. Recuerda que la Tacher empezó a hablar mal del carbón y el CO2, porque los luchadores mineros eran poder para el pueblo):
+- La trampa de los coches eléctricos:
+* Colapso de red eléctrica y largas colas para cargarlos (y son inflamables, y apagar sus incendios sale caro, no puedes usar agua).
+* Olvídate del aire acondicionado, llevar pesos...
+* La "energía verde" sale de guerras en África (baterías), buenas centrales nucleares (las élites se contradicen)...
+- Cuidado con el nuevo sistema feudal tecnológico (son los mismos que los de la energía "verde", con distintos lacayos).
+####Mindfulness: prestar atención consciente a la experiencia presente con interés, curiosidad y aceptación (recuérdate con regularidad estar en el momento presente, lo cual ayuda a evaluar lo que estás haciendo): 
+- El pasado sirve para saber en qué fallamos (tienes más salud y éxito, y eres mejor persona al desreprimir), el futuro, para planificar (sin tener objetivos, nos volvemos locos; y hay que respetar las fases, no quererlo todo ya, si NO, la frustración nos domina; para eso, lo peor son las satisfacciones inmediatas, por ejemplo, las historias muy cortas, que producen personas "adictas"). Con mucho pensamiento, relacionar conceptos se vuelve difícil.
+* Con Mindfulness, aunque experimentemos algo desagradable, no sufriremos (es muy parecido al Budismo). Quedarse sólo con lo que experimentamos sin juzgar, como si fuésemos espectadores de nosotros mimos.
+* Practicando la atención plena hay más compasión (como con el Falum Dafa). Y permite que aparezcan ansiedades y depresiones ocultas. En general, previene enfermedades psicológicas. Además, mejora nuestra memoria de trabajo y el razonamiento verbal, y estimula la creatividad.
+- Técnicas:
+* Respiraciones profundas (con el diafragma, sin asfixiarnos = respiración pulmonar). Similares: método Buteyco (respiración cuadrada): inspirar 4 segundos, retener 4, espirar 4. 10 a 15 minutos al día.
+* Observa tus pensamientos y emociones. Puedes escribirlos (y ponerles nombre, para hacerlos menos extraños).
+* Visualiza imágenes que te traigan calma (un barquito en un estanque calmado...).
+* Observa tu cuerpo, ¿cómo responde cuando piensas en realizar ciertas acciones? ¿Se expande?
+####Miss Cafeína Bla Bla Bla Lo que dice la mayor parte de la gente Normal es negativo hay que ser conpsi soportador de verdad externa como mínimo.
+####psi herm Cris. Nodo Norte, Tzolkin Maya, Diseño Humano... te dicen tu misión, pero necesitas referentes, pues el psiquismo busca identificarse:
+- Referencia: mito del héroe (Hércules nos cuenta realmente un relato psicológico; quizás la gente NO busque escenarios problemáticos para mejorar, porque está saturada, trabaja mucho).
+* A Escorpio le suele ir bien el mito del Fénix (ser irreconocible con el tiempo, renaciendo de las cenizas).
+##Con Nombrelogía, veo "las pruebas que pasaré" (rechazo...). Caigo mal y ya está (eso es fluir con la vida, honrarla).
+####psi herm Cris. Nuestro aparato psíquico gasta mucho en mantener las represiones (las que hagan revivir dolor "no suelen pasar el control de aduana") para ahorrar energía. En general, REPETIMOS, "en contra" de lo nuevo o diferente (de peques, ya sufrimos mucho cuando vimos que mamá NO era nosotros, era diferente).
+- La pesadilla te despierta cuando "estás cerca" de conocer la psique (primero, pasa pruebas sociales...).
+####psi herm Cris Varios:
+- Piensa para qué vino el mal (la vida puede apartarte de tu amor por haber tú mejorao, o de alguien que vino a abandonarte para fortalecerte...). ¿Sabes lo que quieres tras un final (así la vida podría cooperar contigo)? NO resulta agradable ni práctico pensar que si te despidieron con 24 años, tienes que rehacer tu vida totalmente antes de cumplir los 25 (la vida puede sorprenderte gratamente, acepta NO "estar triunfando", incluso por años, tal vez sea parte de tu misión de vida mejorar sin trabajo, y NO quieras tener ahora toda la información). Puedes escribir una historia en la que describes lo que quieres y vas por ello. Y recuerda: cuando "quemas etapas rápido": ego.
+- Los fracasos en sí no existen, existen las ganas de experiencias para aprender (eso lo valoran los espíritus protectores). Recuerda: tienes patrones de fallo psíquicos, NO un fallo en un ámbito, y otro en otro.
+####psi herm Cristian Kybalión explicado:
+- Todo es mente (lo material proviene de lo simbólico / psíquico; se resuelve la psique, lógicamente, para obtener otros resultados.
+- 3: atraemos según captamos y vibramos (y según los problemas psíquicos).
+- 4: todo tiene la misma raíz. ¿Algunas almas grandes se "dividen en hijitos" para autoconocerse?
+- 5. El agua siempre encuentra un sitio para poder seguir. ¿Pensar en tu sistema de creencias como arcilla?
+- 6. Cambiar las consecuencias NO es sabio.
+- 7. Uso correcto de energía masculina (avance...) y femenina (sutilezas...).
+####psi hermetismo Cristian camino del VERDADERO héroe. La escena (o el dolor) deja de darse cuando aprendemos a reaccionar de forma distinta (socialmente, sin que las represiones actúen... Con el tiempo podrás ver la causa psicológica, NO sólo que "reaccionas mal ante cierto tipo de gente, por ejemplo, quien NO es de izquierdas").
+- ¿El maestro (puede ser un malote que te enseñe a pasar de sus propias palabras necias) aparece cuando te niegas a cambiar tu confort / tu ser de siempre? Y al final, el cambio de psique, es lo único que te llevas para la siguiente reencarnación. Una psique "limpiada" vale por 500 supercatedrales. Los artesanos (generalmente, poco empáticos, con complejo de inferioridad / superioridad) hacen una misión material, pero la REAl (mejorar por dentro para dar ejemplo por ser coherente y mejorar la sociedad), la hacen "los filósofos".
+* El mentor aparece cuando tienes una direccionalidad clara de mejorar tu psique (te ves altamente incompleto).
+##Respecto al vídeo: interrupciones frecuentes significan INTERACCIÓN REAL, algo que veo necesario.
+####psi hermetismo Cristian lo psicológico en Jesús (Libro "El Enigma Sagrado" recomendado):
+- NO creo en Jesús (es un mito tras una realidad; estudia en escuelas de misterio), creo en Iezus (precedente) y Carestiu (Santiago, Pablo), que tenía muchos seguidores.
+* ¿Los mitos empiezan en Grecia para tapar la historia bere tras los secretos revelados por Álex Magno a los Iudas? ¿Obere = ovario o mujer? ¿Abere = hombre? ¿E ibere, ambos?
+- Más:
+* ¿El Evangelio de Tomás casa con el objetivo de Jesús (que hagamos introspección)? A veces pienso que la gente que necesita mucho para ser feliz, aparte de no hacer introspección, suelen llegar alto. Ya lo dijo BJoel en "I've Loved these Days": ¡podemos llegar tan lejos (en plan negativo)! Y llegando lejos, te alejas las sabias almas viejas, que disfrutan de lo modesto.
+####psi hermetismo Cristian sé tu padre (AUTOPROHIBIRSE Y DIRIGIRSE INCENTIVADAMENTE), NO el de los demás:
+- Cómo funciona mi psiquismo es tan importante como el funcionamiento de un coche para un mecánico. A los 7 / 8 años ya estamos muy averiados psíquicamente, en parte por copiar a la familia (y reprimir las creencias que nos hacían mucho daño).
+* Todo gira en torno al ego y su economía mental (y se necesita más para llegar a la verdad).
+* Las psiques no limpias (malas) y la necesidad de validación externa, van unidas.
+* El complejo de superioridad (el de "mostrar"), está para tapar el de inferioridad (que es doloroso: que si NO sé hacer esto y es importante, porque si no soy normal me hundo... Pamplinas; pero otros complejos de inferioridad descubren partes peligrosas de ti).
+- Hay que ser diferente al esclavo normal y seleccionar gente elevada (eso es ser ético), aunque te duela su forma de ser porque NO has mejorao.
+* Al ego le interesa tener razón (cuidado cuando quieres tenerla sin más, sin pensar en una sociedad mejor).
+##EL OTRO PUEDE DECIR SANDECES, PERO INCLUSO ESO HABRÍA QUE PODER SOPORTARLO.
+####supera el único tipo de malo es el que se cree bueno como los psicópatas que dicen que lo suyo es peor que lo tuyo o los apolos que la madre les dijo que eran maravillosos y ahora no los puedes rechazar por su ropa molona Buag.
+####Dientes NO naturales, ¿peligrosos? Cuidado con el azúcar, que es más de lo que parece. Cuando regalas azúcar...
+####superam las élites quieren que te fijes sólo en lo evidente síndrome de down vs invisible TOC Les conviene por ser psicópatas.
+####superam psicópata hace daño falta empatía Si tiene 2 caras es narcisista Psicópatas primarios tienen menos cerebro si es el 11 son perversos narcis si el 22 sólo psicópatas Secundarios imitan al primario narci Terciarios el resto.
+####Nos lavaron el cerebro para que fuéramos receptivos al guerrero inmigrante africano En unos meses todos con chilaba.
+####superamen el astro Juno es de infieles Reyes España y el astro Xantus es de narcis psicópatas Guillermo de Inglaterra Destrucción a su paso Odia a narciCamila y a Harry.
+####superamenaza antes se pasaba todo oralmente entre generaciones pero el poder empezó a informar con sus instituciones y escritos Para cortar la sabiduría.
+####supera climática Vosotros no podéis entenderlo porque no sois climatólogos:
+- La temperatura sobre Japón está aumentando más rápido que el promedio global. Ministerio de Ambiente de Japón
+- La península coreana se está calentando a una velocidad más rápida que el promedio mundial... Así, muchos países: CONTRADICCIÓN / MENTIRA / MIEDO.
+####superamenaza coincido con la extraña Espe Aguirre en que el PSOE NO aceptó la alternancia política (años 30) y que Largo Caballero del PSOE el Lenin español dijo que o ganaban las lecciones o habría sangre.
+####superamenaza el 23 Abril murió también Cervantes NO sólo el BE Y las élites decidieron que nos olvidásemos de él un poco poniendo en esa fecha el Día del Libro Les gusta la muerte a las élites.
+############################superamenaza El Juez Presencia encarcelado como venganza por denunciar al malo NO tiene propiedades ni na es honesto Quienes lo acusan tienen de to.#################################
+####superamenaza Esto de que se acaben los teléfonos fijos / ADSL en España salvo si tienes fibra es otra estratagema de las élites para marear. Que fracase y volvamos al pco cancerígeno 3G.
+####¿Trump es negativo y está para construir "El Tercer Templo", que se supone negativo? NO lo descarto, pero creo en su papel positivo (aunque sea un materialista), como pasa con Miléi (¿sabes "leerlo"?). ¿NO hay salida política? Somos espíritus el el mundo material, ¿y hay que cambiar la psique para que cambie lo material?
+####superamenaza las avionetas de apagar fuegos tiran un agua que envenena Pregunta todavía crees que las élites no provocan incendios adrede.
+####superamenaza Los de arriba NO creen en la bondad (alentar a la autocrítica psicológica; NO culpabilización al otro: "contamináis mucho") y realmente NO la viralizan.
+####superamenaza Marruecos lo sabe todo de Sánchez y Feijoo. NO deben gobernar. ¡Ninguno!
+####superamenaza mi vecina de abajo Mercedes obliga a su Juan Manuel a salir al corredor a saludar para aparentar Él tiene mucha labia y se camela a la gente Al volver adentro vuelve a ser él Ella NO debería dominarlo así.
+####superamenaza ni wifi ni 5G etc abejas muertas La tecnología ha crecido demasiado.
+####TODA UNA ENORME GUÍA PARA REDUCIR LA LIBERTAD DE LOS MEDIOS DE COMUNICACIÓN CUANDO HABLAN DE INMIGRACIÓN EN ESPAâ€˜A Yo la tengo.
+####superamenaza soy una empresa que pretende despedir a 200 Digo que necesito despedir a 400 Tras una reunión con los sindicatos digo 200 y tanto yo como los nulos sindicatos quedamos como buenos.
+####Si tienes algo de dignidad pensarás esto Nos merecemos estas élites por ingenuos.
+####Esto es una felicitación de cumpleaños Felicidades majo Tal vez este año un poco duro pero mágico (para mejorar internamente) me levante por fin tempranín a hacer cosas que me llenen Y copie más cosas de gente como tú (es consciente / raro para el 2.024).
+####superrenac Imanol Arias quiere ser humano y feliz por encima de los inmorales éxitos científicos. ¿Estás de acuerdo? Cuando estamos de acuerdo, somos imparables.
+####superrenacer no quiero que pienses como yo quiero que pienses. Pensar incluye que cuando veas que opiniones diferentes sin más te causan dolor, veas que hay algo malo en ti. La angustia es buena en este caso. Pregunta cuál es la vida elevada y de qué podemos deshacernos para no vivir como "heroinómanos" de viajes y cosas.
+####Preg los padres de Gates hablaban con normalidad de reducir la población A las mafias que traen inmigrantes las llaman ONGs. A los políticos los eligen a dedo pa cada partido sean del signo que sean.
+####YERMA2030 (tenlo claro, las medidas "ecologistas" matan):
+- EXTRANJEROS EN GRANJA, 2 Aâ€˜OS, Y DESPUÉS, A VER SI COBRAN ALGO. Y se van.
+- Pescadores, obligados a NO salir de su zona (que termina sobreexplotada), mientras que ciertos pesqueros (extranjeros...) tienen libertad.
+- Planes de extinción de incendios por los que se cobran millones (el político), ¿y por eso se quema en parte?
+- Los eucaliptos, ¿no arden? Los plantan (y donde están no hay vida), esperan unos 15 años, y vienen a talarlos sin mayor preocupación.
+- En españa hay demasiada energía, ¿para quién son nuestros contaminantes molinos y placas?
+- Precios bajos (para atacar al agricultor), y los agricultores pican recibiendo dinero por algunos paneles solares. Los distribuidores (Iberdrola...), no los de los paneles, consideran toda tu parcela bien público, y terminan expropiándotela.
+* Al compactar la tierra para los paneles, se crean canales que, cuando llueve, pueden verter a carreteras...
+##Los ecolojetas impidieron desbrozar, y luego ardió La Sierra de la Culebra en Zamora.
+####Sí creo en la generación espontánea Pasteur fue un farsante Magna Ciencia II es bueno Es el terreno (pensamientos, emociones y represiones) y NO el patógeno.
+####ÁrbolRojo Dios existe Excepcionalidad humana (muy potentes, pero físicamente bastante indefensos. Estamos aquí para evolucionar almas).
+- NO creo en Darwin (la barba no te hace más respetable; es una falsa mejora superficial, un engaño; los de oír son más elevados, y los que pasan de los sentidos, mucho más; Tauro es el más peludo y femenino a la vez; ¡a afeitarse y vestirse con túnicas cutres!).
+- Sólo una especie entre millones es humana, con un hueso esfenoides tan "curvado". Somos creados / diseñados.
+####ÁrbolRojo Dios existe La Tierra (¿que podría tener menos de 10 millones de años?) tiene barreras protectoras, sol benigno (estable...), Júpiter protege de meteoros (impactos)...
+##Yo: ¿los planetas piensan, se mueven "a placer" (la Astrología funciona)? ¿Y "quienes" hacen planetas habitables?
+####ÁrbolRojo Darwin estaba equivocado. La célula es irreductible, no hay antecesores, ¡es un diseño, creación! Y es complejísima (y cierta gente de la calle da mil vueltas a los licenciados).
+- Muchos científicos ateos cambiaron de postura, y es que el mayor descubrimiento de la ciencia moderna, es Dios. Y la intuición es la gran dadora de novedades científicas.
+####ÁrbolRojo Preg Apocalipsis Agosto 2027 Nostradamus NO daba fechas y quieren desacreditarlo citándolo junto a fechas Preg tras interpretar acertó el año de inicio de la segunda Guerra Mundial.
+
+####Tauro####
+####dir 80's Singers Then and Now in 2024 | They Still Look AMAZING!!! #1
+####superrenacer Voy pa Gijón con la alegría en una mano y la aceptación de dolor próximo en otra Blindao je je Ojito ser positivo como los sabios Y también optimista como los inconscientes.
+####superrenacer. Revolución Integral (transforma a la gente profundamente): servicio DESINTERESADO (exige abandonar muchas actividades actuales). Nuestras acciones son la mejor publicidad (yo como poco desde hace un tiempo, sé vivir sin bañera o ducha... Salgo barato, que es lo importante):
+- Hay que cambiar primero uno mismo, y luego demostrar con el ejemplo que nuestra cosmovisión fraternal es materializable, que no es mero discurso. La más bella de las sonrisas esconde por lo general, gente con miedo a mirar dentro. Curiosamente, en muchos de "los amigos de la naturaleza" suele esconderse la puerilidad psicológica, y es que si te centras en la materia, el cuerpo... NO veo bien lo de "escaparse" y hacer el hippie.
+* Los procesos de transformación personal son arduos, complejos y prolongados. Sin una ética / moral que escojamos libremente y nos esforcemos diariamente por cumplir... mal vamos. Las sociedas que se autocritican psicológicamente, reciben "regalos".
+####supersocio begetal pregunta significa ascenso de la gente bere.
+####superrenacer Un sabio escoge actividades que puede mantener de viejo Aplica Psicología y serás menos activo.
+####Los miembros de la comunidad Mensa tenían tasas considerablemente más altas de trastornos (Estados Unidos). El doble en cuanto a trastornos de ansiedad.
+- Las personas intelectualmente superdotadas son más sensibles a los estímulos del entorno (si además son de "ver hacia dentro", difícililmente percibirán el amenazante exterior, pobrecillos). Muestran un sistema nervioso central hiperactivo entonces (probabilidad de escucha y atención deficientes...). ¿Y se cansa antes? ¿Y es más irritable NO?
+* Una gran parte de estas personas se alteran ante cualquier ruido. ¿Tienen un componente asperger, aunque sea leve? Hay que curar ese asperger (inteligencia integral menor), ya verás cómo te baja el Cintelectual, creidillo je je.
+* Muchos NO están acostumbrados a esforzarse en clase, tienen depresiones...
+####La tele dice NO te drogues etc Pero los que controlan la tele controlan el narcotráfico y todo.
+####TPL incluye o es igual a constelación agresiva o enfermedad del abusón Hay que comprenderlos Pero buscan enfrentamientos a veces sibilinamente Y el niño pudo haber construido una imagen de macho poco tolerante para llamar la atención de los padres.
+####Plutón (desocultar) retrograda para llegar en Noviembre a Acuario (revolución) 20 años.
+####ExFiscal Mena escribe sobre Marino Barbero amenazado y éste dimitió Iba a contar la verdad Mena pensaba asesinarlo Rodríguez Ibarra le recriminó el meterse en politca y le comparó con ETA El PSOE es peor.
+####Francia Hitler Ucrania todo conectado. Alexandre Eleazar:
+- Finales de 1941, fuerte St. Nicolas, Marsella. El régimen de Vichy encarcelaba a todo aquel que protestaba contra la ocupación alemana. ¡Sí!
+* Un tal Poncelet quiso volar para defender su aeródromo, que estaba siendo bombardeado por alemanes. Su capitán se lo prohibió, pero desobedeció, y en Barcelona un caza alemán le obliga a aterrizar. Todos los oficiales superiores de la aviación francesa estaban en el ajo (fusilando pilotos franceses) y habían facilitado la destrucción de todos los aeródromos y aviones franceses.
+* Era un plan internacional para destruir la Rusia comunista. Hitler fue alzado política y económicamente "por todos". Parte de la burguesía inglesa quería deshacerse de Lenin, que hablaba frecuentemente mal de la burguesía cristiana (sin principios morales, y con imagen para engañar). ¿Ucrania es un agente para intentar de nuevo conseguir Rusia?
+* Black Rock (asociada con Ucrania desde hace poco) es la mayor financiera del mundo, principal acreedor de África, principal poseedor de casas, pisos y tierras en España... Está con los presidentes demócratas... Odio a Rusia: Mike sullivan o Victoria Nuland (trabajó para abortar los acuerdos de Minsk, involucrada directamente en el golpe de estado contra Yanukóvich). Ella tiene intereses económicos en Ucrania, y le gustaría europeizar Rusia. Como dijo un militar alemán: Rusia es un país directamente gobernado por Dios (Los Zares eran buenos / bere).
+####Recuerda soñar a lo grande y empezar por algo pequeño.
+####Y hasta en Túnez protestan por exceso de subsaharianos. El Islam vive de subsidios europeos que deben suprimirse.
+####Dinero NO mucho Producir cosas de sabio sólo (los "currantes" son muy mala gente, suelen enorgullecerse de hacer cosas inútiles, y critican al filósofo) y hacer cosas desinteresadamente y sin prisas. Trabajar mucho embrutece.
+####superamenaza Una mujer confiesa haber asesinado a su hija de 4 años sólo para hacer daño a su exmarido.
+####superren La cosa va así Gente encuentra información Otros o los mismos la publicitan y gente como yo recopila y acaba contando qué es lo importante de la vida.
+####Cuando el ser es obligado a creer en sí mismo (decir lo bueno que es a una empresa...), cuando en realidad no tiene ningún tipo de autoestima, porque se la robaron en la infancia, en el marco de un sistema esclavizante, buscar "el tesoro" (desreprimir para sacar tu yo real) se vuelve imposible. La idea generalizada es que la vida se ha hecho para disfrutarla al máximo y que el placer es el único tesoro. El "de algo hay que morir, vamos a probar eso", la vida a través de los sentidos (sin profundizar)..
+####Da igual simplemente sentirse manipulado NO siempre estamos en guardia.
+####semiamenaza Acuario compite con el mundo entero Puede batir un récord guiness en comer perritos calientes o en aguantar la respiración bajo el agua con un traje de sevillana Virgo quiere ser el mejor y trabaja.
+####superamenaza a más vacunas más autismo Las élites quieren robots aspergers gente que NO piense por sí misma.
+####superamenaza perfeccionar o masterizar una actividad es malo competitivo suena a complejo de inferioridad / superioridad.
+####De peor a mejor: Pesadilla auténtica control total Comunismo pesadilla Izquierda colectivista victimista Derecha colectivista esclavista Capitalismo mejor de regateo Comunal con autocrítica de psique.
+####supersociología 11 Febrero muerte Horacio Pregunta mensaje para Luisma el ATS que cumple casi justo 6 meses después.
+####supersociología ser servicial NO hace que te amen hace que te usen Ten objetivos y deseos nobles y critica al que quiere demasiado y eso.
+####superamen subsidios a inmigrantres en Suecia hacen que NO busquen empleo y entonces NO se integran Van a guetos donde se forman bandas criminales.
+####superamena Desde el siglo 18 algo terrible empezó algo muy masón Un maestro de escuela puede alienar mucho más que un cura y ahora las élites son bandas de criminales que se encubren unos a otros.
+####superamenaza fraude electoral Cataluña. ¿Todo escrutado tras 2 horas de cerrar las mesas? A VOX lo dejan con el mismo resultado para que la gente NO hable, ¿pero realmente ganó, en vez de el ganador oficial, PSOE? ¡Propón ayuda al PSOE de Cataluña a cambio de terminar con los "independentismos", y quedará retratado!
+####cierto psicópata pregunta con simpatía obtiene información para hacerse tu amigo por así decirlo Ejemplo el típico psicópata de estación de bus que tras darle un euro te pide otro.
+####superamenaza cuidao con baldosas de grafeno Esto de peatonalizar compulsivamente es para amplificar señales cancerígenas.
+####¡Cuidao con los hippies! Muchos son amantes de la belleza que se han quedao ahí pensando que es lo máximo, y eso está a años luz de la Psicología REAL (avanzada). Escorpio tiene la llave, y otros... la falsedad / la imagen.
+####superamenaza Primero izlamizar luego controlar a los islamistas que es más fácil que a los blancos Primero crear Israel luego transformarlo en algo peor matándolo.
+####superamenaza trabajo Si según la teoría de los ritmos circadianos coordinamos mejor y tenemos más energía a eso de las 15 horas Pregunta por qué eso de madrugar tanto. El trabajo asalariado NO debería existir: trb = rbt = robot = esclavo.
+####Las mujeres al desdén parecen bien Cuanto menos artificiales mejor Aunque el look postpunk new wave etc El erotismo se da con la imaginación NO muestres.
+####superr por qué a muchos les duele que los acusen NO estamos aquí para ser limpios ante los demás. Y cae mal al malo, si con eso consigues que quiera evitarte. Y que NO te duela que quieran mucho al malo.
+####superrenacer En mi época de miedo a ser femenino NO me gustaban ni PSBoys ni PCollins. Haz la prueba de si eres peligrosamente cerrado.
+####NO te olvides de la supercurativa máquina QPER-2. Y vale la pena abandonar actividades para hacer ejercicios sanos.
+####empresa Cuni mobilhomescuni Casas desde 2500 euros ¿Un paso hacia las jaulas que las élites quieren para nosotros? Y todo lo móvil, es menos potente.
+####ME ATREVO una persona con signo principal en Aries ascendente en Tauro y Luna en Géminis NO puede ser alma avanzada.
+####superam Mis Cafeína Bla Bla Bla Autoridad moral del borrego sobre el despierto o diferente.
+####Diablo puede estar en mujer respetada que ayuda si NO te ve muy diferente NO es la Capri que está hasta que aprendes.
+####Sólo hay 2 sexos, porque sólo hay 2 psiques, 2 formas de enfermar (NMGHamer): el trauma impacta en el hemisferio izquierdo o el derecho.
+####superamenaza Peter Gabriel Big Time Me parece que ir con los tiempos y decir Qué gran momento vivimos por los inventos es una gran prueba de inconsciencia.
+####same en los efectos secundarios de las vacunas NO se puso adrede el cancer y problemas autoinmunes.
+####Astro cebadera. Júpiter (sentido de las cosas y la vida) nos ayuda a confiar en la vida (lo "malo", ¿incluye que la vida te cierre caminos?... viene por bien). Cuando algo se te presente, confía en el instinto. Júpiter también intensifica situaciones para que "veamos por fin". Géminis muestra nuestros patrones de pensamiento. Con Géminis nos desestancamos.
+####energía Quim humanos en la Antártida:
+- Roberto Rengifo habla de migración de la Antártida a América (yo no creo en la migración de Asia a América, pero sí del Pacífico o Europa a Asia). ¿Aperturas dimensionales para emigrar?
+* Los paios vivían en la Antártida (del Manaos original, su capital), pero sin tanto frío, ¡La Antártida se movió hace unos 12.000 años! Eran tecnológicos (los negros, NO). Los del Sol o heliocentrismo (soy Geocentrista) son paios, bajitos y poco peludos (salvo si se mezclan con mujeres bere secuestradas).
+####Fran y Quim carga etérica en cosas II:
+- Cuidado con los museos y el coleccionismo de antigüedades (radios, ¡cascos de una guerra!...).
+* Una habitación puede influir en toda la casa, ¿como las fotos a la vista de muertos?
+* Libros en el Monasterio de El Escorial (ambiente "alocado" y denso): tienen energía dominante: ¿y su energía intenta echar a quien "sabe de su poder"?
+- ¡Espejos en hotel! ¿Tapar?
+####Frank Parejo 3 caminos de mejora. NO es Cristian (que se basa en que la mancha la tienes tú, y yo, y así se mejora la sociedad; con eso basta), pero también es bueno. Yo: transita el camino del guerrero (limpiar psique), mercader ("tacto"; hay que ser buen guerrero antes) y mago (hay que ser buen mercader antes), trascendiendo tus reacciones de víctima, salvador y verdugo (3 roles negativos):
+1. RENDICIÓN (2. SERVICIO Y 3. GUERRERO). Rendirse a la evidencia de que hay fuerzas NO materiales influyendo (¡tus represiones, que te manejan inconscientemente, por lo que la intención NO cuenta / será contraproducente!):
+* ¿Los espíritus crean las "casualidades"? La vida te lleva por sitios y te impide llegar a otros (incluso el éxito en los estudios superiores suele estar vedado a almas viejas, gente intuitiva...), para que realices los deseos "del alma" (se ven mejor cuanto más consciente eres). Quita miedo, creencias limitantes, traumas = enfermedades...
+2. SERVICIO (SÓLO COSAS ULTRANECESARIAS): ¿SATURAR CON INFORMACIÓN ES VIOLENTO, NUNCA SERVICIO?
+3. GUERRERO. Atrae escenarios para tener problemas y solucionarlos (experiencia para la psique, y entonces, viene más fácilmente la solución psicológica, tu psique NO la ocultará tanto). Recuerda que vas a hacer sentir a muchos mal sin ser culpa tuya, tú eres su prueba.
+##La vida es sabia, NO busques controlar tu destino (y cometemos fallos, están en el camino del éxito). Y los gurús... NO son honestos con ellos mismos.
+####FRMora Economía sin lucro:
+- Yo. Antes del 18, había Capitalismo, y NO era tan inhumano como el de hoy:
+* ¿Quién se cansa pronto (piensa muy rápido, tiene inteligencia femenina / intuitiva / humana, que consume mucho más que la "de robots")? ¿NO piensas en él, como humano que se supone que eres? Hoy (2.024) se requiere memoria tonta (NO selectiva).
+- Félix:
+* ¿Todo el Capitalismo español está subsidiado por débil (y porque les interesa a los malotes: empresas esclavistas que hacen crecer)? Si la gente está colocada, NO piensan (el finde a la disco y...). ¿Quien dice que las empresas grandes deben pagar más, se ríe de nosotros, intentando parecer bueno?
+* El Partido Verde alemán es el más belicista y econoControlador (frena la economía rural...).
+* Muchas empresas están diseñadas para la economía de guerra (y el ejército consume mucho, trabajaríamos por nada).
+##Más (yo):
+- ESFUERZO INÚTIL (se debe parar): producir "moderno" (innecesario) y variado. EN MÚSICA, CON 100 CANCIONES VAMOS QUE CHUTAMOS.
+- Los préstamos son antisabios. 
+####FRMora Feminismo oficial y mujeres obligadas a luchar en la Guerra muy relacionados.
+####FRMora hacia el Comunal. El 95% del sistema financiero sobra, y debemos dejar las empresas "que hablan del sexo de los ángeles", estandarizando la producción de PCs... Así, hay más tiempo para para estar con uno mismo, sufriendo (si NO eres avanzado. Hay signos del zodiaco filosóficos o espirituales, que intentan que lo burdo NO abunde, y también "curran"):
+- El tiempo de trabajo podría ser una buena medida de cambio (cambiar uno de A por 2 de B, que se hace en poco tiempo). También es muy importante lo que valoras algo.
+* Enseñar al otro desinteresadamente es muy importante. Y NO preocuparse por competir.
+- A guerrear cuando NO se producía (quizás por haber demasido dinero).
+* Cuando el psicópata llega al poder, tiene que hacerse el héroe (y la gente confía en quien tiene un buen pulso, aunque eso signifique ausencia de empatía). Impuestos en dinero: si NO tienes, te expropian.
+####Félix Rodrigo Mora. La teoría económica justifica a los ricos, y poco más, realmente.
+- La empresa es el Infierno de la producción (ruralmente, puedes producir menos, pero más por hora):
+* Derroche de tiempo (y trabajo deprimente, intenso... Se recurre a estimulantes terribles. Se enferma, y la calidad desciende. El alcohol posttrabajo amoraliza). Sean comprensivos con la gente en general. Yo me tumbaba al volver de la Universidad (me levantaba a las 5:30 más o menos), NO aguantaba más.
+* La empresa crea sumisos, títeres que NO cuentan para otras tareas (pensar, dar apoyo moral acompañando sin criticar...). Hace mala / competitiva a la gente. Ir de vacaciones y quedarse en casa prácticamente son lo mismo: liberación de las cadenas. Cuiden a los niños (o los conocidos).
+- Más:
+* Se escriben libros (ordenados por el sistema enfermo) para que creamos que les importamos.
+* Muchas mujeres optan por callarse (la empresa es "de los psicópatas").
+* Antes, el trabajador tenía mucho que decir (¿se negociaba la forma de trabajar?). El siglo 20 es bastante peor que el 17. ¿Escuela y empresa = ejército?
+* Más gastos: coche, cursos de cosas NO necesarias...
+####FélixRodrigoMora el Sócrates Real y lúcido (ejecutado por las élites por antisistema):
+- Decía que la ciencia debía sustituirse por filosofía moral y política (a la vez). NO quedan filósofos, sólo profesores de Filosofía (A dijo esto... NO forma).
+* 3 horribles: Platón (lo terjiversa), Aristóteles (partidario de la "alegría", no de la vida buena con dolor) y Pericles (acabó con la libertad del pueblo). 
+- Más ideas de Sócrates:
+* Cultura oral (NO manipulada) y sabiduría popular.
+* El conocimiento debe ser "total" (NO especializado), para la transformación positiva del individuo (conócete a ti mismo). Hazte preguntas sobre ti a partir de la experiencia.
+* Usar poco el buen dinero. Expropiar a ricos (si tenemos creencias apropiadas para emprender). Epicuro (el del placer y el jardín) era esclavista, vestía "a la moda" (superficial)...
+* Una sociedad antiverdad promueve el placer, el bienestar, el gozo, el juego, el ocio, lo superficial como el poder...
+####Bor-bón. Bor poner los cuernos NO los pongáis nunca es un gesto que quieren los malos que hagamos Bon huesos algo paio.
+####Julio García 796. Julio habla lento, pa la gente avanzada, NO de la imagen:
+- El único partido que preguntó a Ábalos (cabeza de turco del PSOE) para sacarle cosas fue VOX (NO digo que sea un superpartido, pero...):
+* Dijo que NO sabía lo del Covid (lo mejor para endurecer las reglas), ¡y yo lo sabía desde Octubre del 2.019 (Evento 201: simulacro calcado a lo que pasó en 2.020)! Los políticos memorizan casi todos lo mismo sobre el CV, para mentir.
+* Ábalos se encontró en un Aeropuerto con Aldama (primer comisionista del tema de las mascarillas).
+* El Congreso de los Imputados (y NO me río).
+####Julio García 798:
+- Elecciones en Cataluña: oficialmente hay un 42% de abstención (la real es mayor, ¡vamos por buen camino!). Cuando "votas a gente" (NO a acciones), pierdes (salvo con IustitiaEuropa...).
+* Puigdemont NO es "Catalán", es la típica barrera / distracción que ponen los del centro del país.
+* ¡Que se sume lo contado ya, porque NO se suma, todos ["se fían" de / obedecen a] INDRA! Suma PSC + otro = otra suma: el ordenador "calcula": si NO sale por esta vía, sale por la otra.
+- Con el peligroso Haarp produjeron auroras boreales. Lo de ahora (máquinas de las élites) es todavía más peligroso.
+- Inyecciones para enfermedades creadas por la del covid, ¿en serio? La gente se muere por mejorar, probando cualquier veneno.
+- Una profe (cambiamos de Javi a Sergio) estaba exenta de llevar mascarilla, y se le hace acoso laboral .
+- Las televisiones caen, y nos lo ocultan. La pena es que sea porque youtubers ignorantes, Netflix... suban.
+####Julio García 798 02:
+- Más de Sergio: las élites facilitan nuestra pobreza (la aumentan poco a poco, sin que se note que son ellas), y nos facilitan "evadirnos" (sin pensar) de la "vida" que nos ofrecen.
+* Yo: mejor pensar en mejorar interiormente (para mejorar la sociedad) que desear basándonos en la necesidad (trae necesidad). Los deseos podrían venir de hacer tests espirituales. Los Aurones: sociedad 10 (sabia), sin "calidad" (visten harapos). CERO envidia de los ricos (enfermos la mayoría, aunque exitosos por sus creencias).
+- Más:
+* Espiritualidad es hacerte las preguntas adecuadas. ¿Qué hago aquí? ¿Por qué estoy como estoy (pobreza, enfermedad, necesidad de placer, necesidades en general...)? Mirar dentro (autocrítica) es espiritualidad. Lo de relajarse... es un complemento (e impide que seas tú y por tanto, que te autocritiques).
+* Con miedo pruebas de todo (vacunas...).
+* El ser humano se siente a gusto en la masa (la Escuela hace masa).
+####psi herm Cris aprende a negociar:
+- Nos podemos encontrar con gente que expresa su incompletud (verdugos, salvadores y víctimas), y "hay que negociar con su inconsciente" (también pueden venir a enseñarte algo relacionado con tu deseo, para que mejores). La teoría del Wu Wei nos enseña en parte a "quitárnoslos del medio con cierta elegancia" (NO necesariamente enseñándoles una lección):
+* Salvador (espera a que suceda algo, o quema etapas muy rápido, o se las salta: ansiedad, por así decirlo). Es "perverso". Forma de alejarlo: inversión ("lo que traigo te va a salvar").
+* Verdugo / ajusticiador (culpa hacia fuera; si culpas a alguien que mira hacia dentro, ¡eres ridículo!). Psicótico. Llévalo al extremo (ponerlo de los nervios...).
+* Víctima ("NO logro esto por el otro"...). Neurótico (histérico u obsesivo). Si se queja, tú, el doble.
+##Deseando. Hacer como "si ya tuviera el resultado" (imaginarse que ya tienes las llaves de una casa...), es una barrera. ¿La clave es identificarte con lo que deseas (soy Luis Dinero je je)? ¿Y con una persona modelo que lo haya conseguido?
+####Educación:
+- El segundo [ciclo / carrera] de Ingeniería Informática me resultó pesado (mucha teoría, y práctica cansante). Lo básico supondría unos pocos años, y se podría transmitir (tras un año de base, con profesores) "de maestro a aprendiz" (sin tener que pagar la gente mi educación). Tests de misión espiritual, ¡ya!
+* Las almas viejas NO suelen ir a la Universidad, almas pragmáticas a la par que filosóficas y esencialistas e intuitivas (NO de sentidos). NO entusiasmadas ni memorísticas.
+####psi herm Cris. El camino de la bondad y de conseguir lo que NO puedes tener de momento es Psicológico y doloroso: busca escenarios que te supongan un problema. Mejora personal: empezar, ver fallos de psique heredados... Soportar ser diferente y que te insulten, crecer más; los 4 cuadrantes clásicos. Ya sabes: palabra, emoción (te "ves" haciendo), hacer. Y valora y agradece para atraer. Y ahora, lo negativo:
+* Víctima: me justifico por lo que tengo o NO tengo; me siento limitado.
+* Salvador: ¿me justifico por saber o NO saber?; tapo los fallos de psique ajenos por identificación ("empatía").
+* Verdugo: culpar a otro de lo que NO se logra.
+####psi herm Cris creación y pareja:
+- Creación: lo sutil es "penetrante" etimológicamente: influye en lo energético / emocional (y esto influye en lo material).
+* Recuerda: puedes imaginarte sintiendo con el resultado conseguido (cómo quieres sentirte en un evento del día siguiente...) y a la vez "erotizarte" y luego lanzar la energía para arriba.
+* Experimento. Del coxis sale una "cola" hacia tierra (imagina): planta semillas (mejor comestibles) en 2 macetas (del mismo tipo, para comparar, ¿una por maceta?). A la primera maceta le hablas de tu resultado cuando la cuidas. A la segunda, nada. El fruto de la segunda, ¿regalarlo a la tierra? ¿Y comerte el fruto de la primera (crecerá mejor)?
+- ¿El rol de mujer en pareja es hacer que el hombre NO se duerma en sus laureles y se autoprohíba...? ¿Y así se produce energía sexual sana para crear (incluye tener hijos)? Las almas más avanzadas (femenino-masculinas), ¿lo tienen más fácil para crear si están solas?
+* El pene "es" tu cantidad de energía.
+####socio Zodiaco TOC:
+1. Analizante Mercurio: Géminis y Virgo. Si se estresan demasiado, se sienten fuera de control o experimentan un trauma.
+* Géminis: pensamientos repetitivos o compulsiones, y a Virgo le gustan el orden y la perfección.
+2. Mi ascendente Capricornio (Saturno es el planeta de la disciplina y la reputación). Si su energía se sobreactiva.
+3. Mi signo Escorpio (suelen sumergirse mucho en sus pensamientos y en lo que les dicen otras personas; por ejemplo, si alguien les llama la atención, se desconectan de lo demás y se aferran a eso). ¿Y TOC por epilepsia o genética?
+####Preg ElMossad revelará los misterios de Sánchez, QUE MAQUINÓ LO DE SI DIMITÍA O NO PARA VER QUIÉN ESTABA CON ÉL Y QUIÉN NO. Y dejar a los peores.
+####superam Una chica Tauro de Saber y Ganar reconoció el acento napolitano Por eso hay más profes de Inglés con ascendente o signo principal Tauro (que se apiaden del resto).
+####superamenaza. Conoce la OMS (Puede ejercer presión sobre organismos internacionales para que se callen). Investigación de Julio García. TEDROS ADHANOM, presidente de la OMS, fue funcionario del régimen dictatorial comunista de Etiopía entre los años 2002 y 2012. Fue estrecho colaborador de Robert Mugane (cruel dictador).
+- En 2017 había 5 candidados más a ocupar la presidencia de la OMS, todos médicos o catedráticos en especialidades de salud, pero fue elegido él (NO médico, pero fue ministro de salud) por el Todopoderoso Partido Comunista Chino.
+* El Frente de Liberación Popular de Tigray (Tedros) es todavía catalogado como miembro de la Global Terror Database (por asaltos armados en áreas rurales, asesinatos selectivos, violación sistemática de los derechos humanos, 2 millones de desapariciones en Amhara...).
+##La agenda 2030 lo ama.
+####Déjenme dormir Leo (soy muy Leo) y Géminis rinden más por la mañana Aries madruga para hacer mucho.
+####superamenaza pondrán cajeros de móvil y los quitarán para esclavizarnos.
+####superamenaza pregunta lo de las maletas de Delcy era oro que Zapatero estaba robando a los venezolanos.
+####superamenaza prohibido para los policías de los Ángeles procesar a los pedófilos Alarmante Las élites son pedófilas y por hipnosis crean asesinos para luego quitar armas / poder al pueblo.
+####SUPERAMENAZA Siempre pensé que la lengua de signos era un poco ritualista y cuando veo a todos estos intérpretes de negro pienso que es por algo más que por un tema de claridad de imagen Estaban en el comprado 15M.
+####superre cerebro femenino cuerpo calloso de mayor densidad que facilita la colaboración entre hemisferios Y se acuerdan de lo malo.
+####superrenacer Carmen Jiménez Huertas libro Ingeniería Lingüística y control poblacional. La ingeniería lingüística es la fusión de la Lingüística y la Informática y se utiliza desde las élites para el control social.
+####superrenacer El Arrebato canción (Gente Luminosa). NO es que sea yo así exactamente, pero es una guía para cambiar un poco:
+- Me quedo con quien me cuida, me valora, escucha mi desahogo (sin pasarse), procura mi bien, se queda a pesar de todo.
+- Con quien respiras lento, y te regala tiempo. Con quien saca lo bueno de mí.
+##Dedicar tiempo a la familia HABLANDO DE SENTIMIENTOS... en vez de sacar "el sobresaliente". Actividades a media jornada deberían bastar.
+####superrenacer dir Lado B Top 10 Britpop.
+01. Pulp: Different Class.
+02. Suede: Suede.
+03. Oasis: (What's the Story) Morning Glory?
+04. Blur: Parklife.
+-------------
+05. James: Laid.
+06. Mansung: Attack of the Grey Lantern.
+07. Manic Street Preachers: This Is my Truth Tell me yours.
+08. Ocean Colour Scene: Mosely Shoals.
+09. Supergrass: I should Coco.
+10. Kula Shaker: K.
+####supersocio Los británicos son los mejores músicos pop de la Historia Son más femeninos más poderosos, ¿por los enchufes?
+####supersociología quiénes fueron los Pericúes Californianos y de rasgos blancos más que paios.
+####¿Está Nietzsche malinterpretado (alguno dice que Nihiliamo = Dios NO existe, ¡qué simplismo! ¿NO?).
+####Árbol Rojo. A veces salvamos (NO como un negativo salvador), aún a riesgo de perder salud (Dios existe). El mal NO es sabio, es primo de la infelicidad (NO hay libertad interior / limpieza de psique), pero existe como pruebas para que los más avanzados (más vidas vividas, menos energía, habilidad exyerna...) mejoren (Dios existe). #### :26, descansinín preventivo.
+
+####Géminisespecial####
+####La Ribacoba me dijo que tenía epilepsia Vitorio me dijo que mi mente iba muy rápido y que había choques en un cerebro NO preparado Ribacoba pudo mentir pa cobaya Topamax. ¿Mi toc viene de epilepsia, o...?
+####Astro cebadera. Nos desengañaremos, veremos que "la jerarquía social actual" ya NO nos "representa". Hay maneras de protegernos y "nutrirnos" sin recurrir a figuras de poder.
+##Neptuno pasa a Aries en Marzo (finales), significando unos inicios "MUY NOVEDOSOS".
+####Luna Leo (la mía). Idealista y capaz de hacer grandes sacrificios a favor de las causas en las que cree y las personas en quienes confían. Terquedad combinada con propósito, determinación y tenacidad. Lado emocional más poderoso (para defender la libertad y los derechos; por eso son valorados). Liderar y ser centro de atención puede traer confort, en especial en casa, donde se sienten bien y pueden tener una gran capacidad creativa. Lado oscuro: egoísmo, vanidad, ostentación, pereza y autoritarismo. Discutir con ellos puede ser arduo. Más:
+- Es como si internamente sintieran tener la misión de hacer que las cosas funcionen, disfrutando de supervisar lo que sucede en su círculo más íntimo.
+- Necesitan un compañero a quien puedan admirar. Es un poco difícil relacionarse emocionalmente con alguien a quien NO respeten o admiren.
+- Necesitan sentirse reconocidos y apreciados, sin juegos emocionales. Sienten que necesitan dar y recibir amor para estara gusto con la vida.
+- Cuando su orgullo está herido, les da por hacer grandes escenas y estar de mal humor (es más difícil que esto suceda en público).
+####música####
+####Discos comprados por la familia: - Billy Joel: The Nylon Curtain. Yo - Phil Collins: Both Sides. Yo - Phil Collins: NO Jacket Required. Yo - Prefab Sprout: Let's Change the World with Music. Yo - Pulp: Different Class. - Rix (Miguel y familia): Virus de Construcción Masiva (es sobre todo por el mensaje, aunque musicalmente tenga su punto). Yo - Simply Red: Picture Book. Yo. - U2: Zooropa. Yo
+##Recopilatorios: - Antonio Machín. - Aznavour (en Español). - Bowie: The Singles Collection (19 + 18 = 37). Yo - Duncan Dhu: Colección (hasta el 98). - José Luis Perales: 30 Grandes Canciones. Yo - Julio Iglesias: ¿Mi Vida? - La Dama se Esconde: Antología Completa. Yo - Mecano: Ana, Jose, Nacho. - Lo Mejor del Soul (Brook benton - A Rainy Night in Georgia...). - Mike Oldfield: Elements. - Pet Shop Boys: Pop Art. - The Police: ?. - Revolver: Básico. Yo - Talk Talk: The Very Best. Yo - Dire Straits: ?. - The Smiths: Singles. Yo
+####NO comprados: - ABC: The Lexicon of Love. - Christina y los Subterráneos: Que me Parta un Rayo. - Heaven 17: The Luxury Gap (o el Higher and Higher). - José Luis Perales: Con el Paso del Tiempo. - Madonna: recopilatorio hasta el 95 (NO más allá). - Phil Collins: But Seriously. - Phil Collins: Face Value. - Phil Collins: Hello, I Must Be Going.
+####Semidescartados (Los Locos - Algo Salvaje es Recopilatorio.): - Annie Lennox: Medusa. Yo - Billy Joel: River of Dreams. Yo - Billy Joel: Streetlife Serenader. Yo - Black: Wonderful Life. Yo - Blur: Modern Life Is Rubbish. Yo - Luz Casal: V. Yo - María Dolores Pradera: A Carlos Cano. Yo - Maritrini: Al Principio. Yo - Paloma San Basilio: Grande. - Phil Collins: 12ers. Yo - Phil Collins: Dance into the Light. Yo - Phil Collins: Testify. Yo - Prefab Sprout: Andromeda Heights Yo. - Ryan Adams: Love Is Hell. Yo - Scissor Sisters: ". Yo - SNAP: World Power.
+####OTROS (todos yo): - Vivaldi (estaciones). - Plácido Domingo (Zarzuela). - Elefantes (¿Azul?). - Immaculate Fools: ¿1991? - Bisbal (CLatino). Me gusta imitar a Bisbal. Y el disco tenía su cosa. - GCaligari (¿1991?). - Bjoel (The Bridge). - PCollins (2010, Motown). - Genesis (Tour Europe o algo así). - Peter Gabriel hits. - Doors (incluye Crystal Ship...). 
+####DVDs (vídeos, todos yo): - Bjoel (Greatest hits). - DMode (101). - Perales (35 años). - 80s (Big Country...). ¿2 compras? - Sred (a Starring Night).
+####Más: - Farina. - Tequila. - Licor 43 (¿regalo envenenado de un psicópata?): Marta tiene un Marcapasos... - Bola de Cristal. - Roberto Carlos. - Albert Hammond. - Radio Futura. - Herbert von Karajan (la Novena Sinfonía). - Compositores españoles (Joaquín Rodrigo...).
+####+ comprados: Small Faces From the Beginning Kiko veneno Échate un cantecito Vicente Díaz 87 BDylan JWHarding OMD Modern.
+####dir Youtube Top 100 Synth-Pop Songs Of All Time! (RANKED)
+####Canciones Tino Casal: Pánico en el Edén. Fadgadget: Collapsing New People. The Pretenders: Go to Sleep (o algo así). La Mode: En cualquier Fiesta. Los Elegantes: Mangas Cortas. Alphaville (banda española): De Máscaras y Enigmas. Vídeo: Planeta 5.000.
+
+####Géminis normal####
+####superamenaza Invisible cuando estás con gente que habla tonterías NO tienes ganas de escucharlos y eso hace que NO te escuchen aunque digas cosas en su línea y muy interesantes para ellos.
+####superamenaza Prohíben móviles en los locales electorales Y ponen cajas para que NO veamos que NO abren los sobres para sumar. Vota con cabeza: tienes que ver fallos hasta en el partido al que votas.
+####La Guerra es contra Occidente:
+- Las élites globales quieren un gobierno mundial único, similar al descrito en "Los protocolos de los sabios de Sion". Suiza (con su extraño gobierno) podría estar actuando como conejillo de indias. La influencia de sociedades secretas y la simbología esotérica en Suiza refuerzan esta teoría.
+* ¿"Atontar" a Occidente musulmanizándolo, y luego achinarlo?
+- Alois Hitler, padre de Adolf Hitler, era hijo ilegítimo de Maria Schickel Gruber. ¿Fue preñada por el Barón Rothschild?
+* Hitler obtuvo financiamiento del Banco de Inglaterra, controlado por los Rothschild.
+- ¿Los jázaros, conocidos por iniciar guerras mediante el engaño, son judíos "asquenazíes"? ¿Y sionistas? Persiguieron a los judíos éticos en Palestina.
+####supersocio fuera de Europa los países apoyan a Rusia con la que se pueden hacer negocios Europa son todo imposiciones Polonia durante 3 siglos ha querido meterse con sus vecinos.
+####Cuando se lucha por la libertad el burgués hedonismo debe quedar aparcado al menos temporalmente.
+####superamenaza Europa NO está en riesgo de guerra Las élites nos arrastran a la guerra porque quieren un mundo UNIPOLAR con una Europa zombi con todos iguales y mezclados.
+####En la medida que un hombre humilla, abusa, maltrata o explota a otro para parecer a sus ojos más masculino, está siendo guiado por el machismo (que es miedo, represión de lo femenino, evitando que el hombre sea elevado / civilizado, lo cual les gusta a las élites: que seamos burdos / controlables). Las conductas para parecer un macho, serán irracionales. Las madres crían a sus hijos de forma machista, en parte porque no quieren que el padre se meta con el hijo.
+####superamenaza Todo lo que NO le gusta a Sánchez es facha A los Sánchez ya los investiga todo el mundo Por eso la Fiscalía Europea y hasta la Luna son fachas je je.
+####supersocio Las mentes pensantes son para la moral la Psicología la Filosofía elevada etc NO para ser ejecutivos que poco aportan mientras poco bueno se produce.
+####supersocio en Géminis buscas tu igual. Yo me rindo je je. 
+####supersociología De todas las cosas sé más que de mí NO soy un iluso NO introspectivo.
+####superamenaza las empresas grandes tributan fuera Cuando Sánchez dice que deben pagar más está jugando con vosotros.
+####superamenaza Escuela Si los chavales NO reprimen su masculinidad (he dicho) pueden ser tachados de disruptivos, agresivos e hiperactivos Pero la Escuela premia a las niñas por competir y las llama empoderadas. Pero NO temas a ser femenino o reprimirás.
+####superamenaza Calentamiento global cuando las máquinas de las élites trabajan.
+####superrenacer Estoy teniendo energía estos días Preg es porque alguien me odia lo cual da energía.
+####La sabia Serpiente (horóscopo chino) se piensa bien el paso a dar El Perro hace sin pensar y luego ya ve lo que hizo Pero son compatibles.
+####Recuerda que los cónyuges vienen a ser igual de chungos / poco elevados. ¿Quién puede identificar chungos, Escorpio?  
+####superamenaza Preg están usando a Alvise (que habla como un conspi) para llamar locos a los conspis (o para que estos crean que Alvise es la salida).
+####superrenacer el mundo es mi ostra NO ir por él como si fuese culpable (NO poner cara humilde ante una mirada acusadora...).
+####superamenaza la mentira es regalarte el oído o que te salvarán. Cuando quieres decir la verdad ésta es a veces rechazada.
+####Sin impresora eres pobre muy pobre. Por eso las élites defienden el móvil sobre el ordenador. Lo móvil es contraproducente.
+####superrenacer Clint Eastwood reniega de Hollywood y sus 6 oscars al ver que lo woke penetra con fuerza en la Universidad El Cine La "Ciencia"...
+####supersalud para TDAH:
+* Hierro: hígado (si es de res, D). Magnesio: almendras, espinacas, cacahuetes.
+* B6: patatas con piel. D: yema de huevo.
+- Hidratos complejos (con mesura): frutas, vegetales (sin tanta mesura), pan y pasta integral, arroz integral.
+- Proteínas: carnes (zinc; la de res tiene hierro), pescados (los grasos llevan Omega 3) y mariscos, fréjoles y lentejas (hidratos complejos), huevos, nueces (Zinc).
+##"Evitar":
+- Azúcar, patatas sin piel, chips o fritas. Gluten y trigo quizás.
+- Cafeína (un poquitín pueda ayudar). Colorantes y CIA.
+####supersocio para dejar de victimizarme podría señalar menos a los abusones que me dan lecciones y a los superruidosos y hablar con estos últimos.
+####superamenaza la desaparición del dinero en metálico supondría un corralito eterno un control total.
+####superame Derecha triunfante en Europa Preg los mismos perros con distintos collares ¿Demagogos que toman ideas algo cabales pero NO quieren aplicarlas (frenar al Islam)?
+####superamenaza A los superperdiducos del cuerpo y la energía NO de Psicología: os han engañao NO se puede ser civilizao en un mundo cerrado.
+###################SUPERAMENAZA HORAS ANTES DE QUE FIRMASE EL JUEZ UNA MUJER HABÍA ENVIADO LA ORDEN DE PRISIÓN DEL JUEZ PRESENCIA, PERSEGUIDO POR DENUNCIAR CORRUPCIÓN HUELE MAL.####################
+####superamenaza quien vendía la vacunita decía claramente que era manipulación genética Políticos y CIA lo suavizaron después. Tanta ayuda que nos quieren ofrecer esta gente, ¿NO será falsa?
+####superrenacer para mejorar la sociedad SÉ RESPONSABLE Busca tus sueños del alma y NO lo que marca la sociedad Para ello usa tu intuición más que tu lógica Y descansa convenientemente Tu dignidad es lo primero.
+####superamenaza Bill Gates se interesa por invento vasco Árbol artificial (¿y por los pedos de las vacas? "Eso es cambio climático", NO es su campo, su campo es debilitarnos o...).
+####superam Mucha enfermedad da ventajas para la literatura la ciencia etc Curaos la psique La capacidad está sobrevalorada.
+####superamenaza detective de Ottawa Helen Grus perseguida por probar que de 32 embarazos hubo 31 muertes por vacunarse la madre con Pfizer.
+####superamenaza ¿El vecino de abajo es un experto en violencia ambiental camuflada?
+####superame Gabriel Ruiz Hija exenta de llevar mascarilla en clase Y NO dejaban entrar a la hija Preg tras inventarse cosas.
+####superamenaza las vacunas ARN obligan a producir una toxina contra cierta proteína extraña convirtiéndonos en "aliens".
+####superamenaza pregunta por qué mataron a Gadafi Defendió la soberanía de los países "Democracia" y Agenda 2030 NO la defienden.
+####superamenaza sociedad del cambio Si algo que compraste dura menos de "20 años" es un fraude El cobre / ADSL caduca porque quieren los malos Vivan los teléfonos fijos. ¿Rooter con tarjeta SIM?
+####Obsesión por lavarse, la limpieza, control, orden, necesidad de contacto...: conflicto femenino de miedo o repugnancia (la masculina negativa es resistirse, oponerse y atacar) y conflicto sensorial / motor (diestros. Motor incluye sentirse encallado / atrapado). Alguien me cambió el cuarto varias veces, generando asma...
+####supersalud PREG Los conflictos de separación merman la memoria a corto plazo a veces y la capacidad de atención.
+####superamenaza Si apagas el móvil en el futuro Preg podrían quitarte puntos o peor Aléjate del "¡viva todo lo moderno!".
+####superen usar poco el ordi (¡el papel libera!), tener uno comunal. Y unirme a equipos de trabajo sin móviles celulares.
+####superamenaza Smiths Heaven Knows. "Encontré un trabajo y sigo sintiéndome miserable". A mucha gente que va alegre al trabajo, la mandaría al Psicólogo. Son como esos empollones que endurecen un curso (porque les entra más materia en el coco, son robots creados por la Escuela...). ¡Malditos cursos, son para ganar dinero!
+####Los Obama. ¿Ella es un antiguo violador de niños y él es homosexual (parecido a Sánchez y Begoña)? "Ella" decidió mudarse a hombre ante el ascenso político de Obama. Biden también es un enfermo sexual. ¿Violaciones en túneles subterráneos? Baphomet la cabra demonio, muestra lo raras que son las élites sexualmente. Pizza es una preadolescente (o parecido) a violar. ¿Y Dómino? Obama, llamó Michael (nombre de hombre) muchas veces a su "mujer" por error.
+####superrenacer la vida es erotismo interior.
+####Si el PSOE se mete con los conspis, ¡es que sabemos mucho!
+####superame Sánchez crea conflictos diplomáticos (con Israel, que sabe mucho de él...) para desviar la atención. Hamas es malo, Hezbolá...
+####supersalud calor y obesidad. Las reservas de grasa subcutánea dificultan el proceso de enfriamiento. La mayor masa corporal aumenta la tasa metabólica basal y produce hormonas... que también afectan a la regulación del calor. ¡Ya son 3 inconvenientes! Mareos y dolor de cabeza, seguidos de confusión, náuseas y vómitos. ¡Que NO hagan ejercicio a altas temperaturas (mayor aumento de la temperatura...)!
+- Los hombres normales tienen más masa corporal sin grasa que las damas (bueno para el frío, desprenden más calor). ¿Lo ideal es tener espalda ancha, algo de grasa y NO mucho músculo? Los RH negativo acusan más las altas temperaturas.
+- ¿Son los ejercicios de fuerza permiten adelgazar a viejos? Yo caminaría rápido. Recuerda que la psique "engorda".
+* Las dietas proteicas por poco tiempo (pobres riñones) y algunos carbohidratos (si NO hay: mal aliento, dolor de cabeza y estreñimiento), pueden ayudar a adelgazar (te hacen sentir lleno).
+####Conspi es una condición necesaria para ser civilizado, NO suficiente (NO te creas...). Sabiduria es dignidad. Dignidad es descanso conveniente (puedes necesitar reducir la calidad).
+####Sanitarios, ¿podrían negarse a matar? La OMS se dijo y desdijo, hubo líderes asesinados (o se trató de hacerlo).
+####supersocio Martes y Trece (dúo de humor), "pi parido pe pega" NO es machismo (parodian a Hablemos de Sexo, Horrible Telerrealidad victimizadora crea brujas, que aprovecha desgracias ajenas para tener audiencia).
+####¿Las vacunas salen sin haberlas probado y entonces es el mayor ensayo clínico de la Historia, y sin retirarlas, habiendo muerto tanta gente?
+- Vacuna de ARN: se produce proteína en el corazón, y el sistema inmunológico trata de matarla, y de paso acaba con parte del corazón (y otros órganos), que se dilata (compensación, pero situación de riesgo doble). Al hacer ejercicio, ¡lo peor, se para! ¿Se dio antibióticos en vez de vitamina C, D, hidroxocloriquina...? La neumonía REAL (NO falsificada) es por miedo en muchos casos (la TV lo produjo), y si les pones respiradores, matas (es de primero de carrera).
+##Muchas vacunas eran placebos, y un gran porcentaje, NO eran de ARN. ¿Pero con la de ARN mueres lentamente? Mmmmm.
+####superamenaza Recordad que si las élites se quieren cargar a los ganaderos pondrán anuncios alabándolos PREG Todavía NO sabéis cómo funciona la gente que quiere controlar.
+####superamenaza sobre Manuel Jesús Rodríguez Detenido por denunciar:
+- El colesterol elimina células tumorales; la Medicina Oficial parece un complot, intentando que deleguemos y NO pensemos.
+- Os recuerdo: al llegar al 32% de vacunados, las élites dicen que ya NO hace falta que los altos cargos se vacunen. ¡Pero habían dicho antes que los altos cargos ya estaban vacunados (les regalaron el pasaporte covid, siendo inoculados con una solución salina, como militares, jueces...!
+* Lo de "yo primero" lo expresaron adrede para llevar a la perdición a millones de españoles.
+####superam Francia (extremizó el Islam) Inglaterra y USAbiden son lo peor.
+####superamenaza Aznar indultó al mayor traficante del Sur de Europa Luego el PSOE le sacó de la cárcel Luego Rajoy celebró una reunión en su barco Piensa.
+####Ethereum es demasiao tecnológico discriminante espiatorio pa una sociedad avanzada Si fuese con PCs de sobremesa...
+####EL MERCADO SE LLENA CUANDO LA CARNE ES BARATA si tienes muchos seguidores probablemente seas barato.
+####Acuario suele estar bien pero a veces parece estar hecho para insultar por lo bajini Y cuidao con los Escorpio de bajo nivel.
+####superame 11M atentado Fue para cambiar el rumbo de España con el oscurísimo Zapatero Preg fue Francia y Marruecos.
+####¿Porque NO se aplica el Reglamento Sanitario Internacional rápido? ¿Varios países NO han sido convencidos o chantajeados por la OMS?
+####Trump ha ido contra políticas de las élites globales (las llama animales salvajes). Parraviccini puso 4 cuerdas (años) y 2 (NO termina mandato) en un dibujo hace casi un siglo. Le llamó hombre orquesta (sustituyó a ayudantes de campaña). Vio lo de Kennedy ("un golfista americano gobierna y lo matan joven"). Frases de P.:
+- Los dictadores (NO se refiere a Trump) dominarán, más serán muertos. Frase tranquilizadora.
+- El mundo va hacia un único gobierno.
+##Trump: primer presidente en 50 años en NO crear guerras. ¿Por pura imagen (pensando mal)? No descarto nada.
+####Zodiaco Sí, hay que meter a Aries el cuarto en esas 2 listas con Leo ("vanidad"), Virgo (arisco), y Tauro y Acuario (están en las 2). Sagi es un poco pavo real pero NO importa.
+####Ejercicio para Taquipsiquia o pensamiento acelerado (memoria). Antes de acostarse observar los detalles de foto de persona que resulte agradable: ojos, nariz, boca, intentando memorizar el rostro. Apagas la luz e intentas evocar el rostro. Tras varias veces se deberá intentar sin necesidad de ver la fotografía. Completar con el rostro de alguien que consideremos desagradable así NO forzaremos la atención sólo en lo que nos gusta.
+####Rabiar durante una discusión me es relativamente fácil (mejoraré NO dejando que el otro me pegue su mal humor, y aceptando que "NO se consigue nada con un inconsciente", aunque puede cambiar con el tiempo y yo probar el año que viene). Odiar y vengarme, NO.
+####supera Los narcis ven a los agradables como débiles y tonticos Pocas cosas hay más tonticas que un narci Él o ella aparcaron los sentimientos por debilidad mental Son infelices aunque sonrían.
+####Alvise NO me vio el Face tará ya en las altas esferas Preg nos engañó NO lo descarto.
+####superame NO ha cambiao na La liturgia satánica de antaño Un aborto alimenta con energía negativa Preg a quién Para las élites es importante hablar de la muerte (telediarios...).
+####Preg hay algo más dañino que los cierragranjas verdes oficiales.
+####Julio García, música. Quizás sea la persona con la que tengo más afinidad musical (quitando a Carlos Finali quizás).
+####SAM GENTE PELIGROSA: LA QUE SE CREE LOS COTILLEOS SOBRE TI, LA QUE NECESITA QUE LE DIGAN LO BUENA QUE ES, MACHOS ALFA EN GENERAL, GENTE QUE CREE EN CURSOS...
+####superamenaza meteorología si esas antenas chupan las nubes Pregunta pueden chupar nuestra energía. Ver Nextrad.
+####Tú miras en los 80 y todo supera a TSwift NO es mejor la música fácil de escuchar y perversa de hoy Mejora tu receptividad.
+####supersocio: gente con ascendente Aries, les dicen que se atrevan y se den prisa (aprender a ser buenos Aries). Asc Tauro: que hablen más despacio y vayan despacio.
+####supersocio Los psicópatas te ven como "un objeto surtidor" (se sienten felices cuando te engañan y les surtes).
+####Si ves bien la norma de la plandemia de poder ir por alcohol pero NO poder ver a tu familia quizás NO veas que las élites promueven vicios para aperversarte (y controlarte después).
+####superamenaza antes el canon de belleza era mujeres rellenitas aunque NO monstruosas como ahora Y esto de estar muy morenos me suena a casar con los musulmanes.
+####El autodiagnóstico es bueno siempre Es esa causa psicológica que afecta al cerebro y el órgano.
+####A una persona elevada puedes decirle que ciertas canciones son buenas para que quien las escuche se civilice A una normal tienes que decirle que molan.
+####Inmigrantes atacando a blancos. Los negros son mucho más racistas en general. ¿Qué cuento nos han contado?
+####superame Demonina Jolie Se la ve en varios vídeos cocinando insectos Preg en Futurama las reses de Marte eran coleópteros.
+####Reduzco expectativas en la gente sobre que me consideren cuerdo Marchando en vez de intentar convencer.
+####supren Estuvo bastante bien el documental de Memocracia (y eso que ya sabía algo / era repe) Y es ameno, tiene una estructura con unas unas divisiones acertadas.
+####superam preg quién se acomodó a los terribles trabajos de la Revolución Industrial. ¿Signos de Tierra o muy activos?
+####superren fuera ya los matrimonios de 1 cuánto dinero tiene mi cónyuge o 2 NO puedo estar solo mejor mal acompañado o 3 pregunta me casé con un loco peligroso o 3. Me casé con ella porque era una marginal con voz cacofónica.
+####Astro CaroCapmany y ThomasKlauss El ascendente generalidades (fíjate si en escenarios diferentes, pasa algo común):
+- Dices mucho "que lo haga otro" (eso sería para mi ascendente Capri. Soy Escorpio, ¿más de recibir que de dar?, ¿casualidad?).
+* Capri: responsabilizarse, hacerlo tú, aunque sin cargar el mundo en tu espalda. Hoy NO estaba hecha la cena, y la hice yo (en mi estómago había miedo y también algo agradable que me impulsaba, aunque ser cocinero, NO creo que sea mi destino).
+* Si "rehúyes", habrá "castigo" (Capri: acciones de más): gente con la energía de tu ascendente, "presionando" (también pueden ser necios quienes te hablan).
+####Astro CaroCapmany y ThomasKlauss. El ascendente. De niño (< 8 años) la situación es muy suave (nos estamos formando). En la adolescencia, un niño Leo al que lógicamente le gustaba mostrarse, se puede retraer, si el ascendente es Tauro. ¿Todos te ven el ascendente?:
+* Aries (nada) y Tauro (ser los más lentos, aprender). ¡Ya los vimos!
+* Géminis: comunicarse. Suelen tener problemas con "iguales" (hermanos, primos, vecinos, compañeros...).
+* Cáncer: conectar y estabilizarse emocionalmente. ¿Tener hijos (NO los quieren tener por problemas con mamá)?
+* Leo: mostrarse.
+* Virgo: aprender de lo pequeño (quieren arrasar a lo grande, y de ahí vienen problemas).
+* Libra: compromiso, pareja.
+* Escorpio: aceptar lo oculto de la vida (de la psique también): Astrología...
+* Sagi: encontrar sentido a su vida (pero acaban en ideologías chungas, peleándose con todos...).
+* Acuario: aceptar que son diferentes, NO tratar de encajar. ¿Cuestionarse cosas?
+* Piscis: aceptar sensibilidad y misticismo en ellos (suelen ser de "hemisferio izquierdo").
+####Reflexión sobre posibilidades (Géminis). Pero Géminis da mucha información, y hay que seleccionar, gracias a la intuición. Júpiter en Géminis: explicaciones de lo elevado (Júpiter), de forma que "todos" lo entiendan. La gente social suele ser muy pesada, eso sí.
+- Recordad: los pensamientos / creencias afectan a la realidad (creerse el Telediario de 2.024... crea cosas malas).
+- Acallar el parloteo mental y centrarse en una sola tarea, gracias al ejercicio físico / manual, y a centrarse en la respiración.
+- El mal (tar encerraos) vino por bien ("reformulamos").
+- Cuando somos poco introspectivos y bastante superficiales / hedonistas, "Dios" castiga (mandando musulmanes, poniendo instituciones opresivas...).
+####Canosa Trump un hombre un elegido. Estoy con Trump, por muy travieso que haya sido, y mucho que se haya juntao con lo peor. ¡Trump es profético, y punto! Y quien NO sea profético, intuitivo (o que se apoye en intuitivos)... NO es periodista (recuerda que debe haber alguien que seleccione lo que Géminis saca, por lo general):
+- Trump tiene una energía que anima (como yo: el cáncer se cura... psicológicamente, si NO, vuelve y vuelve; la razón del cáncer de mama de mi madre era una excesiva preocupación, ¡éramos su escaparate! Al final las notas, los premios, la honra... NO hacen más que matar la sociedad. Mi madre pensaba algo así como "me estás decepcionando, todo te va a salir mal, porque estás con el Tetris en vez de empollando, tú causas mi tristeza").
+- Sí, "Dios" coloca a los gobiernos para dar lecciones a la gente, abrir caminos con dolor...
+##Los "DON" (Este de Ucrania...) son berebán (buenos).
+####energía Quim Bigfoot Redwoods:
+- ¿NO sería un bere original (altísimos, más de 2 metros) con ascendente Tauro (peludos, sensibilidad a la testosterona) o un animal de Baleden o del Centro de la Tierra?
+* Los indios hablaban de él como protector.
+##¿Secuestran a gente por la zona para experimentar e implantan "recuerdos fantásticos", aprovechando las leyendas?
+####energía Quim éter físico en piedras DA información histórica:
+- Eventos con cierta intensidad emocional quedan grabados (en ciertas cuevas, si eres sensitivo, puedes "ver cátaros"; en casas, asesinatos...).
+* Cierto círculo de piedras tiene un campo magnético más débil si estás en su interior (el psiquismo sube). ¿Y en espiral hacia abajo?
+* ¿El agua genera electrolitos en las piedras, y esto influye en rituales (de recibir información espiritual...)?
+- Japón: gente cree que tras romper "una piedra", se libera un demonio y algo malo va a ocurrir. Como lo creen, sucede. Todo está en la mente / psique.
+####Fran Parejo puesta a punto del cuerpo y el espíritu con diapasones Solfeggio (se puede considerar homeopatía: valóralos. Ejemplo: canto gregoriano). Puede salvar de una enfermedad a quien todavía NO haya encontrado la fórmula psicológica. Los médicos chinos cobran mientras el paciente tenga salud. Al grano: divisibles por 3, y a veces por 6 y / o 9:
+* 174: tierra (¿energía?).
+* 285: sanar desequilibrios cuerpo.
+* 396: desbloqueo emocional (relacionado con la Psicología).
+* 417: ¿cambiar modos de vida / hábitos?
+* 528: harmonizar agua, reparar ADN.
+* 639: conexión con uno mismo (¿Psicología?) y los demás, comunicación y expresión personal.
+* 741: resolución de conflictos, (¿Libra?).
+* 852: intuición y consciencia interna.
+* 963: glándula pineal, realidades más sutiles.
+* Luitisa: acabar la Universidad (o abandonarla) y descansar. Empiezas a verlo todo más claro, te "desparasitas de creencias".
+##Si el otro sale corriendo, podría tener parásitos, que se alimentan de la disharmonía.
+####FRMora. El 5% de los europeos son musulmanes, ¿mano de obra barata, o problema real (ya que a gran parte les dan sin trabajar, y el Islam quiere acabar con el Cristianismo, que tiene valores ["europeos" / de supervivencia y cierta moral]? Élites (quieren comunismo), también. ¿Los musulmanes sufís son peligrosillos o NO? Empeoramos por escuchar a Beyoncé, y el musulmán es un castigo.
+####Félix Rodrigo Mora Economía Civilizada:
+- Los pequeños productores desaparecen, y la propiedad de los medios de trabajo (tanto individual / familiar como comunal), es fundamental para ser libres.
+* Antes las casas eran medios de trabajo (anexos, talleres...), y trabajaba el tío, el vecino... Con ambiente agradable y productividad (charlatanes vendidos se encargan de decir lo contrario). La pluriactividad (que se da en ambientes familiares, donde el hijo puede mandar sobre el padre, dependiendo de "su numerología" / destino) es lo que produce seres civilizados, y NO la especialización "en técnicas modernas".
+* Ahora lo que se quiere es copiar las sociedades islámicas (generalmente con esclavos). ¿Es peor tener un camastro en la oficina con un día libre, o tener la empresa lejísimos de casa e ir y volver a diario?
+* Las cooperativas españolas están controladas por bancos que prestan, ingenieros... NO son "algo bueno del siglo 17".
+- Más:
+* ¿España NO vive sin la barata producción de otros países? Terrible. Las élites quieren que tengamos miedo (que NO seamos autosuficientes, miedo a ser despedidos...). A los niños se les debe educar cariñosamente en el trabajo bueno (¿puede incluir cortar tablas eléctricamente?) y lo emocional.
+* Sin los bazares chinos (No pagan impuestos, para destruir), todo iría mejor.
+* En el campo también puede haber máquinas supermodernas usadas por especialistas, ¿y serían asperger (tiene sentido)?
+####FélixRodrigoMora. El exceso de bienes te degenera (tener mucho donde elegir es un problema; escoge aquello con más "esencia", NO te ciegues). Los primeros cristianos lo sabían (y Pitágoras, y...):
+- La clave es la mejora del individuo, y mucha gente Venus cree que el techo es la belleza, la salud corporal, la meditación... NO, les falta muchísimo para tocar techo. La materia es algo fantástico, como las ideas, y las emociones e ir hacia delante, pero nada debe mandar sobre nada.
+* Si se da demasiada importancia a los viajes, los sabores, aquellas cosas del pasado que queremos recordar por agrado... la sociedad será débil. El demonio es "ese halo femenino tan reacio a abandonar lo urbano".
+####FélixRodrigoMora hacia los valores del Comunal (NO alardees):
+- La organización económica NO es algo de gente que haya leído libros y se crea algo (muchas técnicas económicas suponen infantilmente el mercado en equilibrio de oferta / demanda...).
+* Sabemos que la Universidad "lava cerebros", sirve para llamar "paletos" a los de la sabiduría AUTÓNOMA de siempre... Cuanto más lejos llegas en la Universidad, más posibilidades tienes de tener una mente dócil / crédula. Nos dijeron que éramos inteligentes por sacar dieces (hay muchos tipos de inteligencia, y la memoria NO selectiva es tonta), que cuanta más tecnología mejor...
+- El trabajo debe hacerte más poderoso (más autoestima real al autoconocerte y aceptarte...), NO "molerte a palos", deseando las vacaciones, la comodidad...
+* 1990, marcha atrás (que llega hasta hoy, 2.024): peores salarios, más tiempo de trabajo, ética descendiendo... ¡Fuera los cursos! Y si encima tras el curso NO trabajas... Que te enseñen gratis y con inteligencia femenina. Cobrar... si ya generas suficientes beneficios (si se puede, vamos). ¿Y cobrar en especie? Come poco y trabaja poco. El trabajador decide en qué trabaja y para qué (y los vecinos, a callar, si NO son elevadamente comprensivos).
+- Más:
+* El humillador macho alfa jefe de empresa, hace unos pocos siglos, veía las casas habilitadas para tener talleres como "competencia", y tenemos los pisos estériles de hoy.
+* ¿Ordenadores compartidos (tal vez ganado compartido, y criticar va quien consuma mucho; con sabiduría casi ni se bebe)? Producir los propios alimentos (serían sin tantos tóxicos, pero se muere "por la psique"; sabemos de NMGHamer, así que morirán los inconscientes).
+* La explotación desmotiva para todo. El "hipercontrol" / taylorismo reduce la productividad, cada uno es un mundo, tiene que haber algo de libertad.
+####Javi Villacorta Sánchez y sus enemigos a derribar:
+- El poder judicial. 1985: González y Guerra (PSOE) cambian el método para elegir jueces (terrible).
+- El Rey (convocando manifestaciones contra él, evitando poner ciertos nombres en calles...).
+- Los medios "deberán" estar inscritos en cierta lista (previa censura) para tener derechos publicitarios... o te espían.
+####FélixRodrigoMora. Pasión, por la mejora de la sociedad, NO por partes paja de los vídeos buenos. El mal está promovido institucionalmente:
+- Dominar al otro es el primer mal.
+- Luego, ¿materialismo / hedonismo (series, comida, viajes...)?, seguidos de insolidaridad (el buenismo con el Islam es malo) e irresponsabilidad (delegamos...).
+- Por último, insociabilidad (por falta de comprensión, ¿y esto viene por falta de femenina intuición?) y cobardía (claro que, si te tienen manía, mejor NO repetir "un mitin"). Hay que ser "intolerante" = [NO indulgente].
+- Más:
+* Sí, sí, el Catolicismo y "el Yoga" son religiones de Estado (te hacen creerte bueno, y NO avanzas / miras más allá). Lo que vale es una autoevaluación moral a cada segundo (sin culpa). Los espirituales reales saben para qué estamos aquí...
+* Se me olvida lo de cuidar, acompañar... vs tantas empresas que producen humo: cuidado, la base es la ética, y el resto emana de ella. Mucha gente simpática y bien valorada NO la tiene.
+####FélixRodrigoMora Trabajo asalariado (en cadena, para deprimirnos y controlarnos...) vs NO acabar muy mal.
+- Los contratos de trabajo son esclavistas (NO decides qué producir, ¿la gente elegiría el hedonismo en vez de la dignidad?).
+* Gente peleándose por un puesto (los que NO estén en listas de díscolos por haber abierto la boca alguna vez).
+* La empresa es una escuela ("ríndete al abusón") para adultos.
+* Revolución Bagauda (libres de musulmanes): la gente se vuelve propietaria, con elección libre de cónyuge, y derechos en el Consejo / Asamblea / Batzar.
+* Mejor un coordinador que un ganador jefe (que suele atacar preventivamente, ¿suele estar lleno de culpa y frustración por padres exigentes... como los "verdugos"?).
+* Tener patrones de acción (somos diferentes) disminuye la productividad (creo que ya lo había dicho).
+- Derecho del trabajo, origen: ciertos esclavos trabajaban tanto que NO llegaban al 1.50, tenían tuberculosis... y necesitaban reproducirse y NO quemarse en 2 días (para producir). El objetivo NO era pues, "humano". ¿El objetivo de la Revolución industrial era someter para controlar?
+* Los litigios laborales NO solucionan nada, y si lo hacen por casualidad, salen en el Telediario, para mentirnos.
+- Si NO se produce (empresas gigantescas imposibles de controlar y ayudadas por el Gobierno...), hay inflación (a menos que explotemos otros países).
+* La tecnología hoy, controla y adoctrina, ¿ahorra trabajo? Sumando, NO, esclaviza.
+- Feminismo actual: para que la mujer se mate currando (lo que NO hacen las riquísimas lideresas feministas):
+* Si en el trabajo una mujer dice que la han violado, pasa a la lista de díscolas empresariales.
+- Altos salarios ("enferman" más): "aguantaré, que pagan mucho". Hay gente que consume más o se evade: son menos elevados.
+##El capitalismo moderno (derecha, izquierda...) es una destrucción acelerada del hombre. Estamos creados para "pensar" / crear, si no, "volcamos", o nos drogamos. Hay gente poco empática, robótica o pueril, que aguanta mejor.
+####Julio García 801 OMS dictadora mundial:
+- OMS asamblea (Tratado de Pandemias) 27 a 1 Junio (2024). Bilderberg 30 al 2 de Junio. ¿Por qué la tele calla?
+* La chantajeante OMS son psicópatas que quieren bichos o los inventan, para encerrarnos / controlar. ¿La solución es debilitar a los sanitarios proOMS? ¿Incluso VOX colabora negativamente?
+- Javi Villacorta:
+* ¿Intentan matar a políticos (Eslovaquia, Irán...) por NO firmar lo de la OMS? Alguno que se autoengaña verá casualidades por todas partes. ¿Dengue? ¿Miedo con viruela del mono? Saben criar y soltar mosquitos modificados.
+* "Los virus pierden fuerza / mueren por encima de 23 grados" (y gente vacunándose a 40 grados). ¡Los virus "oficiales" NO existen!
+* La gente con familiares asesinados (vacuna y protocolos médicos) callan (por vergüenza).
+####Julio García 807:
+- Alguien con opiniones independientes (más civilizado) NO debería tener problemas de dinero para vivir. El que NO tiene dificultades por el momento es el crédulo de lo oficial (2.024).
+* PARA SÁNCHEZ SOMOS OBJETOS "ENGAâ€˜ABLES" (DE ESO VIVEN LOS PSICÓPATAS, DE SENTIRSE "BIEN" CUANDO LOGRAN ENGAâ€˜AR...). ÉL PLANIFICA. Y cuando te hace sentir mal (sin que se note)... se siente bien.
+* Ahora es noticias, noticias, y más noticias, para que NO te pongas a analizar. Los medios deben sobrevivir (mintiendo, para casar con los deseos "internacionales"), la resposabilidad RECAE EN TI: QUE NO TE CREAS LO QUE DICEN, PIENSA.
+- Los conspis esquivaremos los golpes de la Agenda 2.030:
+* Nos meten miedo diciendo que hay sequía (es mentira, se miró en una página Web de embalses; tamos por encima de la media histórica). ¿La tele "es Dios y siempre dice la verdad", y nunca consiguió engañarte" porque eres NO engañable? ¡Vacunar por dinero sin evaluar los riesgos, y responsabilizar a la gente tras casi obligarlos!
+* Si hay máquinas, y las cosas se producen fuera, EVIDENTEMENTE, ESTAMOS AHÍ MALGASTANDO EL TIEMPO (PARA LAS ÉLITES NO, PORQUE EL TRABAJO EVITA PENSAR).
+##Otro invitado. La Agencia Tributaria es el cuarto poder, NO los medios. Sánchez: su suegro es proxeneta gay (de su dinero vivió Sánchez):
+- Uno de la familia cobra 55.000 eurtos sin trabajar (NO estoy seguro, es algo parecido). Y más, y más, y...
+* Almeida (NO de la terrible familia), implicado (relación con Barrabés, ¿el nombre del socio de Begoña NO?).
+####Julio García 810:
+- Debiendo entregar el borrador 4 meses antes de la reunión de la OMS a los países, la OMS lo hizo justo antes (para que NO haya tiempo a leer la letra pequeña...).
+* Tedros habló como un vendedor conciliante, y se rió sin empatía. Eso sí, los que sigan confiando en las vacunas, deben vacunarse (bonita prueba para enfermar y por fin despertar).
+- Javi Villacorta:
+* En USA, ¿obligar a llevar mascarilla y a la distancia social ya se considera punible?
+* Sánchez dice que crecemos el doble (tras tocar fondo, es fácil). Absurdo hablar de Puigdemont con la que está cayendo (dictadura informativa, lo dicen medios extranjeros).
+####Julio García 813 Canal5TV:
+- Dicen que todo lo que NO es izquierda (cercana al comunismo, que está cercano al cotrol total), es "facha". La "derecha" española se parece mucho (cada vez más). Son las 2 colectivistas (NO libertad, todos iguales). El Capitalismo REAL NO es ni de izquierdas ni de derechas, y es anterior al siglo XVIII (y mejor que todo lo aparecido con la Revolución Industrial). Regatear, El Comunal... NO son de hoy, desgraciadamente.
+* La ultraderecha NO existe (es un insulto para desviar la atención).
+- Más:
+* ¿META significa "muerte"? Los robots se asocian al salario mundial (recházalo). ¿Busca la censurante IA quien carece de "hemisferio derecho"?
+* Los Piscis, como psicópatas, NO tienen precio, saben "lo que piensas": Sánchez, Tedros...
+##Clinton era el Pindar (fecundador paio), y Hillary lo sabía, y estaba conforme (es de los paios, y sigue su liturgia).
+####Julio García 814 Canal 5TV ELECCIONES EUROPEAS 2024:
+- Ganando PPSOE, o son resultados falsos (como siempre, ordenadores), o los españoles tienen pocas luces.
+- A Iustitia Europa le han quitao muchos votos. A Alvise, creo que NO.
+- NO creo en la careta de Anonymous. ¡Cuidao si la ves!
+- ¿NO se pide recuento general por "el pastel" (ya NO importan los votos)? VOX NO lo quiso, ¿quién le dio "cosas"?
+- Más:
+* Enrique Lemus: curiosa llamada "extrema derecha Nazi", que son muchos projudíos (y los Nazis eran socialistas).
+* ¿Leticia estudió con Sánchez? Y Ayuso e Iglesias en cuanto a fechas de nacimiento...
+####Julio García 816 Canal 5TV:
+- La extrema derecha, en colaboración con una velutina, me han volcao el tazón de leche del desayuno que NO hago.
+- ¿Eutanasia para enfermos mentales?
+- Canarias, 60% abstención europeas (tan hartos de los políticos, que NO hacen nada por la invasión de musulmanes FOMENTADA).
+- Javi Villacorta:
+* Sánchez usa a su mujer de pantalla, usaría a cualquiera; ¿sabes lo que es un perverso narcisista (un psicópata / manipulador)?
+- Publicidad:
+* ElChicoTriste, su trilogía de libros (yo tengo un ejemplar, y además, una caricatura que me gusta mucho).
+* Kalma, salud y bienestar (masajes...). Sa Pobla, Mallorca. Buena pinta.
+- Más (din Psicología, el conspi está muy cojo):
+* Las represiones (creencias pasadas por la familia y NO soportadas... Carl Jung) se manifiestan siempre o casi siempre como complejos (de superioridad, cimentados en uno de inferioridad...). Cuando reprimes te pones más máscaras (imagen) / personalidad, y eres menos coherente (fotos "molonas" de cena, y realmente, estás triste).
+* Solución: lentitud, "mirar las nubes", para que las causas de las represiones se hagan patentes (tras pruebas sociales...). Tiene que haber dolor. La vida te acerca a gente que te molestará, para que mejores y aprenda el alma (a eso vinimos).
+* Ejemplo de problema: tener dolor por que algo NO saldrá como quieres. Tienes Hamer NMG pa los traumas, Transgenealogía para ver qué te dejaron los ancestros por solucionar...
+####Julio García 818 Canal 5TV:
+- Sí, las revoluciones en la calle suelen ser manipulaciones.
+* Los futbolistas NO deberían meterse en política porque suelen ser antiejemplos, equivalen a esos paladines que matan sólo por servir a alguien.
+- Publicidad. ¿Restaurante Burana de Valencia? Mmmm. Y el Centro Magna (Miguel Alarcón): Hipnosis y Regresiones: ¡cura (y NO sólo el tabaquismo en una sesión)! Ansiedad, fibromialgia (es muy psicológica, estado negativo de víctima), psoriasis (de jóvenes NO sintieron el abrazo paterno)... Puede ser online.
+- Las élites (quieren matar para mejor control) no pagan karma, pero sí los que lo hacen directamente (médicos...).
+* Ponen falsos mapas "rojos" del tiempo (el miedo enferma) para defender SU cambio climático, pero hay record de nieve en los Alpes... A los medios NO les interesa poner imágenes de pantanos con bastante agua. Se cortarán duchas para hacer el teatro de que estamos muy mal.
+* Como nos dieron vacaciones unos días, pensamos que la sociedad era maravillosa, y era "del bienestar, la felicidad y la sabiduría".
+* Dicen las élites, que sueltan mosquitos modificados genéticamente para que acaben con los del dengue. ¡Qué malos!
+####Julio García 820 Canal 5TV:
+##Interventora (Iustitia Europea), elecciones Europeas 2.024, Madrid ("conteo"):
+- Puso 4 hojas de incidencias el primer día (y era sólo para el voto extranjero).
+* Muchos magistrados (delincuentes) dicen que la Ley es Obsoleta, ¿y por eso NO suman actas NO? ¿Desde hace décadas? El proceso electoral es chanchuyo tras chanchuyo. Todo el mundo en el ajo, permitiendo.
+* La echaron (seguridad PRIVADA), decían que "interrumpía"... el chanchuyo je je. Y el ordenador de INDRA mandando. Deben publicarse las actas electorales, como mínimo.
+##2 que saben lo que vale un Hamer je je (los terapeutas NO curan, te curas tú al saber de ti: toda materia viene de "algo mental"):
+- Miguel Alarcón (Centro Magna):
+* ¿Tensión por carbohidratos?
+* Trata chacras afectados por emoción.
+* Hipnosis: te fijas en "algo" y el hemisferio izquierdo "cede", y eres más sugestionable. Él tiene intuición, y el lenguaje NO verbal NO miente (me recuerda a MaristanyRamón, "te ve un segundo y sabe si el problema es con el padre...").
+* ¿Regresión a un parásito astral para que se marche?
+##Gonzalo San Agustín (El Código Biológico).
+* ¿Por hipnosis se consigue llegar a la etapa fetal (una madre afectada, influye)? ¿Prematuros por alimentación de madre poco proalcalina (quieren escapar)? Un conflicto de separación (incubadora) puede afectar a la piel (es de HAMER Nueva Medicina Germánica).
+* Sí, salud corporal y movimiento energético son iguales, los antiguos lo sabían (física cuántica). Se puede equilibrar la amígdala (para emociones, supervivencia...). Psicología (base de salud): NO quieres tener niños por una infancia infeliz.
+####psi herm Cris 2024 año Génesis / orden (desde la moralidad) y sinceridad, y Tanto Miléi como la de México son judaicos aunque Miléi es sensiblemente mejor (favorece la participación de la gente, NO es delincuente...). Mitad 2 del año: qué SÍ y propósito nuevo quizás.
+- 2.024: ¿El BE que viene a poner orden es el clima astrológico? ¿Y Canosa todavía NO al mundo?
+- Liberal real: impuestos reducidos y que nos dejen "cultivar". ¡Y sin salarios si se puede, que así trabajamos todos, para el bien común!
+* Primero, ser yo el cambio que quiero ver en el mundo, para que ni las élites nos paren.
+####psi herm Cris Arte Guerra Tsun Zu Qué significa realmente:
+- Tu enemigo es tu propio ego, que te engaña ("el arte de la guerra es el arte del engaño"):
+* La imagen se asocia muchas veces con especializarse para sentirse "algo", y apartar a quien NO sabe lo que tú, aunque tenga capacidad de aprender rápido (por tener una buena base). Lo importante es mejorar (psíquicamente), NO el estatismo (y eso que mi ascendente es Capri). La clave es una gran inteligencia para enseñar, eso sí que hay que trabajarlo.
+- El libro (frases):
+* Capítulo 1. Evaluación. ¡Relacionado con Castaneda!
+* Capítulo 2, accionar. Nunca inicies algo sin evaluarte. ¿Saber en qué fallas por dentro y qué acciones / deseos (mueven energía) podrían generar escenarios para tener más éxito y ser más bueno (NO olvides la emoción)?
+* Usa el ego malo (mostrar fallos) para derrotar al ego malo, desocultándolo. Se gana en el terreno de lo sutil (sin asediar ciudades...), los gobiernos malos son un castigo para sociedades hedonistas y que NO miran para dentro. "Nunca ataques (acciones) por cólera o con prisas" (se debe elegir la emoción adecuada para accionar). "Tómate tiempo en planificar" (¿el plan debe contemplar como mucho 3 o 4 "subcosas" como mucho, y con sus escenarios y dolor, que todavía NO puedas coseguir NO?).
+####psi herm Cris Barbarie vs Ley. Massa (gente masa, que NO mira dentro) vs Mi Ley / Miléi (ser "mi padre", autoprohibirme y reaccionar con angustia ante lo que hago y NO deseo, y "celebrar" lo bueno; función paterna = 3 = 1-ir hacia delante + 2-lo sutil / femenino):
+- La primera etapa para el orden es algo traumática (debe serlo). La teta del Estado debe dar paso a la responsabilidad (¿incluye ponernos a producir zuecos [cutres = NO superficiales]?).
+* El exceso de subsidios / limosnas... puede cegarnos, y venir de gente muy mala. Y el beneficio inmediato...
+* Miléi se ocupa sobre todo de lo externo a Argentina, y delega en lo interno (para tenerlo todo cubierto). Quienes quieren conservar privilegios, están contra él.
+####psi herm cris separación de fuerzas diabólica:
+- Cuando elijo una de 2 cosas (el cerebro funciona binariamente), suele haber un conflicto (la persona "olvidada" te reclama...). Piensa en el tiempo: hoy hago esto, mañana... NO es elegir, es integrar.
+* Este esquema se parece al de por ejemplo, verdugo vs víctima (por NO ser muy aparente el problema). Lo que hay en realidad es un salvador / creador de víctimas (y la víctima aprende con verdugos), o un pecado.
+####RafaaSecas Preg pa cortar la corriente del Golfo las élites tienen que meter aire frío.
+####RafaaSecas Sueltan nubes pseudorrobadas en el Mediterráneo.
+####Rix entrevistado por Fraguas Memocracia:
+- + opinión pública original y menos Telediarios (las élites han trabajao mucho pa que la gente sea crédula).
+* El sistema detecta lo que quiere la gente, y de ahí salen terribles círculos, y luego partidos que prometen.
+- En Oviedo y muchísimos sitios más, se puede decir que ganó Junts (independentismo catalán). Luego NO se abren los sobres en cada provincia pa sumar, confiando en Indra.
+* ¿INDRA cambió "al mal" tras el terrible Club Bilderberg?
+* Yo me puse a votar por lo de Miléi (señales sutiles: él es judío pero de verdad / cumplidor, y el 2.024 es el año del Génesis / año "judío"). IustitiaEuropa es lo bueno de España. Me ha gustao que el último voto de Rix fuese para Anguita.
+- Más:
+* NO pasa nada si lo cuentas a menos de 100 personas a la vez. Haz tu labor.
+* Hay ruptura entre los disidentes.
+####Ophra diciendo que NO pasa nada si el abusador provoca placer. Muchos famosos piensan como las élites.
+####same si NO te gustan las canciones soft Sailing Christopher Cross 1 NO tienes alma o 2 has reprimido el lado femenino eres cerrado o 3 tu alma tiene pocas vidas o...
+####sren aceptar responsabilidad de actos sin sentirnos hijos del Estado es el primer paso hacia tener deseos elevados. El segundo es aceptar que nuestra psique hay que limpiarla para ser buenos La conducta NO limpia.
+####suame USAbiden apoya a Ucrania por su riqueza en minerales. Guerra por riqueza, NO les interesan las personas. Occidente quiere hacerse con Rusia. Y los pobres soldados de fuera...
+####superam en Australia se pide identificación para cualquier acción en Internet En Australia casi NO hay disidencia (debe aumentar en todo el mundo).
+####supera a veces pienso cómo cambiaría mi vida con algo de Ritalín pa la atención (pero prefiero ser "lo oculto de mi alma", ese soy yo). Con el covid se demostró que somos sumisos a los drogantes.
+####superam el abusón de abajo da un portazo a eso de las 3AM y grita mi nombre fuerte y cavernosamente. Al ser Acuario opta por el acoso moral (que NO se note, que quede entre 2 casas o familias calladas). ¿Es delito ocultar que tu marido es un TPL que estuvo en el Manicomio un mes?
+####Los árboles influyen en el clima positivamente. Las plantaciones industriales influyen negativamente. CO2 es inocuo hubo muchísimo más en el pasado.
+####superame aunque a mucha gente que te gusta les guste la misma persona Tú sigue en guardia Esa persona podría ser un actor...
+####superamenaza berdad sobre Yugoslavia:
+- Yugoslavia se unió para hacer frente a manipulaciones externas, y se vivía bien (y en los 80, era un país con mucho éxito...). ¿Cómo se pasó a la guerra?:
+* NO era un polvorín. Pero en 1.989, cae el Muro, y muchos países pasan rápidamente de Comunismo a izquierda o derecha (malas las 2). Yugoslavia NO cedió, ¿a Washington (USA pone dictaduras)?
+* Aparecen de la nada agitantes nacionalistas (uno por cada parte del país, ¿creados por la OTAN?). En nada, una guerra. La OTAN (buitres) pasó a controlar el país. Pero NO os equivoquéis, siguen siendo UNO los yugoslavos.
+####superamenaza fascismo viene de PAchiste y es una palabra negativa, ¡pero antifascista, también! Están en contra de la idea de unidad. Lo que es "anti", es un plan oscuro.
+####superamenaza Israel son los aliados de la segunda guerra mundial, NO lo olvidéis.
+####Hamás podría estar con USAbiden para crear un problema (la solución de psicópata, dominar Oriente Medio para entrar en Rusia quizás). Irán en los 70 era supermoderno, pero vino USA...
+####superamenaza la logia masónica española ahora está compuesta por miembros del PSOE básicamente. Elegidos a dedo. Es una institución en la que había convivencia de partidos y religiones, ¡con incompatibilidad con cargos políticos!
+####superamenaza multa al país que NO acoja expresidiarios africanos.
+####superamenaza sin debate sobre lo que decide la OMS todo muy poco transparente.
+####superren Esto se lo copio a mi primo Santi Cuando creíamos que teníamos todas las respuestas cambiaron las preguntas Hay que filosofar más, ¿pa qué estamos aquí? ¿Nuestra vida es digna / NO requeteactiva?
+####supersalud como vigilante y esencialista Escorpio que soy NO debo dejarme conquistar por Tauro Venus en general.
+####superso El loco homicida es el niño abusón tiene 2 focos de Hamer una enfermedad llamada TPL / constelación agresiva. Porros antes de salir a la calle, mejor que alohol.
+####Alvise Pérez Asociación Seacabólafiesta (bueno o malo, NO sé, pero miente bastante bien, eso lo tengo seguro, ¿miente por algo bueno al final? NO descarto nada):
+- Tele: "NO digas su nombre o nos echan". ¿Pero es bueno? Abellán, que es BE, está con él. ¿Basta con eso?
+- Nos dicen que Alvise necesita estar aforao (conseguir un cargo) por querellas de, ¿gente mala?
+* Muy raro lo de pedir firmas (eso da publicidad).
+- Más:
+* Los jueces que esconden pruebas son ascendidos.
+* DONARÍA SU SUELDO EUROPEO.
+####supersocio antes de inocularte pide fecha y lugar del acto Prescripción médica Nombre completo del ejecutor y Marca y número de lote de la substancia.
+####supersocio el peligro es la gente que copia Se sienta en un banco sólo cuando tú lo haces y le gustan las tendencias Vs alguien magufo que sana lo que NO consiguen los médicos de carrera (presionados por las élites).
+####supersocio preg Alvise copia a IustitiaEuropa.
+####supertec Maté un mosquito con una T un bastón especial.txt  
+####supre prefiero la azada (si los viejos del lugar me enseñan a usarla eficientemente sin reírse de mí, que suele pasar) a una sola gestión por móvil. ¿Usar sólo metales nobles?
+
+####Cancer####
+####supersalud el cordón umbilical NO se corta hasta que se desennuda y se pone blanco Entonces habrá pasado la sangre necesaria. ¡Medicina asesina!
+####samenaza Un periodista te dirá lo que realmente es je je:
+- ¿A pesar de lo evidente y tus sentidos, necesitas que alguien analice y te explique para que parezca otra cosa? Entonces tú lo que necesitas es a un periodista de cabecera subvencionado que piense por ti je je.
+* La carrera de periodismo en España ya no es necesaria. Con ser capaz de ser repetir como un loro... Diles que se tienen que poner en el brazo algo que todo el mundo sabe que hace daño. O que un maromo subsahariano de 1.90, con más músculos que Schwarzenegger en sus buenos tiempos es un pobre niño menor de edad que está sufriendo.
+####superamenaza Zelenski fue cómico Por eso fue puesto ahí (es actor). Salía en bolas a hacer su espectáculo.
+####Lo intelectual unos lo disfrutan, y para otros es sólo la antesala de lo bueno / práctico, porque escuchar y prestar atención mucho tiempo NO es natural. Me acuerdo de que en la Universidad NO me llegaban las palabras, unía unas pocas con intuición y acertaba casi siempre.
+- Al otro lado (esto es para quien habla) NO son todo caras sonrientes: hay que minimizar "la poesía", estructurar y acortar.
+* Explica como si todos tuviesen jaqueca y ya verás cómo haces más bien. Se habla rápido para el superficial (de sentidos).
+####Los zares son bere Antipaios Antisabateos Anti falsos hebreos con un gran conocimiento de las reglas del éxito del Universo Antisatán. Nicolás II era casi un líder completo. El líder es abierto de mente para nuevas teorías NO oficiales (Creo que Nicolás II, NO), NO quiere cosas ni viajes, NO vende droga ni es TPL.
+####Quienes NO quieren más papel NO piensan. Contamina, pero nos salva del control por teléfono móvil.
+####El cerebro NO puede tocarse hasta los 2 años (nada de vacunas). Hay compra de voluntades. Antes se pasaba el sarampión y estaba.
+####Los ayuntamientos distanciaron al pueblo del regidor, quitando poder al pueblo. ¿Cuándo empezó la sal a ser de mentira / refinada?
+####superamenaza substancia tras inoculaciones reacciona con luces ultravioleta. Los inoculados enloquecen, se vuelven violentos.
+####supersocio los amish NO se vacunan y NO tienen TDA Epilepsia Autoinmunes Autismo / asperger feroces.
+####superamenaza Hace tiempo que tengo ciertos nervios chiquitos en la piel Preg el sistema inmunológico baja y el cuerpo se defiende así.
+- Pa la dermatitis nerviosa, he cambiao las sábanas (por si hay alguna alergia que complique el asunto, y el miedo y la impotencia, afectan a la piel), y puede que me tome una naranja, y me exponga al Sol. Tengo que evitar el estrés. ¿Y pescao, sobre todo azul?
+* Cuando llevas unas 3 horas en la cama, te pones muy nervioso, y hay que levantarse... Sientes zonas del cuerpo en las que no hay carne (o esa sensación te da). Granos alrededor del ojo...
+####Tengo náuseas, ¿acepto NO necesitar hablar con nadie normal de cosas NO normales y que me consideren un loco sin remedio lo cual tiene su parte buenísima?
+####same El buenismo es ponerte tierno con cosas que están destruyendo España Se Victimiza a grupos peligrosos woke = inmigración ilegal etc. NO me extraña que en Europa se vote a la incorrectamente llamada ultraderecha (aunque puedan ser lo mismo).
+####Santi Royuela Mena torturando a Carlos Pujantell por información Preg pa la mafia rusa Mena es el narci que da órdenes. Hay pruebas manuscritas y la Justicia se niega a peritar.
+####Club Ciclista Figaredo, distribución de droga (para mi vecino de abajo, que es TPL y las necesita...), ¿qué llevan en las mochilas? Hay que ser tonto para NO haber curado ya el TPL / la constelación agresiva / haber buceado en el pasado a cuando tus papis NO te deseaban, había rabia, y ningún sitio era "tu sitio". El psicópata es el más débil, y tiene síntomas de fase activa, NO de curación; se hace el griposo pa encajar.
+####Los Mitos Canción Es muy fácil Es mejor ver la vida como venga: NO tanta planificación (yo explotaba o me frustraba si algo muy planificado NO salía bien: los amigos llegan un poco tarde y explotas). Lo de sonreír (canción), ¿NO obliga al otro a una interacción social, a NO ser libre? Puedes pasar (asumir que haces daño al inconsciente).
+####pobre de mi vecino con su cojera, ¿simulada (lo copia todo y me llama "tonto" desde abajo)?
+####He borrao casi todos los contactos relacionados con el psicópata JLuis (AF, que trató de inducir a muchas mujeres al suicidio; pero al rato de intentarlo ya le veían como un monstruo; me dio un libro con problemas de Tecnología Electrónica como chantaje emocional, y NO hice ninguno, yo soy de estudiar "el último día"). Él se relaciona con el superpsicópata Luis (Muñoz Trujillo, Bondage, y seguido por la policía), el cual dejó preñada a PGP, cuyo padre NO deja de meterse conmigo: "ves ese que está en el corredor, pues es un mariquita, le gusta Durán Durán". ¡Círculo cerrado! Figaredo, cuenca minera, gente muy audaz, pero... poco elevada.
+####aadin. Hacer todo el teatro posible, EOI y con Ana (pero que NO me diga "NO quedamos por esto o lo otro", las cosas se cumplen; y yo intentaré NO esperar a que se cumplan, que eso es malo, como ser un serio conspi y tener Whatsapp, que quita tiempo).
+####Llevo tomando Escitalopram desde 2.012 (salvo 3 años con desquiciante je je Sertralina). ¡Pa dormir está bien! ¿Es malo? Mi familia es muy TOCera, eso sí, y una solución queremos.
+####sren menos información manejada y más filosofar sobre ella Es como el Tetris pocos tipos de pieza mucho recorrido.
+####Ya NO estamos en Géminis, que facilitaba meterse en el mundo de los "pesaos". Veré quién explica mejor: estructurado lento... y con ése me voy.  
+####Astro Caro y Klauss Oveja Negra:
+- NO encaja, se hace preguntas molestas (disruptivas) para el resto, que no le entiende, y esto genera angustia.
+* Si intenta hacer lo que la sociedad pide, las cosas salen mal (NO casa con lo que piensa). Tengo conjunción del Sol con Urano / Acuario (Carta Astral), que ve las cosas de forma diferente. Neptuno / Piscis, capta cosas sin método científico, "lee mentes", y Escorpio tiene mucho sentido de la moralidad (e intuitivo). ¡Incomprendidos! NO como los hábiles y superincompetos "cíclopes" (falta perspectiva).
+* El oveja negra debe ser más tolerante (son protegidos "sutilmente").
+* Si te dicen qué pasará te quedas pasivo, ¡pero la oveja negra luchará por el bien!
+####Astro Cebadera. Algo que termina en el área Capri (trabajo...) es porque algo empezará en la Cancer (vínculos emocionales...).
+- ¿Tauro es zona de confort = "yo sigo con lo que pensaba"? NO nos resistamos a los cambios. ¡Puedes adaptarte!
+- Cursos y entrevistas roban energía, ¿pero podríamos resistirnos a decirles adiós? Y LinkedIn es pesao. Hay paz cuando vas bien (con el alma).
+##¡Por supuestísimo que prefiero el corazón de Leo a la frialdad robótica de Acuario! Las tripas (y la intuición) deben decidir, NO mucho la lógica, que es algo de inteligencias bajas por así decirlo.
+####El Gobierno español organiza un evento Drag Queen Ellos hablando desde un estrado del Gobierno. El Gobierno ensalza lo feo, lo insalubre...
+####energía Quim Marconi. Yate Electra (laboratorio): desde ahí mandó (trabajando pa Mussolini) ondas cortas (que rebotaban en la atmósfera) que pararon todos los automóviles cercanos (y luego lo revirtió, funcionaron). Abandonó (¡bien!). Muere de un infarto (ondas...).
+- Tras la Segunda Guerra Mundial, apagones, ¿NO durante (versión oficial)?
+####energía Quim propósito de las runas (saber quién eres y qué tienes que hacer, ¿meditar enfrente?):
+- No las compres, que vengan de un río con caudal vivo (o de madera o corcho). ¿Los antiguos las grababan con sangre, que "dice" de dónde venimos?
+* ¿Primero, fortalecernos algo (miedos...)?
+####energía Quim. Es como una rueda el átomo: átomo magnético en el centro, 5 canaletas, y un "aro" luminoso. Cuanto más pequeño, más vibra. Ighina quería detener átomos influyendo en el átomo magnético.
+- Modificar materia (su magnetismo): un árbol por otro, cola de gato en rata...
+##Ferlini: 4 imanes gigantes de herradura en cruz, sin llegar a tocarse (se veía otro paisaje).
+####Fran Parejo suerte y éxito:
+- Karma (pagar por cosas malas de otras vidas): hay avanzados con muy muy poca riqueza material (¿a sumar a creencias / carta natal / dificultad de misión de vida?).
+* Las experiencias hasta los 33 pueden servir de barrera. Hay que ser positivo. Y aceptar que la gente es como es, pero pueden tener buen corazón (pásate el día diciendo conscientemente que son malos, y el éxito te abandonará).
+* ¿La madre pasa pasionalidad y el padre empuje? La energía de cópula influye (mis padres me hicieron sin ganas, mi misión es "de sabio"), cuesta salir adelante (y NO tengo ni tierra ni aire en la carta astral).
+* El fracaso es encajar en una sociedad superficial o NO hacerse preguntas.
+- Más:
+* Una mujer masculina (pasional, dominante e histérica) termina chupando la energía del hombre (para el hombre, la mujer es la naturaleza / el medio). Y el hombre debe respetar la energía femenina (receptora, cariñosa... Pero si tienes personalidad flemática / gordita / femenina, que me suena a poca función paterna, soluciónalo).
+* Disharmonía o indiferencia en la familia: difícil que llegues a lo que quieres. Las élites se frotan las manos.
+####Frank Parejo Oporto Torre de los Clérigos (Alta: comunica con otras dimensiones). Semejanza con antena 5G:
+- Se construyó donde ahorcaban a gente (atrae energía mala), y hay reliquias negativas.
+* Arquitecto: Nasoni (narigudo, judío malo).
+* Antorchas (energía) de piedra, y cerca del río (energía).
+- Funciona como oscilador (el cuarzo del granito), llenando Oporto de energía negativa (la corriente del río sanará). 
+####FélixRMora ultraderecha NO es patriotismo de pata negra (bandera actual):
+- ¿Por qué volver a "Las Españas"? Bueno, funcionaban bien.
+* ¿3 días como máximo de incursiones militares (cierta España "vasca")? Difícil militarizar. Revolución liberal, ¿para cobrar más impuestos y controlar más?
+* Constitución de Cádiz: el acabose. Como la Revolución Francesa (engaño), tras "UK", tras "Holanda", tras la macabra república de Venecia y descubir "El Secreto" paiobere. Se acaba el concejo abierto, el asamblearismo...
+- Más: La cultura de USA ya NO es creativa, y la gente sigue tragando su basura (música, series...). Quien aguanta el cine de hoy, tan destructivo, creo que ha aprendido a insensibilizarse. Los viajes pueden desarraigar. La Universidad del País Vasco pilla valores "yankis". Durruti NO quiso respetar la cultura aragonesa. ¡Dejémonos de ídolos de pies de barro!.
+####FélixRMora Falso patriotismo 2 (islamismo es esclavismo):
+- Los modernos suelen sentirse superiores a la gente con cultura popular (que permite la supervivencia...).
+- La lengua castellana NO es de sabihondos famosos.
+- Hay que construir la diversión, NO comprarla. Yo: pero un reproductor de .mp3... te da mucho.
+* ¿La gente pone cara de gusto en los conciertos = "arengas militares" / mítines, porque les dicen que "esto es divertido"?
+- ¿El yoga quiere convertir a la mujer en un robot sumiso (se pueden incorporar otras culturas cuando tienes una comprensión suficiente de la tuya tradicional)?
+- Desde Europa, fusionando culturas erudita y popular, podemos mejorar el mundo.
+- El que agrede primero (OTAN...) es el agresor.
+- Para destruir un país, lo de siempre: rusos en repúblicas bálticas...
+- La cultura NO europea es "mandinga" y machista.
+####Iustitia Europa al final se desestimó el recurso por elecciones fraudulentas VOX es el que más se personó por así decirlo del resto de partidos Los demás dejaron solo a IE.
+####Javi Villacorta. ¿Por qué sigue en prisión Manuel Jesús Rodríguez el forense? Se metió con médicos terribles (aceptaron protocolos sospechosos para el covid) y jueces. Les fastidia (a las élites) que se señale la violación de derechos.
+####Javi Villacorta Mucho vuelo Falcon, ¡González y Bono son dominicanos ("ese país" NO tiene acuerdos de extradición)! 
+####Miguel (Silveira): da un paso adelante ante la incertidumbre (creada en parte por las élites), para ver qué puedes hacer (opciones), y ahorras angustia. Hay cosas, eso sí, que debes dejar como incógnita, tranquilo, ya lo afrontarás con confianza.
+####Julio García 822 Canal 5TV:
+##Julio (el bienestar es temporal, NO te confíes, pero volverá si sabemos la verdad):
+- Vamos a un periodo frío, lo dicen los científicos reales (NO comprados o "crédulos"):
+* Delegamos (creemos por sistema).
+- En 2.010 ya se perseguía a los antivacunas, que sabían que iba a haber más campañas y pandemias artificiales, con la OMS suministrando el veneno. ¿Pinchazos para anular el miedo?
+##Javi Villacorta:
+- ¡Javi es RH- (naturaleza bere / bondadosa) :) !
+- AEMET: antes 13 grados (Primavera) era frío, y ahora se considera calor (para defender las ideas del cambio climático y el calentamiento global).
+##Cómo luchar: decir "si la NASA dice que las estelas de condensación (NO venenosos y malintencionados chemtrails) se dan a 9.000 metros, ¿por qué se ven estelas tan bajas?". Las instituciones te pueden decir que los aviones militares puede crear estelas a baja altitud. Recuerda, el vapor de agua es el verdadero agente invernadero.
+- Ganaderos noruegos deben importar hierba (las vacas No comen "la suya", con exceso de, ¿aluminio?).
+##Gabriel Araujo: el fraude electoral español se vivió en Venezuela ya (2.003 o 2.004...). Muchos de Podemos fueron a Venezuela a "aprender". Hay 5.000 formas de fraude. ¿Al final VOX sí que denunció?
+####Julio García 823 Canal 5TV Elecciones europeas:
+- Había muchas personas cuyo voto se había borrado (de Iustitia Europa... Teléfono de IE echando humo el día de las elecciones).
+* En Cuba hay 3 oficinas pa nacionalizar (otro truco de Sánchez). Al Barrio de Salamanca (derechas) NO llegó documentación (o casi) para votar por correo. Y en sitios de derechas, gente fuera de las listas.
+* Para el "escrutinio" cogen una tablet, y aquello parece un bingo cantando números (y la tablet, muy alejada de quienes velan por la honestidad). Te dicen los PPPSOEros: "nunca hemos hecho el escrutinio", y se quedan tan panchos? Bueno, saber que hacen el mal los pone nerviosos, y muchas veces, violentos con quien pregunta. Salas clandestinas donde se abren sobres...
+* Junts protestó contra el PSOE, y el PSOE le dio votos (por medio de INDRA) para callarlo quizás. Cazaron a un técnico de INDRA modificando datos. INDRA (con filiares), domina los países del "Cártel" de Puebla (semicomunistas). En Brasil, si Bolosonaro era el "22", estropeaban la tecla del 2.
+####Julio García 824 Canal 5TV:
+- España NO es laica, ¡es masona! ¡Es terrible!
+* El PSOE elige a 10 del "Poder Judicial", y el PP a otros diez.
+- Infantes en peligro. ¿Hay relación entre volverse loco por los likes (números, NO calidad, la gente NO es sabia), ser "Gamer", NO poder levantar la vista de la tablet, y [perder neuronas y NO poder disfrutar de un amanecer] por cuestiones hormonales? A los padres No les importa este "altar de sacrificios" (la pantalla).
+* País con hambre: "un niño, un portátil", terrible (vs buena cutreEscuela donde el niño fabrica sus juguetes).
+- Recordatorio: las mamografías son peligrosas (radiación ionizante). Hasta las mujeres con factores de riesgo tienen muy difícil tener cancer de mama. El cancer se da (Hamer, Nueva Medicina germánica) cuando estás mucho tiempo viviendo un conflicto (preocupación por el porvenir de los hijos...), ¿en secreto?
+* ¿El virus del sarampión NO existe? Probablemente. En tanto nos han mentido...
+- ¿Los hospitales tienen una cruz templaria (mala) en la fachada? Los templarios son católicos (expulsaron también a buenos hebreos practicantes). El borrabere catolicismo...
+####Julio García 825 Canal 5TV:
+- ¿La Corriente del Golfo desaparece por fumigación, al igual que el Anticiclón de las Azores, que se quiere "recrear" superhiperfumigando?
+- De fuera vienen machistas con voz 0% cantarina / suave.
+- ¿Bastantes fiscales muertos por destapar el plan falsiindependentista?
+- Victoria de Lepén, ¿para polarizar a la población (a las élites les gusta separar / dividir)?
+- LMPardo: apoya a los partidos que quieren transparencia y luchan por ella: Iustitia Europa...
+- SergioCebolla: lo de ponerte pocas visualizaciones es para desmoralizarte en parte, que NO sigas. La justicia es muchas veces a largo plazo: sin Elecciones Transparentes (grupo) como precursor, ¿habría tenido Iustitia Europa "las ganas" de denunciar? Y por el camino, informas... Se consiguió quitar mascarillas (colegios)...
+####Julio García 826 Canal 5TV:
+- ¿Y si hacemos las autopsias de los muertos en 2.020? ¿Los protocolos psicópatas se aplicaban a cualquiera que viniese por cualquier cosa al hospital?
+* Si te aislan (anciano o NO), pillas miedo, y eso enferma. ¿Y lo de poner boca abajo y entubar?
+* ¿Y si defendemos al médico y sigue obedeciendo / matando? NO se puede ser médico si el dinero está incluido (los médicos tienen que ser sabios / elevados, poder vivir con poco y ser muy felices).
+- El PSOE ta en poniendo en funcionamiento todos los mecanismos de Podemos.
+- Tontería (de tonto): "mis hijos se mueren de hambre antes (DE) que gobierne la derecha". Nota: el fin es el Comunismo (control total ancestral de los paios-kain-Iudas y...).
+####Julio García 827 Canal 5TV:
+- ¡El verdadero enemigo de las élites somos los conspis! Dicen que es la ultraderecha pero... es la consciencia.
+- La sangre es para venderla, ¡te recuerdo que NO dones, que uses agua de mar!
+- Las mascarillas de las madres, sin expresión, ¿cómo afectan al bebé? ¿Como mínimo algo parecido al síndrome de asperger (alexitimia)? Profes sin mascarilla, niños con ella desmayándose en clase de gimnasia, a 5 grados...
+* Los malotes dan toques de atención a los médicos cuando NO cumplen con el cupo de niños envenenados (falsa vacuna, que causa alergias). Los efectos son acumulativos (armas químicas).
+##Gonzalo SanAgustín (fan de Hamer; hay que serlo para ser buen terapeuta):
+- Insomnio:
+* Comer 3 veces al día (y bastante en cada comida) ya es proinsomnio.
+* ¿Más tarde de las seis NO deberíamos comer nada (se estimula el cerebro, por mandarle su "azúcar")?
+* Ayudas. Bicarbonato (puede sentar mal por tener mala flora) con agua (o vinagre de alta calidad, NO pasteurizado. Casero...) 2 horas antes de acostarse. Agua fría: ayuda al delgado y al gordo, por la mañana y la noche. ¿Ejercicio de fuerza o resistencia 3 horas antes como poco?
+- Salud en general:
+* El magnesio cae bien con nivel de nutrición bajo (si no, mejor bicarbonato y vinagre de alta calidad con sal, aceite y lechuga... = suero / bueno).
+* La bilis (se suelta con limón, y tiene que doler) alcaliniza (bien), ¿como el picante? Sin embargo, el cuerpo acidifica (mal) con la fruta alcalina (con el ácido limón, alcaliniza).
+* Hidratos de carbono, ¿NO más de 50 gramos al día? NO pasarse con los buenos dátiles.
+* Agua retenida: toma agua de mar (tiene electrólitos).
+####Julio García 828 Canal 5TV. ¿La derecha favorecerá la implantación de las terribles CBDCs? El PP ahora es el PSOE, y viceversa. ¿Es la destreza (la ensalzación de lo externo y lo superficial) el nuevo Cancer? Anuncio venenoso: "implantes cerebrales para jugar mejor a videojuegos".
+####Julio García 829 Canal 5TV:
+- Francia, gana la sangrienta y masona izquierda en segunda vuelta. Hay manipulación (Francia tiene su INDRA). "Ultraderecha" 9 millones de votos / 88 escaños, izquierda 7 / 146, ¿cómo?
+* Los gays españoles se alegran, pero pronto gobernará "un califato" (y NO es broma, y tienen más miedo a VOX. Sobre VOX: dice verdades como puños, ¿pa quedar bien? Pero NO va mucho más allá, ¿manos atadas?).
+- Fetos vivos: les arrancan órganos (tienen que estar frescos) para el comercio, rituales negativos... Álex Merino ya trató el tema (y demostró que venían subsaharianos a joder España que NO tenían necesidad, con los mapas de la red, haciendo zoom...). Es un vídeo duro. ¿Engañan a las mujeres diciendo que su feto está mal?
+- FRESCO: el Buffet de mercado (Barcelona). ¡Para chuparse los dedos!
+- Sergio Cebolla: potente asociación de consumidores y usuarios, Habeas Corpus. ¿Contra la Agenda 2.030, Youtube, y lo que haya? Parece que sí. 1 euro al mes, enseñando a la gente a defenderse por sí misma.
+- Miguel Alarcón (Magna). El mercado se aprovecha del adicto, ¡con productos NO necesarios! La gente pone excusas: es que me relaja... en vez de autoanalizarse:
+* Adicción al carbohidrato: la más extendida (no necesitamos glucosa, y te la meten con la papilla... Las élites promueven adicciones. El pan es muy adictivo, y tiene mucho más gluten que antes (volveremos a "antes"). Cerveza: alcohol + AZÚCAR (como el vino y la sidra, superadictivos). 5 piezas de fruta al día... matan.
+* Con los medicamentos controlan a los viejos. El café activa el cortisol.
+* El juego y las redes sociales hacen lo mismo que el psicópata (recompensas mezcladas con castigos).
+####Julio García 831 Canal 5TV:
+- Cuando los sentidos (sin contar la intuición) son muy buenos (como cuando lo son las calificaciones) uno puede estar permamentemente en una cárcel de autoengaño (¡qué guay mi trabajo!...). Y transmitir información podría ser de forma deficiente. NO somos nuestro cuerpo, somos almas.
+* Los "controladores" quieren que seamos materialistas (la escuela crea monstruos de lógica, detalles, simple conocimiento acumulado y materia).
+- La postura influye en el ánimo (impulsividad...) y viceversa:
+* Postura pies, abierto 20 minutos de 60. Si me cierro mucho (problemas respiratorios), ¿hacer excursiones? Si NO suelo ir mucho a mi interior, ¿quedarme en casa?
+* Intolerancia alimentaria puede hacer girar la cadera, y eso afecta a... ¡cada persona es un mundo!
+####Julio García 832 Canal 5TV:
+- Yamal (España, fútbol), NO es blanco, y se le da más publicidad que a del Olmo, que marcó 3 (Eurocopa), salvando uno.
+- Trump (intento de asesinato o teatro para mitificar o... ¿Ritual Keteb Meriri?):
+* Trump es partidario del CDS / MMS ("lejía" de sabios, que CURA lo que producen las vacunas). El que "quiso" matar a Trump aparece en un spot de BlackRock (dueño de medio mundo). ¿Quién está detrás de este mandado?
+* ¿Había alerta previa, pero NO hubo vigilancia? ¿Había viento (bala desviada)?
+* Los hermanos Barea, buscando en documentos "masones", adivinaron esta fecha (14-07-2024), en Septiembre del 23.
+####Julio García 833 Canal 5TV:
+- En España, la mitad de las muertas por violencia, lo son a manos de inmigrantes. Muchos QUE COBRAN (ayuntamientos...) NO dejan decir la verdad, ¿irían por ellos? 
+- Plan vacunal pa infertilizar: principios de los años 90:
+* NO discutas por el grafeno, el aluminio ya mata, y tienes mercurio...
+* ¿Las vacunas atontan?: jóvenes quedan con desconocidos (redes). Quieren sexo, NO piensan... ¿Qué pasa? Que en este mucho (España...) hay mucha guarra. No son mujeres liberadas, tienen el coco sorbido.
+- Trump es profético, esperemos su cambio en vez de condenarlo por el pasado. NO e puede ser una "máquina periodística" (NO integral, que se olvida de la intuición, de paios y bere, de NMGHamer...). Si los que atacan a Trump AHORA NO tienen razón en el futuro, me los comeré con patatas. Porque son más líneas a publicar (lo largo es basura).
+####Julio García 835 Canal 5TV. Publicidad: Repara Hogar Navarra:
+- ¿Trump lo sabía todo (preocupado por posar)? ¿Es mala la mesianización consciente? Es una buena pregunta. Trump, por otra parte, lo sabemos, es "de hielo" (que se preocupe por posar tras "el tiro"... No quiere decir mucho). ¿NO estaba dominando leones como un bere sino con leones (paios)?
+- Más:
+* Keteb Meriri avisa 23 Julio, y ataca el "13" de Agosto = 9-11 "judío".
+* Si viene "el BE" o un "ordenador", será para salvar a unos pocos conspis. El resto NO son avanzados.
+* ¿Hacer caer Europa para poner el tercer Templo? ¡Por la inmigración! Profecías autocumplidas (élites trayendo caos inmigratorio).
+* ¿Trump es amalekita / rojo / Iraní y Miléi azul / israelita (lo dejo por si acaso)?
+####Julio García 836 Canal 5TV.
+##Julio:
+- ¿Toda ONG es una mafia sacapasta de narcis? Los de abajo de la ONG NO se enteran (lo he dicho mil veces).
+- España es vergonzoso líder en ensayos clínicos (yo fui cobaya, sin saberlo, de Topamax, y me dejó casi inmóvil. En un PDF estaba el plan inmoral). Mejor dolor por aceptar haber sido engañado, que NO aceptación.
+- Con la agenda 2.030 cada vez hay más pobreza: es falsa.
+##Javi Villacorta. Hungría, ¿está con "la mafia de Oriente"? ¿Hay algún país bueno (Holanda...)? Pero los húngaros saben muchas cosas que nuestros telediarios nos ocultan sobre "la mafia de Occidente".
+- Tumbar artículos (tranquilos, que a los inconscientes NO se los tumban) resta publicidad en "Google" al autor.
+##Las élites usan para censurar, a jóvenes que NO saben todavía mucho de engaños.
+##Números, más:
+- 0: conexión con "la fuente".
+- 33: bueno para crear. Y los 33 (sumar fecha nacimiento): amor incondicional.
+- 1. Tiene que aprender a compartir y colaborar, sin perder el "yo". Es masculino.
+- 2. Viene a trabajar el complejo de inferioridad (yo soy 11 = saco lo oculto en ti = 2). Femenino.
+- 3. Se quiere divertir, y debe ser menos frívolo y caprichoso. Cambia de pareja...
+- 4. Trabajo, orden, disciplina, perseverancia, constructores y organizadores. ¿Si lo sabes usar, trabajarán para ti? Aprender a NO ser cabezota (perfeccionista, materialista...).
+- 5. Comunicación (movilizar al mundo). Aprender los límites de tu libertad. ¿Exigente con los demás?
+- 6. Falta de amor propio / autoabandono.
+- 7. Conocimiento espiritual, psicológico, científico...
+- 8. Éxito, poder, fama: para influir. ¿Suelen manipular?
+- 9. Sanador, humanitario, ayudador.
+####Julio García 837 Canal 5TV comer bien:
+- Cañones (ultra)sónicos antigranizo (se usan para evitar lluvias, y decir "la tierra se muere por el..."). Los de seguros agrarios, felices. El campo, no tanto. Luego niegan esto...
+* ¿Tesla y Volkswagen están contentos porque no hay lluvia sobre sus coches?
+* Más: NextRad, DutchBoy... Yoduro de plata, aluminio, cadmio, dióxido de azufre... en el aire. ¿Hacen subir la temperatura? Crean anticiclones.
+##MiguelAlarcón, ¿sanaCurador (cuerpo y mente)?, nutrición (por hipnosis). ¿Están engañados los médicos (Hipócrates hablaba de menos de una comida al día)?:
+- Ancel Keys (manipulador) demonizó las grasas (que son buenas: de alta o baja densidad. A más colesterol, más vives; Álex Merino: en Andorra se come mucha carne, y son longevísimos). El alcohol es siempre malísimo, y el vino, ¿habría que tomarse litros? Zumo de naranja recién exprimido = 2 Whiskys. Reduce los carbohidratos y reducirás el alzheimer. Necesitamos un poquitín de celulosa (como carbohidrato), y poco o nada más.
+* Desayunar: cucharada aceite coco (reducir la cándida, que quiere azúcar). ¿Y luego grasa y proteína pa activar? Vitamina C: pimiento rojo. Calcio: sardinillas, atún, carne (roja mejor: hierro), jamón, huevos, vegetales, frutos secos, mantequilla, aceitunas, queso... Pocas legumbres. 40% grasas, 30% proteínas, 20% vegetales, 10% carbohidratos.
+* Finalizar: sal (buena para el corazón), Sol, vivir más relajado. El pollo, con piel. Vísceras (muy nutritivas). El pan, puedes comer un poco, y usar el resto pa limpiar el plato. ¡Na de contaminar con venenos je je!
+##Gorditos: sacar carga emocional de la infancia. Los de temperamento flemático... Más adelante pone la receta Gonzalo SAgustín.
+####Julio García Canal 834 5TV.
+- Te mintieron cuando dijeron que si acogías a ucranianos, te iban a pagar (cobran los políticos).
+- Recuerda que los PCRs dan positivo con una papaya. ¿PCRs que siempre daban o positivo o negativo?
+* Las mascarillas son para salpicaduras y similar, NO protegen de "particulitas", y son peligrosas (menos oxígeno...). Todo un plan. Nos estudiaron (nuestra sumisión) para las siguientes tomaduras de pelo.
+- Javi Villacorta:
+* Cada cadena es una religión diferente.
+* España No es un país libre (quien ha vivido en países realmente variados, lo sabe). La constitución se hizo apresuradamente. ¿Es el mal? YO: es importante analizar psicológicamente a los tristes poderosos.
+- Luis María Pardo (Iustitia Europa, el partido NO chungo, cumplen, y están en las grandes causas judiciales, que cuestan dinero):
+* Ley de bulos por parte del propagador de bulos, Sánchez. ¿Sánchez ha dicho "NO somos un gobierno de fiar" (lapsus)?
+- Gonzalo San Agustín (yo creía que la dopamina era la "la de la responsabilidad", y luego tienes serotonina / placer ahora, endorfinas, oxitocina...), ¿7 segundos de abrazo?:
+* Al comer, se segrega (pa que vuelvas a comer, motiva, ¿relacionada con objetivos de vida?).
+* La cocaína bloquea los receptores de dopamina, ¿que va a sangre y se consume muy pronto? Sí, las ratas NO solas, NO van por el agua con cocaína, son "felices". Y a ratas les daban mierda con ventana de ingesta pequeña, y estaban bastante bien.
+* Te alimentas mal, y el cuerpo tira de electrolitos poco, y luego se va por el azúcar (del cuerpo). Y se necesita comer otra vez. Hay cosas que balancean (chocolate en gente NO gorda; si es gorda, ¿hay carencia de mamá?).
+####Julio García entrevistado desde Cantabria:
+- Sal corriendo, expresa tu miedo, NO seas un chulo o un mascarero, sé un hombre.
+- Amigos hay muy pocos. La palabra "amigo" debe usarse poco (la usan los vendedores de humo).
+- ¿Amor incluye el hacer cosas de buena gana porque conectan con tu misión de vida espiritual? NO seas simple, NO critiques.
+####NO creo que tu pasado deba definirte, hay que esforzarse por ver el interior REAL y ACTUAL de la gente.
+####psi herm Cris Arte Guerra Tsun Zu Qué significa realmente 2.
+- Respecto al capítulo 2, puedes saber en qué fallas directamente, o ver qué NO has conseguido, lo cual te lleva al plan, con uno o varios hitos a conseguir.
+- Si conoces a los demás y a ti mismo, NO correrás peligro. El otro te "define" al reaccionar tú mal. 4. Para ser invencible, practica el arte de la defensa (bloqueo de tus reacciones NO deseadas).
+- Capítulo 5. El camino es lo importante, NO el objetivo (un coche que no sabías conseguir por no saber ahorrar...). Actúa como si ya hubieras triunfado en lo psicológico, y desorientarás al ego. ¿Y para saber en qué fallas, inducir la arrogancia en el ego fingiendo debilidad, distraerlo fingiendo desorden y ver la estrategia del ego fingiendo cobardía?
+- Capítulo 6. Haz cosas que quieras, y atraerás escenarios (sociales...). Lleva al ego a cosas que NO te importan (diciéndole lo maravillosas que son), para que NO se meta en lo importante.
+- Capítulo 7. Espera a que el ego mueva ficha (NO forzar).
+- Capítulo 8. Cuando aprendas a desconfiar de ti mismo, serás confiable.
+- Capítulo 9. El plan es importante (o te espera la derrota).
+- Capítulo 10. Con el tiempo, uno debería volverse más coherente (pensar, sentir, hacer).
+- Capítulo 11. ¿Que el ego te siga a pesar de todo?
+- Capítulo 12. Saber tus puntos débiles cuando alguien te quiera atacar (y puedes atacarlo con su misma medicina también).
+* Capítulo 13. ¿Cuál es la causa psicológica primigenia?
+* Capítulo 14. Espionaje (escuchar lo que realmente dices cuando hablas). ¿Explicas bien?
+####psi herm Cris. Si tus padres te grabaron en la psique "el éxito", NO te autointerrogarás posiblemente, y tu vida nunca llegará a ser sabia / feliz.
+####psi herm Cris Nuevo Libro (basado algo en Lacán: registros simbólico, imaginario y material). Cristian (Zeballos): Más Allá de lo Visible. La conducta es algo terrible, porque NO cambias tu esencia, y porque sirve sólo para "el tipo actual de vida" (si cambia la vida, te conviertes en "un salvaje", como los niños de "El Señor de las Moscas", al ya NO estar bajo reglas militares). Yo: el querer tener buena imagen también rigidiza (copias a los demás):
+- Ejemplo. Ana (caso clínico) encuentra amores que le recuerdan la falta de atención por parte de su padre (son amorosos, y ella bucea dentro algo), y busca reconocimiento (NO siempre lo consigue), como los salvadores (la estrella de niños, ¿creídos de mayores?, o los olvidados). Yo soy un 11 = 2 (quiero que seas mi amigo / pienses bien de mí, y NO tengo necesidades, para mis padres, ¿un olvidado?).
+####RafaaSecas En cuanto Rafa sale a mirar los cazas dejan de hacer maniobras envenenando el cielo.
+####same apagones Preg el servidor principal DNC es de la empresa ucraniana CrowdStrike.
+####same dicen que Barrabés se ha encontrao un par de veces con Begoña Serán muchas más y IustitiaEuropa lo sabe y ha propiciado que tenga que declarar Todo un éxito.
+####same en Irlanda los políticos NO pueden salir a la calle Periodistas preguntando y gente despierta increpando Es lo que se merecen.
+####same hippies y rojos son fáciles de domar Falsos conscientes despistadillos.
+####same je je. La AEMET informa: "aunque fueran datos ciertos me tienes que creer a mi". Algunos creen que por investigar van a saber más que nuestros predicadores de la Siensia.
+####A las élites les basta con que los de izquierdas la armen en la calle (para poner medidas represivas). Por eso se necesita la mal llamada "ultraderecha".
+####same La pandemia se usó como acelerador de la deshumanización Fuera dinero físico porque dijeron que el virus estaba allí. Teleasistencia, Teletrabajo, Cita previa administraciones... Terrible.
+####same Musk revela que la UE quería multarlo si NO había censura en X.
+####same nadie debería quereme o valorarme por lo que sé hacer Eso también forma parte del disfraz Lo importante son los valores, y las ganas de cambiar por dentro y dejar de ser hedonista y engañoso simpático.
+####Ante algo nuevo que haga tambalear miles de recuerdos, la gente opta por el rechazo (a la verdad...), y siguen con dolor en vez de cambiar. Métete en todos los recuerdos asociados a la vieja creencia, y revívelos con la nueva ("mira, resulta que NO es tan grave que se burlen de mí". Son 3 o 4 o 20 que NO cuentan tanto, la vida no te ahogará).
+####Una famosa dice que si NO eres perra NO estás de moda. Esto les gusta a las élites genera gente controlable.
+####same si hay aviones que pueden pasar perfectamente sin dejar estelas Preg qué pasa con tanta estela.
+####same si alguien te sonríe muchos segundos y luego te pide dinero, ¿es psicópata?
+####¿Vencer a Inglaterra (fútbol) puede simbolizar vencer a la masonería en un futuro próximo?
+####Silveira Miguel Contratiempos por ejemplo esperabas sol y hay niebla Saca lo mejor de la situación acéptala. Nuna sabes exactamente "cómo va a soplar el viento", incluso vas a tener que destejer y volver a tejer "el chal de la vida".
+####Silveira Miguel si algo que NO esperabas NO lo afrontas luego te vuelve crecido y presiona y presiona más. Yo: calcula tu misión (afrontar rechazo...) con Nombrelogía...
+####Silveira Es difícil saber tratar con personas muy diferentes, alteradas raras inflexibles insensibles etc. ¿Ignorar, mostrarse firmes, ser amenazantes, paciencia...?
+####sren Aceptar la realidad tal como es abre el camino hacia identificar y transformar mi gestión ante los desafíos. En lugar de intentar ajustar la realidad a mis caprichos.
+####sren La vida es maravillosa si no tratas de encajar en la maquinaria social, que es perversa. Consumir poco y trabajar poco (si tienes mucha energía, haz cosas extraoficiales), esa es la clave del bienestar REAL.
+####sren Ser responsable NO es hablar de otros por miedo a mirar dentro Es modestia nunca falsa Es buscar gente más consciente.
+####La ginofobia, ¿está fundada? ¿Y buscar sólo compañía masculina para NO complicarse la vida?
+####sso cuando se mata a la matriarca jabalí el grupo de desestabiliza Los jabalís pueden ser mu majos cuando NO se sienten amenazados NO darles de comer.
+####sso Dios existe. Del agrado de las élites son los ateos disfrutones.
+####sso El ser humano es especialista en el arte del autoengaño. Porque mediante la disonancia cognitiva (rechazo de ideas nuevas, que NO casan con las propias) puede evitar su propio dolor. Entonces, nos metemos más adentro en la espiral de la cárcel interior, al ignorar nuestra emoción "de rechazo":
+- Nos han dicho que si no seguimos las normas, debemos sentirnos culpables, porque algo muy malo nos va a suceder. Y nos hicieron creer que no existe otro camino que la colectividad como fuente de conocimiento, que lo que cree el otro es lo correcto y lo que intuyo es un error.
+* NO busques la felicidad, busca la verdad interna, y la felicidad llegará sola.
+####sso La cama con hacerla antes de la siesta vale Yo me preocupé por lo que decían los demás y me afeité perfecto o casi y NO vale para nada. recuerda que "laenfermedad del orden" son 2 focos de Hamer (cerebro).
+####sso lo intelectual afecta a mi sistema inmunológico Preg a muchos NO les gusta la vida (contemplar...) y tienen que poetizarla o llenarla de letras.
+####sso Recuerda que siempre será mejor la derecha aunque sea un camino a la izquierda y ésta al comunismo.
+####Sigo pensando que Trump oculta cosas positivas, y que tiene que hacer algo de teatro.
+####sso Soy de lo lento y profundo y de pasar mucho rato parado. Lo otro puede sonar a niño en el mal sentido. Somos los mismos envueltos en novedad, lo cual es terrible.
+####Es difícil ser conspi Estás rodeao de NO conspis Me siento solo cuando me acompañan y tengo que callar.
+####Describe con profundidad a tus amigos, ¿qué NO han limpiao de la psique? Malo, si NO sabes responder a la pregunta por qué eres un peligro para ti mismo y los demás.
+####ssocio siendo la vida un continuo orgasmo creo que merece la pena más la ternura que la sexualidad, aunque hay que eyacular de vez en cuando pa limpiar (y quedar con ganas nos hace sumisos, tapémonos más).
+####supam Los que tienen mucha destreza pa los videojuegos NO suelen caerme bien Me cae bien la gente que mira padentro y NO se entera de si alrededor suyo hay elefantes volando Falsa valía material y chulería.
+####superalucinao el cloudbuster (mejora el cielo) funciona alimentao por la mentalidad de su creador Así que piensa más en hacer el bien que en ir contra las élites.
+####superam tanto inmigrante ilegal metido adrede podría acabar en el NO deseado ingreso mínimo y el control total.
+####superamenaza basado en un escrito de MiguelSilveira Pregunta la juventud está como está en España en parte por estar llena de pensionistas que se miran el ombligo.
+####superamenaza cuando miro a la gente pa ver sus movimientos (control) me suena a ver lo que dicen de mí Me suena a necesitar que necios me amen.
+####superamenaza el malo es el que NO argumenta el de la buena intención ("soy bueno") sin autocrítica feroz.
+####superamenaza lauril sulfato de sodio mata los folículos, cuidao con los champús Preg usar bicarbonato de sodio Hay que secar la ropa en el tendedero por los residuos al lavar y para que la ropa dure.
+####superamenaza Tedros tiene algo de Tauro por eso parece bueno y esponjoso En 2018 y 2019 el Banco Mundial exportó máquinas de diagnóstico de Covid19.
+####El sabio quiere las cosas simples. Si NO eres feliz con ellas, NO lo serás con las complejas (aunque con mucho dinero y cosas complejas, quizás te sientas superior... Sentimientos de tonto).
+####superren Las ovejas negras de familia son realmente buscadores de caminos de liberación para el árbol genealógico (desintoxican). Cuida (parte de) su rareza.
+####superrenacer NO te olvides de NO ser tan serio con el trabajo y serlo mucho con los problemas emocionales (habrá recompensa).
+####supersalud acepto que mis familiares NO tegan supersalud por hedonismo... pero me alejaré de tontos y hedonistas (malinformados).
+####supersalud máquina QPER2 de JoaquínPiquer tras operación de retina le dieron meses pa cicatrizar y con menos de una semana cicatrizó. El médico quiere esta máquina de energía escalar. ¡Sesiones a distancia también! ¿Mandar tu foto?
+####supersalud THC sí pero para sanar mejorar el cuerpo NO largos periodos Estarás peor de dopamina memoria etc.
+####supersocio Flores (¿guerra de insectos?) en vez de pesticidas.
+####Trump casi lo matan como a Bolsonaro y a muchos otros semibere.
+####tec mosquis. ¿Estos mosquitos draculescos entran en casa al oscurecer y el amanecer? Podría haber unos 30 minutos críticos. Los mosquitos hembra llevan esa carga de "bebés" y sangre dentro (más fáciles de cazar; si no cazas a uno, puede ser macho, y NO pican; ¿y si esperas a que te piquen y engorden? Buena prueba).
+- Pasos: enciendes la luz (y me pongo las gafas), vas con el pañuelo doblado buscando... Los que estén altos, con un cepillo de barrer. Luego apagas la luz, esperas un poco, y a volver a empezar. ¡Has de limpiar la sangre! Otros: aspiradora...
+
+####Leo####
+####0010000más plan.txt  PUEDE QUE EL 23 DEJE DE ENGORDAR LA CUTREENCICLOPEDIA (PERO PONDRÍA NOTAS EN LOS VÍDEOS). SUPONGO QUE ME LAS ARREGLARÉ (ROOTER CON TARJETA SIM, MÓVIL NUEVO CON DATOS...) PARA SEGUIR NAVEGANDO, YA QUE TEÓRICAMENTE (TEÓRICAMENTE) LA LÍNEA ADSL MUERE EL 19 DE OCTUBRE, ¡Y ESO ES UNA SEâ€˜AL!
+####0020000plan con MAYÚSCULAS.txt  Plan hipotético de finalización de mi cutreenciclopedia (tú puedes hacer la tuya, chiquitita, menos de 100 kb y menos de 20 imágenes, con lo que te parece más importante):
+- Resumir a buen ritmo (NO sé, 15 kb de media al día) hasta el 21 de Septiembre (mi Verano es para resumir). Luego resumir, ¿2 kb al día?
+- Seguir engordándola hasta el 31 de Enero (que es un buen mes para las Serpientes).
+- Terminar de resumir el 20 de Marzo (porque el 21 empieza algo nuevo para mí).
+- A partir del 21 de Marzo, contar mis experiencias (mis errores, directa o indirectamente con frases generales), y poner alguna nota de algún enlace, pero sin engordar la Cutreenciclopedia.
+##Tomar pocas notas, y NO dejar que se llegue a 1.8 megas de texto. ¡Esto es como adelgazar!
+####0030000si programo que sea Psicología y moralidad Quiero ser mucho más que un Informático.txt  
+####00400aadin Escitalopram genial como pasti pa dormir Tomarla de cuando en cuando pa que haga efecto No siempre.txt  
+####005Alicia Rubio y Apellido Obligatorio Figura Paterna.txt  Alicia Rubio y Apellido Obligatorio Figura Paterna (yo creo que papá y mamá pueden vivir en casas separadas, pero cercanas):
+- El padre está criminalizado, cuando el hombre lleva dentro la protección de los demás (prole...). La ley actual es mala: se culpabiliza al padre, ¿y si es inocente? ¿Y si trata bien a los niños a pesar de NO ser bueno con la mujer?:
+* Es necesario para "enderezar". Por lo menos, una figura paterna, si no, los hijos salen másimpulsivos, sin controlar emociones, y con referentes estereotipados (machismo...).
+* Matrimonio homosexual: el niño debe estar con la madre hasta los 8 (cuestiones energéticas). Los organismos oficiales se los roban, por dinero, presión...
+- Más:
+* Las élites NO quieren de momento destruir la familia en países "NO blancos", ¿ni vacunar?
+* El Existencialismo es dañino (que si nacemos con sexo moldeable...).
+* Un hombre avergonzado de su masculinidad es un pelele (vs la mujer monstruo).
+##Solución: que valga el mérito, NO la entrepierna, ¡y volver al siglo 18, y al campo en la medida de lo posible!
+####006ame la ONU OTAN es el centro pero hay organizaciones periféricas como UNICEF y la UNESCO La OMS es la periférica más importante porque la salud está en todos los ámbitos.txt  
+####007Astro Cebadera 19 Agosto 2024 Júpiter vs Saturno preparación Saturno.txt  Astro Cebadera 19 Agosto 2024 Júpiter vs Saturno preparación Saturno:
+- Tuvimos 200 años de tierra terribles (largoplacismo, el "tanto tienes, tanto vales"...). Ahora toca el aire (ideas), con Acuario (lo social). ¿Frutos en 2.030 del inicio de cambio de mentalidad en 2.020?
+- Al grano. Saturno es concordancia de objetivos con ética, misión de vida... Es control. ¿Estamos preparados (limar fallos de psique)?
+####008Astro Cebadera más 19 Agosto .txt  Astro Cebadera más 19 Agosto:
+- Menos gobierno y más responsabilidad (veremos más claro la terrible sociedad, con eventos sorpresivos que afectarán a... ¿políticos también?).
+- Más:
+* Despertar de conciencia (aunque con Mercurio retrógrado hasta el 28).
+* ¿Dejar abruptamente lo que hacemos? Romper lo viejo. Y "te voy a decir la verdad" (mejor con tacto).
+* El poder ha de servir al colectivo (NO a la vanidad...). 
+####009Astro Cebadera Nueva Leo 4 Agosto 2024.txt  Astro Cebadera Nueva Leo 4 Agosto 2024:
+- ¿Ahora se nos dan muhas más oportunidades para que seamos lo que quieren nuestro alma y corazón?
+* En Agosto, a los pocos días, ¿pruebas para que sepamos cuando frenar (prudencia Saturno) o acelerar (expansión Júpiter), y con necesidad de fuerza de voluntad (Marte)?
+* ¿Va a haber obstáculos y selección de caminos?
+####El intelectual Mercurio estará retrógrado (bieeeeen, ¡menos para quienes tengan terroríficos trabajos intelectuales!) del 4 al 28.
+####010energía Quim País TihuanaKu Origen antediluviano.txt  energía Quim País TihuanaKu Origen antediluviano:
+- Antárticos lo construyeron, ¿blancos / bere y NO paios (Manaos, capital paia, estaba en la Antártida)? Los toltecas tenían a los blancos como dioses, ¿de ahí las esculturas de robustos gigantes blancos con barba, o era una pretensión paia? Suena a confluencia (pero "Puerta del Sol" es algo paio, como el rojo, el amarillo y el negro).
+* ¿Son los del "Dios Viejo"?
+####011energía Quim piedra y tierra antiguos.txt  energía Quim piedra y tierra (se sabía dónde construir puentes, algunos veían "neblinas") antiguos:
+- Poner piedras en la tierra como agujas de acupuntor para conseguir un fluir de energía deseado: menir, foralezas "estrella"... Las pirámides son angulares (como las runas). Gente especial (cierta energía) comunicaba "personas con piedras" (¿abría vórtices?).
+* Los egipcios No construyeron las pirámides, ¿oisteis?
+- Psicorreginoes (aunque cada uno tiene su espacio natural predilecto, ¿que incluso alimenta?).
+####012Frank Parejo ser considerado DE CUARTA lo cambia todo.txt  Frank Parejo ser considerado DE CUARTA lo cambia todo:
+- ¿Cual es el plan del wanderer / errante / evolucionador? Yo me considero normalillo (tendré como el 60% de misiones que se aprenden en La Tierra, planeta poco evolucionado).
+* Sí, hemos elegido "fallos de psique a mejorar" antes de nacer, aparte de contratos kármicos... Luchamos contra (se puede decir) nosotros; respecto al mal, que quiere que luches contra otros, busca siempre la luz. Para la sabiduría, hay eventos "malos" que llevan a ella (pruebas), a través de la limpieza de psique.
+* ¿Para ser considerado "de cuarta" el 51% lo dedico a los demás positivamente (cuidado con la intención, que "NO es nada" si NO es sabia, da igual si es buena o mala; ayuda sólo si te lo piden y "enseña a pescar" sobre todo, mucho mejor que ser un creído héroe que NO comparte conocimiento, como tantos y tantos expertos, subordinados o NO)? ¿Y NO basta con calcular tus misiones espirituales por varios métodos y realizarlas? ######## NO hay que marchar a un sitio sin malos (ni cargárnoslos), ¿seremos poderosos al "cambiar de rango"? ########
+##Olvidamos vidas pasadas para poner el foco en ésta, y "NO hacer mucho ruido", ¿que se mantenga la ilusión de los peores de que somos 3D, NO almas?
+####013Julio García 838 Canal 5TV comer.txt  Julio García 838 Canal 5TV (tomaré pocas notas, ¿y si sólo presto atención?):
+- Así son los esbirros visibles de las superélites: o multiculturalidad (perdiendo nuestra identidad y buenas costumbres y cualquier tradición buena para sobrevivir y autogestionarnos)... ¡o habrá sangre!
+* Dicen que se reúnen para una cosa, y lo hacen para apretarnos más las tuercas.
+* ¿Qué porcentaje de los hombres fuertes que vienen de África son "soldados de la ONU" que quieren restringir nuestras libertades? NO son "para comerlos". Y nos los quieren hacer pasar por niños. Y pobres mujeres y homosexuales.
+* ¿España obtiene mejores resultados en el fútbol con otros países cuando su mandatario es "bueno" con las élites y sus negativas agendas? Javi Villacorta tiene la memoria suficiente, y buena asociación de ideas, escúchalo.
+- Gonzalo San Agustín, fitoterapia (siempre se sanó imponiendo manos y con plantas):
+* Mismos síntomas, diferentes causas (incluso psicológicas) / plantas.
+* Diabetes: puede manifestarse a los 40, pero empezaste a tomar carbohidratos a los 8 años...
+* Lo amargo es bueno para el hígado (que desintoxica el cuerpo). El ajo estimula la bilis (hígado).
+* Jugos verdes: en realidad sanas por NO mezclar alimentos, pero faltará hierro.
+* Limpiando da dermatitis, diarrea...
+* El aguacate es una fruta buena para comer con frecuencia (da grasa y poco malo).
+* Desvalorización (ya lo sabía) + carbohidrato: pueden dar gota. Cerdo y marisco (animales carroñeros) sin abusar.
+* Limón y sal con agua, con los ayunos (agua sola NO). O agua de mar... Sueros.
+* Bicarbonato, 2 horas mínimo antes o después de comer (para NO entorpecer la ácida digestión). NO pasa como con la fruta, NO hay reacción acidificante. 
+####014Julio García 839 Canal 5TV.txt  Julio García 839 Canal 5TV (y recordad, sin teoría paiobere... se queda coja la conspiranoia en algunos casos; hay Mesías necesarios a lo largo de la Historia / Is-Troia, como Álex Magno; la gente de los Jueves... NO me gusta mucho, pero es el último programa antes de las vacaciones. Respecto a que la Tierra sea plana, nadie hasta el momento ha conseguido convencerme. ¿Será que cuando tienes "mucha ciencia" dentro, tienes poca empatía pa transmitir conocimiento? Si NO lo entienden los anti hemisferio izquierdo... NO se explica bien (tienen que entenderlo todos con poca letra). Quizás nunca más vea el programa de los Jueves; podrán tener razón, pero transmiten "soy creído y tú tonto por NO pensar lo mismo que yo" o "hablo incómodamente rápido". Lo de si la Tierra es plana o NO, sí, es una chorrada, algo poco importante; merece la pena dejar la Tierra como NO plana, aunque sea mentira, hay gente que habla por gusto, mala gente que se pasa de lo estrictamente necesario; respecto a Trump, manchar la imagen de alguien que podría ser positivo, me parece de tener poca integridad, ¿eh, Bareas?):
+- Que lo dejo aquí. Cuando salgan Gonzalo, Sergio, Javi... me parecerá mejor. NO estoy aquí para marear (te recuerdo que Mercurio NO selecciona, por lo general).
+* Lo han hecho mal, los del Jueves. A lo mejor me habrían convencido si...
+##Sin teoría paiobere, eres un terco. Ya lo dije todo. Yo NO bailaría las aguas a ciertos contertulios. Simplemente, NO me importaría si se enfadasen conmigo para siempre. Lo de los últimos Jueves, podría a haber sío sustituío por cosillas normales, y la calidad habría subío bastante.
+####015Julio García 840 Canal 5TV.txt  Julio García 840 Canal 5TV:
+- Bilbao (RH negativo), mucho inmigrante (hay mucha cultura ancestral que limpiar / daño que hacer).
+* Y los polis defenderán a los inmigrantes, aunque hayan estao en la cárcel (como en UK, que la gente está harta de la chulería de los inmigrantes violentos, que NO son pocos).
+- Alvise Pérez, al momento de NO detener los Mossos (inactividad) a Puigdemont, ya tenía una denuncia contra ellos (con la de tiempo que cuesta. Raro. Y firmaba como Alvise, no con su nombre Luis). Alvise tiene muchas posibilidades de ser de los malos (falso salvador).
+* Trump perdió las elecciones en 2.020: más admirado aún (mártir falso o NO). Mesías, ¿bueno o malo? No descartemos nada. ¡Las profecías, el karma (recibir musulmanes por falta de autocrítica)... explican muy bien a veces!
+- Más:
+* ¿Los periodistas oficiales son falsos? NO acabaron con Sánchez en nada.
+* ¿DDT para la polio es como las vacunas para sabe Dios qué? ¡Somos cobayas!
+####016Julio García menos miedo para una sociedad mejor.txt  Julio García menos miedo más amor y comprensión del otro y de tu psique para una sociedad mejor (¿las películas nos hacen más miedosos y hace siglos las cosas / cambios se tomaban de forma más natural? "Te voy a perder Jacks, ya NO puedo macks, soy una víctima dramática, y NO puedo vivir sin tu piscina y tu chalet". La verdad es que NO sé cómo me lo tomaría si mi padre muriese en menos de 1 mes, porque él es lo ideal para que yo me centre en la Cutreenciclopedia, que quiero mimar al menos durante Agosto, ¿y después repasar Informática? Creo que le necesito mientras yo NO trabaje y sea autosuficiente; agradezco su presencia y comidas, y que pase lo que tenga que pasar; pronto le harán un scanner radioactivo):
+- El miedo lleva a pararnos, a adicciones, a comer de la mano de las élites, que producen miedo (tele...).
+* El miedo al dolor es peor que el propio dolor.
+- Empezar de cero, la verdad, es algo que me suena bien. Lo de dejar de temer al 100% a la gente tóxica, todavía lo estoy trabajando, ¡pero yo soy digno, porque intento desreprimir (Jung, HamerNMG...)!
+* Para cambiar una creencia hay, por así decirlo, que cambiar todos los recuerdos asociados.
+##NO hay más remedio que excarvar en el pasado, para ser más abierto, mejor persona (primero mejoras tú, luego, tu entorno cercano...).
+####017MiguelSilveira si uno NO acierta a vivir su soledad tempranamente sin perturbarse difícilmente soportará la soledad impuesta en sus últimos años si NO se tienen hijos o cuando estos  esténLejos por motivos laborales Sutiliza.txt  
+####018Pamiés perseguido por sanar Con Miguel Bosé que NO se fía de nadie es inteligente.txt  Autoridades y colegios de miédicos, son el terror. Expedientan a los médicos honestos. Pamiés probó la "lejía" de Trump en animales de granja, y todos fliparon con la mejora de su salud (MMS, CDS de Andreas Kalcker). Y Pamiés, perseguido, por luchar por el bien, y de forma barata. El CDS NO mató a nadie, si no, Pamiés ya estaba en la cárcel. Plantas antiveneno (15 días antes y después de la radioterapia, efectos secundarios mínimos o inexistentes, o casi). Plantas para la fertilidad y el autismo.
+####019psi Aprendes a responder como tu familia te pasó y hay que aprender a decidir de forma propia Enfrentándote aPruebas y usando Psicología sabrás cuál es el foco inferior que une 2 opciones y cómo resolverlo Serás más poderoso.txt  
+####020RafaaSecas pone la foto de un perrito enfermo y animoso sobre el pankeke de su máquina escalar o de éter y pasa el tubito sanador entre comillas por ella Y funciona.txt  
+####021sa el problema es la Agenda 2030 Que nos convierte en cobayas y para la que damos dinero Preg para qué sirven los pasos dados de esta Agenda Y la Antártida pierde hielo por algunas partes y gana bastante más por otras Piensa.txt  
+####022sam La agricultura debe ir fuera de zonas naturales pero NO las renovables que matan tantos águilas Ley de restauración de la naturaleza Y el CO2 igual gas de la vida demonizado Preg idiotas o malos Alicatar todo es malísimo.txt  
+####023sam Sánchez condenó el asesinato cuando supo que el asesino era blanco y probablemente cristiano Preg os fastidia el Cristianismo Pues con el Islam y violentos de fuera vais a flipar Y prohibido criticar al violento de fuera.txt  
+####024sam sí que estamos rodeaos de locos OANIs Objetos andantes NO identificados que creen en lo oficial Uno se puso a correr con mascarilla e increpó a todos los que NO la llevaban Son infragente crédulos Vacúnate por toda causa.txt  
+####025same Ana Duato Imanol Arias Nacho Cano víctimas de la mafia española con unas leyes absurdas Si matas la pena puede ser mucho menor que si NO lo tributas todo para que la gente de ariba vivan como marajás Guisasola Aitor.txt  
+####026same asesinos que al poco están en la calle TE DOY PISTAS DE POR QUÉ.txt  ¿NO te crees que las élites quieren mucha inmigración para crear caos, y que las cárceles africanas es muchas veces su origen (los buscan allí a propósito)? Caos = control desde arriba. ¿TPL agudo = loco homicida? El bueno, muerto por recriminar acoso sexual. Juegos Olímpicos París 2.024, partido Argentina - Marruecos. Los marroquís saltan al campo y tiran petardos como si fuese un partido de barrio.
+####027same ceremonia clausura JJOO anuncia y crea destrucción.txt  same ceremonia clausura JJOO anuncia y crea destrucción:
+- Tres años después de la celebración de los JJOO de Berlín en 1936, estalla la 2ª Guerra Mundial. ¿Los JJOO, aparte de dar de comer a entes (reunión de gente en estadios...) son rituales creadores? Yo diría que sí. Pero nos los venden como "concordia". Miramos para otro lado, con nuestros placeres y problemas de un mundo elegido por las élites. ¿NO te crees que las ceremonias de París sean toda una declaración de intenciones? Si sabes algo de profecías, mitos... lo entenderás:
+* Apertura: inversión de símbolos cristianos (Cristo suplantado por una mujer gorda y lesbiana...), mensaje apocalíptico (el jinete, la laguna Estigia...)
+* Clausura: escenario de devastación, con el "insecto dorado" (Belcebú paio, NO bere: el señor de las moscas) restableciendo el mundo (mapamundi en el estadio) a su antojo. El lugar del estadio desde donde se lanza se ilumina con una forma geométrica satánica. A ello sumaremos una música siniestra y la nociva luz azul (¿masónica?) que llena todo el estadio. La medalla (con hexágono negro con rayos dorados, Saturno) está sobre Israel más o menos. ¡Y el insecto se posa ahí!
+- Más:
+* ¿Creamos un mito en el que el insecto es destruido o en el que las naciones piensan por sí mismas, NO siguiendo a un jinete terrible, siendo independientes? Ojo, NO siguiendo a un jinete = siguiendo a un jinete, por eso puse "independientes" (algo en positivo).
+* Más símbolos: la diosa Nike, sin cabeza (satánica Revolución francesa, quieren que no pensemos / tengamos cabeza; triunfo del transhumanismo y los valores de la juventud). Hombres de color oscuro desprovistos de expresión facial / voluntad, trabajando todos al unísono en la tarea de levantar los aros olímpicos. El trabajo asalariado fue el primer paso (zombifica, al igual que la escuela te hace robot sumiso). Un recopilatorio de escenas de estos juegos en las que aparecen atletas en actitud violenta y amenazadora da paso a un concierto de música que culmina con un solo de guitarra eléctrica interpretado por un siniestro encapuchado.
+##Son magos psicópatas.
+####028same colmo del hedonismo un hombre se puso a comer frutos de un tejo porque estaban dulces Todo el mundo sabe lo de los frutos del tejo.txt  
+####029same comerciantes traen cajas de fruta del extranjero Las élites traen fruta islámica que ataca a los británicos Quizás si los blancos están hartos y luchan físicamente el Gobierno decrete encierros caseros Es lo que quiere.txt  
+####030same definición cobarde duro en vez de desreprimir y cambiar creencias Cuando hay miedo NO se hacen las cosas NO tenerlo es grave también NO expresa femineidad o debilidad Los más hábiles e intelectuales son de edad mental 9.txt  
+####031same El móvil te pega flashazos en la cara Se ve con infrarrojos Pregunta para qué quieren que usemos móviles aparte de para tener menos posibilidades que con un ordenador.txt  
+####032same El que tiene algo que esconder dinero manchado acusa a quien está con Ayuso PP que tampoco es que sea un ángel Los chicos de Nacho Cano están encantaos tienen becas vuelven pronto para sus países Nacho NO se esconde.txt  
+####033same el verdadero Reseteo es poblacional no económico La población desapareció un poco con el covid Quieren ir por los abuelos Ellos podrían pasar algo bueno a los jóvenes que quieren profesiones NO muy útiles.txt  
+####034same en Barcelona 92 cantaban Montserrat y Fredy un gay y una gordita mientras el arquero Antonio minusválido alcanzaba su Objetivo con una flecha quieren crearnos caos mental y pérdida de valores abrazando lo grotesco.txt  
+####035same en Extremadura son especies protegidas las aves y los funcionarios y están acabando con las cerdos y la agricultura.txt  
+####036same en un hospital inyectaron veneno a un niño atropeyado porque querían sus órganos Cada vez se ve mejor que los organismos oficiales son elitistas Y las élites son malas debilitan pa controlar.txt  
+####037same ese vecino manitas al que tanto valoras como persona quizás NO enseña a pescar entre comillas al resto y en el Edén un mundo semiReproducible podría ser un infeliz hedonista antievolución Cíclope hábil y sin perspectiva.txt  
+####038same granizos por compresión de frecuencias de las élites Crean vórtices empujan nubes bien fuerte.txt  
+####039same Indignación al saber cómo se emplea el dinero de los impuestos Un marroquí con trabajar 6 meses o crear empresas ficticias puede vivir de por vida con ayudas públicas en España o Marruecos y con su familia Datos opacos.txt  
+####040same Kamala Harris es infierno infierno y además Kamalo sigue la perversión.txt  same Kamala Harris es infierno infierno y además Kamalo sigue la perversión:
+- Brigitte o Jean Michel Trogneux, el la de Macron (más transexualismo en las élites). Mucho homosexual en el gobierno Biden. Ella Emhoff, hijastra de Kamala Harris, es otro transexual. Y Cole Emhoff, hijastro de Kamala, es su controlador MK Ultra. Semejanza clonal entre Kamala Harris y Obama. ¿Lisa Simpson fue presidenta enel 2.000 (+ satánico 24 = 2.024)? ¿El 24 y la flor paiolotera que sugiere destrucción (cine...)?
+####041same la guerra de las élites es contra nosotros.txt  same la guerra de las élites es contra nosotros:
+- ¿Y cómo se van a protegen los malos poderosos de los pulsos electromagnéticos que manden para dañarnos? Sí, tamos gobernaos por bancos y corporaciones que nos hacen ver un espejismo un gobierno legítimo.
+* Y luego está el micropolvo, y es legal. Somos sus enemigos. Las élites quieren siervos robots, ya NO les valemos. Las frecuencias atacan el sistema inmunológico, hay palpitaciones, NO puedes dormir. Como siempre, pagan a médicos para decir que enfermamos, NO que hay intentos de contaminarnos.
+##Izquierda y derecha: son sólo para que pensemos que somos escuchados. Las élites van lentamente fastidiando sin que nos enteremos (vacunas nuevas en los 90...). Y repartirán alimentos venenosos. Culpan al CO2 para dejarnos sin ganadería, y podrían hacer explotar el metano de la costa (maremotos). Pero NO necesitamos una revolución, sino una revelación (seguida de lo de Carl Jung; los musulmanes son un castigo por ser nosotros inconscientes de nuestras represiones).
+####042same la UE deja pasar cosas extranjeras con todos los pesticidas posibles Quieren prohibir las patatas snack al jamón y resulta que ahora vemos que estas grasientas patatas pueden ser más saludables que el almidón.txt  
+####043same las poderosas familias que crearon a Hitler y la Segunda Guerra Mundial al poco estaban libres y con lobbies hermanos armamentísticos y farmacéuicos.txt  
+####044same Ley orden y cristianismo NO he dicho Iglesia valores europeos European lives matter Gente blanca despojada de sus valores y con la Ley a favor de expresidiarios africanos Niñas blancas serán pronto adolescentes Socorro.txt  
+####045same libertad igualdad y fraternidad.txt  Para los masones:
+- La libertad es actuar sin límites de valores morales (el fin justifica los medios), creando dogmas de fé...
+- La igualdad significa "todos podemos llegar a la ansiada cima de poder a hostiazos", y el que logre el éxito será considerado demasiado débil para vivir, al considerar que la vida se ha hecho para los fuertes (igual los malos, en esta sociedad, 2.024).
+- La fraternidad es la identidad grupal de la masonería, como élite o raza que se siente superior al resto (como los islamistas) por su supuesta capacidad e inteligencia para dirigir el mundo y resolver sus problemas.
+##Para que estos tres principios se impongan en la masa, es necesario disfrazarlos de buenas intenciones, como hacen con los 17 puntos de la agenda 2030.
+####046same Los cantantes actuales arrastran a toda una legión de degenerados Asistentes a un concierto de Karol G no socorrieron a un herido y murió.txt  
+####047same los libros de Historia han borrado nuestro pasado lleno de valores y atendemos a lo oficial Pregunta la mayor parte de los científicos oficiales eficaces están para mandar mensajes subliminales y el mal en general.txt  
+####048same PP y PSOE se turnan Son el par elegido desde fuera de España para el teatro bipartidista Ay de ti si no acatas las órdenes internacionales.txt  
+####049same Preg cuál es la clase de sonrisa despreocupada que describe a alguien con poco cortisol y poco dado a la función paterna del basta ya de la autoprohibición y la autocrítica profunda Cuidado que parecen modernamente bien.txt  
+####050same preg el 5G despertará bacterias de los vacunados.txt  
+####051same Preg en UK la poli está del lado de musulmanes con machete y cabalgan junto a ellos.txt  
+####052same Preg los ucranianos reciben dinero por defender Ucrania o para gastárselo en Mali Los servicios secretos ucranianos confirman su apoyo a los rebeldes malienses contra el grupo Wagner.txt  
+####053same preg NO era la viruela del mono al menos en 2022 un efecto secundario de la vacuna covid.txt  
+####054same PUigDemon tomó el pelo a los independentistas reales con lo de fundar algo independiente y se paseó tranquilamente por Europa Es un actor de las cloacas del Estado para despistar e incomodar también Ultrajefes manipulan.txt  
+####055same Puigdemont fue a Cataluña para que se pudiese investir a Illa del PSOE entre otras cosas Cada vez queda más claro que es un agente de Sánchez por así decirlo o de la Agenda 2030 casi.txt  
+####056same Quieren que crezcamos NO que nos autoconozcamos Y cuidado con el talento sin profundidad sin inteligencia abstracta etc.txt  
+####057same Salimos de la escuela de la dictadura española y la educación vuelve a ser terrible por perversiones pero No se ve tan claramente lo cual es muy peligroso Siguen sin pensar por sí mismos los niños Escuelas vivas.txt  
+####058same Si NO niegas la evidencia está clarísimo que los consejos sobre nutrición oficiales debilitan Mira mi Face Preg qué os hace pensar eso Pues eso que cuando en el centro de salud unos pocos se quejaban era con razón.txt  Y yo me voy a vivir a un planeta donde la gente NO lleve tapones en los oídos. En fin, tendré que dejar que mi padre muera rápido a manos de los médicos (por lo menos, los suyos, son un poco malos, y deberían acertar y acertar y...), porque la gente los defiende, defiende la ignorancia y la peligrosidad. Los hidratos os matarán en un santiamén (como las vacunas). NO puedo ir con gente que NO piensa como yo (después de haber ido a mejor). Estos últimos apuntes de salud son los buenos; NO quiero que se me mueran, y sobrevivir a ellos tan pronto. Yo sé muy poco, pero sé que los médicos están equivocaos y cometen muchos graves fallos.
+####059same si te sientes triste u odias arréglalo tu problema lo que NO puedes hacer es culpar a los demás Mejor persona cuanta más capacidad de estar bien sin más Quizás la solución para infelices e insatisfechos sea abandonarlos.txt  
+####060same si vas a ver a alguien empático Por favor nada de energía de enojo o similar.txt  
+####061same tienes que decir algo a alguien lo dañas y te acusa Déjate aconsejar NO seas cerrao que mucha gente tiene conocimientos que NO da la Universidad Te quiero lejos si NO puedo influirte SÍ A menos que seas mi protegido etc.txt  
+####062same un hombre es asesinado por un marroquí Versión de los medios oficiales un hombre muere al intentar robarle el móvil 3 personas UN HOMBRE HA SIDO ASESINADO es lo correcto PSOE y PP pactaron ocultar nacionalidades Buleros.txt  
+####063same vacunar para el metano es matar animales Preg los científicos oficiales son psicópatas o simplemente tontos al NO cambiar de creencias Se inventaron lo del metano pa acabar con la ganadería Defienden los paneles solares.txt  
+####064same Verás cómo se defiende a los inmigrantes violentos que matan niños Es como una orden para ayuntamientos etc.txt  
+####065same Yo cada vez que tengo que elegir una naranja del bowl de casa mando reunirse a un comité de expertos de la UE Que siempre encuentro uno y NO sé como Y sigo sus dictados al pie de la letra es por mi salud.txt  
+####066same élites quieren acabar con los autónomos quieren siervos peg con los encerramientos también.txt  
+####067samenaza ayer jugué sucio con mi familia Sé que son normales cierta implica debilidad mental ceguera Aún así les dije preg estás llamándome subnormal con lo bien que razoné La escuela los aspergeriza y se creen inteligentes.txt  
+####068samenaza gente hace cola desde las 5 y media de la mañana para estrenar un Starbucks Hasta dónde llega el hedonismo y querer ser primero Pregunta levantarse a las 4 queriendo NO es de esclavos o lacayos de dictados de arriba.txt  
+####069Silveira Miguel acaricia a los demás con por favor gracias lo siento si tus intenciones son buenas Queremos un mundo mejor y que nos traten bien NO lucha y más lucha.txt  
+####070Silveira Miguel si te comparas continuamente con los DIOSES que están mejor que tú saldrás mal parado Confía en tu crecimiento aunque estés muy lejos y NO te preocupes por llegar a su nivel Dios te dará lo que mereces.txt  
+####071sre aún NO conozco ni una sola piscina pública que use dióxido de cloro NO vaya a ser que los bañistas sanen de psoriasis pie de atleta conjuntivitis otitis cándida vaginal hemorroides herpes cáncer de piel etc Web dioxvitae.txt  
+####072sren El ego nos ilusiona con la novedad pero solo el despertar de la conciencia nos libera de la repetición Tú limpia un poco la psique y te dirá si realmente cambias o si sigues con lo mismo pero con diferente envoltorio.txt  
+####073sren Iustitia Europa está haciendo las cosas bien pruebas aquí.txt  Por tercera vez sufrimos nuevamente el bloqueo de la recaudación de fondos en GoFundMe. Nos censuran, bloquean, restringen, limitan por todas partes. Algo estaremos haciendo bien cuando Iustitia Europa está continuadamente atacada.
+####074sren la grasa ayuda a la menopausia porque palía la falta de hormonas La grasa es funcional como la sal cuyo defecto es más grave que el exceso Despertemos ya la pirámide de alimentos oficial enferma y entonces mata Es un pl.txt  
+####075sren lucha de 2 farmacéuticos conscientes.txt  Dos farmacéuticos han tenido que vivir los horrores de la farmacología actual que ellos mismos defendían, hasta darse cuenta que les llevaba por el camino de la amargura y muy cerca de la muerte. Juanfra y Vanesa tuvieron que vivir el calvario del COVID con medicamentos y protocolos inadecuados, hasta dar con el uso prohibido en la sanidad pública (en la privada es legal) de la OZONOTERAPIA y exigirlo por vía judicial, ganar la batalla jurídica y salvar la vida. Ahora son unos luchadores más por la libertad terapéutica y por la libertad de expresión. Hicieron un vídeo sobre su caso y los despidieron (trabajaban para una farmacéutica).
+####076sren Preg queréis algo que NO produce CO2 Respuesta la Energía Nuclear Muchos menos problemas hoy en día refrigeradas con gel NO agua Y así ni hornos ni alicatarlo todo ni águilas muertas Y se puede alimentar con residuos.txt  
+####077sren pregunta turismo asociado a sanación Es que he visto un vídeo de RuizSergio sobre un pueblecito Villamayor de Calatrava y me ha dao la idea Turismo consciente siempre na de sólo descansar o divertirse.txt  
+####078sren yo creo que con más CO2 las plantas necesitan menos agua para crecer.txt  
+####079srena CristianZeballos cuando nos enfocamos en ser libres de las ataduras del ego y las expectativas externas descubrimos que la resolución de problemas y el logro de objetivos se convierten en compañeros de viaje Y poco más.txt  
+####080srenacer Maduro lo dijo si caigo yo caen todos Políticos de España al descubierto y NO sólo la izquierda Antes del siglo 19 NO estaba el engaño masón.txt  
+####081srenacer Pamiés medicina humana NO como la malintencionada Halopática Unido a MiguelBosé cantante de prestigio internacional Temblad malotes engañadores.txt  
+####082ssalud lepidium latifolium planta que ayuda a las abejas con cierto ácaro y que también disuelve sin dolor piedras y arenillas del riñón..txt  
+####083sso al niño o quien tiene su edad mental les gusta la tecnología El adulto le añade ética y el ser civilizado busca las actividades y materia mínimas vive frugalmente y visita la naturaleza de vez en cuando.txt  
+####084sso Campo de calatrava parece ser el lugar idóneo para que los que NO creen en espíritus crean por fin Si es que ser ateo ya se va a acabar Hay de todo puertas que se abren y cierran etc.txt  
+####085sso Es mejor equivocarse siguiendo tu propio camino que tener razón siguiendo el camino de otro Y al despertar por intentar pensar por ti mismo por fin ves tu propio reflejo sin miedo Mejor que ver uno falso.txt  
+####086sso Iustitia Europa NO funciona como partido NO se financia como los otros Y aglutina a gente despierta cuyos partidos políticos eran antes de lo más variado NO quiere etiquetas.txt  
+####087sso la vidente dijo también que iba a haber pocas mascotas y que el covid era una PLANdemia un teatro elitista más Arriba tas obligao a hacer teatro casi.txt  
+####088sso los rockeros dirán que en la variedad del rock está el gusto Los mataplantas raperos y las divas algo similar Deberíamos reprender fuertemente la falta de sensibilidad y el cerramiento machista igual psique sucia.txt  
+####089sso NO os fieis de las palabras que hay mucho psicópata suelto en relaciones por Internet etc La sonrisa puede ser su arma de control Hay que aprender a contestar a los sonrientes por muy encantadores que sean.txt  
+####090sso pa NO ser cenizo sé feliz y con pocas cosas materiales Si NO eres Sagi etc los viajes son materia La vida te hace regalos Confía en las personas valóralas Y compréndelas profundamente o mejora pa poder elegir otras mejor.txt  
+####091sso Preg habrá que buscar una tela mosquitera Menos mal que mi cuarto ta pintao de rojo porque he matao esta madrugada a unos 9 mosquitos hembra mucha sangre dentro Si abrimos la ventana entran y los matamos cubrimos el cupo.txt  
+####092sso preg para ver cómo es  una persona hay que acudir a la adolescencia y para ver su inteligencia a los 8 años porque de adulto te robotizas intentando adaptarte a un sistema de prestar atención Valores reales surgen adulto.txt  
+####093sso que los inmigrantes en España tengan claro que vienen con costumbres antediluvianas Viva Europa y viva Spandau Ballet El racismo antiblanco dará paso a u os vais uo os integráis.txt  
+####094sso si los gitanos NO se vacunaron podrían ser cooperativos y aguerridos aliados.txt  
+####095sso una vidente dice que en Mayo del 2025 vuelven los encierros con trabajos desde casa Que Miléi lo hará muy bien Que Trump volverá a gobernar pero China lo atacará Por favor que Trump sea malo NO significa NOser bienhechor.txt  
+####096sso Ya veréis el docu de Rix sobre Canarias Veréis probablemente que se quiere expulsar a la gente de siempre.txt  
+####097ssocio los sabios son tranquilotes han desreprimío limpiao la psique sus enfermedades ya son pocas Es como si estuviesen en estado alfa siempre Preg los estados más vigilantes son para profesiones de almas poco evolucionadas.txt  
+####098supAmenaza ironía NO lo que mata NO es la medicina Halopática con sus protocolos tan alejados de la medicina de urgencia de guerra Lo que mata es la Nueva medicina germánica del Doctor Hamer Abajo curar y la buena Psicología.txt  
+####099superamenaza lo de París 2024 inauguración juegos olímpicos Última cena con travestis es una burla a los valores cristianos que existen separados de la Iglesia Israel participa Rusia NO Agenda 2030 es parte del Anticristo Sí.txt  
+####100superamenaza neoconservadores en el partido Republicano que son enemigos de Trump Pasado de izquierdas bastante judío en el mal sentido Judío es elcontrolador comunismo ancestral con más de 10000 años de existencia.txt  
+####101supersalud energía escalar para la harmonía celular Reducir estrés sanar.txt  
+####102tec ahuyentar mosquitos Parte por la mitad un limón e introduce varios clavos de olor en los gajos Vinagre Geranios 15 grados baja actividad 10 grados sostenidos muerte.txt  
+####103Traducción Andalucía Andiluzie es grande llanura ANDALUZIE es grande llanura de Dios.txt ####104Zeballos Cristian al mirar al horizonte nos abrimos a la expansión la conexión con los demás y la posibilidad de crear un mundo mejor Pero si bajamos la vista nos quedamos atrapados en el egoísmo la limitación y el miedo.txt
+####001notillas09Virgo01.txt  -
+* sren donde quiera que vaya la multitud, ve en sentido contrario, ¡es que las multitudes, son rebaños! Excepciones: manifestación de conspis...
+* ssalud la energía escalar por ejemplo máquina Q-PER2 mejora la comunicación entre células lo cual puede llevar a harmonía y calma Perfecto para los locos
+* El tiempo lo dirá "todo", habrá revelaciones especiales digo yo. Y yo veré si estaba equivocado, y si pequé de "NO cambiar creencias".
+* "Timidez": NO siempre piensas, ¡qué bien salir, pruebas sociales y además aire fresco! Pruebas con autocomprensión y ganas de ser digno (¡basta ya cómo me tratas, basta ya de seguir siendo igual yo, atrayendo...!). ¡Y basta de lo que la gente piense de mí mientras yo me autocritique psicológicamente! Y así damos ejemplo y llegamos a la masa crítica (autoconstruirse es mucho más eficaz que operar desde el poder). Somos incompletos.
+* Tendré que esperar unos meses para decir algo "raro" a mi familia (ver si abren la mente; si nunca la abren, NO debería preocuparme).
+* Ser periodista es 10% publicar y 90% adelgazar lo dicho.
+* NO olvidar que la intuición y las profecías (paiobere...) cuentan. Pero normalmente, lo que prima es una explicación clara.
+-
+* Tengo demasiados PAcinos (gente que vive en mi portal). ¿PA es el sonido / vibración PERSONAL para alejar cosas? ¿RAcinos je je? Paracinos je je (vs becinos). Así NO me los encuentro con frecuencia. Creas según tus padres (más "diablillos"), y hay que vaciarse.
+-
+* Vídeo Black Hole Sun. ¡Qué bonito ver a la aperversadora Barbie cociéndose! Gente pija, acaban mal. ¿Es un vídeo escorpiano (sadismo con el mal)? ¿Cómo dibujaría a María Oliva? Con una gran sonrisa de la mejor vecina, con fotos de sus allegados sobre su cabeza, con Pablo deformado (es una vergüenza pensar que los tuyos son mejores), y dentro el sol negro con "no mires dentro ni te quedes sola, que duele, autoengáñate".
+* Agua de mar, ¿y las cataratas se van en un perro? Luego está el CDS.
+* ¿Queda claro que las élites van contra la libertad de expresión? Durov (telegram), detenido. ¿Las élites llaman NO colaborar a que Durov NO deje que USA espié a los usuarios de Telegram?
+-
+* Shopenhauer: la vida va de la angustia (NO tienes lo que quieres...) al aburrimiento (tienes lo que quieres, PERO ESO NO ES CUMPLIR OBJETIVOS NOBLES; ¡y ni te cuento lo bonito que es el descanso posterior!).
+* Los drones identifican tus viajes en coche (¿aunque lleves el teléfono inteligente apagado?).
+-
+* Canosa. Los de la NASA, si revelan lo que saben, mueren. Sus casas tienen micros. Yo: cuando NO hay autopsia, hay asesinato (múltiple...). ¿Jack el destripador era de clase alta y echaron al poli que lo arrestó?
+-
+* A los influencers los hacen sobrevivir manos negras. Ninguno que quiera realmente ayudar a la humanidad, tiene éxito (alguna excepción habrá). La influencer que acompañaba al fundador de Telegram (cazado), ¿es una agente de las élites?
+* Si denuncias corrupción, van por ti, pero SÍ, todo está podrío, con objetivos negativos...
+* Un jefe de Media de Ucrania, Kolomoisky, manufacturó a Zelenski (un actor con 0 experiencia en política). K. creó un partido con el mismo nombre que el show de Zelenski (Servant of the People), y financia una empresa de gas Con los Biden. Zelenski financió a Biden, ¿por eso Ucrania es pobre?
+-
+* same con muchos trastornos como el bipolar lo que encontramos en el cerebro son inflamaciones y si las reducimos reduciendo el electromagnetismo y substancias químicas modernas todo mejora Preg NO es falta de serotonina y eso.
+* Sí, Zuckerberg (Facebook) fue obligado a censurar (por la administración Biden) lo relativo al covid (verdades en Facebook, mentiras y ocultación fuera de Facebook). ¿Y Biden ganó porque Facebook censuró verdades sobre su hijo?
+* El euro fue un engaño que nos empobreció. Con las CBDC pasará algo todavía peor.
+* La española es una dictadura peor que la Venezolana, porque está oculta / maquillada.
+-
+* superame las élites No quieren que tengamos mascotas porque a los islámicos NO les gustan mucho Pues hágase su voluntad.
+* Inauguración JJOO paralímpicos París: gorro frigio (para paias KUevas), obelisco (paio uno), sociedad loca, blanco y negro, azul masón, transhumanismo, vistimismo / fomento del pensamiento de pena, Teo (conductor de coche de gorros frigios rojos) engañó a Álex Magno, competición / guerra y desfile, pasillo verde (los bere, "alabando"), 2 torres (puerta dimensional) amarillas.
+* Cataratas (perros...) mezcla 10ml de solución fisiológica, 12 gotas CDS, una DMSO. 5 gotas cada 2h. Frigorífico dura de 4 a 6 días.
+* Silveira Miguel es absurda la prisa en unas vacaciones son pa desconectar.
+-
+* RECUERDA QUE IUSTITIAEUROPA VIVE MUCHO DE DONACIONES, Y QUE TRABAJAN COMO LOCOS POR ALTRUISMO (ME PAREZCO A ELLOS JE JE; NA, ELLOS TRABAJAN MUCHO MÁS).
+* Buena parte de las armas suministradas por Occidente a Ucrania alimenta el terrorismo en el Sahel, representante de Malí ante las Naciones Unidas. 
+* Papi, ¿qué es esa extraña APP que usabais antes de que existiera Internet? Y el padre responde: cerebro, se llamaba.
+* Lula malo, cerrar cuentas de Twitter (todas). Bolsonaro es fan de Musk (Twitter, X), y berebán (sin la teoría paiobere, estáis mu cojos).
+* Fran. Figuras demoniacas en templo budista. ¿Qué decía realmente "Buda" (para mí el original es bere)? Que busquemos conocimiento (sobre todo autoconocimiento). ¿Eso es el nirvana, y si llegas a él te has individuado / diferenciado? Pregunta, ¿qué hago yo en este mundo material? Claro, cuanto más piensas en cosas malas, más haces que la sociedad los atraiga. La clave es la Psicología (y los sueños / deseos).
+* Si quieres sobrevivir "bien" (pensar que lo que vendes vale, que la sociedad es buena...) has de autoengañarte mucho. ¿Y el pobre que sepa la verdad, deberá fingir, tendrá motivación para trabajar?
+####002notillas09Virgo02.txt  -
+* La Sexta contrata actores para "La Sexta Explica". Y La Sexta trata de defenderse mintiendo, al igual que el participante. Tiene el título de Enfermería, pero ejerce como actor al final, desde 2.013, ¡NO como enfermero! Si se esfuerzan por mentirnos con estas cosas pequeñas, con cosas grandes como el covid... En la TV japonesa, se habla abiertamente de los efctos de las vacunas (mi madre murió inmediatamente tras...).
+-
+* ¿Servilleta mojada en cepillo para atrapar mosquitos? ¿Chorros de agua? ¿Conseguirán unos las élites que aguanten el frío y entren a cualquier hora?
+* El caos que vemos fuera es por nuestro caos interno. Intención NO es suficiente sin compromiso, esfuerzo y modestia (simplificar el día a día, con prioridades y límites).
+* Memocracia:
+1- INDRA es la mano que mece la urna.
+1- Sangre como coagulada: echar MMS.
+1- UE: para que USA controle.
+1- 5G (covid China).
+1- Aislar ancianos (ansiedad). Darles carbamacepinas (¿dolor, nervios?). Darles sedantes. Y a morir.
+1* UCI: parecido.
+1* Retiraron un medicamento barato y que iba muy bien. ¡Y hay tantos buenos que sólo se pueden comprar con la maldita receta!
+1- Rey, manos atadas: pertenece a muchas asociaciones.
+1- Ientidad digital, luego bancos cascan, luego podrían hasta separarnos de nuestras almas.
+1- Primero fue la industria, ahora la agricultura.
+1- Ecoembes necesita basura, es un negocio (Ecoembes NO quiere envases a devolver). Y nosotros reciclamos / separamos (les hacemos el trabajo).
+* psi herm ZeballosCristian quien busca lo rápido y fácil renuncia a su libertad interior. Los atajos son una trampa. El camino de la dicha es el de la transformación interior. Y NO hablo de meditar, que es un complemento, hablo de NMGHamer...
+* Ovalismo. España es farmacodependiente (ajo, pimiento rojo, convivencia sana, optimismo... se cambian por venenos). Por algo psicológico (por ejemplo, ¿gota por autodesvalorización resuelta?) te medican, y enfermas, y te medican más... Y se inventan enfermedades pa colar venenos. Imvanex (vacuna): NO autorizada y sin estudios de eficacia (es lo del 2.021, pa matar). ¿Los castellers son rituales paios? Mensaje Mercadona (coge piña para ligar): ¿el inmoral mensaje es que en este supermercado tienes comida y sexo también? Habeas Corpus, asociación de consumidores de CebollaSergio está muy preparada (al menos por móvil, como red social). Órganos del Estado: que sean independientes de los políticos.
+-
+* Por eso son elegidos como políticos ciertos narcis infelices, porque hicieron el mal y guardarán silencio (si no, serán denunciados por los muchos que saben lo que hicieron). ¿NO os suena a la gente normal? NO denuncian a los que son como ellos.
+* Ancianos (tienen frío): sangre espesa (plaquetas se separan): agua, cebolla, ajo... Producción de energía calórica (pasta...) y alimentos proteicos (carne, pescado azul, legumbres). Ventilar habitaciones 15 minutos al día. Conservar el calor. Paseos.
+* ¿La proteína spike (vacunas) mata bifidobacterias, y los niños nacen sin ellas?
+* Ovalismo. Las élites sueltan mosquitos (problema) y la "solución" (las élites se ríen de nosotros) es que una furgoneta pase fumigando con un veneno bastante peligroso. Yo me iría por unas horas. Inmigración: es para que pidamos "vigilancia" (fin de nuestra libertad). Quelar (mejorar sangre...) con cilantro. ¿Los médicos te "ayudan" a programarte para enfermar cuando te dicen que a los 50 te crecerá la próstata...? El científico está cojo sin filosofía espiritual (se dejaría la correlación estadística, y por fin se iría a la causa). La inmigración es un negocio para los ayuntamientos. PP y PSOE firmaron NO decir la nacionalidad de los delincuentes graves.
+-
+* Se intentará por lo menos resumir (que es de lo más útil que hay, como quitar cosas a la vida para tener muchas horas libres con la naturaleza; coger un desbrozador y quitar lo que a la gente le parece bueno y No lo es).
+* Ovalismo. Muchos subsaharianos vienen bien vestidos, con teléfono móvil... Milicianos se decía hace tiempo, y seguiremos diciéndolo. No vienen a defendernos, sino a reemplazar, ¿incluso al propio ejército español? Clave: castigo "divino" por inconsciencia: series en vez de conocimiento de sabio de la montaña... ¿Los tatuajes son materialistas? ¿Se dan más en Zodiacos materialistas? GSanAgustín. Sabores para balancear emociones. ¿Ácido vs amargo (suele ser saludable) y agrio vs salado? Temperamento colérico (atlético. Su sabor es picante: le balancea el dulce) vs temperamento de mujer de cadera ancha y pechugona (flemática). Cuadriculado: que tome salado. Vegetaliano: ¿por conflicto con la autoridad / papá muchas veces? ¿El mercado vegetal es muy contaminante (bosques fuera...)? ¿Tomar agua una vez cada 2 días? Lo primero, deshacerse del paradigma médico oficial (antes de lo del agua), adoptando otro sencillo.
+-
+* Marruecos siembra nubes para que llueva (aviones). Las élites españolas quieren nuestro mal, ¡porque NO lo hacen!
+* Luis María Pardo (IustitiaEuropa) pide que Ábalos comparezca como imputado Hay muchas mascarillas pagadas por el pueblo que NO se sabe dónde acabaron.
+* Jesús Gil ya dijo hace mucho tiempo que con el tiempo iban a ser los "indocumentados" o nosotros. Decía muchas verdades, y por eso le mataron.
+* El lobbie del azúcar (causante de la obesidad y enfermedades del corazón) dio mucho dinero para que se demonizasen las funcionales grasas. ¡A ver si os entra de una vez, tercuzos!
+* Viruela del mono. Difícil contagio y NO se propaga por el aire (leer Magna Ciencia II): transmisión sexual o falta de higiene.
+* Ovalismo. Dirán que querrán cerrar redes sociales por el tráfico de armas etc Realmente, para las élites, el problema es el intercambio de información entre gente que se entera algo de lo que pasa. Si alertas sobre peligros reales, te persiguen.
+* Si sanas fuera del ámbito oficial, muchos cerrados NO te van a creer (es un shock mental, claro; seguir creyendo mentiras protege el cerebro... de los débiles).
+####003notillas09Virgo03.txt  -
+* Ya sabemos que externamente el mundo está muy mal. Llega la hora de dar soluciones: que seamos todos colegas, ¿incluso coleguear con materialistas con complejo de inferioridad / superioridad que quieren hacerse notar y te critican con una sonrisa tranquila? NO sé, sólo sé que los puntos / la competición, es necesario que vayan a la basura (y el trabajo asalariado, que es un invento masón).
+-
+* La pareja es la unión de 2 personas incompletas para aprender el uno del otro.
+* NO tengas envidia de quien baila con agilidad Cada uno tenemos nuestro camino y nuestros maestros Y las almas viejas, que son las mejores, NO vinieron a hacer ni "gimnasia" ni "vasijas". Ojo, yo NO soy un alma vieja (sólo avanzada, ¿con algo de vieja? Porfa).
+* ¿La gente de la Tierra plana NO suele ver que nuestra psique es lo que determina todo y suele victimizarse y culpar al otro? ¿La idea de una Tierra plana sugiere límites y NO posibilidades? Desde luego, discutir sobre la forma de la Tierra, distrae. ¿Es un plan macabro esa idea?
+* LA PARTIDOCRACIA SE PROTEGE. Pretende eliminar lo único que le hace daño. Si no tuviéramos Acusación Popular, la alfombra hacia la IMPUNIDAD de los Gobernantes sería TOTAL.
+* El videojuego como simple venta de ideas de las élites con heroínas negras y con obesidad mórbida NO convence a los jóvenes, ¡menos mal!
+* Cambiarse a un Estado donde No obliguen a la vacunación infantil, NO es tontería. Vitamina C, llegando a un poco de diarrea (exceso de C). Empezar a subir la C unos 5 días antes del pinchazo.
+* Cuanto más te preocupas de lo material y la supervivencia, menos te rebelas, más "lastre" eres. Y hay que freír mucho, y en grasa animal (para vivir mucho y bien).
+* ¡Si quieres ayuda, expresa debilidad amigo!
+* La Audiencia Nacional hunde a Sánchez (Aitor, LMPardo de IustitiaEuropa...). NO se debe permitir el terrorismo de baja intensidad.
+-
+* Las personas inconscientes (obstáculos para la civilización) hablan de trivialidades como el sabor de la comida, los que son un poco más conscientes, son serios en sus conversaciones y NO hablan de estar colocado en un puesto, y las personas buenas hablan del destino de la humanidad y de sus fallos de psique, soñando con una sociedad mejor.
+-
+* Vídeo (Alaska, El Pupitre de Atrás): un policía obliga a una niña a meterse en la escuela. Mucho esfuerzo para que nadie sea diferente. Ella sólo quiere un poco de digna libertad (y de paso, conservará la inteligencia de hemisferio derecho, aunque NO salga tan intelectualmente obrera como los demás ¿y su cabeza NO soportará un funcionamiento integral, teniendo "epilepsias" si trata de tenerlo y es sensible / avanzada?).¡OJO, YO ESTOY A FAVOR DEL UNIFORME ESCOLAR, PARA DECIR QUE LA IMAGEN NO SUPONE UNA DIFERENCIA REAL, LA IMAGEN ES SÓLO HARMONÍA, Y TAL VEZ MENSAJE (SÍ, "SOY UN SUPERFICIAL" JE JE)!
+* ¡Carái, Abascal es bastante mejor que Alvise! Alvise mintió mucho en poco tiempo, diciendo que la de VOX NO había asistido a una votación. Alvise nos hizo creer el día 5 (con un vídeo) que era el día 4 (el día de la votación).
+* Nuestra generación X hacía los deberes muy rápido y mal para salir a la calle a jugar. Sí que entendíamos la vida. La Agenda2030 debería informar de sus eventos, que en na "nos conceden préstamos sin pedirlos".
+* IustitiaEuropa: es la hora de la sociedad civil (humana, que NO decidan por nosotros) para acabar con el régimen del 78 (ahora hay menos trabajo, tardas siglos en pagar tu casa...).
+* Tu alma tiene el mapa de tu futuro, hazle caso.
+* ¿Ucrania debe dinero y los Rothschild lo cobran?
+* Ovalismo. Élites: NO poder conducir si tienes una enfermedad de una larga lista. ¿Les importamos? Nos quieren sin coche. Nos quieren controlados y sin consumir (muy reducidos), sin buenas razones. Los jóvenes picarán. La sabiduría "es vieja". Un tío pide pa Pfizer (ricos) y recauda! Las élites dan mil consejos a las chicas que salen de noche, haciéndose los buenos. ¡Lo bueno sería "limpiar"! En los 80 había menos vacunas, y mucho menos dañinas / menos "especiales". Pediatras ponen su sello (pa cobrar) en galletas terribles. Nelson Mandela hablaba de borrar del mapa a los blancos, y mentía a los medios occidentales. ¿La URSS promueve los movimientos de "liberación"? La segregación se implanta en los 50, NO antes. Borrar del mapa NO marxistas, en general? Las élites permitieron esto (blancos con miedo).
+-
+* Ovalismo. Dudamos sobre lo ya dicho (aunque prefiero lo bueno / [Psicología...] y la verdad del resto... a aplastar lo ya apuntado): ¿los vacunados tienen un dispositivo "Blue Tooth" con su correspondiente dirección MAC: identificación de fabricante + producto? Posiblemente NO. ¿Un "cuadradito" de Bluetooth es demasiado grande? ¿Se detectaban móviles "apagados" realmente (se pueden apagar para el experimento)? ¿Pero al inocularte el 5G "te molesta más"? ¿Sirve para los vacunados este estudio? ¿Y para el resto? Más: la MAC de un dispositivo NO cambia. NO quiero experimentar, hay mucho de qué hablar (NMGHamer...). ¿Nos la dieron con queso las élites con un bulo? NO ha hecho hincapié desde el principio en que su intervención (del invitado) era para decirnos que no nos creyésemos todo. ¿Y los hisopos traían nanorrobots "para tu cerebro"?
+* Más Ovalismo. Lo que hace Zapatero (el "capo" español, aliado con el grupo de Puebla, con China... Todos malos), lo "replica" Sánchez. ¿Sánchez agotado y Zapatero presidente? Zona de bajas emisiones (cobras de Europa por ponerlas, son una perversión, sobre todo si eliges ponerlas en el centro; en Sevilla, las pusieron en una isla poco transitada). Juego simbólico (lo explicaremos) en el satanismo: ¿La acción por la acción (cosa de niños) nos enferma psíquicamente? Buscar el placer. Relativismo moral. Así, se inventa otra realidad. ¿El fin de la agenda 2030 es que vivamos como los insectos, con sus "curiosas" costumbres, terribles para nosotros, que nos fascinen y nos los comamos?
+####004notillas10Libra01.txt  -
+* Como mal Escorpio deseé que muriese "la gente obstáculo" (que tampoco lo son tanto, porque si miras dentro y cambias, "eres un protegido"). Como buen Escorpio, NO deseo nada para nadie, simplemente muy de vez en cuando, trataré en unos pocos segundos, sin insistir, de dar luz a quien vea que está para cambiar.
+* Quieren quitar del medio al abogado Guisasola, por ir bien por Sánchez y Begoña. ¡Que NO digan fachosfera nunca más, que han delinquido, ahora sí está claro!
+* Comió 24 huevos en un día (o al día), y su salud mejoró. ¡Lo del colesterol es un mito! Haz la prueba (con muchos menos huevos, claro), si crees en muchos malos médicos, es tu responsabilidad.
+* Bases para una revolución integral. Es un librito. Si NO has escuchao mucho a FélixRMora, consíguelo, te aclarará mucho las ideas. 5 euros. Recuerda que en el camino está que creencias nuevas (y buenas) te causen dolor.
+* Ovalismo. El 11S NO fue Binladen (preparado por la CIA). ¿Fue para poner límites a la gente (aeropuertos...) y justificar una guerra en Oriente Medio para conseguir Rusia con el tiempo? ¿Israelís pusieron bombas? Los expertos dan por segura una explosión (nanotermita). El Pentágono fue impactado, ¿por un misil? Élites y medios (2.024), maestros del miedo y el engaño. El PP, hablando de las elecciones de Venezuela, y callando sobre los chanchullos en España (lo de fuera es lo que importa je je). Una abuela buscando en la basura, y nadie le da nada (y tampoco vivimos escandalizaos por muertes infantiles por vacunas). El Franquismo respetaba más la independencia judicial que Sánchez (que va a dominarlo todo, como Chauchescu). Stalin: NO importa a quién votes, importa quien cuenta los votos.
+* Más Ovalismo. GSanAgustín. Las emociones NO enferman, el conflicto psicológico anterior sí. Se producen ácidos cuando comes sin masticar, NO puedes digerir (¡o NO puedes digerir algo psicológicamente!). Todo conflicto viene de una necesidad NO cubierta. Un bruxista puede necesitar expresarse y ser tenido en cuenta. Saca las emociones (aunque sea al llegar a casa), pa curar. NO fuerces a anoréxicos (NO funciona el aparato digestivo) y bulímicos (NO digieren y el nivel de glucagón "obliga" a comer): hay que solucionar los conflictos (la medicina oficial falla).
+-
+* El de abajo sigue golpeando el techo cuando duermo, aunque soy silencioso, como un ladrón, como debe ser (mi familia es más ruidosa). ¿Es peor un TPL (sobre todo ocultado por otros, y que actúa con sigilo) o un psicópata?
+* Ovalismo. ¿Lo de los deseados inmigrantes (por las élites) puede proporcionar a las élites su deseado toque de queda (para los de aquí)? Nada de fortalecer la policía, o... El plan es el toque de queda y el caos (y el control con cámaras...). Y las mafias de las pateras, lo son de droga y terrorismo. El gobieno da todo a los mercenarios que llegan. Es sólo para africanos... Se trata peor a ciertos inmigrantes respetables. La policía comprada, y nosotros tomando productos marroquíes cancerígenos. Cebolla, Sergio: el español es individualista históricamente (míticamente), y hay que unirse, ¿IustitiaEuropa ("partido") y Habeas Corpus, la asociación "de Sergio" (de todos nosotros)? Yo NO sé cuándo me uniré a HCorpus (NO puedo decir más). El ser humano actual defiende su cervecita, su fútbol y su Netflix (y por lo de la zona de bajas emisiones, NO dejando pasar a tu coche, NO se preocupa, ¿te quitan el coche?). ¡Alerta, en España se produce poco, preocupaos un poco! Pensad en que se cierre el grifo, que la cosa empeore poco a poco... En masa se está bien... pero la masa es un blanco perfecto para las élites (vacunas, pinchar poco a poco y NO te das cuenta... Por delegar, por NO tener un pensamiento genuino y NO soportar burlas, ¡sopórtalas, NO hay otra!). Los anuncios de la tele se meten con la gente, y están a favor de la ideología woke, ¡NO quieren tanto vender, como adoctrinar (reciben cheques)!
+-
+* Las élites quieren quitarse del medio con artimañas a la gente que piensa por sí misma (que para ser buena, debe mirar dentro, si NO, son pobres infelices algo creídos, como Eduardo Antonio, Figaredo, que llama vagos a los demás, ¡y él es materialista / inconsciente, y NO puede estar una hora sin hacer nada material, es un enfermo peligroso fiestero / PAiestero que bebe y NO puede evitar seguir mal de salud por ignorancia de NMGHamer y más cosas!). Si NO van por ti (dices algo en Internet valioso y te interfieren en el vídeo...), es que NO te enteras de la fiesta, así de claro, eres un obstáculo social y debes despertar. ¿Que quieren meter en la cárcel a Guisasola por decir que ya NO había secretos, que lo sabía todo el mundo? ¿Y eso es desvelar secretos?
+* Van por los niños, con romances lésbicos en muchas series. Moldean su mente. Cuanta más "ternura", presentándonos la destrucción de la familia, más maldad, piénsalo.
+* ParejoFran Atrayendo cosas. ¿Contratar un seguro (prever en general) aumenta la posibilidad de que NO pase? ¿Negar los peligros permite que se produzcan? Tu estado emocional atrae eventos futuros "semejantes" (¿mejor NO mucho estrés, NO preocupación neurótica, SÍ comprensión, NO negatividad...?). Victimismo: el enfado genera eventos para enfadarte ("todo me pasa a mí"). Similar con "me persiguen las élites...", ¿y eso de "las élites son culpables y NO mi interior"? NO temer las noticias agoreras del Telediario (ni las de los disidentes: NO estar mucho con ellas). ¿Y el "ellos quieren quitar el dinero físico para controlar, pero pienso en buen dinero físico, y usado menos, para humanizarnos"? La gratitud (antes de dormir la siesta / ondas "vagas", al despertar...), genera gratitud (eventos para estar más agradecido). Con capacidad de asombro ante la vida, atraes cosas asombrosas. Si amas mucho a los entes (o los temes), vendrán. Con ansiedad, ¿hay demoras? Lo de siempre: sentir como si lo hubieses conseguido, visualizar en detalle... Gracias Fran, majo.
+####005notillas10Libra02.txt  -
+* ¿Qué te parece una zona de bajas emisiones de envidia, de materialismo...? Lo que enferma es lo psicológico (y se nota en tus emociones... que hacen mal a los demás a veces). Por Óscar Terol y MAlarcón.
+* Para mí NO es ninguna sorpresa que Israel "creara" / reforzara a Hamás, teniendo en cuenta que Hamas y USA debían tener algo que ver. Actúa diferente a Hezbolá (más honestos, integradores...). Así, Israel puede tratar mal a Gaza.
+* NO me olvido del libro "Bases para una Revolución Integral".
+* Ratos de soledad y silencio: malos para "el clan" / el ego. NO eres tu grupo.
+-
+* NO hay caos, hay cambios, y quien NO acepta los cambios, vive en caos.
+* ¿Trump disparado por segunda vez por negar ayuda a Ucrania (Zelenski es malo)? ¿Teatro?
+* Sacó carreraza cum laude, y tenía poco cerebro (la conciencia está más allá de él).
+* Ovalismo. Si el Papa dice que Dios NO existe y que el satanismo es bueno, ¿cómo NO pensar que el mundo esta loco? Volvamos a los 80 (pensando) o antes (y recuerda, los errores médicos se dan porque el paradigma médico halopático es falso). Marlaska adultera guardia civil (por venganza).
+* Niños monos, mayores mentirosos...
+-
+* ZeballosCristian si tienes más respuestas que preguntas tal vez NO te hayas sumergido en lo más profundo de ti Ahí está la clave de tu mejora.
+* Muchos NO han luchao (tipo conspi), y todos sufriremos las consecuencias, ¡todos!
+* Si quieres ser ecológico, NO cambies de coche... Sé bueno.
+* Ovalismo. El último objetivo de Sánchez es el Rey (bere / bueno, al menos de tapiz), y ya lo humillan. Sánchez (que necesita pobres) ha matado la Constitución. Los psicópatas verán cómo sus iguales de arriba se cargan sus vidas.
+* Salvador Freixedo, ¿maestro postumo de todos?
+-
+* Ovalismo: NO nos hemos creído (nos prueban) lo de la viruela del mono (vacuna para dañarnos...), y las élites dejan el tema. Boicot al crédulo y al duro. Y lo que pasa allí, pasará aquí. Cetosis: pasar el carbohidrato (difícil de encontrar naturalmente en Invierno...) a saludable grasa (los lácteos también son algo tóxicos). Cuerpos cetónicos (tras ir por la grasa, al tomar poco carbohidrato): estamos limpiando (el buen ayuno, agradable si comes muy poco, y 40% grasa, y bebes "suero": sal con agua y limón, agua de mar...), y se ve en el aliento, meas mucho... ¡Los coléricos duermen menos, pesaos! El agua que venden es mala (filtrada, sin minerales).
+-
+* Maldad / incivilización es NO soportar que el otro te hable de su Psicología (quizás se merezca apoyo).
+* ¿Es el aborto ("éste es mi cuerpo, muere tú") una eucaristía abiertamente satánica / un adulteramiento típico de las élites?
+* Valoremos bondad (mirar dentro) y empatía, y nada más.
+* Es una vergüenza que el sector terciario ("jetas") sea mayor que el primario y secundario (base).
+* ¿Los videojuegos hacen que la gente acepte la guerra (enfermos mentales)? Y pagas para la mujer que denuncie... ¿Y buscas disfrutar o adaptarte a sinrazones sin cambiar / mejorar tú (Carl Jung)?
+-
+* Al conflicto por separación lo llamamos TDAH, Alzheimer... ¡Mal!
+* Perder peso rápido: por perder agua (luego va la grasa si NO hay hidratos). Sano: aceite oliva, aguacate, frutos secos o silvestres, proteína animal...
+* Asco / repugnancia: por maltrato padres (se quiere azúcar, ¿NO se debería ayunar?).
+* Los periódicos nacieron para que supieses la verdad, y ahora están para evitar que las sepas.
+* Desactivar tu dinero a 10 km de tu casa (como recluso): tecnología.
+* Machos alfa, psicópatas integrados y TPLs (constelación agresiva) son lo mismo, ¡una calamidad machista, y poco más!
+- Pasar a 700 (añadir 6 días * 100):
+* Planeta en grado 29, crisis: concluir... La gente buena romperá más relaciones (NO casan con sus muchos valore), y tendrá menos posibles nuevas.
+* Frase famosa: blanquea el latón (se trata de sabiduría / pruebas sociales... y Psicología) y quema los libros (conocimientos). Psique "=" alma (mejorar el alma, con sus vidas). ¿El espíritu es "lo gordo", y el alma lo energético?
+* Vender por teléfono es "ser un psicópata integrado". Seamos útiles, NO sigamos horarios, cobrando sin merecerlo. Puedo enseñar Matemáticas, NO vendería muchas cosas... Ser basura es pensar que es necesario. ¡Sobra casi todo contrato, y cobrar en muchos casos!
+- 
+* Si NO quieres pensar como un conspi (despertar / élites son psicópatas y nuestro reflejo, limpiar la psique: Medicina Hamer...), vendrán enfermedades... y lo llamarás injusticia. "Mira las nubes" alelao y siente dolor, es la clave. A más placer querido, más esclavo eres. Dragón = ego. Princesa = alma / psique (límpiala de creencias negativas reprimidas con Psicología y el ego / rutinas para autoengañarte, desaparecerá). Haz caso "al cuento". Cuanto más exigente / restrictiva sea contigo la teoría de limpiar la psique / volverte bueno, más "de buen teórico" / buena gente.
+* El mal paga los medios: cuando el PSOE NO pagaba mucho a A3, invitaban a uno del PP.
+- 700 más (subo a 800).
+* Hacemos de más, como enfermos mentales que somos, por no mejorarnos (bucear en la psique; eso es un valor, y todo emana de aquí). Ya sabéis cómo detectar el mal: 3 empleos...
+* El 90% de los "alimentos" actuales NO existía hace décadas (y el 90% de los desequilibrios físicos, ¡son nuevos!).
+* psi herm Cris. Si promueve la satisfacción / solución immediata, es un falso maestro (peligro, NO te comprometes con algo "larguísimo, aburrido y diario" / PLAN para mejorar la psique, por ejemplo, aprender a guardar dinero o mejorar la vista por psique, que es la forma; o ser menos dañino, desreprimiendo, por ejemplo, hablar menos; y quieres más sin más, y mucho, como vídeos graciosos, terrible). Pan y circo: la ira / violencia es "inmediato". Naces con estrella, y eres peligroso / "tontico". Quita lo "clanista" / grupal / familiar.
+-
+* Templo, andar descalzo para intercambio de energía (perderás si estás mucho). Agua "bendita": estancada, ¿pa que te estanques y des energía "adecuada" al complejo (Tailandia)? Techo escamado (como espíritu demoniaco).
+* La estrella se gana buceando en la psique / autocriticándose MUCHO SOCIALMENTE Y ALGO DE RESULTADOS MATERIALES O INTELECTUALES / volviéndose buena gente. La que viene de la familia sin Psicología avanzada, te deja como estás, malote a los 8 años, y creyéndote bueno porque encajas... Sacar notazas sin estudiar es de alma avanzada / vieja / inteligente / relativamente poco activa, NO significa buena estrella. Y recuerda que la ausencia de femineidad / estrógenos... es el mal.
+####006notillas10Libra03.txt  -
+* He aprendido a que lo que digan los demás NO me afecte tanto, pero quizás deba estar totalmente tranquilo, NO intentando esquivar al burdo.
+* Por el cruce de gilipollas / paso de lerdo, puedes pasar con tu móvil sin mirar, los conductores irán con mil ojos, tranquilo. 
+* Las formas "de estrella" chupan energía, ¿como los tetratedros? Y el limpiador de cielos (lo usa la gente buena, NO las élites), ¿es esférico (da vida)? El pentágono es lo del huracán (absorbe).
+* Los ucranianos yendo al frente, y los políticos, censurando esta información (silenciar micro a eurodiputado...), y diciendo que tiene que haber guerra, por la censura en Rusia. ¿Los políticos cobran de los impuestos de la gente para defender las guerras?
+* Criticando duramente a cónyuges y amigos de psicópatas integrados, machos alfa (vs muy superiores hombres sigma) y TPLs (¡qué vergüenza si los han desenmascarado y siguen valorándolos!), avanzaremos mucho.
+-
+* Perales es poeta, y si lo complicas / venuficas... ya NO eres poeta, eres un repipi insoportable, como Góngora... como los que llamamos poetas y NO lo son (JRamón Jiménez, sí lo es).
+* El PSOE es comunista, el PP es el nuevo PSOE, y VOX, ¿el nuevo PP? Sólo sé que Zapatero manda asesinar sin pestañear y duerme tranquilo tras cualquier atrocidad cometida por él mismo.
+* Ovalismo 1. Vacuna en aerosol nasal, ¡te traen la muerte a casa! ¡Las vacunas deben recetarse! ¿Esta gente se preocupa por nosotros? NO son ejemplares, luego se preocupan por debilitar para controlar. Gates introdujo la vacunación en Vietnam, y el autismo creció muchísimo. EL MÉDICO, COMO FUNCIONARIO, ESTÁ A NUESTRO SERVICIO (NO DEBERÍA PORTARSE COMO JEFE, EXIGIR...). A más análisis, más miedo y enfermedad. A más consciencia, más sólo te sientes (normales criticándote: vacaciones, ropa... temas de necios). GRUPOS DE CONSPIS (PARA VERSE REGULARMENTE).
+-
+* Ovalismo 2. Zapatero es un sicario del régimen venezolano, y llego al poder tras el mayor atentado... Yo quiero que todo el mundo acceda a mi historial médico (conocerían un poco mejor mi pasado, NO tanto mi presente). Quien paga con tarjeta, móvil... NO sabe lo que hace (recuerda: anular compras fuera de tu municipio...).
+* Si ya en 2.013 se podían meter tantos nanorobots en una jeringuilla (Ido Bachelet)... ¡Oye, que la ciencia moderna es un poco de "Lex Luthor" / genio malvado!
+* La información es poder, es un negocio para los malotes, sin duda, ¿es que ya NO importa la verdad, sólo depositar datos que te favorezcan en cerebros ajenos?
+* Las élites, con eso de "te bloqueamos la cuenta por decir una palabrota", ¡NO protegen a nadie, sólo censuran, haciéndose las buenas!
+-
+* La variable más importante de la meteorología NO benigna es la maldad / provocación con máquinas.
+* Ovalismo. Fiesta de reparto de ordenadores para funcionarios, y pa las familias pobres... nada. Los políticos tienen leche de la vaca, y a partir de ahí, a fingir que les importamos. Lo importante es escuchar a la gente que sabe leer a las personas (y muchos Escorpio o Luna en Escorpio, saben): y comprende su comportamiento divergente (niño sin atención, sólo puede portarse mal).
+* ¿Por qué será que quienes menos me entienden son los que siguen siendo de izquierdas, y muchos, cerca del marxismo woke LGTBI? Me dejan de leer por cerrados.
+* Ovalismo. NO presionaré mucho pa que dejen "lo oficial" (pa NO morir). ¿Y si al enfermo inconsciente le presiona mucha gente? Seguramente algunos políticos (¿RUBALCABA?) fueron asesinados antes de decir la verdad, ¡ES LA CLAVE! ¿El 11M fue la CIA y el muy trascendente plan Marshall (Y la OTAN...)? ¿NO Francia y Marruecos?
+-
+* Data center (nos espían), necesita millones de litros de agua, que sale envenenada, ¿y las plantas de hidrógeno? ¿Y encima te expropian para empresas privadas? A la gente con hipertensión, le quitan la sal, y NO mejora, ¡realmente, la falta de sal (beber mucho agua embotellada sin mineales, psicología...) es la causa, y el corazón debe bombear con más ahínco! Al meter sal, el exceso de agua (células...) se soluciona, aunque te hinches... Puedes comprar agua de mar... Con una alimentación orientada al azúcar, hay fluctuaciones (si es orientada a la grasa, con comer una vez al día o menos... basta). Ansiedad: frecuentemente, por falta de minerales. ¿Anemia (glóbulos rojos "saturados") por líquidos? El medicamento "mata" (falla el sistema médico / mata). Indígena, 118 años, riéndose de los jóvenes blancos, que NO seguían su ritmo. NO creas a Gonzalo, ¡prueba, NO seas cerrado! ¡Aaaah, manzanas brillantes maduradas 5 años en cámaras!
+-
+* TAL PARECE QUE LAS DIRECTRICES PARA SANARNOS... SEAN PARA TODO LO CONTRARIO. LITROS DE AGUA EMBOTELLADA SIN MINERALES NI ELECTRÓLITOS, FUERA LA SAL Y LA GRASA... ¡SENTENCIA DE MUERTE, SI TE QUITAN LA SAL Y... Pa terminar, ¡los síntomas son sobre todo de fase de curación (el paradigma médico correcto es el de NMGHamer)! Deja de quejarte y autocúrate con Hamer, buceando en tu psique (que es lo que hay que hacer), deja de delegar, que habrá un médico que se entere de cada diez. Toda enfermedad ( = algo permanente, que NO depende de los hábitos saludables, como todo cáncer) tiene causa psicológica.
+* Hay gente con dones intelectuales, que se cree inteligente y NO lo es, por ejemplo, quien [NO es simple y comprensible sin esfuerzo] / NO pedante, hablando y escribiendo. Los concursantes de El Picu son rápidos mentalmente, como si les faltase una profunda y necesaria intuición (él es es un robot, alto y huesudo, sin empatía o femineidad). LOS EXCESOS INNECESARIOS MOSTRANDO INTELIGENCIA (RAPIDEZ...), ESCONDEN GRAVES DEFECTOS.
+* Alvise, podría pasar por bueno, por su cara "Venus". Pero es ambicioso en el mal sentido, como los materialistas (que si joyas...).
+* La elegancia sí es un valor (como mirar dentro), pero NO se la entiende bien, NO se trata de ir con trajes por ahí. La ropa NO modesta, déjala para el arte. Recuerda que el negro atrae frecuencias negativas (es proélites).
+* Quim lo de Roswell son platillos BMW (símbolos de la Campana nazi), hechos pasar por aliens (¿disfraces?), para NO publicitar la supremacía tecnológica alemana.
+* La ÍA no es para ti, es para la policÍA.
+* La desigualdad es un loco de hacer y que critica al vago / alma vaga / alma vieja / alma superior y así se autoafirma EGOÍSTAMENTE sin mirar dentro, vs una persona que disfruta de la contemplación unas pocas horas al día (horas que puede dedicar a filosofar, a enseñar con gusto y gratis...).
+####001notillas10Libra0201.txt  -
+* ¿Tienes adorables psicópatas integrados (son como el 4%) en tu barrio DETECTADOS (es difícil)? Pero NO en tu portal (NO busques problemas). Llámame a mí y unos cuantos, y hacemos "publicidad" por tu barrio. ¿Oportunidad al psicópata para bucear en su psique antes de decirle que es un débil mental (la psicopatía es una protección para almas con pocas vidas...)?
+* Si eres víctima de felicidad real por unos segundos, NO lo dudes, contacta con expertos oficiales, que pueden volterte a hacer sentir como con el ocio, las noticias del Telediario... inhumanamente infeliz, ahí, bien adaptado, con las élites y parte del entorno contentos con tu dolor, tu normalidad.
+* "Ciencia" satánica. Las siglas CERN (Suiza, acelerador de partículas) hacen referencia a ¢â‚¬Å“Karno / Karwo¢â‚¬ (asta o cuerno), derivado en CERNUNNOS (¢â‚¬Å“el que tiene cuernos¢â‚¬, Baphomet, satanismo).
+* Tu libertad tiene un alto precio: tu transformación interior (Zeballos, Cristian). Es un "renegar de ti", de las creencias familiares, es ver que lo que te hace daño socialmente, es por algo: puedes cambiar la impotencia por comprensión, "pudiendo" con palabras de necio (y así, la vida te junta menos con necios)...
+-
+* Para mí, el diablo es el "amigo de todos" (NO selecciona, NO ve en el interior ajeno, ¿por qué?; pueden ser signos del Zodiaco dispares, llegando a abarcar muchos tipos de persona).
+* ¿La Física es para gente con más sentido común / más inteligente / almas viejas, y la Quimica para estudiosos (menos humana, entonces, lo humano es salir a la calle de niño y "olvidarse de poner un átomo cuando se dibuja una molécula" y NO creerse algo)?
+* El TPL está abrumado por las emociones, y busca a personas que le ayuden a regularse (y piensa que en soledad, NO vale nada. ¿El miedo al abandono es porque en momentos importantes NO se les tendió una mano emocional? ¿Pero NO pueden ser elevados por No requetegustarles la soledad?). Piensa en blanco y negro; es rápido para idolatrar o demonizar. Sabe victimizarse, y que eso le permite ganar apoyo. ¿TPL y asperger tienen características comunes? Paso de los TPL pa siempre je je (muchos aspis me parecen pesadísimos, como meterse entre 2 ruedas dentadas). Recuerda que buceando un poco en la psique (NMGHamer), se quita el asperger (como el TPL), así que, su culpa tienen de seguir así.
+1. Más TPL: muchos viven el miedo al abandono con preocupación, ofreciéndose a ayudar. ¿Hay mucho TPL complaciente (cuando NO están dando golpes debajo de tu cama)? ¿Discuten por NO sentirse queridos eligiendo temas atractivos para el otro? ¿Pueden relacionarse lo mínimo para que la probabilidad de abandono baje? Cambios anímicos: períodos muy feliz, irritable o ansioso, o en los que sientes vergüenza. Esperanza vida de esta gente infantil: hombres, 18.7 años menos; mujeres, 17.7: eso tranquiliza, NO hay TPL que 100 años dure.
+2. El TPL NO es excusa para portarse mal, así que mi vecino de abajo es "terrible de verdad", ¡con la de famosos que son TPL y "NO acosan"!
+-
+* Agenda 2030 (Zeballos, Cristian): cuando NO decides, ¿cuando NO sueñas?, el otro decide por ti, y vas a flipar lo mal que estarás (si NO miras dentro, lo cual genera "protección metafísica"; "los espíritus planifican para la gente", que "debería" saber las reglas "universales", ¿injusto que una persona que mira dentro NO las sepa y NO tenga éxito?). La ONU usa nombres que suenan bien, pero... El trabajo asalariado "surgió" en el 18, justo cuando los masones (con teoría satánica, ¡que funciona!) recuperaron el poder (terrible y sobrevalorada revolución Francesa...). En nombre de los más bellos ideales ("cantados" por psicópatas integrados...), se cometieron las más grandes atrocidades. Un psicopatín puede decir mintiendo: "se está minando la libertad en tal país", y luego se destruye el país (y se yanki-liza). "Igualdad de oportunidades" (por poner un ejemplo) esconde cosas terribles (cuando uno llega al poder, hay que fingir que se está con el pueblo, que NO va a dar nada al poderoso, ¡pero las mafias sí!). En nombre de "la salud", nos encerraron en 2.020, y ya vimos que las vacunas eran malas, y que esta gente de arriba ya lo sabía. Lo que hoy es novedad (coches eléctricos...), se puede usar como arma mañana (subir de precio los coches eléctricos, y prohibir el resto). ¿Y si mañana nos quitan hasta la conexión a Internet y los coches (NO sabes lo que tienen planeado)? La Agenda 2030 es todo palabra de psicópata (tú me necesitas, te voy a ayudar y llevar a la Luna... y luego la víctima sufre lo inpensable, enferma...). Los ayuntamientos NO tendrán poder, vendrá todo del gobierno mundial único. ¿Crees que NO pueden lavar el cerebro a los militares, o seleccionar a los más crédulos (No suelen ser muy elevados)? Lo bonito es lo de la peli "El Planeta libre": gente cooperando y con una vida modesta (y felices, por estar "arreglados por dentro", viendo el siglo XX como la barbaridad que fue, haciendo reuniones sobre ese siglo).
+- Fran (Parejo), alimentación:
+* El gluten moderno (modificacion genética) orada por dentro y genera enfermedades. NO pasarse con el pan moderno. ¿Muchos NO están gordos, sino inflamados por el gluten, que se encaja en el intestino, impidiendo absorber nutrientes? Sí, el azúcar es una droga (algo artificial) que quieren las élites para nosotros (los amigos te ofrecen drogas chungas con cierta frecuencia, es una prueba para que digas "NO", los abandones por ser inconscientes sin remedio...).
+* Cuando se toma un helado (azúcar), Fran llega a comer con mucho hambre / necesidad (el azúcar sube y luego baja mucho, HAY QUE ACOSTUMBRAR AL CUERPO POCO A POCO A PROTEÍNAS... Y GRASA, QUE NECESITARÁS COMER MENOS).
+* En vez de tanta leche, bebida de almendras, coco...
+* CLAVO DE ORGÓN en el agua (la mueve invisiblemente), para vitalizarla. Y menos cortisol (estrés... Trabaja / consume menos, y "la panza" será menor). El Sol baja el cortisol.
+* Quelantes / Zeolita (para fumigaciones celestes, sangre fluye...). ¿Desintoxicar lleva muchos años? ¿Y con energía escalar? Espinillas por mala alimentación. Artemisa (sistema inmunitario natural).
+* Zumos: mucha fruta con lo peor de ella (sin lo "duro").
+####002notillas10Libra0202.txt  -
+* ¿Hacer sólo lo valioso, aunque NO dé dinero y pases hambre? ¿Tendrás protección metafísica NO? Vamos a borrar el siglo XX (y 2 décadas del XXI), porque hasta el exprimidor sobra. Si los trabajos tuviesen que ser útiles, los malos serían los primeros en caer. ¡Parados, a trabajar en cualquier cosa para mejorar las estadísticas y pensar entonces que los de arriba son ángeles je je!
+* ¿Y si todo lo que tenemos, lo tenemos en papel? Eso, haría que la información pesada (toda la que es mucho...), desapareciese de la faz de la Tierra. POR MI PARTE, INTENTARÉ APUNTAR LO MÍNIMO, Y SELECCIONAR MUCHO LO QUE VEO, PORQUE SI LUEGO LO APUNTO TODO EN PAPEL... NO ME DA LA VIDA. Si hay mucha información, detrás hay un pesadón (incluye las asignaturas). Cuanto menos, más calidad: ese juego que te sacia con 4 minutos, porque te despierta... ¿Una carrera NO debe pasar del mega de texto, y luego te vas con tu maestro particular (una enciclopedia, con 2 megas, ya es pesada)?
+* Inocencia, ternura, maternalidad... erotismo suave (y pelis viejas, donde la mujer era mujer, curvosa... y el hombre hombre, NO musculitos de concurso o venusianos con barba). Y poner filtros, ¡los NO conspis, son "feos" (NO los odies, desreprime creencias negativas sobre ellos, que eso lleva al amor: el enfermizo pulcro ama al cerdo, porque NO lo soportó y lo reprimió)!
+* Buena gente: todo sobra, sólo el mínimo es valioso, y debo mejorar mi interior pa que mejore la sociedad. Malote: lo que hago es valioso y cuando sea viejo me daré la vida padre, porque hay que matarse hasta los 67, y vaguear a partir de ahí. Si sabes sumar... sobra el profe de mates de primaria (llama a un vecino, No delegues en lo oficial, córtate el pelo a ti mismo, porque NO eres tonto, y tienes 2 espejos confrontables, y quieres trabajar la paciencia). Si te dicen que tienes el pelo imperfecto, son malos / superficiales (puede que se tiñan y usen chaleco por imagen). ¡Vamos a demostrar lo excesivo que es el mercado (muuuuuu, beeeeee) de trabajo! NO digo que te hagas hermitaño en 2 años (lleva mucho más tiempo). Lo que digo es que NO se compita por un trabajo (eso es de "cero", como poner vacunas a los niños sabiendo lo que ya sabemos, porque NO somos de "la verdad me aterroriza"). Y mantén la inteligencia INTEGRAL (NO absolutamente apavullante / matante / INNECESARIA y terrorífica de asperger; y quienes tienen buen sentido del oído, NO son empáticos con quienes NO, NO se los entiende, hablando rápido o sin una dicción de 9, fuertemente afectada por el acento, que es cosa de "pueblerinos"...) lo más alto posible, ¡fuera alcohool y pastillas, todo es sustituible (por mejora interior, que cura...)!
+* La guerra hay que NO alimentarla ("Israel, si sigues con ella, rompo relaciones"). Mandar armas es de psicópatas.
+* El idiota considera falso todo lo que NO es capaz de comprender. ¡Y hasta lo que comprende! Pero como hay que autoengañarse para sobrevivir cuando eres un débil mental, como la mayoría de la gente, ¡que NO son conspis ni de mirar adentro con dolor pa curar...
+* ¿Grafeno en la anestesia de algunos dentistas? NO hay que tomar azúcar, por si las intervenciones médicas te matan en pocos años. Deja el dentista pa la persona horrible e inconsciente que toma azúcar sin un "miedo terrible". Yo lo siento por amigos que venden dulces pero... están matando a la gente, y algunos dentistas rematan. NO olvides que los dientes frenan energía negativa con destino a los órganos. La gente avanzada, con misiones difíciles, tiene problemas de dientes, pero con el tiempo (ver tu problema de psique, y por lo tanto, curar), la cosa va a menos. Si das dulces al perro (sobaos...) aléjate de mí, estás quitándole años de vida.
+* A toda persona con 2 dedos de frente le gusta hacer el bien (pero recuerda que ayudar sin limpiar la psique, suele ser contraproducente). Pero yo selecciono a las mejores almas, y claro, es mucho más positivo para la sociedad ayudar (ayudar bien) a un conspiranoico, ¡NO tiene que ser el mejor de los conspis! ¡Ayuda BIEN a las mejores almas, NO a "los mejores", NO a inconscientes que se creen el Telediario! Por la sociedad, por ti. De verdad que hay conspis tontotes, semiaspis... pero por lo menos son conspis (con sus facturas que pagar). ¡Karma bueno pa ti! ¡Lo que se pierden los psicópatas, en su rueda de infelicidad! Si das esperando algo a cambio, ¡karma supermalo!
+* Yo relaciono valores e inteligencia musical (buen gusto) con aquellas generaciones que se pasaban toda la tarde en la calle, y sacaban Notables con más de 10 años (y NO todo sobresalientes, ¿ahora los regalan, o estamos ante una generación asperger repelente tipo Sheldon Cooper?).
+##¿CUÁNTOS FAMOSOS CON GAFAS TIENEN 2 DE ENEAGRAMA (COMPLACIENTES)? ¿Los 2 no llegan muy alto porque en principio NO tienen sueños propios?:
+- Elton John: 25-03-1947 = 7-3-21 = 31 = 4. Aries.
+- Elvis Costello: 25-08-1954 = 7-8-19 = 34 = 7. Virgo.
+- Woody Allen: 30-11-1935 = 3-2-18 = 23 = 5. Sagi.
+- Johnny Depp: 09-06-1963 = 9-6-19 = 34 = 7. Géminis.
+- Andréu Buenafuente: 24-01-1965 = 6-1-21 = 28 = 1. Acuario.
+- Berto Romero: 17-11-1974 = 8-2-21 = 31 = 4. Escorpio.
+- Jordi Hurtado: 16-06-1957 = 7-6-22 = 35 = 8. Géminis.
+- John Lennon: 09-10-1940 = 9-1-14 = 24 = 6. Libra.
+- Jorge Javier Vázquez: 25-07-1970 = 7-7-17 = 31 = 4. Leo.
+- Ana Morgade: 08-11-1979 = 8-2-26 = 36 = 9. Escorpio.
+- Torito: 11-05-1977 = 2-5-24 = 31 = 4. Tauro.
+- Anne Hathaway: 12-11-1982 = 3-2-20 = 25 = 7. Escorpio.
+- Bono: 10-05-1960 = 1-5-16 = 22 = 4. Tauro.
+- Steve Jobs: 24-02-55 = 6-2-10 = 18 = 9. Piscis.
+- Gandhi: 2-10-1869 = 2-1-24 = 27 = 9. Libra.
+- Bill Gates: 28-10-1955 = 10-1-20 = 31 = 4. Escorpio.
+* De 16:
+1. 4 (sensibles): 6. 7 (teoría mística): 3. 9 (pacificador): 3.
+2. Escorpio: 4. Con 2 (NO importa mucho): Géminis, Libra.
+* Posibles causas, ¿los 4 son más fáciles de traumatizar psicológicamente, y Escorpio es el psicológico del Zodiaco?
+* Mejorar vista liberando emociones:
+1. Miopía: alejarse de un mundo "amenazador". Mirar el futuro con inseguridad (previsores, precavidos, hacemos todo antes de tiempo...). Momento estresante vivido con inseguridad (que se instala) y miedo: divorcio, cambio de ciclo escolar...
+2. Astigmatismo: confusión. Momento en que deja de ser auténtico (traición de valores reales), complaciendo (cánones, exectativas de otros...). Pregúntate, ¿esto es lo que yo realmente quiero, siento, pienso? ¡Desreprimir creencias familiares y cambiarlas!
+3. Presbicia: ver pasado con nostalgia, enojo o culpa (y considerar que ahora la vida ya no es tan interesante). Deja de ser protagonista de su vida y se enfoca en los demás (sin energía para él). ¡A la porra los nietos je je, a hacer puénting, tú, al centro!
+####003notillas10Libra0203.txt  -
+* La gente con inteligencia REAL lo pasará muy bien con lo mínimo (si tu misión espiritual es "Sagi", necesitarás billetes de tren... Será lo mínimo). Sobrarán bienes, ¿para gente "EVIL", con mente débil? ¡AntiLIVE!
+* Si al ser el nuevo, seres superficiales me miran por encima del hombro si pienso diferente, ¿que se marchen ellos NO? ¡Venga, sed buenos, mirad en lo profundo de la gente, y dad tiempo para que los nuevos aprendan! Si NO, ¡a vivir :) !
+* La gente usa teléfonos móviles pero INCOHERENTEMENTE NO es móvil Tienen muchas posesiones y les cuesta mudarse en un periquete Como a mí me cuesta entender la afinidad entre almas avanzadas y NO avanzadas Piscis y almas niño.
+* Hace cientos de miles de años, temperaturas muy altas, ¡y NO por coches / mano de hombre! ¡Ah, es que los dinosaurios iban en biscuter je je! Dura será la caída por vivir un espejismo (NO producimos, acorde a la Agenda 2030, pero España funciona, y eso es malo, porque NO avisa. ¿Cómo se consiguen entonces buenas estadísticas de empleo para sedarnos?). ¿La izquierda usa la (falsa o NO) derecha para extremar a las mujeres (los hombres pegan...)? ¿Son peores los votantes de izquierdas? Los políticos de izquierdas atraen envidiosos (que si algunos tenen demasiados lamborginis...). ¿A qué gente mala atrae la derecha? ¿Todo es igual de malo ahí arriba? Pasa de partidos, y bucea dentro para NO pecar. Le dan valor al petróleo diciendo que se extingue. Le dan valor al inmigrante ilegal (que cuesta un ojo de la cara de nuestros impuestos: Cruz Roja, de las élites oscuras, cobra...) diciendo que va a trabajar... Los que trabajan son "hoteles" (guetos, delincuencia, son casi todos hombres fuertes), traductores, ATS... que votarán al PSOE. El inconsciente pedirá cámaras (y el político habrá cumplido su terrible misión de control, y cobrará). Aborto (que es de récord aquí), NO (y tenemos natalidad ya).
+-
+* Se meterán contigo, NO importa, hay mucho bobo suelto.
+* El secreto de la felicidad está en NO buscar placer, dinero muchas veces (la bondad te hará dichoso)... ¡Los labios carnosos / materialistas (Trump, que para encima pone morritos hacia delante) anuncian algo de infelicidad en pareja, amistad... y que necesitas mejorar! Y ahora todo el mundo a reducirse los labios pa caer mejor je je.
+* Si NO puedes ser bueno, trata de ser agradable (psicópatas integrados) y acosar sin que se note apara autoreafirmarte en vez de mirar dentro.
+* LA GUERRA MANTIENE AL PODEROSO COMO HÉROE (aparte de robar cuando en tu país circula demasiado dinero como para producir). Y SIEMPRE ES MALA.
+* Lo que superas (tienes un propósito y tu psique actual supone una barrera...) te define mejor que lo que logras por naturaleza triunfadora (claro que, ser alma vieja, es un plus grandísimo).
+* Nunca se había vacunao a los niños pa la gripe. Vendedores perversos con sonrisa adorable y suavidad defienden la vacuna. Los psicópatas son duros (NO quieren sentir por debilidad mental), NO fuertes (sienten femeninamente).
+* Dime en qué gastas y te diré "tus enfermedades". Evita: vicios, ropa por imagen (debe ser modesta y algo colorida, y casar con el entorno...), deuda (vacaciones...), comidas fuera de "la gran familia" e invitar (da azúcar a otro, a mí, NO), tecnología nueva / innecesariamente potente (los videojuegos modernos... apestan). En casa, la naturaleza... hay "gimnasios", y muchos profesionales sobran (eres inteligente NO?).
+* El amor es un compromiso de llevar un camino (que te llevará a mejorar). NO es "qué bueno estás".
+* Miedo obsesivo, NO, vive la vida (presente).
+* "Tener hombros anchos" significa aceptar críticas o responsabilidades. Hay quien es masculino y NO acepta las críticas y sí las responsabilidades. Los hombres, ¿aceptan mejor las críticas (función paterna = autoprohibirse)? ¿Y los anoréxicos?
+* La gente estable por dentro y fuera (los psicópatas, sólo por fuera cuando fingen, pero tienen temple), es mucho mejor (NO "empiezan", NO son "sorpresivos"). PERO recuerda (y NO es una contradicción) que la gente inteligente reacciona locamente / con más fuerza, ante el mal (si NO se pueden controlar interiormente). Los disruptivos son peores.
+* Ovalismo. ¿Se dice cómo se llevará a cabo la Agenda 20XX? Mucha opacidad, sospechoso. Los inmigrantes ilegales están exentos de vacunación (las vacunas son para conscientes y civilizados blancos, y sobre todo, poco potentes ancianos, enfermos, y niños: esterilizar...). DICEN QUE "DETECTARON" POLIO EN EL AGUA (PARA VACUNAR / DEBILITAR), ¡CON UNA PCR, QUE DA POSITIVO EN LA PAPAYA! ¿Por qué "medicalizan" la escuela, un sito para jugar y aprender? ¿La vacunación excesiva favorece el toc y entonces pagas por medicinas (si las quieres)? ¿Los niños sufren ansiedad climática por los libros de texto? Sociedad boba: "si te pones junto al punto violeta, ya NO te toca el subsahariano". El informe flexner "ayudó" a que todo lo que NO fuese médicamente universitario (pastillas...), fuese arrinconado. Los virus son "instrucciones de regeneración celular" (curación; las bacterias regeneran órganos), desintoxicadores... ¡NO los quitemos! Vacunando... Las vacunas llevan glifosato, y cuando se come pan con glifosato, ¡se ataca al glifosato (inflamación)! LO QUE TENEMOS COMO PROBLEMA GLOBAL SON 2 POLOS: LA PSICOPATÍA DE LOS DE ARRIBA (INTEGRADOS, ACTORES), Y LA PSIQUE NO LIMPIADA DE LA GENTE, QUE SE REFLEJA EN LA MALDAD DE LAS ÉLITES (¿MAGIA? "SÍ", LA VIDA SE RIGE POR "LA MAGIA": HAY ESPÍRITUS QUE NO VEMOS, REGLAS QUE NO COMPRENDEMOS Y A LAS QUE LLAMAMOS CASUALIDAD...). Protocolos asesinos: aparte de oxígeno a alta presión para pulmones ¿con trombos? que explotarían después, midazolam y morfina en dosis "de elefante"... Han secuestrado la ciencia. NO hay debate, sólo dogma (y si NO lo sigues, se pone en marcha la maquinaria descalificadora). Vacunas (medio / largo plazo, 2025-2029): sube mucho la posibilidad de ictus... ¡Claro que asesinaron (murió en Agosto de 2.019) a quien dijo que el PCR NO diagnosticaba (en 2.019 estaba todo planeado, y yo sabía en Octubre que iba a haber algún tipo de "teatro" en 2.020, pero nadie me creía)! Sanitarios: creídos (por sus títulos) e infantilizados (bailes Tik Tok con hospitales cerrados, y nos decían que estaban llenos).
+####004notillas10Libra0204.txt  -
+* 2.025: con algo de ingenio ves formas independientes de sacar dinero, ¡y nos ponemos al margen de disputas locales! Escorpio: escoge una opción (habra muchas) con la que encajes para conectarte profunda intensamente.
+* Tengo que aceptar (es difícil) que hace 5 años (2019) mi padre estaba genial, y ahora, por cuestiones tontas (meterlo en líos, el terrible y psicosomático Telediario, que haya acabado "cogido" por los médicos, siendo la muerte por medicamentos superhabitual, y algunos ignorantes mensajes médicos son requetepsicosomáticos, y luego está la inversión de roles padre / hijo tirano...) NO está tan bien. Yo debo volar más sólo, él pasar pruebas (ser más conspi, menos cerrao) o morir...
+* Al creído / competitivo / que quiere igualarte, dile algo (si es por talento, dile irónicamente "talentoso").
+* Frase de oro: "si para ti sólo soy un simple y tonto conspiranoico..." (con esto te libras hasta de tender la ropa). Un NO conspi, ¿es como mucho un hábil y sin perspectiva / inconsciente cíclope (un ojo)? A los malos / peligrosamente cerrados / creen en lo oficial, se los podría identificar por síntomas (muchos se han puesto muchas "vacunas" covid, ¿y los psicópatas integrados, se olían la tostada, ya que las élites son como ellos, manipuladores?). ¿El 80% de la gente es incivilizable? Yo diría que sí.
+* Hola, soy un pobe TPL con una pobre paga, y me hago la víctima con los tontos (aunque NO me doy cuenta muchas veces de que muchos de mis amigos son tontos; quizás así estoy más cómodo, con inconscientes), para recibir su apoyo, y con los que hayan descubierto cómo soy, ¡acoso (fui el típico niño abusón)! Alguien que viva cerca de mí sufrirá mi violencia ambiental y venganza eterna por nada (mover un escritorio pequeño...). ¿A que tiene cosas de psicópata integrado (sobre todo si es (semi)robótico Acuario, que el acoso "NO se nota", es de "insultos velados"; y si sumanos (bufante) Tauro... cóctel explosivo)?
+* Juego que trae de cabeza (transportar un huevo), pero con gráficos agradables: Penguin Land (Sega Master System). Y la portada del disco del 86 de Mike and the Mechanics... ¡es un cuadro!
+####005notillas10Libra0205.txt  -
+* Ovalismo. Sí, lo de que NO te alejases 1 km de casa (norma covid) era un ensayo de las ciudades prisión / "DE 15 MINUTOS" máximo a todo servicio / control psicopático (¡vaya malotes las élites!). Muchos niños acabaron mal psicológicamente. ¿"Este virus lo paramos" (en paios amarillo y negro) o "te paramos"? ¡Y abre las ventanas (para que esté más frío), resfríate, prueba que eres manipulable! Los psicópatas pueden pedir falso perdón, reconocer... pero el daño está hecho (el daño es el objetivo). La gente que promociona las vacunas, si es llamada "asesino", se ríe (a los psicópatas hay que decirles lo tristes que son, que el resto de la gente disfruta, y ellos perdieron esa capacidad para sobrevivir, por debilidad mental / estupidez; se vuelven intelectuales = tontos...). ¿Misiles de Israel a Israel para entre otras cosas (que siga la guerra / división entre españoles y avance de Israel...), tapar muertes por vacunas? Marx (comunista) vivió de su mujer (NO hacía nada útil; NO informó, su libro El Capital es incomprensible). Realmente, el comunista quiere que todos sean pobres menos él y el resto de dirigentes comunistas (ésta es la clase "enemiga"). ¿NO estamos victimizando (como hacen muchos políticos) a la gente cuando NO decimos que las élites son un reflejo de la psique / bondad de la gente (aplica Psicología / limpia la psique, y verás que la intención NO cuenta, que la gente es mala y debe mejorar mucho)? La glándula pineal, ya sabes, quieren pararla las élites (con vacunas: mercurio...): ella y el corazón dan la intuición, más fuerte que el pensamiento (de robots "casi"), para una vida más sabia (eliges mejor, rechazas las jerarquías...). Puedes comprimir el perineo ("ombligo") tras inspirar, y la energía va p'arriba... ¿El "respingo" que teníamos en la infancia? Si crees que el calcio es malo para la pineal (que yo creo que protege, ¡hay que creer positivo, aunque sea mentira je je!), la pineal podría funcionar peor (las creencias crean materia). Pupila dilatada con luz: constelación de Hamer, mucho problema psicológico... El hisopo (PCR) afecta indirectamente a la pineal. Cuando tus padres (protectores) te sujetan para vacunarte, se dispara un conflicto (protectores "fastidiando") que te afecta... hasta que "sutilizas" (psicología avanzada).
+####006znotillas temp.txt  ####El caos que vemos fuera es por nuestro caos interno. Intención NO es suficiente sin compromiso, esfuerzo y modestia (simplificar el día a día, con prioridades y límites).
+#### Temporada de eclipses (alianzas que "caducan"). 18 Septiembre, eclipse en Piscis (hacia propósito de vida). 2 Octubre (en Libra): equilibrio interior antes de compartir. Tu alma tiene el mapa de tu futuro, hazle caso.
+##Llena 18:
+- Conexión universal / álmica. NO pidas detalles, el alma te guía.
+* Servir sin ser servil. Encontrar sentido de vida más profundo.
+- Ilusiones (de 12 años) pinchadas (estarás melancólico...) a limpiar:
+* Dejamos de evadirnos (alcohol...). Ratos de soledad y silencio (horribles para "el clan" / el ego, buenos para el alma).
+* Relacionarnos desde el amor propio REAL (NO el miedo). NO eres tu grupo.
+##22 Septiembre, relaciones más sabias (sensación de cambio, y en pocos días, relaciones que comulguen con nuestros valores; a más valores / mejor persona, menos relaciones posibles). Evaluación realista, y mejora (compasión, NO pena, quererme para querer y pasar del necio, NO ser individualista). Grado 29, crisis: para concluir...
+##2 Octubre 2.024, eclipse (nos responsabilizaremos de lo que sentimos, y decidiremos, sin delegar / obedecer):
+- Relaciones que NO puedan salvarse, las terminarás, o terminarán drásticamente: falsas, abusivas, restaenergía o sumamelancolía.
+- Nos relacionaremos con quien queramos (sin prejuicios familiares...), y NO por imagen. Y pondremos los límites claros (aunque le duela al inconsciente).
+####Te recuerdo que machos alfa, psicópatas integrados y TPLs (constelación agresiva) suelen ser lo mismo, ¡una calamidad machista, y poco más!
+####Historia Interminable. La peli (con comienzo celestial) indica la vieja lucha entre beres (raza blanca, buenos, y gigantescos, de ellos vengo) y paios (raza naranja, maldad "biológica"; también vengo de ellos: estos cabezudos obligaron a la mezcla; y algo de negro tendré posiblemente: las 3 razas raíz puras). K (paios), Koreander: los paios tienen el poder ahora (libros de hermetismo...). Bastian vive con su padre (paios, patriarcado; los paios mandan hoy, pero se hacen pasar por feministas, y NO lo son, quieren mujeres hombrunas, y gente robótica). EsteBAN (los ban son bere) habría sido un nombre más apropiado que Bastian. Lo que digo ofende, claro, porque choca con lo que te contaron. Pero tengo muchas razones para pensar así.
+####ES MUY IMPORTANTE CALCULAR LA MISIÓN DE VIDA PARA ELEGIR BIEN EN LA VIDA (NODO NORTE, TZOLKIN MAYA, DISEâ€˜O HUMANO, NOMBRERÓSCOPO...). ¡ACIERTAN °Å¸â„¢â€š !
+####Los cambios son a mejor, pero si te resistes... malo.
+####TAL PARECE QUE LAS DIRECTRICES PARA SANARNOS... SEAN PARA TODO LO CONTRARIO. LITROS DE AGUA EMBOTELLADA SIN MINERALES NI ELECTRÓLITOS, FUERA LA SAL Y LA GRASA... ¡SENTENCIA DE MUERTE, SI TE QUITAN LA SAL Y... Pa terminar, ¡los síntomas son sobre todo de fase de curación (el paradigma médico correcto es el de NMGHamer)! Deja de quejarte y autocúrate con Hamer, buceando en tu psique (que es lo que hay que hacer), deja de delegar, que habrá un médico que se entere de cada diez. Toda enfermedad ( = algo permanente, que NO depende de los hábitos saludables, como todo cáncer) tiene causa psicológica.
+####Piel:
+- Prurito histamina alergias. Lidocaína:
+- Picaduras: culpa por cosas pequeñas. Mordeduras: cólera o creer mereces castigo.
+- Sanación emocional, impotencia, miedo y angustia, sensación de amenaza, ¿conflicto de repugnancia oculto o de la infancia? En fin, andemos por la vida "más panchos", sin prevenir tanto. ¿Y si durante el sueño luché con entes oscuros (poco probable)? NO debo obsesionarme / emparanoiarme con mi piel / skin, por mucho que me haya "dañado". Obsesión llama a obsesión, y afectará a la piel.
+####2024 09 30. Dado que mis hermanos optan por la vía médica (cuando lo alternativo lo sana / cura todo si sabes elegir) con mi padre, y resulta que lo enfermaron (uno, por querer mandar en él, y los 2, por meterlo en una demanda por "el suelo de la cocina", a sus años), poco puedo hacer, sólo ver cómo los médicos españoles (totalmente desacreditados por aplicar protocolos asesinos para NO ser despedidos), lo "tratan", sin saber que las causas son psicológicas (salvo en la falta de hierro quizás / necesidad de quelación / tensión baja... ¿La anemia NO tiene causa psicológica NO?). ¿Ser "bueno" / obediente y silencioso con todos, pero NO "ir de marcha" / compartir "ocio" con ninguno de los 3? Para mi familia soy basura conspi sin ideas útiles (mi padre se negó a comer ajos, y cualquier cosa que le sugería, y a pesar de sentirse mejor por beber agua del grifo, podría volver a la embotellada, porque según él, yo estoy para ser cuidado, NO para cuidar, y lo que le dije de la embotellada son pamplinas. Y va a ir un montón de días al dentista; a ver si NO le llenan de grafeno). La cosa es aceptar. ¿NO está llena España de crédulos que enferman? Pues en mi casa, también. Los NO conspis... ya han hecho suficiente daño, opinando sin saber. Mi padre NO tiene problemas para citas cada pocos días en el hospital, citas en las que le meten en tubos, y le dañan su cuerpo poco a poco, sumando daño. Lo he intentao con mi padre, NO puedo más, y piensa que No me siento mal. Surfear con felicidad la incertidumbre; pase lo que pase, tengo alternativas.
+####Mieres (Asturias), España
+- Signo Solar: Escorpio. Signo Lunar: Escorpio (habilidades escorpianas). Ascendente: Cáncer (misión).
+- Fuego 18.18% Tierra 9.09% Aire 4.55% Agua 68.18%. Soy puro agua (emociones, intuición...). 
+- Cardinal 27.27% Fijo 31.82% Mutable 40.91%. Mutable, ¿doy alternativas?
+- Positiva 20, negativa 80. 80% femenino / pasivo, ¿respondedor?
+- 2, 10, 2, 3 (cuadrantes). 10 para el cuadrante dependiente y privado.
+- Planetas (veréis que poco sé de Astrología: algo, sí):
+* Sol Escorpio casa 5. 5 es la casa de Leo (del brillo genuino). ¿Brillo con las cualidades de Escorpio siempre (Sol)?
+* Luna Escorpio 5. LE: muy intuitivo, capaz de leer personas y situaciones asombrosamente bien. ¿Brillo leyendo elevadamente?
+* Mercurio Sagi 5. ¿Uso el conocimiento con sentido (Sagi)? ¿Y brillo haciéndolo?
+* Venus Sagi 6. ¿Uso la compañía, belleza... con un sentido. Como rutina (6)?
+* Marte Cancer 1. ¿Empiezo relaciones de forma espontánea (1)?
+* Júpiter Géminis 12. ¿Expando el conocimiento espiritual (12)? 
+* Saturno Piscis 9. ¿Diluyo las ilusiones con sentido?
+* Urano Tauro 11. ¿Proyectos sociales que duran y se consolidan en grupos (11)?
+* Neptuno Piscis 10. ¿Mucha espiritualidad en el trabajo?
+* Plutón Capri 7. ¿Desvelar el [inhumano] poder que hay en las relaciones?
+- Casas (sería un Astrólogo horrible, al menos a finales de año):
+* 1 Cancer grado 15. Ascendente Cancer.
+* 2 Leo 4. ¿Ganancias vienen por brillar?
+* 3 Leo 25. ¿Conocimiento para brillar?
+* 4 Virgo 23. ¿Relaciones familiares en orden?
+* 5 Libra 29. ¿Brillo en las relaciones?
+* 6 Sagi 10. ¿Ordeno con sentido?
+* 7 Capri 15. ¿Relaciones responsables?
+* 8 Acuario 4. ¿Bucear en mis relaciones sociales?
+* 9 Acuario 25. ¿Explorar lo social?
+* 10 Piscis 23. ¿Trabajar en lo espiritual?
+* 11 Aries 29. ¿Ser pionero en grupos / estructuras sociales?
+* 12 Géminis 10. ¿Conocimiento espiritual?
+####temp01.
+- Los psicópatas actúan como padres potectores (y así actúan los políticos), ¡NO delegues, cambia por dentro, hártate de estar estancado aunque haya miedo previo, y puedes después pedir ayuda a expertos en Psicología REAL!
+- La tele muestra "la perfección" (o gente habilidosa y poco avanzada realmente...), y eso puede afectar a la autoestima de la gente, hacer que tomes caminos equivocados.
+- Para ser un perfecto incivilizado, llama locos o tontos a los conspiranoicos.
+- Un defecto puede "poner la nota", y puedes amarlo.
+- PET SHOP BOYS, IT'S A SIN: Ser un poco homosexual (como todo alma muy avanzada, que ha vivido muchas vidas de hombre y mujer) o mucho, NO es pecar (ARREGLA TUS PECADOS ANTES DE CRITICAR SIN SABER). La vida es femenino erotismo. Los "machos secos", ¡es pa darles!
+- La Iglesia son paios (aunque algunos curas protegieron bien a la población), y los paios jefes decidieron cambiarlos por el fútbol espectáculo, la ideología woke...
+- Los anuncios de bizcochos esponjosos, NO deberían protagonizarlos voces agradables, sino voces de ultratumba que te animan a echar tu salud por la borda (y tu vida, porque sin dientes...). Tienen mucho de psicópata integrado.
+- ¿El éxito en el siglo XX corresponde a mentes detallistas vs abstractas, rápidas en vez de profundas, de sentidos en vez de intuitivas, que miraban para fuera y NO se abstraían del entorno, sin memoria selectiva y con gran entusiasmo por cosas que NO son de sabio? ¿Para niños en el mal sentido? ¿Tienen las mejores almas (abstractas, resumidoras, quieren poca información...) motivos para "meter la cabeza en un hoyo"? ¡Pues claro! Pero NO sintamos la amenaza de "la persona siglo XX", que eso da miopía.
+- Si mi padre NO me hazce caso ni a mí ("come ajos") ni a su hermana Isabel, no insistiré, NO está para "pasar la prueba" y debo estar tranquilo con su destino (NO "manipularlo"). ¿Y si reacciono como él ante inconscientes? ¡NO me aturdas! Y añadiría: NO os preocupéis por mí, si la muerte se acerca o un conocido "se va", lo aceptaré, pero estar sin necesitarlo en el momento con "adaptados" que han perdido su esencia...
+- Si te miran mal en una tienda por NO tener un pelo muy bien peinado (es Verano, vienes de la playa...), ¡lleva hippies a esa tienda! Es una prueba para gente [mala / con mucho que desreprimir]. Pero es una pobre persona que debería preguntarse por qué es "pija". 
+- Ovalismo:
+* ¿Qué pasa si algunos cargos públicos (fiscales...) tienen relación con una perversa logia (poderosa masonería...)? Dicen que NO tiene nada de malo ser masón, ¡y tampoco asesinar como Bolívar je je! En una sala masónica NO hay ventanas (total secreto, malo, evidentemente). Abiertos los templos para vacunar, ¿y para los pobres?
+* Si la tele lanza un programa contra los conspis, ¡es que nos temen! Estamos abajo, pero con la verdad. ¿Es para que la gente vea que si piensas diferente te persiguen? Decirle al moderador del programa: cada frase que dices es manipuladora: vuelve a decirla, y que el público... Cuestionar cualquier cosa impuesta para controlar (nadie ha demostrado lo del teólogo Darwin, que les venía bien a los poderosos: "soy obispo porque soy de los más fuertes, NO de los más malos"), es "conspiranoico" (te insultan). ¡Dicen que los conspis estamos superfinanciados je je! Sólo con esa frase ya son ridículos.
+* Más medicamentos para el colesterol... Menos mielina, más alzheimer. Ponen el mercurio en las vacunas porque es diurético je je.
+* Decir que con 21 grados tienes una noche tropical, ¡es querer meter miedo (y el miedo es psicosomático)!
+- Ahora entiendo que quien me decía con una sonrisa con temple (cara de póquer o silencio) que tenía que hacer (o pensar o lucir) lo mismo que él / ella... se sentía superior, y a la vez era psicológicamente débil / peligroso / "tonto": el diablo currante (algún primo / a, dependienta bajita lucir / yo llevaba superbrecha en la frente..., dependienta bar pensar. ¿Y quien te habla "horas" con sonrisa para aconsejarte que seas igual sin saber cómo eres por dentro, lo que atraviesas, o lo que has descubierto? Solución: "combatirlos", nunca complacerlos / copiar. ¿Baja inteligencia emocional / integral? Evidentemente. ¿Por qué NO se limitan a describir psique y sociedad, y dar ejemplo alejado del siglo XX?
+- Quim. Gran Cañón, sensación (inter)dimensional. ¿Ciudad "egipcia" y un poco "nórdica" accedidas por "puertas"? Cargar objetos perdidos allí (de otra persona), trajo desgracias. Historia de 7 monjes españoles (fundaron la ciudad "mágica" de Cíbola, ¿incluso antes de "Colón", que sabía que iba a América y la historia de los monjes?).
+- Más:
+* NO sabemos de la organización vasca (los fueros...) porque es demasiado civilizada (sería un peligro que se supiese, los malotes ya no mandarían).
+* ¿Y el PP de repente busca proteger mucho a Begoña?
+* Y un casero obliga a pagar "el seguro de impago" al inquilino, ¡cómo se aprovechan estos materialistas infelices malísimos!
+- Zeballos (Cristian). El crecimiento personal (que define tu bondad) NO se mide por lo que logras, sino por lo que superas. Y si los logros NO te contentan, puedes NO estar conectado con un propósito claro / determinado (¿qué incluya desafíos / psique NO preparada?): los obstáculos pierden sentido (en vez de tener un significado, apreciando el camino, que es lo importante).
+* El propósito motiva (es un faro), y buscas escenarios sociales... en vez de huir. Y terminas más fuerte (y feliz con poco; sin NO eres feliz con poco, en fin, ¿qué has estado haciendo, si lo que se lleva nuestro alma es lo que superamos, NO lo que hacemos?). Tu propósito debe alinearse con tu esencia (¿qué te mueve?); establece metas a corto y largo plazo; ajusta tu propósito con el tiempo; y agradece (eso te "anclará" al proceso).
+* Mirar hacia dentro, cuetionar creencias, aprender habilidades (sociales, autoconfianza, algunas habilidades materiales...).
+* YO: cuando desreprimes / te vuelves bondadoso (fuerte), la cara es más serena, menos enfermizamente risueña o "activa". Ojo, los psicópatas llevan máscara.
+####temp02:
+- Cambiar los "fracasos" del pasado por éxitos, ¡se puede! Nos movemos (dejamos la rueda de hámster) cuando cambiamos el interior. Y así mejora la sociedad (No atrae "castigos"). Lo temido debe ser lo conocido que NO te gusta de ti.
+- A ver si pronto se cambia de tarifa (más Gigas). ¿Gasto bytes para que vengan más (racanear NO es muy "de Cristian")? Agradezco estos bytes tan bonitos.
+- Gracia: mi caja fuerte acabó totalmente echada a perder, la próxima vez NO la meto en el hueco de una muela. Dicho de otra forma... tendría gracia.
+- "Tasa baja de vacunación" se atreven a decir los medios / las élites, ¡la gente se ha dao cuenta del fraude / las intenciones perversas, las vacunas enferman! Los grupos de riesgo son los que quieren las élites que mueran (ancianos = "lastre" para ellas).
+- ¡Permiso para ayudar a la gente y enseñar a sumar! La gente pro permisos, ¡vergüenza, sobráis casi todos los de los permisos / los oficiales!
+- Los demócratas, temerosos de que Trump gane, porque se descubriría su pedofilia... En España Sánchez NO tiene ese problema: Conde Pumpido (la mejor lejía) borra su corrupción anterior.
+- El representante de distrito, que sea conspi, que ría con Chicho Terremoto je je...
+- NO se vacuna a los que vienen de África. ¿La vacuna es para debilitar deliberadamente y los inmigrantes son queridos por las élites para crear caos?
+- Gonzalo:
+* Tercio bajo de la cara (tallo cerebral; primitivismo): dinero, sexualidad... ¿La parte de la nariz es para las relaciones? ¿Con tabique nasal corto y ancho (yo pienso en uno más ancho en el centro vertical) estudiaremos si hay narcisismo agudo? La nariz pica por estrés (NO necesariamente por mentir).
+* Al modificar la cara (bótox) se modifica el cerebro (te sientes mejor).
+* Los pies NO mienten (la cara sí): puedes decir "¡qué bien que viene él!" y girar cara y pies hacia la puerta de salida (realmente, NO te gusta la visita). Los pies se abren para luchar.
+* Tragar saliva es tragar emoción.
+- Misiones de Chávez: al final, administradas por militares o caraduras que mandan hoy.
+- Los compañeros NO son la clase obrera, son los que miran dentro y NO exigen que seas como ellos (cada uno, su misión...). Tienen crrencias propias: razonamiento, intuición... Aguantan la verdad (si choca con sus creencias) y NO creen Telediarios.
+- Más de psicopatia / narcisismo:
+* ¿Armas de psicópata? Ojos vidriosos (2 fases activas de enfermedad a la vez, o más) y pupilas dilatadas (se vuelven minúsculas, ¿al tomar algo?).
+* ¿Quien NO se resfría NO mira dentro (peligro: NARCISISMO / TOZUDEZ de creencias)? La gripe es "la cura psicológica" (algo ha cambiao dentro...), algo emocional... Recuerda: los narcis pueden simularla.
