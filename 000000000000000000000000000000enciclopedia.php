@@ -1,3 +1,5 @@
+LAS IMÁGENES ESTÁN EN MI FACE (LUIS MATEOS ARMADA): ÁLBUM "IMÁGENES DE ARTÍCULO".
+
 <?php
  if (!isset ($_GET["estado"])) 
  {
@@ -11318,3 +11320,4 @@ A tu fiel cerdo con collar
 - Más de psicopatia / narcisismo:
 * ¿Armas de psicópata? Ojos vidriosos (2 fases activas de enfermedad a la vez, o más) y pupilas dilatadas (se vuelven minúsculas, ¿al tomar algo?).
 * ¿Quien NO se resfría NO mira dentro (peligro: NARCISISMO / TOZUDEZ de creencias)? La gripe es "la cura psicológica" (algo ha cambiao dentro...), algo emocional... Recuerda: los narcis pueden simularla.
+- energía Quim, esfera de Las Vegas, ¡más inmersivo que cuando de niño entré en el Corte Inglés (Oviedo, cuidao, ciudad elegante)! Pero sin piedras alrededor pa calmar lo electromagnético externo. Cóncavo, te pueden colar mensaje subliminales.
