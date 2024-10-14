@@ -1,4 +1,5 @@
 LAS IMÁGENES ESTÁN EN MI FACE (LUIS MATEOS ARMADA): ÁLBUM "IMÁGENES DE ARTÍCULO".
+AL FINAL LOS NOMBRES DE LAS IMÁGENES DE MI FACEBOOK Y UN TEXTO UN TANTO EXTRAÑO
 
 <?php
  if (!isset ($_GET["estado"])) 
@@ -11326,3 +11327,129 @@ A tu fiel cerdo con collar
 ####temp03:
 - Sin preocupación por los cambios, la longitud de tu vida je je, ni necesidad de ser útil. Sin miedo a fallar, sin querer complacer (sí el bien en general), sin ver amenazas sino oportunidades (de Psicología para ser más fuerte...).
 - Médica / enfermera me dice (tras decirle yo que NO quiero volver por la consulta del neumólogo, que estoy bien): "ya NO tienes asma por ponerte la mascarilla": NO es un facultativo, es un mix Drácula / Hombre lobo: en la Universidad enseñan a NO pensar / cuestionar.
+- Edwin Collins (...Girl like you Before) de jovencito (Rip it up). Estos son los científicos (salen como en una nave) que admiro: los músicos de los ochenta. El científico, con un poco de asperger y aprovechamiento de su inteligencia integral, ¡viaja en el tiempo a placer! Pero estos temas... tienen mérito.
+- La salud es cuestión de inteligencia REAL / integral (NO de rapidez, memoria casi perfecta / poco selectiva... Cosas de tontos). Es cuestión de poder cambiar las creencias... para curar (toda enfermedad es psicológica, ya se sabe, y la Universidad frena / atonta, a las almas avanzadas, que suelen enfermar más, pasan más pruebas). En 2 o 3 años, quien NO haya curado algo psicológicamente (la obesidad es emocional, la gula es NO querer hacer frente a la psicología, y tener miedo a perder cosas y acumular engorda), ¡será para alejarse de él! NO se enteró del doctor Hamer (NMG, Nueva Medicina Germánica). Los más preparados para curar y aconsejar son los Escorpio (son profundos, complejos, intuitivos...), ¿y los menos? ¡Los médicos je je!
+- Ovalismo
+* Para abrirse: muchos NO hablan de paios y bere (parte de la conspiración avanzada, y BÁSICO; explicadme las "satánicas" pelis de Pixar sin esa teoría; fundamental explicar películas, gran carencia de los programas).
+* Broncano: NO importa que mi programa sea infantil, quiero que haga risas. ¡Lo hace pa gente basura, y eso considera a sus seguidores!
+* ¿Y si boicoteamos los lugares de vacatontociones? Las mejores vacaciones son en casa. Sin vaciones, nos rebelaríamos.
+- Si toses un poquitín a alguien que ha resuelto buena parte de su psicología... equivocación.
+000same NO estás siendo tolerante y progresista estás siendo conquistado por hombres fuertes de fuera Mujeres y niños emigarn mucho menos NO olvidar vacunas autismo
+00aIMPORTANTE rostros de criminales cazados Aclaraci¢n Trump me gusta algo.JPG
+00aIMPORTANTE Tzolkin maya verde asuntos internos creo.JPG
+00bPSICOLOGÖA Comida balanceada yin yang.JPG
+00bPSICOLOGÖA Dientes informan.jpg
+00bPSICOLOGÖA Grafoterapia m s.JPG
+00bPSICOLOGÖA Grafoterapia01.JPG
+00bPSICOLOGÖA Grafoterapia02.JPG
+00bPSICOLOGÖA Grafoterapia03.JPG
+00bPSICOLOGÖA Grafoterapia04.JPG
+00bPSICOLOGÖA Grafoterapia05.JPG
+00bPSICOLOGÖA LeoenPhi µrbol Navidad.jpg
+00bPSICOLOGÖA Los 4 temperamentos e iridiolog¡a.JPG
+00bPSICOLOGÖA Valdeande letras hebreas.jpg
+00cHISTORIA Faul McArtney.jpg
+00cHISTORIA videoclips qu‚ me cuentan.jpg
+00cHISTORIA v¡deosYoutube  Aclaraci¢n Trump me gusta algo.JPG
+00dTCNICAS agua.jpg
+01PERSONAL Bastian y Fujur VAMOS ALLµ GENTE BERE.jpg
+01PERSONAL fin caso Pablo Al vomitar lo acepto como es Acosa suavemente para autoreafirmarse por debilidad mental supervivencia Si crees que es majo eres él.JPG
+01PERSONAL habitaci¢n tocAntigua01 NO DECORAS PARA BELLEZA DECORAS POR UN TRASTORNO DE HARMONÖA RARO que te aborbe el tiempo y la vida.JPG
+01PERSONAL habitaci¢n tocAntigua02 NO DECORAS PARA BELLEZA DECORAS POR UN TRASTORNO DE HARMONÖA RARO que te aborbe el tiempo y la vida.JPG
+01PERSONAL Historia m¡tica entre el mal PAtriarcado Grecia hace milenios y el bien relativo Escandinavia.jpg
+01PERSONAL Regalo de Isabel EDP Budismo.jpg
+01PERSONAL VIDEOJUEGOS01.jpg
+01PERSONAL VIDEOJUEGOS02.jpg
+01PERSONAL VIDEOJUEGOS03.jpg
+01PERSONAL vistascintas01.JPG
+01PERSONAL vistascintas02.JPG
+actualidad candente Exp Royuela desde 1978 asesinadas m s de 2200 personas molestas entre comillas.jpg
+actualidad candente Exp Royuela el PSOE tiene un pasado oscur¡simo para desmayarse.jpg
+AMENAZA Brad Pitt pagando el precio de pactar con el Diablo Famosos ‚lites y tratos oscuros.jpg
+amenaza citas sin analizar.jpg
+amenaza cuando acaba el Coronavirus.jpg
+AMENAZA de lo m s sat nico de la Historia.jpg
+amenaza debates entre ignorantes provocados.jpg
+amenaza el 5G malvadamente utilizado es muy peligroso y cancer¡geno.jpg
+amenaza el cascabel pobres gatos y a los psic¢patas ruidones.jpg
+amenaza el discurso que nos enga¤a siempre.jpg
+AMENAZA el malo se sirve de inventarse enemigos.jpg
+amenaza el marxismo es adoctrinamiento.jpg
+AMENAZA EL PELIGRO DE ESPECIALIZARSE.jpg
+amenaza el psic¢pata que m s te ha torturao psicol¢gicamente.jpg
+amenaza el silencio corrompe la verdad pero hay perfeccionismo y miedo a incomprensivos.jpg
+amenaza frikitecnol¢gicos son un poco ni¤os NO todo es serio £til esencial en el mundo cient¡ficotecnol¢gico.JPG
+amenaza generaci¢n actual mujeres problemas.jpg
+amenaza habla por s¡ solo.jpg
+amenaza las ‚lites nos dicen de reducir la poblaci¢n y tambi‚n nos proporcionan la vacuna.jpg
+amenaza Libia antes y despu‚s.jpg
+amenaza me dan infartos por el cambio clim tico.jpg
+amenaza moderno m s sucio y mareante m s feo.jpg.JPG
+amenaza muchas horas de clase peligro para nuestra inteligencia.jpg
+amenaza Pasteur con las ‚lites NO independiente.jpg
+amenaza se entiende mejor as¡ lo de las vacunas.jpg
+amenaza yo deduzco muchas cosas.JPG
+renacer camiseta.JPG
+renacer coches mediados 80 no ten¡an afros traseros rid¡culos.jpg
+renacer como triunfar en la vida.jpg
+renacer cosas que me gustan.JPG
+renacer cr‚elos soy bueno y malo.jpg
+renacer diagrama importante.jpg
+renacer dibujando flores caminos y l¡neas.JPG
+renacer el miedo a la soledad explicado sin tonter¡as y para gente un poco sabia.jpg
+renacer escucha a tu intuici¢n aunque tengas represiones en el inconsciente.jpg
+renacer gimnasia racional Amadeo.jpg
+RENACER Gudjieff agradezca a quien le haga ver su negrura Incluye la lecci¢n de soportar cuando te dicen que NO eres igual a los dem s Lleva tiempo.jpg
+renacer informadores que NO se venden.jpg
+renacer Jap¢n pa¡s bere antipaio estaba con Nicol s II Biden es paio malo.jpg
+renacer karma t£ lastima a una persona m s consciente que t£ y.jpg
+renacer la verdad se encuentra en profudidades terror¡ficas.jpg
+renacer lo importante es la multidisciplinariedad del alma.jpg
+renacer los espa¤oles fueron un desastre como genocidas.jpg
+renacer los ni¤os son felices por naturaleza.jpg
+renacer mu‚strame tu oscuridad y vuelve cambiado.jpg
+renacer NO se porten como ni¤os perversos insensibles.jpg
+renacer n£meros para el dolor.jpg
+renacer ser libre.jpg
+renacer simboliza querer libertad antes que falsa seguridad paia.jpg
+renacer tarjeta navide¤a inteligente NO lo de siempre.jpg
+sal.txt
+salud enfermedades seg£n mes nacimiento.jpg
+salud si tu perro cojea pir mide Tambi‚n para electroAGRIcultura podr¡a ser creo.jpg
+same hemos vivido tantos enga¤os que ya los vemos como normales y seguimos adelante como aut¢matas.jpg
+same nos lo ponen delante de las narices como fantas¡a para que no pensemos que es verdad y de paso pagan menos karma por anunciarlo.jpg
+same qui‚nes son los sangrientos Que yo sepa Largo Caballero lo era.jpg
+sociolog¡a cuando todo cambie y a mejor sentir s vergenza de apoyar a.jpg
+sociolog¡a la tele no hablar  de la relativa bondad de Felipe II.jpg
+sociolog¡a l¡mites humanos para llegar a la verdad QUIEN ACEPTA OPINIONES DIFERENTES MEJOR ESTµ MµS CERCA DE LA VERDAD Es mejor persona La verdad m s importante es la brea del inconsciente.jpg
+sociolog¡a para comprenderlos primero su comportamiento.jpg
+sociolog¡a soy procoherencia no antivacunas.jpg
+ssalud posturasJulio Garc¡a 831.jpg
+superam lo que es gratis DEL ESTADO  monetariamente tiene un alto precio a la larga Que el tren sea gratis podr¡a dejarnos sin tren en el futuro ELLOS OFRECEN Cuidado.jpg
+superamenaza conocemos este virus a la perfecci¢n je je.jpg
+superamenaza Esta imagen terrible presupone que puede haber sexo con ni¤os Quien la hizo es ped¢filo Ya estamos otra vez en Babilonia con hordas de borregos aclamando los esperpentos morbosos tipo Eurovisi¢n.jpg
+superamenaza f¡jate en qu‚ nos han convertido En seres emocionales y confiados.jpg
+superamenaza gente muy pez Las ‚lites pueden quit rnoslo todo.jpg
+superamenaza la conquista DEFINITIVA del cerebro ajeno NI la Iglesia se acerc¢ a esto La pantalla SÖ.jpg
+superamenaza la vida desde un punto de vista peligrosamente inconsciente Con pueril entusiasmo digamos.jpg
+superamenaza las ‚lites nos culpan de muchas cosas.jpg
+superamenaza los sanitarios NO han aprendido nada tras 4 a¤os de manipulaciones covid Son almas poco avanzadas o algo as¡ Tienen bastante ego malo en cualquier caso por creer lo oficial.jpg
+superamenaza negacionista se usa como facha o ultraderecha.jpg
+superamenaza no pongas excusas Los poderosos nos quieren enfermos Ministra Agricultura 2017 dijo que la sequ¡a ven¡a para quedarse Es una gran vidente no sab¡a nada de planes lites crean efecto invernadero.jpg
+superamenaza Pregunta es casualidad NO.jpg
+superamenaza seamos honestos con la gente La barba no es para mejorar la imagen eso es narcisismo D‚jatela en todo caso si no te favorece Y ten en cuenta que mucha gente miente mucho m s con la barba que este actor.jpg
+superamenaza secta.jpg
+superamenaza S nchez Pedro resucit¢ el d¡a de San Pedro M rtir Si NO usa magia negra yo soy el Papa Y DESPERTAR DE VERDAD.jpg
+superamenaza una cosa es lo que parece.jpg
+superamenaza Ya veis ayudas por dejar de cultivar Quieren acabar con el campo para acabar con todos nosotros.jpg
+superamenaza ‚ste es el mercado de trabajo Fuera del castillo siervos extranjeros produciendo para nosotros hasta que LOS ESPÖRITUS ADCTRINADORES decidan cerrar el castillo para destruirlo desde dentro.jpg
+superrena m quina QPer2.jpg
+superrenacer Elchicotriste La Logia de los Diablos Cojuelos La tecnolog¡a es un caramelito Que sepas que todo caramelito es un veneno que prueba si eres d‚bil.jpg
+superrenacer lo ps¡quico crea lo material Deja de ver pel¡culas de simples tiros.jpg
+superrenacer Los grandes como Bowie.jpg
+supersalud constelaci¢n agresiva es t¡pico de hijos  deseados Identidad ning£n sitio es el suyo pregunta podr¡a fabricarse una personalidad de macho.jpg
+supersalud QuimPiquer RafaaSecas es otro.jpg
+supersocio m s claro el agua Paga en efectivo.jpg
+supersociolog¡a ambientalismo fake y real.jpg
+tec agri y eco no da¤as la ra¡z.jpg
+tec electrocultura.jpg
