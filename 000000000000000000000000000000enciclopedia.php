@@ -1,5 +1,6 @@
 LAS IMÁGENES ESTÁN EN MI FACE (LUIS MATEOS ARMADA): ÁLBUM "IMÁGENES DE ARTÍCULO".
 AL FINAL LOS NOMBRES DE LAS IMÁGENES DE MI FACEBOOK Y UN TEXTO UN TANTO EXTRAÑO
+Texto en mi Face (y algunas imágenes): álbum "Librito" (y lo nuevo está en la última imagen).
 
 <?php
  if (!isset ($_GET["estado"])) 
@@ -11334,6 +11335,9 @@ A tu fiel cerdo con collar
 * Broncano: NO importa que mi programa sea infantil, quiero que haga risas. ¡Lo hace pa gente basura, y eso considera a sus seguidores!
 * ¿Y si boicoteamos los lugares de vacatontociones? Las mejores vacaciones son en casa. Sin vaciones, nos rebelaríamos.
 - Si toses un poquitín a alguien que ha resuelto buena parte de su psicología... equivocación.
+- Sí, enfocarse sólo en el resultado, te priva te resolver problemas que repetirás (yo quería escribir esto, y lo quería escribir ya, y ahora estoy confiando y escribiendo lento, que es salud): Zeballos (Cristian).
+- Menos tele y más buen rollo. Y más Psicología, que es la base de todo al final. La causa (sentido) de lo emocional es la psique, y la causa de lo material es lo emocional.
+
 000same NO estás siendo tolerante y progresista estás siendo conquistado por hombres fuertes de fuera Mujeres y niños emigarn mucho menos NO olvidar vacunas autismo
 00aIMPORTANTE rostros de criminales cazados Aclaraci¢n Trump me gusta algo.JPG
 00aIMPORTANTE Tzolkin maya verde asuntos internos creo.JPG
