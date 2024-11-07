@@ -1,6 +1,33 @@
-LAS IMÁGENES ESTÁN EN MI FACE (LUIS MATEOS ARMADA): ÁLBUM "IMÁGENES DE ARTÍCULO".
-AL FINAL LOS NOMBRES DE LAS IMÁGENES DE MI FACEBOOK Y UN TEXTO UN TANTO EXTRAÑO
-Texto en mi Face (y algunas imágenes): álbum "Librito" (y lo nuevo está en la última imagen).
+#### https://github.com/luismateosarmada/ideesforanempatheticworld ####
+- LAS IMÁGENES ESTÁN EN MI FACE (LUIS MATEOS ARMADA): ÁLBUM "IMÁGENES DE ARTÍCULO".
+* Texto en mi Face también: álbum "Librito" (lo nuevo, en la última imagen).
+- AL FINAL LOS NOMBRES DE LAS IMÁGENES, EXPLICACIONES DE VÍDEOS QUE LA GENTE CREE QUE SON TONTOS, Y UN EJEMPLO DE CONSULTA EN EL .TXT.
+- AQUÍ, NOMBRES DE CAPÍTULOS Y DE IMÁGENES MÁS IMPORTANTES, SEGUIDOS DE UN .PHP (PASAR DE TEXTO A PÁGINA WEB).
+* ¡Y LUEGO YA VIENE EL TEXTO!
+
+Capítulos:
+- LO IMPORTANTE: misión vital y modelos de bondad y recreo / diversión.
+- Psicología para tener salud.
+- Sociología y sueños.
+- Historia y actualidad.
+- Anexos.
+
+IMÁGENES (en mi Face, Luis Mateos Armada):
+- Para importante:
+* Calendario de 260 días (Tzolkin maya).
+* Imagen con fotos de Trump (caras de delincuentes).
+- Para Psicología y salud:
+* Gráfica (como montaña) con comida balanceada Yin Yang (nombres de alimentos en verde, rojo...).
+* Dientes numerados.
+* Runas (Árbol Navidad LeoenPhi).
+* Letras hebreas.
+* Un ojo abajo a la izquierda (temperamentos e iridiología).
+* Grafoterapia: 5 fotos (sacadas con cámara) + ciertas letras con puntos unidos (l, p, g...).
+- Para Historia:
+* Vídeos de Youtube (científico y Trump).
+* Videoclips: ordenador sonriente y batablancas.
+* Faul McArtney.
+- Para Técnicas: paso de agua con 2 postes y "bomba de agua" (subir agua).
 
 <?php
  if (!isset ($_GET["estado"])) 
@@ -149,6 +176,8 @@ function Tema_anexos()
 <?php
 }
 ?>
+
+#### CÓMO SE PASA EL TEXTO A .PHP (AÑADIENDO SALTOS DE LÍNEA).
 </BR>
 </BR>
 </BR>principal.txt:
@@ -166,29 +195,7 @@ function Tema_anexos()
 </BR>
 </BR>
 
-Capítulos:
-- LO IMPORTANTE: misión vital y modelos de bondad y recreo / diversión.
-- Psicología para tener salud.
-- Sociología y sueños.
-- Historia y actualidad.
-- Anexos.
-
-IMÁGENES (en mi Face, Luis Mateos Armada):
-- Para importante:
-* Calendario de 260 días (Tzolkin maya).
-* Imagen con fotos de Trump (caras de delincuentes).
-- Para Psicología y salud:
-* Gráfica (como montaña) con comida balanceada Yin Yang (nombres de alimentos en verde, rojo...).
-* Dientes numerados.
-* Runas (Árbol Navidad LeoenPhi).
-* Letras hebreas.
-* Un ojo abajo a la izquierda (temperamentos e iridiología).
-* Grafoterapia: 5 fotos (sacadas con cámara) + ciertas letras con puntos unidos (l, p, g...).
-- Para Historia:
-* Vídeos de Youtube (científico y Trump).
-* Videoclips: ordenador sonriente y batablancas.
-* Faul McArtney.
-- Para Técnicas: paso de agua con 2 postes y "bomba de agua" (subir agua).
+####AQUÍ, EMPIEZA EL TEXTO SIN MÁS. ####
 
 ####00101importante.txt  Antes de hablar sobre cómo se calcula tu misión de vida, bondad (pecados, tipos de alma / inteligencia y el hombre sigma), y arte inteligente (música y videojuegos). Sin olvidar el mal (iría al final).
 ####BONDAD:
@@ -11469,6 +11476,52 @@ A tu fiel cerdo con collar
 - NO ES SÓLO EL GOBIERNO, ES TODA ESTA MANADA DE DELINCUENTES ELEGIDOS COMO POLÍTICOS PORQUE SABEN CALLAR (LES CONVIENE), Y LAS ÉLITES INTERNACIONALES QUE LOS DOMINAN Y RECOMPENSAN.
 - ¿Qué habrá (actividad) que me mueva y para la que tenga talento? ¿Acompañar a mi padre (que está relativamente fuerte) a comprar y en casa (ya lo hago), con "Psicología budista" (medios hábiles: mostrar en vez de intentar convencer...)? ¿Algo de programación (comprar libro...)? ¿Plantar semillas haciendo pública la alimentación?
 - Y sí, soy un poco monárquico, aunque los borbones anden en escándalos. Sánchez es psicópata, NO soy nada sanchista. Tiempo al tiempo. ¿Toy yo equivocao? Pues lo toy, pero al menos dudo, que nadie me insulte, que dudo.
+####Temp12:
+- Término "científico": acuñado en siglo 19, con dominio de los paios satánicos. Prefiero "verdad" / berdad, sabiduría.
+- Muchos valencianos, que lo han perdido todo, y se han enfrentado a Sánchez, que huyó (los Reyes NO huyeron), ¿dan claves para echar al malote? IustitiaEuropa ha hecho mucho ya. ¿NO deberíamos "adoptar" valencianos?
+* Marlaska expulsó a la guardia civil, voluntarios, trabajadores duros! Sánchez NO convoca consejo de ministros, porque entonces la patata caliente sería de Sánchez, NO de Valencia (y Sánchez quiere que el PP de Valencia se hunda, con Valencia).
+* Ribera (ministra) quitó 3 veces la alerta de desbordamiento, NO se deja ver a los muertos, el número de muertos... Es un nuevo 11M, que favoreció a Zapatero. El PSOE son comunistas (cosa ancestral paia), y traen la muerte, por tanto (NO busques alma). Y así, NO se habla de la familia "Sánchez". Por eso mata Sánchez multitudinariamente. La obra de Franco (que tenía detrás algunos malotes, él NO era lo peor) salvó Valencia.
+- Epílogo vecinal (mis vecinos NO son perfectos, pero los del primero, exceptuando a Chiruca, que está junto a una mujer que "quiere el rol de macho", lo cual mata relativamente rápido... son "increíbles"):
+* ¿El teatro (victimización tosiendo ella artificialmente en el portal y NO en casa, aunque allí se fumen porros para poder salir él a la calle; ella NO está tan enferma como dice, está vivísima a veces) ES LO QUE UNE A LOS DE ABAJO? Tienen / tenían muy engañada a MOliva ("Pabla", por poner a su sobrino en un pedestal, aunque sea un acosador silencioso, cuyos amigos son bastante ignorantes psicológicamente hablando, ¿dominables?).
+- Tecnología sí, pero NO mucha hasta terminar con el malo, y de forma comedida. LA IMPOTENCIA DEL PROGRESO. La tecnología lleva 250 años prometiendo una vida feliz que NO llega. ¡Y en el siglo 18, sí se era feliz, y la gente rural se ayudaba entre ellos! Los pastores sabían de meteorología, acertaban más. Ahora delegamos (delegar es un crimen, la mitad de los universitarios son ignorantes creídos; fíjate en los de la Escuela, LGTBI, la Sanidad que mata por exceso de medicamentos y NO saber cuál es el paradigma médico real psicológico... Juegan a ser Dios y deberían llorar por su ineficacia y ser innecesarios y peligrosos). La Universidad creó pobreza (ecolojetas sin sabiduría popular decidiendo y prohibiendo lo de siempre, que nos hacía sobrevivir y ser autónomos...), lo afirmo. ¡Si viven mucho mejor los amish, que NO lo pierden todo! Yo NO quiero ordenador más de media hora al día si puedo tener cosas sabias impresas o a boli...
+- Bombero espera por permiso para salvar personas, porque hay burocracia, que duerme la iniciativa (miedo por NO tener permiso...). Un poli apuntó con una pistola a alguien que traía alimentos para la gente y NO tenía permiso.
+* La tele miente: camiones frigoríficos escoltados saliendo de un centro comercial.
+* PSOE (egoístas), papel fotografiado (de una ministra): "éste es nuestro momento, cambio / dogma climático". ¿Nos quieren matar diciendo que es el clima?
+* Nada de organizaciones (cuidao con Cruz Roja sí...), dádselo directamente a la gente, para que llegue. ¿Qué malote está al mando / organiza?
+- Cristian. La naturaleza enseña a respetar los tiempos de crecimiento, muerte y renacimiento. ¿Qué parte de ella "NO honras" (debes soltar...)? Primavera (ideas y esperanza, ¿escribir?), Verano (crecen los frutos, ¿emoción?), Otoño (cosecha de frutos y reflexión, soltando lo que NO sirve, ¿introspección?), Invierno (descanso y más introspección...). Al haber conexión (si NO, hay vacío), la sabiduría ancestral "llega". NO busques soluciones rápidas, lejos del proceso natural vital. Conexión con la Naturaleza: pasar tiempo al aire libre, caminar descalzo sobre hierba, tocar la tierra con las manos. Gratitud: agradecer a la tierra por lo que nos da (expresar gratitud antes de comer o realizar una pequeña ceremonia en la que devolvemos algo a la naturaleza, como agua o semillas). Escucha y Observación: observa cómo cambian las estaciones y te afectan emocional y físicamente. Aprende de los momentos de silencio y de la manera en que la tierra se regenera después de una tormenta. Práctica del Retorno: haz de la introspección un hábito. Pregúntate en qué fase estás
+####Temp12bis Locosexplicados:
+####Explicaciones locuras01 (vídeos NO tontos). Para empezar, la locura leve o creativa, el desahogo... previenen de la auténtica locura; la de las formas, la del "buen ciudadano" o "buen hijo"; personas atadas a las normas sociales o a la familia, sin haber quitado las represiones, que nos convierten en narcisistas.:
+- Franco (el dictador) ilumina mi corazón. Hay 2 clases de fans de Franco, los derechosos (ojo, yo más bien soy de derechas, pero sí que hay gente de derechas bastante cerrada, demasiado ambiciosa, "negrera"...), que me suelen gustar más que los izquierdosos todo sea dicho... y la gente que realmente es conspi y avanzada.
+* El malo aquí, se llama Largo Caballero, el amigo de la sangre. Franco iba con la derecha, pero quizás era algo más, alguien con protección angelical. ¿Fue un pacto entre izquierda y derecha su mandato de 40 años? Ahí, persiguiendo homosexuales (eso parece de derechas), y también atontando a la gente con "regalos monetarios" (eso es más bien de izquierdas, hacer a la gente dependiente). Bueno, por lo menos, había trabajo (lo de las vacaciones no lo veo yo muy bien, es apijar al personal), hasta que la izquierdosa UE, desindustrializó sin parar (la izquierda fue resucitada por la derecha, pues la derecha es sólo un camino al control de los paios judeosatánicos; y ojo, que lo "hebreo" enseña muchas cosas buenas, pero me parece que se quedó en Palestina, y en pocos más lugares).
+- The boy is a men je je (man). El poderío creativo de Libra (mi hermano mayor). Y mi crítica: los jóvenes no son hombres, están llenos de prepotencia e ignorancia, tienen que empezar a desreprimir. Quien vive rápido, difícilmente se hace persona.
+- La de Envenená y la del bigotín, son más bien gracias.
+- Voy buscando mi amooorrr: pobres gitanas, casi obligadas a parir jóvenes. Pobres gitanos de España, obligados casi a ser pícaros. De raza paia, por cierto, aunque nos llamen paios a los blancos de España. "Caló" (su lengua) me suena mucho a "lotero", y a la judía (judíos malos) Diosa Kali.
+- Lo de "voy matate" es una gracia: la luz azul significa "entes peligrosos incorpóreos", ¡que luego se ponen a hablar en Asturiano de casa je je!
+- Voy a beber agua es otra gracia.
+- El hombre y la silla (El Hombre y la Tierra, el programa de Félix Rodríguez de la Fuente), es una crítica a la gente activa que cree que todos somos iguales. Cuantas más represiones no solucionadas, más actividad. Cuanta menos inteligencia femenina, más actividad.
+####02:
+- Pacto Mortal: cuando 2 grupos de las élites (¿el mismo en realidad?) hacen un pacto, ¡echa a correr! ¿Dónde está la soberanía del pueblo? Recuerda que quieren debilitarnos. Ejemplo: las vacunas, las PCRs, la UE...
+- Baile del Paqué Paqué. ¿Para qué? Vas a la izquierda, a la derecha, como perdiendo el rumbo, ¡pero me hace gracia decir paqué paqué en ciertos puntos dle baile! Es una gracia.
+- Mi hermano mayor es Bono de U2!
+- Comer niñera: el Estado "educa"... en realidad adistra... a tus hijos, es como si se quedase con ellos. Tú debes educar a tus hijos, no delegar. Delgamos demasiao, pa gente cuyos trabajos son un simple gasto de energía (+ joder adrede a veces; los profesores de Primaria no quieren joder por lo general, pero sus amos hacen que jodan, y mucho).
+- Cinturón marica (Los Inmortales). Taba haciendo limpieza en el armario, ¿y sabes qué fue lo único que encontré pa tirar? ¡Un cinturón marica! De repente, nos damos cuenta de que es la única forma de viajar en el tiempo. Una gracia sin más.
+- Los usbs nos dan una melodía germánica. ¡Claro, el "Big in Japan" de Alphaville!
+- El erotismo. Tras una visita al profe de teatro Chan (que podría ser quien me mandó un mensaje al móvil en Nochevieja, o el Hereje, o el mismo Rix o...), él me enseñó cómo hacer el erotismo (actuando). ¡Qué majo es Chan!
+- Juntos: en vez de Paloma San Basilio, Louis Armstrong.
+- Miguel Bosé: los viejos no cambian, los cerdos no sudan. Original: los chicos no lloran.
+- En EDP, de becario (después me pasaría a Liberbank, una época de la que hablo muy poco en Internet). ¡El jefe Vázquez me quería ver ocupáu cada minutu, y así hice hasta que llegaron ciertos momentos de relax! De fondo no se oye a Pino (qué majete), pero sí a Belén.
+####Temp13 (parte):
+####03, lo último un poco salvable (pero no he metío ni Viaducto Mortal, ni Julie Andrews Cena, ni Jesús Meditando, ni NO me Coma):
+- Soy un becario, llevo una hora solo, me voy a volver loco... sin que me controlen y manden tareas. ¡Ay el resto de la gente, culos viejos y gordos con grandes pagas! Sin embargo, es cierto, ¡qué pocos trabajadores hacen falta, incluso en una térmica!
+- Partido Mortal: tábamos cansaos los de la Térmica de Aboño, pero querían echar un partido de fútbol contra los de la Térmica de Soto de Ribera. ¿Es éste el partido que jugué con gripe?
+- The Boy Is a Men (je je, se pone man y se dice "man"). El horror de considerar hombres a adolescentes con navaja, en el entorno rapero, lo traslado al ámbito crooner, ¿un poco más "mafioso" no (Frank Sinatra...)?
+- Tiburón de Carne: mientras sonaba el desparecido Montes, que decía eso de "¡la vida puede ser maravillosa, ay amigo!".
+####Madre mía, ya casi es medio día y NO he hecho nada de provecho en 30 años. Oye, a lo mejor es inteligente y NO le llama lo del mundo actual (2.024), mundo poco empático, con trabajos inútiles (mejor las actividades, que tar "colocao" y con horas muertas)...
+####temp13 REAL (lo anterior era de "rescatados"):
+- ener Quim Núñez de Cabeza de Vaca sanador. Llegó desnutrido a Galveston (cerca de Houston). Para el chamán de allí, el hombre blanco barbado solía ser buen sanador (buen augurio, ¡semiberes :) ! la raza paia es menos "afortunada" en ese sentido, ¿y la negra?). Se vieron obligados a ser curanderos (NO podían luchar, estaban débiles). Núñez (rubio, "semibere") hizo la señal de la cruz en una herida, hizo una oración, ¡y el otro sanó! Con ayunos prolongados, incluso mejoró la técnica. ¿Aspiraba y soplaba "un espíritu maligno"? Todo está en la psique.
+- Hay muertos por doquier. La tele miente, NO subiendo de 217 (absurdo). Sumamos a esto la falta de alma de Sánchez (maquiavélico, contentando a los internacionales que quieren que haya menos gente...); con máquinas climáticas (Nextrads...), falta de información deliberada (NO casual)... 
+* Los propios valencianos dicen que NO quieren que se sepa la verdad: ponen lonas (salen coches fúnebres)... Si NO reaccionamos ante los narcisistas de arriba (pero a la vez queriendo una sociedad más modesta y consciente, si no, "los espíritus" nos frenarán, con dirigentes malos)...
+* Un trailer (escoltado por coches de policía nacional) saliendo de un centro comercial con cara de "me han pillado". ¿Qué transportaba? ¡Cadáveres!
  
 00aIMPORTANTE rostros de criminales cazados Aclaraci¢n Trump me gusta algo.JPG
 00aIMPORTANTE Tzolkin maya verde asuntos internos creo.JPG
@@ -11588,3 +11641,64 @@ supersocio m s claro el agua Paga en efectivo.jpg
 supersociolog¡a ambientalismo fake y real.jpg
 tec agri y eco no da¤as la ra¡z.jpg
 tec electrocultura.jpg
+
+####Youtube: Mrluigiluitiso, luigiluitiso1, Luis Mateos Armada. Mis vídeos esconden mensajes (aunque algunos sean pura gracia, estaba en una época "infantil",y quedan bonitos recuerdos).####
+####Explicaciones locuras01 (vídeos NO tontos). Para empezar, la locura leve o creativa, el desahogo... previenen de la auténtica locura; la de las formas, la del "buen ciudadano" o "buen hijo"; personas atadas a las normas sociales o a la familia, sin haber quitado las represiones, que nos convierten en narcisistas.:
+- Franco (el dictador) ilumina mi corazón. Hay 2 clases de fans de Franco, los derechosos (ojo, yo más bien soy de derechas, pero sí que hay gente de derechas bastante cerrada, demasiado ambiciosa, "negrera"...), que me suelen gustar más que los izquierdosos todo sea dicho... y la gente que realmente es conspi y avanzada.
+* El malo aquí, se llama Largo Caballero, el amigo de la sangre. Franco iba con la derecha, pero quizás era algo más, alguien con protección angelical. ¿Fue un pacto entre izquierda y derecha su mandato de 40 años? Ahí, persiguiendo homosexuales (eso parece de derechas), y también atontando a la gente con "regalos monetarios" (eso es más bien de izquierdas, hacer a la gente dependiente). Bueno, por lo menos, había trabajo (lo de las vacaciones no lo veo yo muy bien, es apijar al personal), hasta que la izquierdosa UE, desindustrializó sin parar (la izquierda fue resucitada por la derecha, pues la derecha es sólo un camino al control de los paios judeosatánicos; y ojo, que lo "hebreo" enseña muchas cosas buenas, pero me parece que se quedó en Palestina, y en pocos más lugares).
+- The boy is a men je je (man). El poderío creativo de Libra (mi hermano mayor). Y mi crítica: los jóvenes no son hombres, están llenos de prepotencia e ignorancia, tienen que empezar a desreprimir. Quien vive rápido, difícilmente se hace persona.
+- La de Envenená y la del bigotín, son más bien gracias.
+- Voy buscando mi amooorrr: pobres gitanas, casi obligadas a parir jóvenes. Pobres gitanos de España, obligados casi a ser pícaros. De raza paia, por cierto, aunque nos llamen paios a los blancos de España. "Caló" (su lengua) me suena mucho a "lotero", y a la judía (judíos malos) Diosa Kali.
+- Lo de "voy matate" es una gracia: la luz azul significa "entes peligrosos incorpóreos", ¡que luego se ponen a hablar en Asturiano de casa je je!
+- Voy a beber agua es otra gracia.
+- El hombre y la silla (El Hombre y la Tierra, el programa de Félix Rodríguez de la Fuente), es una crítica a la gente activa que cree que todos somos iguales. Cuantas más represiones no solucionadas, más actividad. Cuanta menos inteligencia femenina, más actividad.
+####02:
+- Pacto Mortal: cuando 2 grupos de las élites (¿el mismo en realidad?) hacen un pacto, ¡echa a correr! ¿Dónde está la soberanía del pueblo? Recuerda que quieren debilitarnos. Ejemplo: las vacunas, las PCRs, la UE...
+- Baile del Paqué Paqué. ¿Para qué? Vas a la izquierda, a la derecha, como perdiendo el rumbo, ¡pero me hace gracia decir paqué paqué en ciertos puntos dle baile! Es una gracia.
+- Mi hermano mayor es Bono de U2!
+- Comer niñera: el Estado "educa"... en realidad adistra... a tus hijos, es como si se quedase con ellos. Tú debes educar a tus hijos, no delegar. Delgamos demasiao, pa gente cuyos trabajos son un simple gasto de energía (+ joder adrede a veces; los profesores de Primaria no quieren joder por lo general, pero sus amos hacen que jodan, y mucho).
+- Cinturón marica (Los Inmortales). Taba haciendo limpieza en el armario, ¿y sabes qué fue lo único que encontré pa tirar? ¡Un cinturón marica! De repente, nos damos cuenta de que es la única forma de viajar en el tiempo. Una gracia sin más.
+- Los usbs nos dan una melodía germánica. ¡Claro, el "Big in Japan" de Alphaville!
+- El erotismo. Tras una visita al profe de teatro Chan (que podría ser quien me mandó un mensaje al móvil en Nochevieja, o el Hereje, o el mismo Rix o...), él me enseñó cómo hacer el erotismo (actuando). ¡Qué majo es Chan!
+- Juntos: en vez de Paloma San Basilio, Louis Armstrong.
+- Miguel Bosé: los viejos no cambian, los cerdos no sudan. Original: los chicos no lloran.
+- En EDP, de becario (después me pasaría a Liberbank, una época de la que hablo muy poco en Internet). ¡El jefe Vázquez me quería ver ocupáu cada minutu, y así hice hasta que llegaron ciertos momentos de relax! De fondo no se oye a Pino (qué majete), pero sí a Belén.
+####03, lo último un poco salvable (pero no he metío ni Viaducto Mortal, ni Julie Andrews Cena, ni Jesús Meditando, ni NO me Coma):
+- Soy un becario, llevo una hora solo, me voy a volver loco... sin que me controlen y manden tareas. ¡Ay el resto de la gente, culos viejos y gordos con grandes pagas! Sin embargo, es cierto, ¡qué pocos trabajadores hacen falta, incluso en una térmica!
+- Partido Mortal: tábamos cansaos los de la Térmica de Aboño, pero querían echar un partido de fútbol contra los de la Térmica de Soto de Ribera. ¿Es éste el partido que jugué con gripe?
+- The Boy Is a Men (je je, se pone man y se dice "man"). El horror de considerar hombres a adolescentes con navaja, en el entorno rapero, lo traslado al ámbito crooner, ¿un poco más "mafioso" no (Frank Sinatra...)?
+- Tiburón de Carne: mientras sonaba el desparecido Montes, que decía eso de "¡la vida puede ser maravillosa, ay amigo!".
+
+####CONSULTANDO.####
+Todo el texto de la Cutreenciclopedia de una sola bajada. ¡Va genial para consultas! Tu escribes "engordar", y vas al sitio del .txt correspondiente. ¡ES MUY ÚTIL! Pero NO pongas "enfermar", pon el nombre de la enfermedad. ¡OS QUIERO VER UN MINUTÍN EN MI GITHUB, QUE MINUTÍN A MINUTÍN, HACEN 10 AL DÍA :) !
+####ejemplo de consulta (necesitas el .txt de la Cutreenciclopedia, en Github). ASTIGMATISMO Y MIOPÍA:
+- Primero me voy a ANEXOS PSICOLOGÍA (buscando "ANEXOS PSI" o yendo poco a poco por el txt), a ver qué información encuentro en "causa de las enfermedades" ("ENFERMEDADES": HE TENIDO QUE "CAMINAR" MUCHO):
+* Recuperar la mirada curiosa del niño, ¡maravíllate! NO busques paisajes idílicos, la belleza está en tantas partes (geometría...)! ¿Borrosa por estrés? Sensibilidad a la luz: no me deshago de algo, demando atención adecuada a "mi destreza"...
+* Ojos: capacidad de ver pasado, presente y futuro en su justa medida.
+* Hipermetropía: temor al presente.
+* Miopía (asustadizos, expectantes... Contrario a Hipermetropía, por así decirlo): me gustaría tenerte en mi rango visual. O miedo a ver algo en la lejanía (incluye miedo al futuro, desconfianza en el porvenir). O separación visual (de algo...) fuerte.
+* Presbicia: miedo al futuro (crisis 40...). ¿Tendré sustento en la vejez? ¿Mi puesto es seguro?
+* Astigmatismo: al ver borroso, estás protegido de la realidad y las decepciones (tu pensabas que tu padre era militar, y lo ves un día en el hospital haciendo su diálisis DIARIA y...). Algo cercano da miedo, y no quiero detalles. Quiero librarme al instante de gente ofensiva, o esconder algo (sexualidad...). Rechazo a acomodarme. Ira y miedo en la juventud. Decepcionado con los demás, creo que sólo puedo contar conmigo, ¿falta de confianza? Temor a verse realmente.
+* Procastinar (te hace corto de vista): miedo a fracasar (o tener éxito), al juicio ajeno, al cambio, a lo desconocido. ¿Ansiedad o frustración asociadas? ¿Cómo hago para vivirlo todo con menos intensidad escorpiana, y así ver mejor de lejos? Estar tranquilo, muchas veces depende de quererse. LA PRISA TE LA METE LA ESCUELA, Y CLARO, TE AYUDA A DEJARLO TODO PARA EL ÚLTIMO MOMENTO (SER CORTO DE VISTA).
+* Oír mejor.
+- Ahora busco palabras clave: "astig", "miop", "vista"... Y la última opción es leerme la Cutreenciclopedia de cabo a rabo:
+* Miopía. Alejarse de un mundo "amenazador". Mirar el futuro con inseguridad (previsores, precavidos, hacemos todo antes de tiempo...). Momento estresante vivido con inseguridad (que se instala) y miedo: divorcio, cambio de ciclo escolar... Cada vez más niños tienen problemas para ver de lejos (miopía por no estar expuesto suficientemente a luz azul, aunque debemos dormir totalmente a oscuras, y con tapones je je). Baja luz, bajo contraste, ¿y falta de movimiento propio?, son factores negativos. ¿No es tanto culpa de las pantallas, sino de no enfocar algo lejano lo suficiente? La exposición a luz brillante origina dopamina (entonces, el ojo no crece demasiado), cortada por las gafas de sol. El mínimo dentro son unos 20.000 lux (para estimular). ¿Bueno enfocar hacia delante (poco visión periférica)?
+* Astigmatismo: confusión. Momento en que deja de ser auténtico (traición de valores reales), complaciendo (cánones, exectativas de otros...). Pregúntate, ¿esto es lo que yo realmente quiero, siento, pienso? ¡Desreprimir creencias familiares y cambiarlas!
+* Más: luteína... Ejercicios de acomodación, ¿enfocar cada vez más lejos (1 metro, 3, 10, y volver)? Pero Antes, Bates de protección: relajar cervicales y luego ojos con palmeo... ¿Sol por la mañana?
+####Expresado positivamente:
+- General:
+* Sol de la mañana.
+* Mirada curiosa del niño. ¿Saludar a los árboles je je? La belleza está en todas partes (geometría...).
+* Procastinar: miedo al fracaso o el éxito.
+* Menos intensidad escorpiana, NO estoy rodeao de monstruos.
+- Astigmatismo:
+* El mundo "es mi ostra", NO me siento culpable por ir por lo que quiero y hablo con tranquilidad y "porte" cuando sé que lo que digo es importante (o cuando merezco que me escuchen un poco).
+* NO controlar a la gente (NO querer caerles bien). La gente, que se acostumbre a mí o se vaya. Acepto a la gente ofensiva, es parte del mundo / mis pruebas. NO tener miedo de que vean "tu secreto".
+* ¿Falta de confianza en los demás ("sólo me tengo a mí")?
+- Miopía:
+* Ver la sociedad como oportunidades de crecer interiormente (ser más libre, sin sentimientos de miedo...).
+* NO anticipar ("me voy a encontrar con éste, que me da susto"...), esperar mucho la ocasión, hiperplanificar... Confío en el porvenir, aceptando lo que venga.
+* Más exposición a la luz, ¿una habitación chiquita con 3 bombillas je je?
+- Fotofobia:
+* Deshacerme de algo o aceptarlo.
+* Aceptar que NO me valoren en mi justa medida.
