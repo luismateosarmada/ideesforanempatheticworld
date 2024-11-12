@@ -1,6 +1,6 @@
 #### https://github.com/luismateosarmada/ideesforanempatheticworld ####
 - LAS IMÁGENES ESTÁN EN MI FACE (LUIS MATEOS ARMADA): ÁLBUM "IMÁGENES DE ARTÍCULO".
-* Texto en mi Face también: álbum "Librito" (lo nuevo, en la última imagen).
+* Texto en mi Face también: álbum "Librito" (lo nuevo, en la última imagen). **** LA ´´ULTIMA PARTE (LA MÁS TEMPORAL) SÓLO ESTARÁ EN MI FACEBOOK, EN PRINCIPIO. ****
 - AL FINAL LOS NOMBRES DE LAS IMÁGENES, EXPLICACIONES DE VÍDEOS QUE LA GENTE CREE QUE SON TONTOS, Y UN EJEMPLO DE CONSULTA EN EL .TXT.
 - AQUÍ, NOMBRES DE CAPÍTULOS Y DE IMÁGENES MÁS IMPORTANTES, SEGUIDOS DE UN .PHP (PASAR DE TEXTO A PÁGINA WEB).
 * ¡Y LUEGO YA VIENE EL TEXTO!
@@ -11510,7 +11510,7 @@ A tu fiel cerdo con collar
 - Juntos: en vez de Paloma San Basilio, Louis Armstrong.
 - Miguel Bosé: los viejos no cambian, los cerdos no sudan. Original: los chicos no lloran.
 - En EDP, de becario (después me pasaría a Liberbank, una época de la que hablo muy poco en Internet). ¡El jefe Vázquez me quería ver ocupáu cada minutu, y así hice hasta que llegaron ciertos momentos de relax! De fondo no se oye a Pino (qué majete), pero sí a Belén.
-####Temp13 (parte):
+####Temp13:
 ####03, lo último un poco salvable (pero no he metío ni Viaducto Mortal, ni Julie Andrews Cena, ni Jesús Meditando, ni NO me Coma):
 - Soy un becario, llevo una hora solo, me voy a volver loco... sin que me controlen y manden tareas. ¡Ay el resto de la gente, culos viejos y gordos con grandes pagas! Sin embargo, es cierto, ¡qué pocos trabajadores hacen falta, incluso en una térmica!
 - Partido Mortal: tábamos cansaos los de la Térmica de Aboño, pero querían echar un partido de fútbol contra los de la Térmica de Soto de Ribera. ¿Es éste el partido que jugué con gripe?
@@ -11541,7 +11541,35 @@ A tu fiel cerdo con collar
 * Di que quieres mejorar tu psique para ser mejor persona (¿hay otra forma? La conducta NO eres tú / tu psique; es una falsedad, se puede decir).
 * Cristian (Zeballos) te cambia la vida (Clau es práctica, y Cristian está para las actividades avanzadas). Tienes propósito de vida, NO simplemente "cosas que alcanzar". Mejorar requiere muchísimo tiempo (años y años, sólo venimos a mejorar la psique, se puede decir), NO es cosa de simples coaches. Y la vida NO es complacer. Yo tenía que hacer una "Cutreenciclopedia", ¡pero sin culpa o explicaciones, sin pensar tanto en los perdidísimos vecinos, que preguntan y critican! Querer cambiar al otro, NO es buen negocio (a menos que se haga de vez en cuando, sin insistir / brevemente; o habrá violencia, ¿y karma malo?). Puedes cambiar, y así, das ejemplo. Una persona con la psique saneada ejerce mucha influencia (tiene poder). ¡Venga, juntos a cambiar la mentalidad errónea del siglo XX, y acercarnos más a la rural del siglo 18!
 - Frases locas. Vale, empiezo con María Dolores Pradera, hablando de una mosca que nos abandona, y nos abrazamos (y la mosca nos dejó, y nos abandonó, y en el calor de un abrazo... mucho de menos se la echó). ¡Ojalá estuviese tan creativo / loco suave, hoy en día! Sigo con un viejo rural advirtiéndole a una quesera que NO se ha lavao las manos (mira si hueles a grasa mujer, NO te acerques a menos de 200 pies; Too many Broken Hearts, Stock, Aitken y Waterman, SAW, con Jason Donovan cantando). Luego, cómo cantaría Black cierta canción (de otro; es un juego interesante; tengo chopito, tengo jamón, que tengo, que tengo, que tengo de too; canción de la ONCE). Luego, una prueba para NO sentirme avergonzado (y en clave Depeche Mode): la noche es para ti y para mí, y para mis -edos; porque hoy en el Jardín del edén, tiene cabida mis -edos. NO pude seguir, es demasiao je je. La próxima, escucho sin más.
- 
+####Temp15:
+- Bates (ojos): NO había puesto lo de pensar en los nombres de las cosas ("voy andando por la salita, a la izquierda hay un sofá..."). Ni la segunda parte de relajación ocular (párpado, con dedos, varios ciclos 1 sentido, varios otro; cejas de dentro a fuera sólo; sienes; complemento a párpado; y poner las manos en la cabeza un poco atrás, con pulgares hacia abajo al cuello, y más circulitos).
+* COMO BORRÉ LO DE "MI DÍA A DÍA"... TÚ CONSTRUYES TU GRUPO DE HÁBITOS CON INTELIGENCIA, NO TE LO CONSTRUYO YO (COMO MUCHO TE DOY LOS HÁBITOS POR SEPARADO PARA QUE ELIJAS...).
+- Planetas y su octava superior ("jefe"):
+* Mercurio, mente racional (Urano: mente superior).
+* Venus, belleza y placer (¿un poco repugnantemente superficial NO?). Neptuno es sutileza en el arte y expresión del alma.
+* Marte, acción impulsiva (Plutón: estratégica). ¡Bien, Escorpio es líder sobre Aries, que es jefe!
+- Sí, Neptuno, Urano y Plutón favorecieron la DANA (para + conciencia). ¡NO seáis brutos, la Psicología, la Astrología... son claves!
+- RECUERDA, LA MAYOR PARTE DE LO OFICIAL (SANIDAD, FALSA EDUCACIÓN = ADIESTRAMIENTO...) VA CONTRA LA SABIDURÍA. TONTO ES QUIEN CREE EN LO OFICIAL (LA ENFERMEDAD ES PSICOLÓGICA, Y PUNTO. Que el potencial Z de la sangre esté bajo, es por vejez, malos hábitos... Es un desequilibrio. Y hay tablas perfectamente validadas, que relacionan trauma psicológico, con parte del cerebro con focos de Hamer, y órgano afectado).
+- ¿Os podéis creer que hay sanitarios que NO saben el significado de la palabra "quelar", o de la expresión "potencial Z de la sangre"? Es un peligro ignorar su enorme importancia, es el efecto "asesino", por NO darlo en la carrera... El "soy médico" está muy por debajo del "NO soy un cerrao, cambio mi base de creencias para ser una persona mínimamente aceptable; reniego de las terribles mentiras y ocultaciones de los estudios oficiales". Y con beber agua de manantial (cogida por ti, claro), puedes mejorar tu salud.
+- ¿Las madres que se preocupan por las notas de sus hijos en vez de por su inteligencia (integral, tanto memorizar la merma) y "sabiduría" (la sabiduría se consigue con la experiencia y la introspección), son las causantes de esta sociedad competitiva y que admira a tontos intelectuales? Una que yo me sé es culpable psicológica del estado de la espalda de su marido (la espalda indica situación familiar negativa porque ella manda o... o situación sexual NO buena).
+- ¡Hoy cumple to'l mundo! Incomprendidos (saben lo que pasa con la gente, pero si lo dicen...) y relativamente dependientes Escorpio (a la par que sabios).
+- En el mismo Lugar. ¡Pedazo de canción sobre la intimidad! Yo mido muchísimo a la gente por su salud (pocos vicios, NO buscan placer...), pero a Antonio (Vega) lo admiramos igual.
+- Las armas son la forma que tienen los psicópatas y los NO completos todavía, de luchar.
+- En 2 horas, estos psicópatas en el poder, pueden cambiar el rumbo de la meteorología. Acertar es muy difícil (habría que acertar también con el uso de armas climáticas). Nos dirán que en cada provincia española ha muerto el 30% por el cambio climático. ¿DEBERÍAMOS CREERLO?
+* El pueblo (al que quiere eliminar Sánchez, para quedar bien ante superjefazos...) salva al pueblo. NO deleguemos. ¡Volveremos al siglo 18, sin tonterías!
+* Ha habido riadas terribles en el 87... y NO había cambio climático (NO lo necesita).
+* O estudiamos sobre perversión narcisista y les decimos lo que son (infelices...), o van a volver a montar una tras otra.
+* ¿Estuvo el radar (Nextrad diría yo) de Cullera calentando el Mediterráneo (mancha azul semicircular casi perfecta en los mapas, en el mar)? Parece que sí. ¿Otra máquina lo hizo? Una meteoróloga muy famosa (y "con amos") dijo "toda esa lluvia que han traído; perdón, caído". ¿Los radares que nos dicen que generan los mapas, funcionan como violentos Nextrads?
+####Temp16:
+- Nos han mentido con el falso progresismo (que si "somos el partido de los buenos"...). La izquierda está más cerca de la masonería (NO hay que decir más, antes de los masones en el siglo XVIII, la gente estaba menos controlada, con ADIestramiento, con ADI de adivino paio satánico...). La derecha también es mala, por supuesto. En 2.020 votaron los muertos... ¡hubo un superrecord (y Kamala consiguió demasiado para una campaña un tanto nefasta)!
+- Similitudes entre signos complementarios (NO se parecen mucho y se aman):
+* Aries y Libra. Muy sociables y aventureros, y de vivir experiencias nuevas. Evitar invadir el territorio del otro.
+* Tauro y Escorpio. Luchadores, NO se rinden. Juntos conseguirán lo que se propongan. ¿Que se entienden a la perfección, a pesar de ser uno "místico" y el otro material / tradicionalista?
+* Géminis y Sagi. Sociables, les encanta seducir y la diversión. Les gusta mucho viajar, dejarse llevar y aventurarse.
+* Cancer y Capri. Aman las uniones tradicionales, la lealtad y estar en casa. Tienen que respetar su carácter tan diferente.
+* Leo y Acuario. Uno es del brillo personal, y otro, de lo social (se complementan). Deberá existir mutua confianza y el deseo de compartir una vida con similares deseos.
+* Virgo y Piscis. Coinciden en poco, pero se prestarán apoyo y rara vez discutirán (tolerancia / indulgencia y comprensión). Virgo impulsará a Piscis para que haga realidad sus excelentes ideas. Virgo necesita siempre ser escuchado (Piscis es ideal).
+
 00aIMPORTANTE rostros de criminales cazados Aclaraci¢n Trump me gusta algo.JPG
 00aIMPORTANTE Tzolkin maya verde asuntos internos creo.JPG
 00bPSICOLOGÖA Comida balanceada yin yang.JPG
