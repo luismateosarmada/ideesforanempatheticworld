@@ -1,8 +1,7 @@
 <?php
  // SE PUEDEN AÑADIR PREGUNTAS AL ARRAY "$PREGUNTAS": entre comillas simples si el texto contiene dobles.
  // NECESITAS EL XAMPP O UN HOST CON SERVIDOR APACHE O...
- // ¿Iniciado (quizás en post) como variable de sesión y el array también
- // (quizás pillar de .txt)? ¿OnKeyDown para el formulario en vez de labels?
+ // ¿Iniciado (quizás en post) como variable de sesión y el array también (quizás pillar de .txt)? ¿OnKeyDown para el formulario en vez de labels?
  
  $pregunta01 = array('preg' => "¿Si quito la sal, me baja la tensión?", 'resp' => "NO, es más, subirá. La sal hace que el cuerpo funcione mejor. Si tomas agua embotellada, que tiene pocos minerales, se encharca la sangre, y el corazón tiene que trabajar más.");
  $pregunta02 = array('preg' => "¿Cuál es el último siglo de esclavismo real para el ser humano en La Tierra?", 'resp' => "¡Pues es el 21! En el 18, los masones quitaron tierras a la gente, que tuvo que ir a la ciudad, que permite la acumulación de poder del malo, y que el narcisista se oculte bien. El 19 fue el primer año de esclavismo real, con minas de carbón...");
