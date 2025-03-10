@@ -1,11 +1,14 @@
 <?php
+ // SE PUEDEN AÑADIR PREGUNTAS AL ARRAY "$PREGUNTAS": entre comillas simples si el texto contiene dobles.
+ // NECESITAS EL XAMPP O UN HOST CON SERVIDOR APACHE O...
  // ¿Iniciado (quizás en post) como variable de sesión y el array también
  // (quizás pillar de .txt)? ¿OnKeyDown para el formulario en vez de labels?
- $numpreguntas = 2;
+ 
  $pregunta01 = array('preg' => "¿Si quito la sal, me baja la tensión?", 'resp' => "NO, es más, subirá. La sal hace que el cuerpo funcione mejor. Si tomas agua embotellada, que tiene pocos minerales, se encharca la sangre, y el corazón tiene que trabajar más.");
  $pregunta02 = array('preg' => "¿Cuál es el último siglo de esclavismo real para el ser humano en La Tierra?", 'resp' => "¡Pues es el 21! En el 18, los masones quitaron tierras a la gente, que tuvo que ir a la ciudad, que permite la acumulación de poder del malo, y que el narcisista se oculte bien. El 19 fue el primer año de esclavismo real, con minas de carbón...");
- $pregunta01 = array('preg' => "¿Qué premios "que te has ganado" regalas al poco de recibirlos?", 'resp' => "Los Grammies.");
- $pregunta01 = array('preg' => "¿Para qué sirve la UE?", 'resp' => "Para destruir Europa. Facilita la entrada de musulmanes, muy contentos ahora, pero serán sustituidos por chinos, que son más obedientes. En cambio, están los valores cristianos, y la raza blanca, que busca la verdad con ahínco.");
+ $pregunta03 = array('preg' => "¿Qué premios que te has ganado entre comillas, regalas al poco de recibirlos?", 'resp' => "Los Grammies.");
+ $pregunta04 = array('preg' => '¿Para qué sirve la "UE"?', 'resp' => "Para destruir Europa. Facilita la entrada de musulmanes, muy contentos ahora, pero serán sustituidos por chinos, que son más obedientes. En cambio, están los valores cristianos, y la raza blanca, que busca la verdad con ahínco.");
+
  $preguntas = array($pregunta01, $pregunta02, $pregunta03, $pregunta04); 
  
  if (!isset ($_GET["iniciado"]))
@@ -51,10 +54,9 @@ function preguntar()
 
  global $PHP_SELF;
 
- global $numpreguntas;
  global $preguntas;
  
- $pregelegida = rand(1, $numpreguntas);
+ $pregelegida = rand(1, count($preguntas));
  $cadenona = $PHP_SELF."?haypregunta=1&iniciado=1&pregelegida=".$pregelegida;
  $pregunta = $preguntas[$pregelegida - 1]["preg"];
 ?>
@@ -74,7 +76,6 @@ function responder()
 
  global $PHP_SELF;
 
- global $numpreguntas;
  global $preguntas;
 
  $pregelegida = ($_GET["pregelegida"]);
