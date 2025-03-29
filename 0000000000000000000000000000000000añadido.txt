@@ -1,0 +1,1 @@
+$pregunta01 = array('preg' => '¿Cuál es la estructura del archivo "Añadido"?', 'resp' => 'Las preguntas se añaden al principio (la última será ésta misma). La "teoría" nueva, al final.');
