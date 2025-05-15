@@ -447,7 +447,7 @@ Datos:
 
 
 
-
+Es posible que los decanatos / grupos de 10 días (3 por signo) estén desactualizados.
 ####001z00yo.txt  - Índice:
 * Otros publicadores, que se enteren.
 * Fran.
