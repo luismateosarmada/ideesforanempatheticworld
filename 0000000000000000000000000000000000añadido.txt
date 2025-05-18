@@ -471,6 +471,8 @@ Datos:
 
 
 <?php
+ //En construcción. Los .PHPs se pueden ejecutar con el Xampp... Este .PHP, es para mí, sobre todo. Quiero saber datos de la gente para ayudarme a encontrar su vocación y animarlos a volar. Es un.PHP muy sencillo (NO hay Javascript...), aunque muy largo, y lleva semanas hacerlo (porque sólo voy a dedicar un pequeño porcentaje de mi tiempo). Paciencia y confianza.
+
  // Carta de revolución solar (entre cumpleaños).
  // Júpiter Géminis 12. ¿Expando el conocimiento espiritual (12)? 
  // Saturno Piscis. ¿Diluyo las ilusiones?
@@ -479,6 +481,7 @@ Datos:
  // Casa 11 Aries. ¿Ser pionero en grupos / estructuras sociales?
  // MIS DATOS:
  //$mes = 4;
+ //$ascendente = "Capri";
  //$cartaanualmision = "Cancer";
  //$cartaanualhabilidad = "Escorpio";
  //$mutable = 1;
@@ -488,7 +491,9 @@ Datos:
  //$trabajo = "Piscis";
  //$dia = 3;
  //$anio = 1977;
- $mes = 12;
+ $mes = 11;
+ $dia = 3;
+ $anio = 1977;
  $ascendente = "Capri";
  $cartaanualmision = "Cancer";
  $cartaanualhabilidad = "Escorpio";
@@ -497,8 +502,6 @@ Datos:
  $dependiente = 1;
  $privado = 1;
  $trabajo = "Piscis";
- $dia = 3;
- $anio = 1977;
  $signo = calcularsigno($dia, $mes);
  astrologia();
 
@@ -523,7 +526,9 @@ Datos:
 
  function astrologia()
  {
+  global $signo;
   global $mes;
+  global $ascendente;
   global $cartaanualmision;
   global $cartaanualhabilidad;
   global $mutable;
@@ -531,8 +536,6 @@ Datos:
   global $dependiente;
   global $privado;
   global $trabajo;
-  global $signo;
-  global $ascendente;
   
   //Signo.
   $textosigno = calculartextosigno($signo);
@@ -540,23 +543,69 @@ Datos:
   echo($textosigno."<BR>");
 
   //Mes.
-  if ($mes == 1) $textomes = "Enero"; 
-  if ($mes == 2) $textomes = "Febrero";
-  if ($mes == 3) $textomes = "Marzo";
-  if ($mes == 4) $textomes = "Abril";  
-  if ($mes == 5) $textomes = "Mayo"; 
-  if ($mes == 6) $textomes = "Junio";
-  if ($mes == 7) $textomes = "Julio";
-  if ($mes == 8) $textomes = "Agosto";
-  if ($mes == 9) $textomes = "Septiembre"; 
-  if ($mes == 10) $textomes = "Octubre";
-  if ($mes == 11) $textomes = "Noviembre";
-  if ($mes == 12) $textomes = "Diciembre";
+  $textomes = mesatexto($mes);
   echo ("Misión para el mes ".$textomes.": ");  
   $textomision = calculartextomisionmes($mes);
   echo ($textomision."<BR>");
  }
 
+ function calculartextomisionmes($mes)
+ {
+  $texto = "";
+  return $texto;
+ }
+ 
+ function calculartextosigno($signo)
+ {
+  // Aquí ponemos, tanto las características, como la misión.
+  // PERO LO PRIMERO ES PONER GENERALIDADES SOBRE SU FAMILIA.
+  $texto = "";
+  
+  // Paso de usar la función módulo. signo mod 4 == 1: fuego...
+  if ( ($signo == 1) || ($signo == 5)  || ($signo == 9) )
+   $familia = "fuego";
+  if ( ($signo == 2) || ($signo == 6)  || ($signo == 10) )
+   $familia = "tierra";
+  if ( ($signo == 3) || ($signo == 7)  || ($signo == 11) )
+   $familia = "aire";
+  if ( ($signo == 4) || ($signo == 8)  || ($signo == 12) )
+   $familia = "agua";
+  
+  if ($familia == "fuego")
+  {
+   $texto = $texto.'Fuego (familia). Los de fuego miran todo "desde afuera". Piensan que si ellos pueden hacer algo, los demás también. Intuición instintiva. Trabajo de mando (negreros je je) y acción física. Muy exitosos.';
+   if ($signo == 1) $texto = $texto." Los Aries NO se controlan, hay que comprender esto. ¿Con ascendente Tauro, se vuelven controladores, y a veces manipuladores?";
+   if ($signo == 5) $texto = $texto. " Los Leo necesitan apoyo y reconocimiento para conquistar, pero confían mucho en la vida (y la vida responde)";
+   if ($signo == 9) $texto = $texto. " Los Sagi NO pierden la cabeza ante el enemigo, saben defenderse.";
+  }
+
+  if ($familia == "tierra")
+  {
+   $texto = $texto.'Tierra (familia). Tratan de entender a los demás, pero no saben bien cómo (también miran desde fuera, aunque "sus ganas" les hacen tener más empatía que los de fuego). NO suelen llegar a la esencia (chocan con el sabio muchas veces, creyéndose mejores), que es psíquica. NO les gusta arrastrar problemas ajenos. Los menos intuitivos. A veces, apego a lo material. Organización, dinero (y "modelado" de la materia"). Tienen buenos hábitos.';
+   if ($signo == 2) $texto = $texto." Tauro: piensan que todo es para siempre, pero al final llevan relativamente bien los cambios.";
+   if ($signo == 6) $texto = $texto." Virgo: cuando NO aceptan el mundo, van contracorriente.";
+   if ($signo == 10) $texto = $texto." Capri: decididos, ambiciosos y consistentes.";
+  }  
+
+  if ($familia == "aire")
+  {
+   $texto = $texto.'Aire (familia). Cuando están lejos de la persona se olvidan del asunto / la empatía, pero son bastante empáticos. "Si no has logrado lo que yo es por falta de previsión, voluntad o capacidad". Piensan bastante que los demás están exagerando cuando piden ayuda para cargar problemas a medias. Aire rige el pensamiento, la palabra y la inspiración. La intuición puede llegar tan fuerte como una ráfaga o muy suave. Guerreros, búsqueda de información / conocimiento del mundo material...';
+   if ($signo == 3) $texto = $texto." Géminis: muchas cosas a la vez, y piden ayuda. NO se concentran.";
+   if ($signo == 7) $texto = $texto." Libra: pierde el entusiasmo tal y como lo ganó.";
+   if ($signo == 11) $texto = $texto." Acuario: apunta alto y exige mucho de sí y de los demás (esto último NO debe hacerse).";
+  }  
+
+  if ($familia == "agua")
+  {
+   $texto = $texto.'Agua (familia). Lo suelen miran todo "desde adentro". Se reconocen entre ellos (son diferentes; yo, Escorpio, descubro lo oculto en otros, "limpio psiques"). Cancer: videntes y tarotistas. Piscis: ver problemas ajenos. Trabajo: sentimientos, misticismo.';
+   if ($signo == 4) $texto = $texto." Cancer: necesitan a alguien al lado, o podrían deprimirse. Tambien tienen buen ojo.";
+   if ($signo == 8) $texto = $texto." Cuando Escorpio sufre, tiene tendencia a entregar el relevo. Confía en su percepción.";
+   if ($signo == 12) $texto = $texto." Piscis: desde su mundo de sueño consiguen lo que quieren.";
+  }
+
+  return $texto;
+ }
+ 
  function numeroatexto($signo)
  {
   if ($signo == 1) return ("Aries");
@@ -572,38 +621,23 @@ Datos:
   if ($signo == 11) return ("Acuario");
   if ($signo == 12) return ("Piscis");
  }
- 
- function calculartextosigno($signo)
- {
-  // Aquí ponemos, tanto las características, como la misión.
-  // PERO LO PRIMERO ES PONER GENERALIDADES SOBRE SU FAMILIA.
-  $texto = "";
-  // Paso de usar la función módulo. signo mod 4 == 1: fuego...
-  if ( ($signo == 1) || ($signo == 5)  || ($signo == 9) )
-   $familia = "fuego";
-  if ( ($signo == 2) || ($signo == 6)  || ($signo == 10) )
-   $familia = "tierra";
-  if ( ($signo == 3) || ($signo == 7)  || ($signo == 11) )
-   $familia = "aire";
-  if ( ($signo == 4) || ($signo == 8)  || ($signo == 12) )
-   $familia = "agua";
-  if ($familia == "fuego")
-  {
-   $texto = $texto.'Los de fuego miran todo "desde afuera". Piensan que si ellos pueden hacer algo, los demás también. Intuición instintiva. Trabajo de mando (negreros je je) y acción física. Muy exitosos.';
-   if ($signo == 1) $texto = $texto." Los Aries NO se controlan, hay que comprender esto. ¿Con ascendente Tauro, se vuelven controladores, y a veces manipuladores?";
-   if ($signo == 5) $texto = $texto. " Los Leo necesitan apoyo y reconocimiento para conquistar, pero confían mucho en la vida (y la vida responde)";
-   if ($signo == 9) $texto = $texto. " Los Sagi NO pierden la cabeza ante el enemigo, saben defenderse.";
-  }
-  return $texto;
- }
 
- function calculartextomisionmes($mes)
+ function mesatexto($mes)
  {
-  $texto = "";
-  return $texto;
+  if ($mes == 1) return "Enero"; 
+  if ($mes == 2) return "Febrero";
+  if ($mes == 3) return "Marzo";
+  if ($mes == 4) return "Abril";  
+  if ($mes == 5) return "Mayo"; 
+  if ($mes == 6) return "Junio";
+  if ($mes == 7) return "Julio";
+  if ($mes == 8) return "Agosto";
+  if ($mes == 9) return "Septiembre"; 
+  if ($mes == 10) return "Octubre";
+  if ($mes == 11) return "Noviembre";
+  if ($mes == 12) return "Diciembre";
  }
 ?>
-
 
 
 
