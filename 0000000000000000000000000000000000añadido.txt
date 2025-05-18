@@ -478,7 +478,7 @@ Datos:
  // Neptuno Piscis 10. ¿Mucha espiritualidad en el trabajo?
  // Casa 11 Aries. ¿Ser pionero en grupos / estructuras sociales?
  // MIS DATOS:
- //$mes = 11;
+ //$mes = 4;
  //$cartaanualmision = "Cancer";
  //$cartaanualhabilidad = "Escorpio";
  //$mutable = 1;
@@ -488,7 +488,7 @@ Datos:
  //$trabajo = "Piscis";
  //$dia = 3;
  //$anio = 1977;
- $mes = 11;
+ $mes = 12;
  $ascendente = "Capri";
  $cartaanualmision = "Cancer";
  $cartaanualhabilidad = "Escorpio";
@@ -505,20 +505,20 @@ Datos:
  function calcularsigno($dia, $mes)
  {
   // 20 es el inicio de Acuario. 19, el de Piscis.
-  if (($mes == 1) && ($dia < 20)) return "Capri, tierra.";
-  if (($mes == 1) || (($mes == 2) && ($dia < 19)) ) return "Acuario, aire.";
-  if (($mes == 2) || (($mes == 3) && ($dia < 21)) ) return "Piscis, agua.";
-  if (($mes == 3) || (($mes == 4) && ($dia < 21)) ) return "Aries, fuego.";
-  if (($mes == 4) || (($mes == 5) && ($dia < 21)) ) return "Tauro, tierra.";
-  if (($mes == 5) || (($mes == 6) && ($dia < 21)) ) return "Geminis, aire.";
-  if (($mes == 6) || (($mes == 7) && ($dia < 22)) ) return "Cancer, agua.";
-  if (($mes == 7) || (($mes == 8) && ($dia < 22)) ) return "Leo, fuego.";
-  if (($mes == 8) || (($mes == 9) && ($dia < 23)) ) return "Virgo, tierra.";
-  if (($mes == 9) || (($mes == 10) && ($dia < 23)) ) return "Libra, aire.";
-  if (($mes == 10) || (($mes == 11) && ($dia < 22)) ) return "Escorpio, agua.";
+  if (($mes == 1) && ($dia < 20)) return 10;
+  if (($mes == 1) || (($mes == 2) && ($dia < 19)) ) return 11;
+  if (($mes == 2) || (($mes == 3) && ($dia < 21)) ) return 12;
+  if (($mes == 3) || (($mes == 4) && ($dia < 21)) ) return 1;
+  if (($mes == 4) || (($mes == 5) && ($dia < 21)) ) return 2;
+  if (($mes == 5) || (($mes == 6) && ($dia < 21)) ) return 3;
+  if (($mes == 6) || (($mes == 7) && ($dia < 22)) ) return 4;
+  if (($mes == 7) || (($mes == 8) && ($dia < 22)) ) return 5;
+  if (($mes == 8) || (($mes == 9) && ($dia < 23)) ) return 6;
+  if (($mes == 9) || (($mes == 10) && ($dia < 23)) ) return 7;
+  if (($mes == 10) || (($mes == 11) && ($dia < 22)) ) return 8;
   // $mes = 12, si NO es 11 (sólo hace falta comprobar el día, entonces).
-  if (($mes == 11) || ($dia < 21) ) return "Sagi, fuego."; 
-  return ("Capri, tierra.");
+  if (($mes == 11) || ($dia < 21) ) return 9; 
+  return 10;
  }
 
  function astrologia()
@@ -536,7 +536,7 @@ Datos:
   
   //Signo.
   $textosigno = calculartextosigno($signo);
-  echo("Signo: ".$signo."<BR>");      
+  echo("Signo: ".numeroatexto($signo).".<BR>");      
   echo($textosigno."<BR>");
 
   //Mes.
@@ -556,10 +556,44 @@ Datos:
   $textomision = calculartextomisionmes($mes);
   echo ($textomision."<BR>");
  }
+
+ function numeroatexto($signo)
+ {
+  if ($signo == 1) return ("Aries");
+  if ($signo == 2) return ("Tauro");
+  if ($signo == 3) return ("Géminis");
+  if ($signo == 4) return ("Cancer");
+  if ($signo == 5) return ("Leo");
+  if ($signo == 6) return ("Virgo");
+  if ($signo == 7) return ("Libra");
+  if ($signo == 8) return ("Escorpio");
+  if ($signo == 9) return ("Sagi");
+  if ($signo == 10) return ("Capri");
+  if ($signo == 11) return ("Acuario");
+  if ($signo == 12) return ("Piscis");
+ }
  
  function calculartextosigno($signo)
  {
+  // Aquí ponemos, tanto las características, como la misión.
+  // PERO LO PRIMERO ES PONER GENERALIDADES SOBRE SU FAMILIA.
   $texto = "";
+  // Paso de usar la función módulo. signo mod 4 == 1: fuego...
+  if ( ($signo == 1) || ($signo == 5)  || ($signo == 9) )
+   $familia = "fuego";
+  if ( ($signo == 2) || ($signo == 6)  || ($signo == 10) )
+   $familia = "tierra";
+  if ( ($signo == 3) || ($signo == 7)  || ($signo == 11) )
+   $familia = "aire";
+  if ( ($signo == 4) || ($signo == 8)  || ($signo == 12) )
+   $familia = "agua";
+  if ($familia == "fuego")
+  {
+   $texto = $texto.'Los de fuego miran todo "desde afuera". Piensan que si ellos pueden hacer algo, los demás también. Intuición instintiva. Trabajo de mando (negreros je je) y acción física. Muy exitosos.';
+   if ($signo == 1) $texto = $texto." Los Aries NO se controlan, hay que comprender esto. ¿Con ascendente Tauro, se vuelven controladores, y a veces manipuladores?";
+   if ($signo == 5) $texto = $texto. " Los Leo necesitan apoyo y reconocimiento para conquistar, pero confían mucho en la vida (y la vida responde)";
+   if ($signo == 9) $texto = $texto. " Los Sagi NO pierden la cabeza ante el enemigo, saben defenderse.";
+  }
   return $texto;
  }
 
@@ -569,7 +603,6 @@ Datos:
   return $texto;
  }
 ?>
-
 
 
 
