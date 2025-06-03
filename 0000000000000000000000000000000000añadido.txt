@@ -1905,7 +1905,7 @@ Lo haces a tu modo. Sacrificarse por quienes los rodean con carácter fuerte. Bu
   $cuenta = $cuenta + sumacifras($anio);
 
   // REDUCIENDO HASTA 11, 22, 33 O UNA CIFRA.
-  while ( ($cuenta > 10) && ($cuenta != 11) && ($cuenta != 22) && ($cuenta != 33) )
+  while ( ($cuenta >= 10) && ($cuenta != 11) && ($cuenta != 22) && ($cuenta != 33) )
    $cuenta = sumacifras($cuenta);
   return $cuenta;
  }
@@ -1924,7 +1924,6 @@ Lo haces a tu modo. Sacrificarse por quienes los rodean con carácter fuerte. Bu
   return $suma;
  }
 ?>
-
 
 
 
