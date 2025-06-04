@@ -1,98 +1,164 @@
 <?php
  //En construcción. Los .PHPs se pueden ejecutar con el Xampp... Este .PHP, es para mí, sobre todo. Quiero saber datos de la gente para ayudarme a encontrar su vocación y animarlos a volar. Es un.PHP muy sencillo (NO hay Javascript...), aunque muy largo, y lleva semanas hacerlo (porque sólo voy a dedicar un pequeño porcentaje de mi tiempo). Paciencia y confianza.
 
- if (!isset ($_GET["cajaanio"])) datos();  
+ $modoprograma = 0; // Modoprograma 1: NO hay elementos visuales.
+ if ( (!isset ($_GET["cajaanio"])) and ($modoprograma == 0) ) datos();  
  else
  {
-  // Carta de revolución solar (entre cumpleaños).
-  // Júpiter Géminis 12. ¿Expando el conocimiento espiritual (12)? 
-  // Saturno Piscis. ¿Diluyo las ilusiones?
-  // Urano Tauro 11. ¿Proyectos sociales que duran y se consolidan en grupos (11)?
-  // Neptuno Piscis 10. ¿Mucha espiritualidad en el trabajo?
-  // Casa 11 Aries. ¿Ser pionero en grupos / estructuras sociales?
-  // MIS DATOS:
-  //$dia = 3;
-  //$anio = 1977;
-  //$casa2 = 11;
-  //$casa10 = 8;
-  //$ascendente = 10;
-  //$luna = 5;
-  //$mes = 11;
-  //$cartaanualmision = 4;
-  //$cartaanualhabilidad = 8;
-  //$mutable = 1;
-  //$fijo = 0;
-  //$cardinal = 0;
-  //$pasivo = 1;
-  //$dependiente = 1;
-  //$privado = 1;
-  //$anualcasa2 = 5;
-  //$anualcasa10 = 12;
-  //$nombre = "Luis Mateos Armada";
-  //$caracmanifestante = 0;
-  //$generador = 1;
-  //$proyector = 0;
-  //$reflector = 0;
-  //$manifestante = 0;
-  //$mision = 46;
-  //$chino = 6;
-  //$hombre = 1;
-  //$manocuadrada = 0;
-  //$manoespatula = 1;
-  //$manogigante = 0;
-  //$manoconica = 0;
-  //$manonudosa = 1;
-  //$manoespiritual = 0;
-  $dia = $_GET["cajadia"];
-  $anio = $_GET["cajaanio"];
-  $casa2 =11;
-  $casa10 = 8;
-  $ascendente = 10;
-  $luna = 5;
-  $mes = $_GET["cajames"];
-  $cartaanualmision = 4;
-  $cartaanualhabilidad = 8;
-  $mutable = 1;
-  $fijo = 0;
-  $cardinal = 0;
-  //Poner 2 para anular.
-  $pasivo = 1;
-  $dependiente = 1;
-  $privado = 1;
-  $anualcasa2 = 5;
-  $anualcasa10 = 12;
-  $signo = calcularsigno($dia, $mes);
-  astrologia();
-  $nombre = $_GET["cajanombre"];
-  $numeneagrama = calcularnumeneagrama($dia, $mes, $anio);
-  eneagrama();
-  aniosdecambio();
-  nombreroscopo();
-  $num = calcularnumnodonorte(); 
-  nodonorte($num);
-  tzolkinmaya();
-  $caracmanifestante = 0;
-  $generador = 1;
-  $proyector = 0;
-  $reflector = 0;
-  $manifestante = 0;
-  $mision = 46;
-  $chino = 6;
-  diseniohumano();  
-  cejas();
-  $hombre = 1;
-  $numerokwa = calcularnumerokwa();
-  kwa();
-  zodchino();
-  personaljung();
-  $manocuadrada = 0;
-  $manoespatula = 0.25;
-  $manogigante = 0;
-  $manoconica = 0;
-  $manonudosa = 1;
-  $manoespiritual = 0;
-  manos();
-  diseniomiscanales();
+  if ($modoprograma == 0)
+  {
+   $dia = $_GET["cajadia"];
+   $anio = $_GET["cajaanio"];
+   $casa2 = $_GET["cajacasa2"];
+   $casa10 = $_GET["cajacasa10"];
+   $ascendente = $_GET["cajaascendente"];
+   $luna = $_GET["cajaluna"];
+   $mes = $_GET["cajames"];
+   $cartaanualmision = $_GET["cajacartaanualmision"];
+   $cartaanualhabilidad = $_GET["cajacartaanualhabilidad"];
+   if (isset($_GET["cajamutable"]))
+    $mutable = 1; else $mutable = 0;
+   if (isset($_GET["cajafijo"]))
+    $fijo = 1; else $fijo = 0;
+   if (isset($_GET["cajacardinal"]))
+    $cardinal = 1; else $cardinal = 0;
+   //Poner 2 para anular.
+   $pasivo = $_GET["cajapasivo"];
+   $dependiente = $_GET["cajadependiente"];
+   $privado = $_GET["cajaprivado"];
+   $anualcasa2 = $_GET["cajaanualcasa2"];
+   $anualcasa10 = $_GET["cajaanualcasa10"];
+   $signo = calcularsigno($dia, $mes);
+   astrologia();
+   $nombre = $_GET["cajanombre"];
+   $numeneagrama = calcularnumeneagrama($dia, $mes, $anio);
+   eneagrama();
+   aniosdecambio();
+   nombreroscopo();
+   $num = calcularnumnodonorte(); 
+   nodonorte($num);
+   tzolkinmaya();
+   if (isset($_GET["cajacaracmanifestante"]))
+    $caracmanifestante = 1; else $caracmanifestante = 0;
+   if (isset($_GET["cajagenerador"]))
+    $generador = 1; else $generador = 0;
+   if (isset($_GET["cajaproyector"]))
+    $proyector = 1; else $proyector = 0;
+   if (isset($_GET["cajareflector"]))
+    $reflector = 1; else $reflector = 0;
+   if (isset($_GET["cajamanifestante"]))
+    $manifestante = 1; else $manifestante = 0;
+   if ($manifestante == 1) $caracmanifestante = 1;
+   $mision = $_GET["cajamision"];
+   $chino = $_GET["cajachino"];
+   diseniohumano();  
+   cejas();
+   $hombre = $_GET["cajahombre"];
+   $numerokwa = calcularnumerokwa();
+   kwa();
+   zodchino();
+   personaljung();
+   $manocuadrada = $_GET["cajamanocuadrada"];
+   $manoespatula = $_GET["cajamanoespatula"];
+   $manogigante = $_GET["cajamanogigante"];
+   $manoconica = $_GET["cajamanoconica"];
+   $manonudosa = $_GET["cajamanonudosa"];
+   $manoespiritual = $_GET["cajamanoespiritual"];
+   manos();
+   diseniomiscanales();
+  }
+  if ($modoprograma == 1)
+  {
+   // Carta de revolución solar (entre cumpleaños).
+   // Júpiter Géminis 12. ¿Expando el conocimiento espiritual (12)? 
+   // Saturno Piscis. ¿Diluyo las ilusiones?
+   // Urano Tauro 11. ¿Proyectos sociales que duran y se consolidan en grupos (11)?
+   // Neptuno Piscis 10. ¿Mucha espiritualidad en el trabajo?
+   // Casa 11 Aries. ¿Ser pionero en grupos / estructuras sociales?
+   // MIS DATOS:
+   //$dia = 3;
+   //$anio = 1977;
+   //$casa2 = 11;
+   //$casa10 = 8;
+   //$ascendente = 10;
+   //$luna = 5;
+   //$mes = 11;
+   //$cartaanualmision = 4;
+   //$cartaanualhabilidad = 8;
+   //$mutable = 1;
+   //$fijo = 0;
+   //$cardinal = 0;
+   //$pasivo = 1;
+   //$dependiente = 1;
+   //$privado = 1;
+   //$anualcasa2 = 5;
+   //$anualcasa10 = 12;
+   //$nombre = "Luis Mateos Armada";
+   //$caracmanifestante = 0;
+   //$generador = 1;
+   //$proyector = 0;
+   //$reflector = 0;
+   //$manifestante = 0;
+   //$mision = 46;
+   //$chino = 6;
+   //$hombre = 1;
+   //$manocuadrada = 0;
+   //$manoespatula = 0.25;
+   //$manogigante = 0;
+   //$manoconica = 0;
+   //$manonudosa = 1;
+   //$manoespiritual = 0;
+   $dia = 3;
+   $anio = 1977;
+   $casa2 = 11;
+   $casa10 = 8;
+   $ascendente = 10;
+   $luna = 5;
+   $mes = 11;
+   $cartaanualmision = 4;
+   $cartaanualhabilidad = 8;
+   $mutable = 1;
+   $fijo = 0;
+   $cardinal = 0;
+   $pasivo = 1;
+   $dependiente = 1;
+   $privado = 1;
+   $anualcasa2 = 5;
+   $anualcasa10 = 12;
+   $nombre = "Luis Mateos Armada";
+   $caracmanifestante = 0;
+   $generador = 1;
+   $proyector = 0;
+   $reflector = 0;
+   $manifestante = 0;
+   $mision = 46;
+   $chino = 6;
+   $hombre = 1;
+   $manocuadrada = 0;
+   $manoespatula = 0.25;
+   $manogigante = 0;
+   $manoconica = 0;
+   $manonudosa = 1;
+   $manoespiritual = 0;
+   $signo = calcularsigno($dia, $mes);
+   astrologia();
+   $numeneagrama = calcularnumeneagrama($dia, $mes, $anio);
+   eneagrama();
+   aniosdecambio();
+   nombreroscopo();
+   $num = calcularnumnodonorte(); 
+   nodonorte($num);
+   tzolkinmaya();
+   if ($manifestante == 1) $caracmanifestante = 1;
+   diseniohumano();  
+   cejas();
+   $numerokwa = calcularnumerokwa();
+   kwa();
+   zodchino();
+   personaljung();
+   manos();
+   diseniomiscanales();
+  }
  }
 
  function datos()
@@ -264,7 +330,311 @@
   <option VALUE="2020">2020</option>
   </select>
 
+  Casa 2 Carta
+  <select NAME="cajacasa2">
+   <option VALUE="0">0</option>
+   <option VALUE="1">1</option>
+   <option VALUE="2">2</option>
+   <option VALUE="3">3</option>
+   <option VALUE="4">4</option>
+   <option VALUE="5">5</option>
+   <option VALUE="6">6</option>
+   <option VALUE="7">7</option>
+   <option VALUE="8">8</option>
+   <option VALUE="9">9</option>
+   <option VALUE="10">10</option>
+   <option VALUE="11">11</option>
+   <option VALUE="12">12</option>
+  </select>  
+
+  Casa 10 Carta
+  <select NAME="cajacasa10">
+   <option VALUE="0">0</option>
+   <option VALUE="1">1</option>
+   <option VALUE="2">2</option>
+   <option VALUE="3">3</option>
+   <option VALUE="4">4</option>
+   <option VALUE="5">5</option>
+   <option VALUE="6">6</option>
+   <option VALUE="7">7</option>
+   <option VALUE="8">8</option>
+   <option VALUE="9">9</option>
+   <option VALUE="10">10</option>
+   <option VALUE="11">11</option>
+   <option VALUE="12">12</option>
+  </select>
+
+  Casa 2 Carta 12 meses
+  <select NAME="cajaanualcasa2">
+   <option VALUE="0">0</option>
+   <option VALUE="1">1</option>
+   <option VALUE="2">2</option>
+   <option VALUE="3">3</option>
+   <option VALUE="4">4</option>
+   <option VALUE="5">5</option>
+   <option VALUE="6">6</option>
+   <option VALUE="7">7</option>
+   <option VALUE="8">8</option>
+   <option VALUE="9">9</option>
+   <option VALUE="10">10</option>
+   <option VALUE="11">11</option>
+   <option VALUE="12">12</option>
+  </select>  
+
+  Casa 10 Carta 12 meses 
+  <select NAME="cajaanualcasa10">
+   <option VALUE="0">0</option>
+   <option VALUE="1">1</option>
+   <option VALUE="2">2</option>
+   <option VALUE="3">3</option>
+   <option VALUE="4">4</option>
+   <option VALUE="5">5</option>
+   <option VALUE="6">6</option>
+   <option VALUE="7">7</option>
+   <option VALUE="8">8</option>
+   <option VALUE="9">9</option>
+   <option VALUE="10">10</option>
+   <option VALUE="11">11</option>
+   <option VALUE="12">12</option>
+  </select>
+
+  Ascendente
+  <select NAME="cajaascendente">
+   <option VALUE="0">0</option>
+   <option VALUE="1">1</option>
+   <option VALUE="2">2</option>
+   <option VALUE="3">3</option>
+   <option VALUE="4">4</option>
+   <option VALUE="5">5</option>
+   <option VALUE="6">6</option>
+   <option VALUE="7">7</option>
+   <option VALUE="8">8</option>
+   <option VALUE="9">9</option>
+   <option VALUE="10">10</option>
+   <option VALUE="11">11</option>
+   <option VALUE="12">12</option>
+  </select>
+
+  Luna 
+  <select NAME="cajaluna">
+   <option VALUE="0">0</option>
+   <option VALUE="1">1</option>
+   <option VALUE="2">2</option>
+   <option VALUE="3">3</option>
+   <option VALUE="4">4</option>
+   <option VALUE="5">5</option>
+   <option VALUE="6">6</option>
+   <option VALUE="7">7</option>
+   <option VALUE="8">8</option>
+   <option VALUE="9">9</option>
+   <option VALUE="10">10</option>
+   <option VALUE="11">11</option>
+   <option VALUE="12">12</option>
+  </select>
+
+  Misión 12 meses
+  <select NAME="cajacartaanualmision">
+   <option VALUE="0">0</option>
+   <option VALUE="1">1</option>
+   <option VALUE="2">2</option>
+   <option VALUE="3">3</option>
+   <option VALUE="4">4</option>
+   <option VALUE="5">5</option>
+   <option VALUE="6">6</option>
+   <option VALUE="7">7</option>
+   <option VALUE="8">8</option>
+   <option VALUE="9">9</option>
+   <option VALUE="10">10</option>
+   <option VALUE="11">11</option>
+   <option VALUE="12">12</option>
+  </select>
+
+  Luna 12 meses
+  <select NAME="cajacartaanualhabilidad">
+   <option VALUE="0">0</option>
+   <option VALUE="1">1</option>
+   <option VALUE="2">2</option>
+   <option VALUE="3">3</option>
+   <option VALUE="4">4</option>
+   <option VALUE="5">5</option>
+   <option VALUE="6">6</option>
+   <option VALUE="7">7</option>
+   <option VALUE="8">8</option>
+   <option VALUE="9">9</option>
+   <option VALUE="10">10</option>
+   <option VALUE="11">11</option>
+   <option VALUE="12">12</option>
+  </select>
+
+  Misión Diseño Humano
+  <select NAME="cajamision">
+   <option VALUE="0">0</option>
+   <option VALUE="13">13</option>
+   <option VALUE="14">14</option>
+   <option VALUE="24">24</option>
+   <option VALUE="25">25</option>
+   <option VALUE="35">35</option>
+   <option VALUE="36">36</option>
+   <option VALUE="41">41</option>
+   <option VALUE="46">46</option>
+   <option VALUE="51">51</option>
+   <option VALUE="52">52</option>
+   <option VALUE="62">62</option>
+   <option VALUE="63">63</option>
+  </select>
+
+  Zodiaco chino 
+  <select NAME="cajachino">
+   <option VALUE="0">0</option>
+   <option VALUE="1">1</option>
+   <option VALUE="2">2</option>
+   <option VALUE="3">3</option>
+   <option VALUE="4">4</option>
+   <option VALUE="5">5</option>
+   <option VALUE="6">6</option>
+   <option VALUE="7">7</option>
+   <option VALUE="8">8</option>
+   <option VALUE="9">9</option>
+   <option VALUE="10">10</option>
+   <option VALUE="11">11</option>
+   <option VALUE="12">12</option>
+  </select>
+  
+  Mano cuadrada / pequeña
+  <select NAME="cajamanocuadrada">
+   <option VALUE="0">0</option>
+   <option VALUE="0.25">0.25</option>
+   <option VALUE="0.5">0.5</option>
+   <option VALUE="0.75">0.75</option>
+   <option VALUE="1">1</option>
+  </select>
+
+  Mano espátula (final / dedos)
+  <select NAME="cajamanoespatula">
+   <option VALUE="0">0</option>
+   <option VALUE="0.25">0.25</option>
+   <option VALUE="0.5">0.5</option>
+   <option VALUE="0.75">0.75</option>
+   <option VALUE="1">1</option>
+  </select>
+
+  Mano gigante / primaria
+  <select NAME="cajamanogigante">
+   <option VALUE="0">0</option>
+   <option VALUE="0.25">0.25</option>
+   <option VALUE="0.5">0.5</option>
+   <option VALUE="0.75">0.75</option>
+   <option VALUE="1">1</option>
+  </select>
+
+  Mano cónica
+  <select NAME="cajamanoconica">
+   <option VALUE="0">0</option>
+   <option VALUE="0.25">0.25</option>
+   <option VALUE="0.5">0.5</option>
+   <option VALUE="0.75">0.75</option>
+   <option VALUE="1">1</option>
+  </select>
+
+  Mano nudosa / bultosa / se ensancha y se estrecha 
+  <select NAME="cajamanonudosa">
+   <option VALUE="0">0</option>
+   <option VALUE="0.25">0.25</option>
+   <option VALUE="0.5">0.5</option>
+   <option VALUE="0.75">0.75</option>
+   <option VALUE="1">1</option>
+  </select>
+
+  Mano espiritual / larga y fina
+  <select NAME="cajamanoespiritual">
+   <option VALUE="0">0</option>
+   <option VALUE="0.25">0.25</option>
+   <option VALUE="0.5">0.5</option>
+   <option VALUE="0.75">0.75</option>
+   <option VALUE="1">1</option>
+  </select>
+
+  Hombre o mujer
+  <select NAME="cajahombre">
+   <option VALUE="2">vacío</option>
+   <option VALUE="1">Hombre</option>
+   <option VALUE="0">Mujer</option>
+  </select>
+
+  Pasivo o NO pasivo
+  <select NAME="cajapasivo">
+   <option VALUE="2">vacío</option>
+   <option VALUE="1">Pasivo</option>
+   <option VALUE="0">NO pasivo</option>
+  </select>
+
+  Dependiente o NO dependiente
+  <select NAME="cajadependiente">
+   <option VALUE="2">vacío</option>
+   <option VALUE="1">Dependiente</option>
+   <option VALUE="0">NO dependiente</option>
+  </select>
+
+  Privado o NO privado
+  <select NAME="cajaprivado">
+   <option VALUE="2">vacío</option>
+   <option VALUE="1">Privado</option>
+   <option VALUE="0">NO privado</option>
+  </select>
+
+  Calidad de mutable 12 meses
+  <input type="checkbox" name="cajamutable">
+  Calidad de fijo 12 meses
+  <input type="checkbox" name="cajafijo">
+  Calidad de cardinal 12 meses
+  <input type="checkbox" name="cajacardinal">
+  Calidad de manifestante Diseño Humano
+  <input type="checkbox" name="cajacaracmanifestante">
+  Clase generador Diseño Humano
+  <input type="checkbox" name="cajagenerador">
+  Clase proyector Diseño Humano
+  <input type="checkbox" name="cajaproyector">
+  Clase proyector Diseño Humano
+  <input type="checkbox" name="cajareflector">
+  Clase manifestante Diseño Humano
+  <input type="checkbox" name="cajamanifestante">
+
   <INPUT TYPE=submit VALUE="OK">
+
+  <BR><BR><BR>
+  // MIS DATOS:
+  $dia = 3;
+  $anio = 1977;
+  $casa2 = 11;
+  $casa10 = 8;
+  $ascendente = 10;
+  $luna = 5;
+  $mes = 11;
+  $cartaanualmision = 4;
+  $cartaanualhabilidad = 8;
+  $mutable = 1;
+  $fijo = 0;
+  $cardinal = 0;
+  $pasivo = 1;
+  $dependiente = 1;
+  $privado = 1;
+  $anualcasa2 = 5;
+  $anualcasa10 = 12;
+  $nombre = "Luis Mateos Armada";
+  $caracmanifestante = 0;
+  $generador = 1;
+  $proyector = 0;
+  $reflector = 0;
+  $manifestante = 0;
+  $mision = 46;
+  $chino = 6;
+  $hombre = 1;
+  $manocuadrada = 0;
+  $manoespatula = 0.25;
+  $manogigante = 0;
+  $manoconica = 0;
+  $manonudosa = 1;
+  $manoespiritual = 0;
 
   </FORM>
  <?php
