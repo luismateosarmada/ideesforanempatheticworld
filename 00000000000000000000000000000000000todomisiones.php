@@ -43,13 +43,13 @@
   //$manoconica = 0;
   //$manonudosa = 1;
   //$manoespiritual = 0;
-  $dia = 3;
+  $dia = $_GET["cajadia"];
   $anio = $_GET["cajaanio"];
   $casa2 =11;
   $casa10 = 8;
   $ascendente = 10;
   $luna = 5;
-  $mes = 11;
+  $mes = $_GET["cajames"];
   $cartaanualmision = 4;
   $cartaanualhabilidad = 8;
   $mutable = 1;
@@ -63,7 +63,7 @@
   $anualcasa10 = 12;
   $signo = calcularsigno($dia, $mes);
   astrologia();
-  $nombre = "Luis Mateos Armada";
+  $nombre = $_GET["cajanombre"];
   $numeneagrama = calcularnumeneagrama($dia, $mes, $anio);
   eneagrama();
   aniosdecambio();
@@ -99,9 +99,60 @@
  {
   global $PHP_SELF;
   ?>
-  <FORM ACTION="<?php echo $PHP_SELF; ?>" METHOD=GET>
+  <FORM ACTION="<?php echo $PHP_SELF; ?>" VALUE="1977" METHOD=GET>
+  Nombre
+  <input type= "text" NAME="cajanombre" VALUE="Luis Mateos Armada">
+  Día
+  <select NAME="cajadia">
+   <option VALUE="1">1</option>
+   <option VALUE="2">2</option>
+   <option VALUE="3">3</option>
+   <option VALUE="4">4</option>
+   <option VALUE="5">5</option>
+   <option VALUE="6">6</option>
+   <option VALUE="7">7</option>
+   <option VALUE="8">8</option>
+   <option VALUE="9">9</option>
+   <option VALUE="10">10</option>
+   <option VALUE="11">11</option>
+   <option VALUE="12">12</option>
+   <option VALUE="13">13</option>
+   <option VALUE="14">14</option>
+   <option VALUE="15">15</option>
+   <option VALUE="16">16</option>
+   <option VALUE="17">17</option>
+   <option VALUE="18">18</option>
+   <option VALUE="19">19</option>
+   <option VALUE="20">20</option>
+   <option VALUE="21">21</option>
+   <option VALUE="22">22</option>
+   <option VALUE="23">23</option>
+   <option VALUE="24">24</option>
+   <option VALUE="25">25</option>
+   <option VALUE="26">26</option>
+   <option VALUE="27">27</option>
+   <option VALUE="28">28</option>
+   <option VALUE="29">29</option>
+   <option VALUE="30">30</option>
+   <option VALUE="31">31</option>
+  </select>
+  Mes
+  <select NAME="cajames">
+   <option VALUE="1">1</option>
+   <option VALUE="2">2</option>
+   <option VALUE="3">3</option>
+   <option VALUE="4">4</option>
+   <option VALUE="5">5</option>
+   <option VALUE="6">6</option>
+   <option VALUE="7">7</option>
+   <option VALUE="8">8</option>
+   <option VALUE="9">9</option>
+   <option VALUE="10">10</option>
+   <option VALUE="11">11</option>
+   <option VALUE="12">12</option>
+  </select>
+  Año
   <select NAME="cajaanio">
-  <option VALUE="-1">--</option>
   <option VALUE="1922">1922</option>
   <option VALUE="1923">1923</option>
   <option VALUE="1924">1924</option>
@@ -246,21 +297,21 @@
 
   //Ascendente.
   if ($ascendente != 0)
-  echo("####Misión para ascendente ".numeroatexto($ascendente).'. Gente con la energía de tu ascendente, "presionando" (también pueden ser necios quienes te hablan). De niño (< 8 años) la situación es muy suave (nos estamos formando). En la adolescencia, si el ascendente es Tauro... te puedes retraer. '.calculartextoascendente($ascendente)."<BR>");
+  echo("<BR>####Misión para ascendente ".numeroatexto($ascendente).'. Gente con la energía de tu ascendente, "presionando" (también pueden ser necios quienes te hablan). De niño (< 8 años) la situación es muy suave (nos estamos formando). En la adolescencia, si el ascendente es Tauro... te puedes retraer. '.calculartextoascendente($ascendente)."<BR>");
 
   //Luna.
   if ($luna != 0)
-  echo('####Luna / "habilidades, sensibilidad y emociones" '.numeroatexto($luna).". ".calculartextoluna($luna)."<BR>");
+  echo('<Br>####Luna / "habilidades, sensibilidad y emociones" '.numeroatexto($luna).". ".calculartextoluna($luna)."<BR>");
 
   //Mes.
   $textomes = mesatexto($mes);
-  echo ("####Misión para el mes ".$textomes.": ");  
+  echo ("<BR>####Misión para el mes ".$textomes.": ");  
   $textomision = calculartextomisionmes($mes);
   echo ($textomision."<BR>");
 
   //Carta anual (de revolución solar).
   $textocartaanual = calculartextocartaanual($cartaanualmision, $cartaanualhabilidad, $anualcasa2, $anualcasa10, $mutable, $fijo, $cardinal, $pasivo, $dependiente, $privado);
-  echo ("####Carta anual (entre cumpleaños, de revolución solar):".$textocartaanual);
+  echo ("<BR>####Carta anual (entre cumpleaños, de revolución solar):".$textocartaanual);
  } // Fin de función "astrología".
 
  function  calculartextocartaanual($cartaanualmision, $cartaanualhabilidad, $anualcasa2, $anualcasa10, $mutable, $fijo, $cardinal, $pasivo, $dependiente, $privado)
@@ -1339,7 +1390,7 @@ Exceso planetas: dependencia de la fortuna de los demás y estar atado a interes
  function eneagrama()
  {
   global $numeneagrama;
-  echo ("####Eneagrama ".$numeneagrama);
+  echo ("<BR><BR>####Eneagrama ".$numeneagrama);
 
   $numeneagrama2 = $numeneagrama;
   if ($numeneagrama == 11) 
@@ -1567,7 +1618,7 @@ Les conviene el deporte para liberar su exceso de adrenalina. Luchar es muchas v
   global $manifestante;
   global $mision;
 
-  echo("####Diseño Humano:<BR>");
+  echo("<BR><BR>####Diseño Humano:<BR>");
   // Si es manifestante, poner el trozo de manifestante.
   if ($manifestante == 1) $caracmanifestante = 1;
   if ($caracmanifestante == 1)
