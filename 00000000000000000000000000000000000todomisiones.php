@@ -1674,7 +1674,7 @@ Exceso planetas: dependencia de la fortuna de los demás y estar atado a interes
   
   echo("<BR>##Significado de los números:");
   // if mascarabruta == 44...
-  $mascarabruta = 38;
+  // $mascarabruta = 38;
   $mascarabruta2 = reducir($mascarabruta);
   if ( ($mascarabruta2 % 11 == 0) && ($mascarabruta2 <= 44) )
   {
