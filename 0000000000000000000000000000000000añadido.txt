@@ -1782,14 +1782,20 @@ Les conviene el deporte para liberar su exceso de adrenalina. Luchar es muchas v
   global $manonudosa;
   global $manoespiritual;
  
-  echo('<BR><BR>####Manos (cuadrada: pequeña; espátula: final dedos; gigante: primaria; cónica: dedos, nudosa : hueso dedos se ensancha, espiritual: fina y larga; las mixtas son de personas inteligentes, pero erráticas aplicando talentos. Ideas, diplomacia y tacto.):');
+  echo('<BR><BR>####Manos (cuadrada: pequeña; espátula: final dedos; gigante: primaria; cónica: dedos; nudosa: hueso dedos se ensancha; espiritual: fina y larga; las mixtas son de personas inteligentes, pero erráticas aplicando talentos. Ideas, diplomacia y tacto. ¿Lógicos y creativos, adaptables?):');
 
-  if ($manocuadrada > 0) echo('<BR>- '.$manocuadrada.' Cuadrada: pequeñita. ¿Piel gruesa y roja? Metódicos, aman la seguridad. Son de lógica y paz, no de instinto. Fuertes y con apego a lo material. ¿Son los artesanos (dudas sobre la misión laboral)?');
-  if ($manoespatula > 0) echo('<BR>- '.$manoespatula.' Espátula (dedos, yo, un poco): dedos + cortos que palma (palma relativamente grande). Piel rosada. Entusiastas, detallistas, optimistas. Percepción original. Vanidosos a veces. ¿Son los carpinteros... Aquí sí que tengo dudas.');
-  if ($manogigante > 0) echo('<BR>- '.$manogigante.' Primaria (gigantesca): conformistas, trabajos físicos o pesados, apasionados, materialistas, poco arriesgados.');
-  if ($manoconica > 0) echo('<BR>- '.$manoconica.' Cónica: sensibles, ¿aman la tecnología? Se aburren fácilmente. Hábiles investigadores, activos y creativos. Lujo e indolencia. No razonan, juzgan por instinto e impulso. Conversadores generosos, simpáticos...');
-  if ($manonudosa > 0) echo('<BR>- '.$manonudosa.' Nudosa (yo, dedos suelen ser flacos y con nudos / ensanchamientos breves): suele ser organizado. Fuertes valores morales (bah, los mínimos). Material o psíquico (según los nudos). Sinceridad, profundos, líderes naturales. Rara vez se olvidan de sus fallos (de lo negativo, querrá decir). Uñas con terminación ancha (suave o recta / cuadrada).');
-  if ($manoespiritual > 0) echo('<BR>- '.$manoespiritual.' Mística / artística (larguísima / agua vs cuadrada / tierra): dedos cónicos. Débiles físicamente e inestables emocionalmente. Uñas almendradas (abajo un poco recto, y terminan suave, al revés que la avellanada). Fácilmente influenciables (por gurús... ¡Un peligro la gente que se deja llevar!) y poco lógicos. Piel suave, flexible, blanda y rosada (¿y atractiva?). Perezosos.');
+  if ($manocuadrada > 0) echo('<BR>- '.$manocuadrada.' Cuadrada: pequeña.
+* Pequeñita. ¿Piel gruesa y roja? Metódicos, aman la seguridad. Son de lógica y paz, no de instinto. Fuertes y con apego a lo material. Suelen destacar en ocupaciones que requieren precisión, esfuerzo físico y una mentalidad lógica. ¿Artesanos?');
+  if ($manoespatula > 0) echo('<BR>- '.$manoespatula.' Espátula: final dedos.
+* Dedos + cortos que palma (palma relativamente grande). Piel rosada. Entusiastas, detallistas, optimistas. Percepción original. Vanidosos a veces. Fuerza física y resistencia. ¿Mineros y butaneros?');
+  if ($manogigante > 0) echo('<BR>- '.$manogigante.' Gigante: primaria.
+* Conformistas, trabajos físicos o pesados, apasionados, materialistas, poco arriesgados.');
+  if ($manoconica > 0) echo('<BR>- '.$manoconica.' Cónica: dedos.
+* Sensibles, ¿aman la tecnología? Se aburren fácilmente. Hábiles investigadores, activos y creativos. Lujo e indolencia. No razonan, juzgan por instinto e impulso. Conversadores generosos, simpáticos... Trabajo: imaginación, expresión y cierta sensibilidad hacia las emociones ajenas.');
+  if ($manonudosa > 0) echo('<BR>- '.$manonudosa.' Nudosa (el filósofo): hueso dedos se ensancha durante "un centímetro".
+* Suele ser organizado y paciente. Fuertes valores morales. Material o psíquico (según los nudos). Sinceridad, profundos, líderes naturales. Rara vez se olvidan de sus fallos. Uñas con terminación ancha (suave o recta / cuadrada). ¿Buenos para atención al detalle y esfuerzo constante? ¿Hacer bases de datos y "enciclopedias"? ¿Puede ser buen psicólogo?');
+  if ($manoespiritual > 0) echo('<BR>- '.$manoespiritual.' Espiritual: fina y larga (agua vs cuadrada / tierra).
+* Dedos cónicos. Débiles físicamente e inestables emocionalmente. Uñas almendradas (abajo un poco recto, y terminan suave, al revés que la avellanada). Fácilmente influenciables (por gurús...) y poco lógicos. Piel suave, flexible, blanda y rosada (¿y atractiva?). ¿Mediums?');
  }
 
  function personalJung()
