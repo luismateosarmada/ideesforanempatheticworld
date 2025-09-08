@@ -59,7 +59,8 @@
   $intento4 = $_POST["intento4"];
   $ristra = $_POST["ristra"];
   array_push($_SESSION["intentos"], $intento1, $intento2, $intento3, $intento4, $ristra);
-  header("Location: ses4.php");
+  header("Location: ".$_SERVER["PHP_SELF"]);
+  exit();
  }
  else
  if ( (!isset ($_SESSION["nivel"])) &&
@@ -285,3 +286,4 @@ function datos()
  }
 
 ?>
+
