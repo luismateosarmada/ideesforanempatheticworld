@@ -407,3 +407,89 @@
 - NO dejaron a la mejor amiga de Noelia despedirse de ella. Quieren eutanasia, algo que produce un karma terrible (como los suicidios, abortos...). El alma ya pactó un montón de cosas antes del nacimiento, y si NO suceden...
 - Los filántropos de verdad NO tiene placas de oro, me gustas...
 ----------
+BOTONES CON PREGUNTAS (LAS PREGUNTAS CAMBIAN CON OTRO BOTÓN).
+<?php
+ $pregunta01 = array('preg' => "hola1", 'resp' => "adios1");
+ $pregunta02 = array('preg' => "hola2", 'resp' => "adios2");
+ $pregunta03 = array('preg' => "hola3", 'resp' => "adios3");
+ $pregunta04 = array('preg' => "hola4", 'resp' => "adios4");
+ $preguntas = array($pregunta01, $pregunta02, $pregunta03, $pregunta04); 
+ $numpreguntas = count($preguntas);
+
+ global $PHP_SELF;
+
+ session_start();
+
+ $hayrespuesta = 0;
+
+ if (isset ($_GET["elegir"]))
+ {
+  $b1var = 1;
+  $b2var = 2;
+  $b3var = 3;
+  for ($i = 0; $i < $numpreguntas; $i++)
+   $elegidasbool[$i] = 0;
+  for ($num_boton = 0; $num_boton < 3; $num_boton++)
+  {
+   $pregelegida = rand(1, $numpreguntas);
+   $num_intentos = 0;
+   while (($num_intentos < 10) && ($elegidasbool[$pregelegida - 1] == 1))
+   {
+    $pregelegida = rand(1, $numpreguntas);
+    $num_intentos++;
+   }
+   $elegidasbool[$pregelegida - 1] = 1;
+   $aux = $pregelegida;
+   if ($num_boton == 0) $b1var = $aux;
+   if ($num_boton == 1) $b2var = $aux;
+   if ($num_boton == 2) $b3var = $aux;
+  }
+  $_SESSION["sb1"] = $b1var;
+  $_SESSION["sb2"] = $b2var;
+  $_SESSION["sb3"] = $b3var;
+ }
+ else
+ if ( (isset ($_GET["b1"])) || (isset ($_GET["b2"])) || (isset ($_GET["b3"])) )
+ {
+  $b1var = $_SESSION["sb1"];
+  $b2var = $_SESSION["sb2"];
+  $b3var = $_SESSION["sb3"];
+  $hayrespuesta = 1;
+  if (isset ($_GET["b1"]))
+   $respuesta = $preguntas[$b1var - 1]["resp"];
+  if (isset ($_GET["b2"]))
+   $respuesta = $preguntas[$b2var - 1]["resp"];
+  if (isset ($_GET["b3"]))
+   $respuesta = $preguntas[$b3var - 1]["resp"];
+ }
+ else
+ {
+  $b1var = 1;
+  $b2var = 2;
+  $b3var = 3;
+  $_SESSION["sb1"] = 1;
+  $_SESSION["sb2"] = 2;
+  $_SESSION["sb3"] = 3;
+ }  
+?>
+<FORM ACTION="<?php echo $PHP_SELF; ?>" METHOD=GET>
+<INPUT TYPE=hidden NAME="b1" VALUE="b1">
+<INPUT TYPE=submit VALUE=<?php echo $preguntas[$b1var - 1]["preg"]; ?>>
+</FORM>
+<FORM ACTION="<?php echo $PHP_SELF; ?>" METHOD=GET>
+<INPUT TYPE=hidden NAME="b2" VALUE="b2">
+<INPUT TYPE=submit VALUE=<?php echo $preguntas[$b2var - 1]["preg"]; ?>>
+</FORM>
+<FORM ACTION="<?php echo $PHP_SELF; ?>" METHOD=GET>
+<INPUT TYPE=hidden NAME="b3" VALUE="b3">
+<INPUT TYPE=submit VALUE=<?php echo $preguntas[$b3var - 1]["preg"]; ?>>
+</FORM>
+<FORM ACTION="<?php echo $PHP_SELF; ?>" METHOD=GET>
+<INPUT TYPE=hidden NAME="elegir" VALUE="elegir">
+<INPUT TYPE=submit VALUE="Elegir">
+</FORM>
+<?php
+if ($hayrespuesta == 1)
+ echo $respuesta;
+?>
+----------
