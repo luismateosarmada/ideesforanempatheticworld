@@ -1,8 +1,10 @@
-####001a01pregs vitales y libro.txt  - Las 3 Preguntas de la Vida:
-* Introducción. Con C++ Builder (sí, funciona con Windows 10, con proyectos preexistentes) o Delphi, puedes hacer aplicaciones fácilmente con botoncitos que, al ser pulsados, activan un mensaje. Un ejemplo (CADA BOTÓN ES "UNA PREGUNTA VITAL"). Imagen asociada: dolmen de ZX Spectrum (cuadrículas 4 x 4 con un solo color y un solo fondo; un "Paint" mío): lo clásico es fácil y útil:
-* Botón 1 (imagen: lengua / hablar de más = 666). ¿Por qué la gente critica / habla de los demás? Para NO mirar dentro, es una forma de autodefensa ante la debilidad mental (a la gente le gusta verse completa por dentro). ¡ASÍ ES DIFÍCIL AMARLOS / APRECIARLOS, Y PUEDEN DEPRIMIRTE, INCLUSO LLEVARTE AL SUICIDIO! Los errores son humanos, y el complejo de superioridad viene del de inferioridad.
-* Botón 2 (imagen: poco :), y signo de conjunto vacío). ¿Cómo es bueno vivir? Modestamente, pero en un entorno maravilloso (natural). Las ciudades son concentración de poder (son "paias"). Fíjate en las necesidades esenciales y agradece (la cama te permite descansar...). Imagen al mínimo, para una autoestima sana. Puedes decorar una habitación (¿es más fácil si dejas alguna parte vacía?), pero NO el cuerpo. Con pocos elementos, mejor (selecciona y ordena).
-* Botón 3 (imagen: soledad deseada, sutilidad, buenas). ¿Cuál es el objetivo? Minimizar las necesidades de aprender... y estar a solas con nosotros mismos, para mejorarnos. Que nadie se crea algo (la gente menos elevada suele tener más dones de supervivencia 3D, la vida compensa / equilibra). Bueno (para la inteligencia integral): cambiar cada poco de tipo de trabajo, y escribir sobre los sentimientos (entonces, calma, que además, te aleja del modo supervivencia / egoísta; y poco estímulo externo).
+####00100frases iniciales.txt  ####Frases iniciales (aquí, sólo una, en mi Facebook, Luis Mateos Armada, álbum Mi HTML y su "gemelo", más):
+- NO quiero ir con creídos (poco modestos), por ejemplo, el "monstruo" que se dice "espiritual" (humano en paz, contemplativo y paciente), y que NO se basa en el psicoanálisis (la misión sutil, la de los preferidos de Dios, consiste en incomodar a la gente: sin una sola palabra, hace que miren dentro, como por arte de magia), es un fraude total, uno NO es espiritual por relajarse, porque es "un niño" y lo necesita. Una persona elevada NO ama "ir de garitos por la madrugada", selecciona gente... selecciona de todo
+####00201pregs vitales y libro.txt  ####Las 3 Preguntas de la Vida:
+- Introducción. Con C++ Builder (sí, funciona con Windows 10, con proyectos preexistentes) o Delphi, puedes hacer aplicaciones fácilmente con botoncitos que, al ser pulsados, activan un mensaje. Un ejemplo (CADA BOTÓN ES "UNA PREGUNTA VITAL"). Imagen asociada: dolmen de ZX Spectrum (cuadrículas 4 x 4 con un solo color y un solo fondo; un "Paint" mío): lo clásico es fácil y útil:
+- Botón 1 (imagen: lengua / hablar de más = 666). ¿Por qué la gente critica / habla de los demás? Para NO mirar dentro, es una forma de autodefensa ante la debilidad mental (a la gente le gusta verse completa por dentro). ¡ASÍ ES DIFÍCIL AMARLOS / APRECIARLOS, Y PUEDEN DEPRIMIRTE, INCLUSO LLEVARTE AL SUICIDIO! Los errores son humanos, y el complejo de superioridad viene del de inferioridad.
+- Botón 2 (imagen: poco :), y signo de conjunto vacío). ¿Cómo es bueno vivir? Modestamente, pero en un entorno maravilloso (natural). Las ciudades son concentración de poder (son "paias"). Fíjate en las necesidades esenciales y agradece (la cama te permite descansar...). Imagen al mínimo, para una autoestima sana. Puedes decorar una habitación (¿es más fácil si dejas alguna parte vacía?), pero NO el cuerpo. Con pocos elementos, mejor (selecciona y ordena).
+- Botón 3 (imagen: soledad deseada, sutilidad, buenas). ¿Cuál es el objetivo? Minimizar las necesidades de aprender... y estar a solas con nosotros mismos, para mejorarnos. Que nadie se crea algo (la gente menos elevada suele tener más dones de supervivencia 3D, la vida compensa / equilibra). Bueno (para la inteligencia integral): cambiar cada poco de tipo de trabajo, y escribir sobre los sentimientos (entonces, calma, que además, te aleja del modo supervivencia / egoísta; y poco estímulo externo).
 ########Escribir un libro, ¿me queda grande? Probablemente, así que, a dedicar tiempo pa poco producto:
 ####¡QUÉ FELIZ ERA YO CON MI ZX SPECTRUM! INTRODUCCIÓN:
 - La bondad tiene que ver con la modestia: aceptar las propias limitaciones (NO convertir un complejo de inferioridad en uno de superioridad; ojo, todo complejo de superioridad, empieza con uno de inferioridad):
@@ -83,7 +85,8 @@
 - Valoro la capacidad de comprender(se), NO la sonrisa. Y me siento más cómodo con gente mareada, con dolor de cabeza... NO son más tontos, usan la cabeza, y NO te matan con rapidez... Buscan la sencillez, el atajo...
 - En los medios de comunicación, hay representantes de los partidos políticos, y paran los pies a los buenos periodistas... NO se debe llamar Haarp a los Nextrads ("radares con bolita"): armas climáticas (por ejemplo, NO dejan entrar nubes, y lo llaman anticiclón: nos quieren engañar, LA CULPA NO ES DE LA GENTE; NOS CULPAN PARA IMPONER SUS MEDIDAS DE CONTROL).
 ####SELECCIÓN DE FRASES SUELTAS.####
-####002a02preguntitas aplicación.txt  - Sobre cambiar el destino / mejorar la vida.
+####00302preguntitas aplicación.txt  ####Preguntitas sobre las 3 preguntas vitales y el libro:
+- Sobre cambiar el destino / mejorar la vida.
 * Es en esencia cambiar de pruebas de vida, al haber superado las anteriores, con fuerza / modestia, aceptando cómo reaccionas, tus creencias... Cambio interior, cambio de destino.
 - ¿Cuál es la causa del complejo de superioridad?
 * El de inferioridad (es tapado). Muchos narcisistas reaccionan con rabia al verse dentro, acusando / criticando a otros. Su imagen / creencia es 'que NO son humanos'.
@@ -148,242 +151,11 @@ En aprender2.html:
 * Los masones engañan a Francia (Revolución) para cambiar la semibere Nobleza, por algo totalmente paio. Los franceses influirían en España (el principio del fin fue la desamortización de Mendizábal, que obligó a la gente a ir a la ciudad, donde los paios se hacen fuertes, controlan). ¿Fue la Reconquista una forma de librarse de judíos satánicos? ¿Pelayo existió, o era 'Paleio' (Colón era 'el buen Col', los col son paios asesinos, paiasos, pelo blanco con sangre)?
 - Cuestiones históricas IV.
 * Cristiano viene de Carestiu / Santiago (bastante antes del 'año cero'; un paio que propugnó que nos llevásemos bien paios y beres / buenos). ¿Y los musulmanes (como castigo divino) llegaron a España cuando se entró en un sitio de Toledo prohibido (por Canosa)? ¿El Catolicismo (Cutol = paio Kure / cura de la ciudad = tol) buscaba cargarse a beres españoles?
-####003a03físicoypsique.txt  Lo que pasa en tu cuerpo está inducido por la psique. ¿Te induce a caerte?
-####Psicología A:
-- Aborto espontáneo: miedo al futuro...
-- Accidentes: incapacidad de hacerse valer. Rebelión contra la autoridad.
-- Achaques: ansia de amor, deseo de ser abrazado.
-- Acné: no autoaceptarse / gustarse.
-- Adicciones: enfado por tomr decisiones equivocadas. Alcoholismo: sensación de NO ser importante, culpa e incapacidad. Autorechazo.
-- Aliento malo: rabia e ideas de venganza.
-- Alzheimer: negarse a enfrentar la vida. Desamparo y desesperanza.
-- Amigdalitis: miedo, emociones reprimidas. Creatividad aplastada.
-- Amnesia: miedo. Huída de la vida, incapacidad de defenderse.
-- Anemia: "sí, pero...". Falta de alegría. Miedo a la vida. Autodesvalorización.
-####Psicología A-B:
-- Ano: absceso (cólera realtiva a lo que NO se quiere soltar), dolor (culpa, deseo de castigo, NO valgo), Comezón (remordimiento, culpa por el pasado), fístula (aferrarse a las basuras del pasado).
-- Anorexia: mucho miedo. Rechazo y odio hacia uno mismo. NO a la vida.
-- Apatía: resistencia a sentir. Miedo.
-- Apendicitis: miedo a la vida. Bloqueado "el flujo del bien".
-- Sin apetito. Desconfianza de la vida. Exceso: necesidad de protección, juzgar las emociones.
-- Arañazos: sentir que la vida estafa / desgarra.
-- Arrugas: pensamientos depresivos...
-- Arterias: relacionadas con el júbilo de la vida.
-- Artritis reumatoidefuerte crítica a la autoridad, sensación de ser explotado. ¿Incluye resentimiento y NO ser amado (artritis normal)?
-- Asfixia: temor, desconfianza en el proceso de la vida, estancado en la infancia.
-- Asma (adultos): amor sofocado, incapacidad de respirar solo, "ahogo", llanto reprimido, ambiente tóxico.
-- Astigmatismo: temor a verse realmente.
-- Cálculos biliares: amargura, pensamientos rígidos, juicios condenatorios, orgullo del malo.
-- Bazo: obsesión, tendencia a abandonarse.
-- Boca: apertura. Opiniones rígidas / cerradas. Llagas: tendencia a culpar y a retener palabras violentas.
-####Psicología B-C:
-- Bocio: odio por haber sido agraviado. Victimización. Frustración e insatisfacción.
-- Brazos: abrazar las experiencias de la vida.
-- Bronquitis: ambiente familiar conflictivo (peleas, gritos, mal silencio...).
-- Bulimia: terror desesperado. ¿Odio a uno mismo?
-- Cabello: libertad, poder. Calvicie: miedo y tensión. Intento de controlarlo todo. Desconfianza en el proceso de la vida.
-* Canas: estrés. Presión machacante y esfuerzo excesivo.
-- Dolor de cabeza: invalidación de uno mismo (mala autocrítica). Miedo.
-- Calambres: tensión y miedo. Aferramiento.
-- Callos: aferramiento terco al dolor del pasado.
-* Callosidades: miedo. Ideas "endurecidas" (¿NO flexibles?).
-- Cáncer: herida profunda. Rencor que se mantiene mucho tiempo. Secreto o aflicción profunda que carcome. Odios. Creer que todo es inútil.
-- Cansancio, fatiga: resistencia, aburrimiento. Falta de amor por lo que se hace.
-####Psicología C (to desordenao, ¡pa que lo leas to je je!):
-- Cataratas: incapacidad de mirar adelante con alegría.
-- Celulitis: cólera acumulada y autocastigo.
-- Cerebro: aquí hay como mínimo un tumor por enfermedad.
-- Accidente cerebrovascular: rendición. Resistencia. Rechazo a la vida. "Antes morir que cambiar".
-- Ciática: hipocresía. Temor por cuestión de dinero y al futuro.
-- Joroba (cifosis): NO poder fluir con la vida (desconfiar...). Temor y aferrarse a ideas viejas. Falta de valentía en las convicciones o de integridad.
-- Circulación: sentir o expresar emociones de forma negativa.
-- Colesterol malo: miedo de aceptar la alegría.
-- Cólicos: irritación emocional, impaciencia. Molestia por el entorno.
-- Mucosidad en colon: revolcarse en el fango del pasado.
-* Colon irritable: temor a relajarse, inseguridad.
-- Columna: ¿falta de flexibilidad?
-- Coma: miedo. Intento de escapar de alguien o algo.
-- Conjuntivitis: enfado y frustración por lo que se ve en la vida.
-####Psicología C-D:
-- Convulsiones: deso de huír de la familia, uno mismo o la vida.
-- Corazón:
-* Ataque: por ganar dinero o posición se ha arrancado la alegría del corazón.
-* Problemas: entrega al esfuerzo y el estrés. Falta de alegría. Endurecimiento del corazón.
-- Cuello: negativa a ver otros aspectos de un asunto (NO flexibilidad).
-- Cuerpo. Derecho: donación, el padre. Izquierdo: recibir, comprender.
-- Debilidad: cansancio mental.
-- Dedos: pulgar (intelecto e inquietud), índice (miedo), medio (cólera y sexualidad), anular (uniones y aflicción), meñique (familia y falsedad). Artríticos: deseo de castigar. Acusar.
-- Demencia: negativa a enfrentar el mundo tal como es (la gente normal en 2.023 es demente). Desesperanza y rabia.
-####Psicología D-E:
-- Depresión: enfado que NO se tiene derecho a sentir (tú lo crees).
-- Desmayos: incapacidad de afrontar una situación.
-- Hiperglucemia (diabetes): nostalgia de lo que pudo haber sido. Necesidad de controlar. Tristeza profunda. Falta de dulzura.
-- Dientes: indecisión mantenida mucho tiempo. Incapacidad de analizar las ideas para decidir.
-- Distrofia muscular: "NO vale la pena crecer".
-- Dolor: culpa.
-- Eccema: antagonismo intenso.
-- Edema: despréndete de algo para sanar.
-- Encías: falta de confianza, problemas para mantener decisiones, indiferencia ante la vida. Sangre = falta de alegría en las decisiones.
-- Endometriosis: inseguridad, decepción y frustración. Sustitución del amor a uno mismo por azúcar. Tendencia a culpar.
-####Psicología E:
-- Enfermedad de transmisión sexual: culpa por la sexualidad. Idea de que los genitales son algo sucio. Maltrato a otra persona.
-- Entumecimiento u hormigueo: represión en la manifestación de amor y consideración...
-- Envejecimiento: vieja forma de pensar. Miedo a ser uno mismo. Rechazo del presente.
-- Envenenamiento por alimento: permitir que otros asuman el control. Sentir indefensión.
-- Epilepsia: sensación de ser perseguido, de pugna intensa. Rechazo de la vida. Violencia contra uno mismo.
-- Equilibrio: pensamiendo disperso.
-- Eructos: ¿quemar etapas demasiado rápido?
-- Escalofríos: deseo de retirarse. "Déjenme en paz".
-- Esclerodermia: autoprotección contra la vida. Desconfianza de la capacidad de autocuidarse.
-- Esclerosis lateral amiotrópica: resistencia a aceptar al propia valía. Negación del éxito.
-* E. múltiple: rigidez mental, dureza de corazón, miedo, ¿voluntad de hierro?
-- Espalda (yo pensaba que la parte de arriba era la familia, y la de abajo la sexualidad):
-* Parte superior: falta de apoyo emocional. Sensación de NO ser amado. Freno manifestando amor.
-* Media: culpa. Atascamiento en el pasado. Sensación de carga.
-* Inferior: miedo al dinero. Falta de apoyo económico.
-* Inclinada: transporta las cargas de la vida. Desesperanza. Desamparo.
-####Psicología E-G:
-- Espasmos: tensión debida al miedo.
-- Espinilla: ideales rotos.
-- Esqueleto: ¿desvalorización? La estructura de la vida se desmorona.
-- Esterilidad: miedo y resistencia al proceso de la vida. NO tener la necesidad de la experiencia de tener hijos.
-- Estómago: temor a lo nuevo / incapacidad de asimilarlo.
-- Estrabismo:
-* Convergente: deseo de NO ver el exterior. Objetivos contradictorios.
-* Divergente: temor a mirar el presente.
-- Estreñimiento: negativa a abandonar viejas ideas. Mezquindad, tacañería. Estancamiento en el pasado.
-- Fibromas y quistes: rencor contra novio / marido...
-* Fibrosis quística: firme convicción de que la vida NO resultará bien. "Pobre de mí".
-- Fiebre: ¿colera? Aparece mucho en fase de curación.
-- Fístula: bloqueo intentando liberarte.
-- Flebitis: rabia y frustración. Culpar a otros de la limitación y la falta de alegría.
-- Frigidez: negación del placer. Creer que la sexualidad (el erotismo...) es mala (lo que es malo es mirarme con ojos libidinosos). Parejas sexuales insensibles. Temor al padre.
-- Furúnculo: furia.
-- Gangrena: pensamientos ponzoñosos que ahogan la alegría.
-- Garganta (angustia?):
-* Dolor, irritación: represión del enfado. Sentirse incapaz de expresarse.
-* Nudo: miedo. Desconfianza del proceso de la vida.
-* Problemas: incapacidad de hacerse valer (hacer que te respeten o tengan en consideración). Rabia reprimida y tragada. Creatividad sofocada, ¿por otro? Negativa a cambiar.
-####Psicología G-H:
-- Gastritis: incertidumbre prolongada. Fatalismo.
-- Genitales: preocupación por NO sentirse valioso. NO es necesario sentirse valioso (hay tramos y tramos en la vida; y además, muchos tramos son de preparación).
-- Glándulas: mala distribución de las ideas para organizarse y actuar. Autocontención.
-- Glaucoma: necesidad de castigo por ser mala persona.
-- Gota: necesidad de dominar. Impaciencia. Ira.
-- Gripe: reacción ante creencias populares negativas. Miedo. Fé en las estadísticas (¿de gripe?).
-- Hemorragias: se marcha la alegría. Fastidio.
-- Hemorroides: miedo a los plazos establecidos. Rabia por el pasado. Temor a "aflojar". Sensación de carga.
-- Hepatitis: resistencia al cambio. Miedo, ira, odio, indignación.
-- Heridas: enfado con uno mismo y sentirse culpable.
-- Hernia: relaciones rotas. tensiones, cargas. Expresión creativa incorrecta.
-* Discal: sensación de NO recibir apoyos. Indecisión (hacer tests de misión espiritual: Nodo Norte, Tzolkin Maya, Diseño Humano...).
-- Herpes genital: creencia popular en la culpa sexual y la necesidad de castigo (fé en un Dios que castiga...). Escarmiento público. Rechazo de lso genitales.
-* Labial: enfado que carcome y temor de expresarlo.
-####Psicología H-I (ten en cuenta que hay más causas psicológicas, y que lo oficial y además bueno, aquí van los 2 unidos... es la NMGHamer):
-- Hígado: hábito de quejarse. Justificación de las críticas para autoengañarse.
-- Hiperactividad: temor. Sensación de estar presionado y frenético.
-- Hipermetropía: temor al presente.
-- Hipertiroidismo: rabia por haber sido dejado de lado.
-- Hombros: con nuestra actitud NO positiva ante lo que nos sucede (puedes aprender...), hacemos de la vida una carga.
-- Infecciones de hongos (el patógeno crece en "un mal terreno", NO soy de los que piensan que va por el aire): creencias estancadas (te aferras al pasado). Negación de las propias necesidades (no te autoapoyas).
-* Infección (general): ciertas dudas, ¡las decisiones liberan! El parásito depende del "tipo de duda".
-- Huesos / fracturas: rebelión contra la autoridad... NO hemos venido a hacer eso, sino a autocriticarnos con cariño (tras un poco de angustia).
-- Incontinencia: exceso emocional que rebosa. Años de represión de las emociones.
-- Indigestión: miedo visceral, terror, quejas, gruñidos...
-####Psicología I-M (recuerda que muchas enfermedades pueden darse en fase de curación, invalidando estas causas):
-- Insomnio: miedo a soltar el control consciente.
-- Intestinos: terror de liberar lo ya NO necesario.
-- Juanete: falta de alegría ante las experiencias de la vida. ¿Incluye las pruebas?
-- Laringitis: furia que impide hablar. Miedo de hacerse valer. Resentimiento contra la autoridad.
-- Lengua: enfado con uno mismo, culpabilidad.
-- Retención de líquido: miedo a perderse algo.
-- Llagas, irritaciones: rabia sin expresar.
-- Malaria: ¿desequilibrio con la naturaleza y la vida?
-- Mamas: negativa a cuidar de sí misma (en favor de los demás).
-####Psicología M:
-- Quistes, bultos, mastitis...: cuidados maternales exagerados, sobreproteger, actitud autoritaria.
-- Mareo en barcos: miedo a la muerte, ¿ganas de tenerlo todo controlado?
-- Mareo en coche: miedo. Sensación de estar cautivo.
-- Mareo al moverse: miedo. Temor de NO estar al mando.
-- Matriz: ¿que NO te entregas al xx%?
-- Meningitis: rabia contra la vida. Y fase de curación.
-- Menopausia: miedo a dejar de ser deseable o envejecer, autorechazo o sensación de valer poco.
-- Migraña: aversión a ser manejado, resistencia al fluir de la sabia vida (da lecciones si sabes verlas; a veces, simplemente pagas karma o la vida te mete por ciertos caminos para hacer tiempo o que no vayas por otros), temores sexuales (prueba a masturbarte entonces, ¿sin necesidad de eyacular NO?).
-- Miopía: miedo al futuro, desconfianza en el porvenir.
-- Mordeduras: cólera o, ¿necesidad de castigo por creer en él?
-####Psicología M-O:
-- Nalgas flácidas: pérdida de poder.
-- Nariz: goteo continuo (necesidad de ayuda, "llanto"), hemorragia (necesidad de reconocimiento, sensación de NO ser valorado, ansia de amor), moqueo hacia dentro ("llanto", puerilidad, victimismo), cargada (autodesvalorización).
-- Náuseas: rechazo de una idea o una experiencia.
-- Nerviosismo: desconfianza del proceso de la vida (NO es igual que la resistencia a lo que te pasa digo yo). Miedo, angustia, esfuerzo, precipitación. ¿Mucho esfuerzo es antiético? ¿Y si tu vida es de pagar karma?
-- Neuralgia: castigo por una culpa. Angustia por razones de comunicación (¿con gargantas veloces o asperger?).
-- Obesidad (sensibilidad exagerada, necesidad de protección, resistencia a perdonar):
-* Brazos (rabia por falta / necesidad de amor).
-* Caderas: terca cólera contra los padres.
-* Muslos: cólera desde la infancia (contra el padre...).
-* Vientre: rabia por falta de sustento (¿en un sentido amplio?).
-####Psicología O-P:
-- Oídos: obediencia (NO siempre es positiva).
-- Ojos: capacidad de ver pasado, presente y futuro en su justa medida.
-- Olor corporal: miedo (a la suegra je je). Disgusto consigo mismo. Despecho.
-- Osteoporosis: sensación de No contar con apoyos.
-- Pancreatitis: rechazo. Enfado y frustración porque la vida ya NO es dulce.
-- Parálisis facial: control excesivo de la ira. Resistencia a expresar sentimientos.
-- Parásitos: entrega del poder a otras personas.
-- Parkinson: intenso deseo de controlarlo todo (por miedo).
-- Pene: ¿energía / actitud depresiva?
-- Picaduras: culpa por cosas pequeñas (lo simbólico produce lo material).
-####Psicología P-R:
-- Piel: angustia, miedo. Antigua repugnancia encubierta. Sensación de amenaza.
-- Piernas: miedo al futuro. Deseo de NO moverse.
-- Pies: miedo al futuro y de NO avanzar en la vida.
-- Próstata: ¿temores sobre la masculinidad?. Renuncia. Presión y culpa sexual. Creencia en el envejecimiento (¿curioso NO?).
-- Pulmones: depresión. Aflicción. Sensación de NO ser digno de vivir plenamente.
-- Quemaduras, rabia o furia ardientes.
-- Rabia: fé en que la violencia es la respuesta.
-- Raquitismo: falta de amor y seguridad.
-- Cálculos renales: enfado / s NO resuelto / s.
-- Resfriados, catarros: suceden demasiadas cosas a la vez. Confusión, desorden mental. Pequeños agravios. ¿Y ganas de que nos cuiden? Creencia en "los 3 resfriados cada Invierno" (creer es crear, y vibrar es atraer. Decir "contra el cáncer" es atraer el cáncer; el "medio" se queda con "cáncer", NO con "no" o "contra").
-####Psicología R-S:
-- Respiración: miedo o resistencia a aceptar la vida plenamente. Sensación de NO tener derecho a ocupar espacio o a existir.
-- Reumatismo: sentirse víctima. Falta de amor. Amargura crónica. Resentimiento.
-- Rigidez: pensamientos rígidos o cerrados.
-- Riñones: decepción, fracaso, vergüenza, ser criticado. Reacciones pueriles.
-- Rodillas: orgullo y obstinación. Incapacidad de inclinarse. Temor. Inflexibilidad. Terquedad.
-- Ronquidos: terca negativa a abandonar viejas pautas mentales.
-- Sangre: falta de alegría. Las ideas NO circulan...
-- Sarna: pensamientos infectados. Permitir que otras personas nos acaparen el pensamiento.
-- Sarpullido: irritación por los retrasos. Forma pueril de llamar la atención.
-- Senilidad (regreso a la supuesta seguridad de la infancia): exigencia de cuidados y atención. Escapismo. Forma de controlar a quienes nos rodean.
-####Psicología S-T:
-- Síndrome premenstrual: confusión que domina. Entrega del poder a influencias externas. Rechazo de los procesos femeninos.
-- Sinusitis: irritación contra persona muy cercana?
-- Sobrepeso: miedo, necesidad de protección. Huida de los sentimientos. Inseguridad. Autorechazo. Búsqueda de satisfacción. Y muchísimo más.
-- Somnolencia: miedo a asumir las responsabilidades del día.
-- Sordera: rechazo, terquedad, aislamiento ("no me molesten"...).
-- Suicidio: negativa a ver otra salida.
-- Suprarrenales: derrotismo, angustia. Renuncia a cuidar de uno mismo.
-- Tétanos: necesidad de liberar sentimientos de cólera.
-- Tics: miedo, sensación de ser observado por los demás.
-- Tiroides: humillación. "¿Nunca puedo hacer lo que deseo?" Sí, no te victimices. "¿Cuando llegará mi turno"?
-- Torceduras tobillos: ira y resistencia. NO querer avanzar en cierta dirección.
-- Tos: deseo de decir al mundo: "escúchenme".
-####Psicología T-Z:
-- Tuberculosis: egoísmo que carcome. Pensamientos crueles. Posesividad. Deseo de venganza.
-- Úlceras: miedo, creer (estar convencido) que no se vale lo suficiente.
-- Urticaria: pequeños temores ocultos. Hacer una montaña de un grano de arena.
-- Útero: creatividad.
-- Varicela: se piensa en el siguiente problema o disgusto (hay que volver al presente tras planificar). Temor y tensión. Sensibilidad exagerada.
-- Verrugas: manifestaciones de odio pequeñas. Creencia en la fealdad, ¿externa?
-- Vértigo: fuga y dispersión de pensamiento. Negativa a mirar.
-- Vitiligo: sensación de estar fuera de sitio, de no pertenecer al grupo.
-- Vómitos: violento rechazo de ideas. Temor a lo nuevo.
-- Zumbidos: negativa a escuchar. Tozudez. No oír la voz interior.
-####004a04mis01Eneagrama y Tzolkin maya somos diferentes Diseño Humano conocimiento gratis espía bueno.txt  ####Eneagrama y Tzolkin maya, somos diferentes. Diseño Humano, conocimiento gratis, espía bueno.
-####Eneagrama y Tzolkin maya:
+####00403mis01Eneagrama y Tzolkin maya somos diferentes Diseño Humano conocimiento gratis espía bueno.txt  ####Eneagrama y Tzolkin maya, somos diferentes. Diseño Humano, conocimiento gratis, espía bueno.
+##Eneagrama y Tzolkin maya:
 - ENEAGRAMA, HAY EMOCIONALES, MENTALES PESAOS, Y FÍSICOS POCO COMPRENSIVOS.
 - TZOLKIN MAYA, 13 FORMAS DIFERENTES DE FUNCIONAR EL CEREBRO: 7 (YO), MIRO PARA DENTRO PARA CANALIZAR Y ACERTAR, NO ME MOLESTES.
-####Diseño Humano, perfiles (1 = investigador (NO me suena a elevado, NO me suena a intuición), 2 = hermitaño / muchas habilidades innatas / independiente / suena a ayuda "3D" por ser poco elevado, 3 = mártir / prueba y error (estos 3 primeros NO suenan a ser elevado), 4 = oportunista (casi lo contrario a hermitaño, toma del entorno), 5 = hereje / líder / suena a elevado, ¿lo es?, 6 = modelo / ejemplo / inspiración; el 4 / 6 es el espía ejemplar):
+##Diseño Humano, perfiles (1 = investigador (NO me suena a elevado, NO me suena a intuición), 2 = hermitaño / muchas habilidades innatas / independiente / suena a ayuda "3D" por ser poco elevado, 3 = mártir / prueba y error (estos 3 primeros NO suenan a ser elevado), 4 = oportunista (casi lo contrario a hermitaño, toma del entorno), 5 = hereje / líder / suena a elevado, ¿lo es?, 6 = modelo / ejemplo / inspiración; el 4 / 6 es el espía ejemplar):
 - 1 / 3: investigador que aprende con prueba y error. Necesita mucha experimentación.
 - 1 / 4: profundiza en sus estudios y atrae personas y oportunidades dentro de su círculo cercano.
 - 2 / 4: muchas habilidades innatas, sus oportunidades vienen a través de las amistades cercanas.
@@ -396,7 +168,7 @@ En aprender2.html:
 - 5 / 2: disfrutar de sus talentos naturales y liderar a través de la expresión de sus dones innatos.
 - 6 / 2: prueba y error los primeros años de su vida, para poder coger los aprendizajes necesarios para inspirar a los demás.
 - 6 / 3: optimistas, a través de las experiencias, sirven de ejemplo y saben lo que funciona y lo que no.
-####20 misiones Tzolkin maya (sellos):
+##20 misiones Tzolkin maya (sellos):
 - 1. Dragón: da comienzo a proyectos con fé en uno mismo. Es abundancia, protección, padre / madre. Dormido: nunca termina lo que empieza.
 - 2. Viento: comunicación. Espontáneos, y mentalmente muy activos. Dormido, habla mucho.
 - 3. Noche: usar el poder interno para materializar los sueños. Dormido: carencias espirituales y materiales.
@@ -417,16 +189,16 @@ En aprender2.html:
 - 18. Espejo: reflejan la verdad cortando la ilusión y la falsedad (del propio ego...). Son guías espirituales, reflejando el camino correcto. Provocan cambios. Dormido: solo refleja el lado oscuro y no ayuda a crecer.
 - 19. Tormenta: transmiten la información que reciben. Crear el clima idóneo para el crecimiento espiritual (si hace falta, provocan cambios bruscos). Dormida: huracán que no se calma.
 - 20. Sol: saben reflejar la luz del sol interior (con su sabiduría) a los demás. Representan la culminación de lo aprendido y ponerlo en práctica. Dan amor de forma incondicional. Dormido: apagado y triste, se encierra en si mismo.
-####Eneagrama, los eneatipos (Gurdjieff):
-##Triada del Instinto (8, 9 y 1), viscerales:
+##Eneagrama, los eneatipos (Gurdjieff):
+#Triada del Instinto (8, 9 y 1), viscerales:
 - Quieren influir en el mundo. Temen ser dominados o explotados. Se vuelcan en la acción y se orientan al presente.
 - Ira: el 8 la expresa, el 9 la niega, pero la expresa evadiéndose, el 1 la reprime.
-##Del Sentimiento (3, 4, 2):
+#Del Sentimiento (3, 4, 2):
 - Buscan sentirse amados.
 - El 3 busca valor interior mediante logros externos. El 4 reafirma su valía sintiéndose especial. El 2 busca el amor demandando atención. Autovalorarse así NO es quererse (cuidao en general con cómo te autovaloras).
-##Del pensamiento (6, 7, 5):
+#Del pensamiento (6, 7, 5):
 - Miedo (de no contar con los recursos necesarios). 6, necesita pautas o normas a seguir. 7, en apariencia valientes y aventureros, temen a su vacío interior. 5, se retiran y aíslan del mundo.
-####Significado de las cifras (por si ayuda):
+##Significado de las cifras (por si ayuda):
 - 1, liderazgo, no jefe.
 - 2, maternidad, consideración, adaptación, creatividad, trabajo en equipo, mediación.
 - 3, filosofía, y viajes. Artes, disfrute de la vida, socialización.
@@ -436,7 +208,7 @@ En aprender2.html:
 - 7, si te lo encuentras, potencia y confía en tu intuición (son místicos). Análisis, comprensión, conciencia. Multitareas, niño prodigio.
 - 8, política (orientados a status, ¿poder y dinero?). Autosuficiencia y practicidad. Responsable y tenaz. Proveedor, empresario, inconformista.
 - 9, expresión creativa, generosidad y modestia, empatía, animadores emocionales, sanadores, iniciar cosas con determinación.
-####Concretando (el 11 / saca cosas ocultas de ti: es sabiduría, intuición, iluminación, idealismo, plano espiritual más alto, maestro psicológico... cuando está mal, es un 2 / 1 + 1, el 22 / fuerza y liderazgo / maestro material, un 4, y el 33 = 11 + 22, un 6):
+##Concretando (el 11 / saca cosas ocultas de ti: es sabiduría, intuición, iluminación, idealismo, plano espiritual más alto, maestro psicológico... cuando está mal, es un 2 / 1 + 1, el 22 / fuerza y liderazgo / maestro material, un 4, y el 33 = 11 + 22, un 6):
 - 1. Idealista y concienzudo, con fuerte sentido del bien y el mal. Son profesores y cruzados, se esfuerzan siempre por mejorar las cosas, pero temen cometer errores. Bien organizados, ordenados y meticulosos, pueden resultar críticos y perfeccionistas. Normalmente tienen problemas de rabia e impaciencia reprimidas. El Uno sano es sabio, perceptivo, realista y noble, a la vez que moralmente heroico.
 * MIEDO BÁSICO: Ser malo, corrupto, perverso o imperfecto
 * DESEO BÁSICO: Ser bueno, virtuoso, equilibrado, íntegro
@@ -482,7 +254,7 @@ En aprender2.html:
 * DESEO BÁSICO: Mantener la estabilidad interior y la paz mental
 * MENSAJE DEL SUPERYÓ: Vales o estás bien mientras los que te rodean sean buenos y estén bien
 * Cuando superes tu indolencia inicial, sentirás la vitalidad que duerme en ti. Disfruta del placer de ser consciente de ti mismo y hacerte responsable de tu vida.
-####005a05mis02Nombrelogía básica.txt  ####Nombrelogía básica (sin Nombreróscopo / hacer cálculos en base al nombre):
+####00503mis02Nombrelogía básica.txt  ####Nombrelogía básica (sin Nombreróscopo / hacer cálculos en base al nombre):
 ##Apelativo: si la primera vocal se repite, trata de no pronunciarla:
 - A: viniste a comerte el mundo y a avanzar, tumbando muros. 2 aes o más: hablas mal de los demás.
 - E: te aburres fácilmente (necesitas cambiar). Les gusta viajar y no se comprometen. 2 o más: cuida tu mal genio.
@@ -516,7 +288,7 @@ En aprender2.html:
 - X. Éxito económico y financiero, fruto del esfuerzo personal de largos años. Cierta tendencia al egoísmo.
 - Y. Felicidad total o desdicha absoluta. Les cuesta encontrar el término medio. Su necesidad de ser originales les quita el sueño.
 - Z. Marte. Capacidad de sobrellevar duras pruebas. ¿Deben llevar a la práctica todas sus ideas y ambiciones, o de lo contrario sufrirán frustraciones que les pesarán toda la vida?
-####006a06mis03Nodo Norte.txt  ####Nodo Norte:
+####00603mis03Nodo Norte.txt  ####Nodo Norte:
 - En Aries: aprende a definir y perseguir tus objetivos y puntos de vista. Anima a los demás a ser independientes.
 * Naciste entre 8 7 1930 y 29 12 1931; 26 1 1949 y 26 7 1950; 20 8 1967 y 20 4 1969; 7 4 1986 y 3 12 1987.
 - Tauro: construye un sistema propio de valores para alcanzar tus objetivos por ti mismo (en Escorpio había situaciones dolorosas impuestas por los demás, Tauro es más "de consturir en 3D"). Habilita al resto a activar sus talentos personales.
@@ -541,7 +313,7 @@ En aprender2.html:
 * 25 6 1933 y 7 3 1935; 29 3 1952 y 10 10 1953; 3 11 1970 y 28 4 1972; 23 5 1989 y 18 11 1990.
 - Piscis: confiando en tu sentido común ampliado, ¡adéntrate a explorar el lado intangible y espiritual de la vida! Mayor intuición y percepción emocional.
 * 29 12 1931 y 24 6 1933; 27 7 1950 y 6 3 1952; 20 4 1969 y 2 11 1970; 3 12 1987 y 22 5 1989; 23 6 2006 y 18 12 2007.
-####007a07mis04Resto.txt  ####Cejas gruesas principio (puedes empezar proyectos)...
+####00703mis04Resto.txt  ####Cejas gruesas principio (puedes empezar proyectos)...
 ####Zodiaco chino:
 - Rata: les gusta rodearse de familiares y amigos, a quienes ayudan en sus quehaceres y problemas diarios.
 - Buey: paciente y tranquilo, irradia cariño y amor. Quieren orden y limpieza, y obtienen el éxito con esfuerzo. Aman el arte. No les gusta discutir, aunque sí que les obedezcan.
@@ -573,7 +345,7 @@ En aprender2.html:
 * Cálida, generosa e improvisa. Fría, falta de interés por entorno bieeeen!
 * Húmeda emotividad. Seca, segura de sí misma y a veces irreflexiva.
 * Rosada, enérgica y llevado por sentimiento. Amarillenta cerebral y lógica, ¿y superblanca egoísta reservado que no se da a sí mismo?.
-####008a08mis05calcular.txt  ####Calcular (Diseño Humano se calcula en una Web...):
+####00803mis05calcular.txt  ####Calcular (Diseño Humano se calcula en una Web...):
 - Eneagrama. 03-11-1977 = 3 + 2 + 24 = 29 = 11 (en 11, 22, 33... hay que parar; paras en una cifra, si NO).
 - Zodiaco Chino: 1.900 es rata, así como 12, 24, 36, 48, 60, 72, 84, 96, 2.008, 2.020, 2.032. +1 Buey, + 2 Tigre, + 3 Conejo, + 4 Dragón, + 5 Serpiente (yo), + 6 Caballo, + 7 Cabra, + 8 Mono, + 9 Gallo, + 10 Perro, + 11 Cerdo.
 ####Tzolkin maya: sumar.
@@ -605,7 +377,7 @@ En aprender2.html:
 * 1944=252 1967=067 1990=142 2013=217
 - Si da más de 260, restar 260. A ver, 03-11-1977: 3 + 44 + 77 = 124.
 - Sello (misión) = resto de dividir por 20. 124 mod 20 = 4. Raza, mod 4 = 0 (transformar en 4, el máximo), tono (forma de usar el cerebro), mod 13 = 7.
-####009a09mis06 yo.txt  ####Mi perfil (misión):
+####00903mis06 yo.txt  ####Mi perfil (misión):
 - Diseño humano:
 * Pefil 4 / 6, el espía bueno (saco información y la difundo). Oportunidades que vienen del entorno cercano y las amistades para servir de modelo de vida (entre los 30 y los 50, miro con perspectiva relativamente elevada, y a partir de los 50, ya soy sabio / modelo). Necesito estar a solas para poder ver la vida y las cosas que suceden de una forma más objetiva. El 6 es un 3 los primeros 30 años.
 - Tzolkin Maya.
@@ -635,12 +407,276 @@ En aprender2.html:
 - Trabajo (serpiente: con mono, o gallo y buey; L: NO tomar decisiones por mi mismo):
 * Empiezo por las manos, combinadas con Diseño Humano: Filosofía (nudos), tomando información y siendo modelo de vida (4 / 6). ¿Y "el bricolaje" (mano espátula)? ¿Ordenar información?
 * Sigo (refinando) por Nodo Norte (acompañar a los demás) y el Tzolkin maya (acertar con los demás: sacar su potencial...). Casa algo con eneagrama (emocional, 11: maestro psicológico, ¿qué les pasa?).
-####010a10engordarpsico.txt  - Engordar (Psicología):
+####01004Psicosociología.txt  ####Psicosociología:
+##Enfermos del dinero:
+- NO COMENTÉIS POR QUÉ HAGO ALGO QUE NO GENERA DINERO, SERIAIS ENFERMOS.
+##Cuidado:
+- Cuidado con los famosos. Para saber si alguien es bueno quizás tengas que vivir con esa persona... 5 años, y has de tener ojo psicológico / escorpiano. Si NO, ¿cómo puedes decir que alguien es bueno? Lo que piensa la gente de los demás... es falso, y creerla, es peligroso.
+##Ser fuerte (conocidos...):
+- Buena persona: NO convierte un complejo de inferioridad en uno de superioridad. Está en contacto con sus debilidades, las acepta. NO es el primero en criticar (la crítica lo droga, por así decirlo, y así ya NO tiene que mirar dentro, don "yo estoy completo, y si encuentro debilidad, me muero"). Podríamos incluir aquí a "los neuróticos" (NO intentan fácilmente 2 veces, se desmoronan tras el primer intento, NO se creen algo, son relativamente elevados).
+- Vecinos... son los típicos criticones, que NO miran dentro: que si "haz lo mismo que yo" (trabajar oficialmente...) o NO eres bueno / hay caos (y resulta que lo gratis suele ser útil, y lo de dinero, pa sobrevivir / NO útil; ellos NO entienden mi labor). Tienes que ocultar información (que estás siendo reservado / protegido, o que tu cabeza, al poco de usarla, se quema; pero te dicen que eso es fácil curarlo, ¿y si depende de tu forma de usar el cerebro / tono de Tzolkin maya, que si es 7, y encima el sello es 4... naciste pa quedarte con la boca abierta, atontao, mientras que canalizas algo, "acertando", NO usando la mente 9 horas seguidas? Si dices epilepsia y toc, creo que tampoco te entienden. La cuestión es que NO encajo en un mundo que mira hacia fuera y sin memoria selectiva, un mundo que NO es de sprint mental... Quienes son cerrados / NO cambian las creencias familiares / son buenos hijos... son malas personas, y son poco elevados los nacidos para "el 3D", o los rápidos / poco profundos con buen acceso a memoria, o los intelectuales sin más).
+- Vecinos, cambiando de creencias (NO debo ser amado por todos). Con el cambio de creencia, soporto que alguien con el que discrepo (que me considera escoria / vago...) se cambie de acera al verme, y soporto al que gruñe por estar yo "en otro planeta", pidiéndole que me repita las cosas (recuerdo los exámenes: venía uno algo estudiao, pero faltaba el último escollo: los profes daban instrucciones de última hora, y NO las captaba).
+- Creo que sí, que la solución es que vecinos y conocidos de siempre "me los coman", malditos creídos, por ignorantes / NO sabios. Estoy deseando ningunearlos porque, o ninguneas a la basura, o NO los atraviesas. HAY QUE DECIR "ERES UN CREÍDO" (ELLOS, COMO SE CREEN ALGO, TE TOCARÁN EN EL HOMBRO CON TRISTEZA; UNA PERSONA DE VERDAD, SIMPLEMENTE, NO SE METE EN ASUNTOS QUE NO ENTIENDE, SOBRE TODO SI SON ATEOS / SUPERIGNORANTES DE MISIONES...). Y la gente que cree en Jesús (yo NO, pero NO descarto su existencia) da mil vueltas a quienes creen en el Comunismo, con las 100.000 pruebas de que es malo (hay que ser cerrao / de NO poder cambiar 100 creencias en 10 minutos / peligrosísimo / DEBILIDAD MENTAL). En mi clase de EGB muchos NO estudiaban (las Mates NO se practican), pero sacar dieces con los ojos cerrados, NO te garantiza evitar el autoengaño, o evitar creer en lo que creen tus ignoripadres.
+- Si te critican por NO trabajar, una reacción lógica (si tienes la creencia de que todos deben quererte, o "la cosa va mal", NO eres digno...) puede ser quedarte en casa, por la honra. ¿Cuando recuperará su honra la gente sigma / dejarán de criticarlos / reaparecerán en la escena social, dejando de esconderse (son los favoritos de Dios, de aquí salen los elegidos / protegidos / "retrasados" en trabajo y amor, cuya misión es hacer que mires dentro tus fantasmas, sin decir una sola palabra, con un talento "mágico")? NO han venido a seguir horarios estrictos / a encajar.
+* De quien te critica por NO trabajar... debes pensar que hace el ridículo, exponiendo su envidia, cerradez, poca comprensión, poca tolerancia a la diferencia (que genera la chispa de la vida)... NO miran dentro. Pero sin "idiotas" (con talento o competitivos) a los que terminas comprendiendo (sin odiar, sin temer...), NO hay tantas pruebas para que mejores. Idiota: memoria total, atención externa sólo, poca empatía para explicar estructuralmente... Los que más me critican son, ¿los de zodiaco de Tierra? ¿SON LOS MÁS 3D, NO? La maldad es NO ver la debilidad, NO mirar dento (soy débil en esto y lo acepto, reaccioné mal, ¿qué creencia pasada por mi familia... tengo?).
+- Apego (en la infancia, es lo bueno para la vida adulta, después...): cuidado con esperar (a saber hacerlo todo antes de empezar, a un evento / lo retrasas o NO ocurre la casualidad / los espíritus NO pueden obrar, ¿la nota de una asignatura / retrasas al corrector?...), obsesionarse con el resultado final mientras vas haciendo (pon más atención, más amor, a lo pequeño / actual; ¿y eso de "como NO empecemos ahora mismo a batallar, los musulmanes se nos suben a la chepa"? ¿Y si probamos a publicitar cosas bonitas que ellos NO quieran copiar, y se van "por gracia de Dios", y NO pensamos en ellos, sólo en ser mejores personas, algo muy efectivo para cualquier problema?), querer controlar, NO soportar que lo malo siga y lo bueno acabe... Empezando a sanar: dejar relaciones que NO suman (alguien te quiere para NO aburrirse...), llevar lo material a la buhardilla (así dejas espacio para el PC de sobremesa), poniéndolo en una mano y preguntándote para qué es, si vale...
+##Conspis (ser libre, NO encajar):
+- Por eso NO me vacuné, por el Evento 201 (Octubre 2.019), preparación "del covid" (objetivo, encerrarnos...), NO casualidad. Yo soy conspi / relativamente consciente / "protegido por el saber" desde 2.012 o por ahí.
+- LOS PERIODISTAS SACAN LIBROS COMO CHURROS, PARA HACER QUE PERDAMOS EL TIEMPO, CON "OBRAS" QUE NO LLEVAN 100 REVELACIONES CADA 2 LÍNEAS. Antes, se contaban los mitos (son útiles) alrededor de una hoguera, y nada más. Sonsoles, ganadora del premio Planeta, NO sabía el IVA de los libros (4%), y dijo que un 21% era demasiado, y el público la aplaudió, porque al final, la gente se informa con mentiras, pobrecillos. Desconfiemos de profesores, periodistas... ¡El periodista eres tú, el que cobra, es basura, por lo general!
+- El mundo NO será un lugar digno hasta que NO puedas gritar por Internet públicamente todo lo que piensas (que las empresas sean conspis), y tener en privado (realmente, que funcione el cifrado), las conversaciones diarias. Whatsapp NO es privado, te están estudiando.
+- "Recuperar el Comunal" (asociación), lo contrario al comunismo (que es muy paio). La UE va a peor, y se necesita... Paso 1: apoyo mutuo (hacer cosas "gratis", con agradecimiento, sin vuelta). ¿Luego, vivir en común, compartir lo material (parte, claro)? ¿Cómo hacemos para apreciarnos entre nosotros? Ver que somos diferentes (hacer tests espirituales; Trump es 1 / 3 en perfil de Diseño Humano je je), y que eso "produce chispa", NO es malo. ¿Lo peor es querer ser el primero y competir, NO? Luego, tierras en común, ¿lo primero es "el concejo abierto"?
+- El sabio pasa de tener las relaciones tradicionales (amigo...) a tener compis de misión, o aliados. Y los que NO, son pruebas.
+##Decretos y leyes sutiles (magia):
+- Honro a las mujeres que abrieron camino hacia la libertad económica. Honro a los hombres que aportaron prosperidad a las familias y a la sociedad. Reconozco también su dolor, el costo de la competitividad y de ser valorados sólo por lo que daban.
+- Ley de la atención. Gandhi enfocó a millones de personas en la NO violencia, ¡e hizo "magia"! La tele nos centra en el conflicto (y lejano, NO depende de nosotros). ¡Yo puedo centraros en que veáis vídeos de videojuegos viejos (los que yo creo de los mejores); visualizarme compartiendo cosas (que son propiedad privada, ojo); estar en el presente y dar las gracias; hacer decretos...!
+- Pongo atención en el dinero en efectivo: ¡qué libres nos hace!
+- Lo sutil (decretos positivos, mirar dentro...) nos salvará, NO hay que temer. Publicita lo positivo ·en las pancartas", sé sabio. Los malotes terminarán solos, créeme.
+##Economía:
+- China es terrorífico, es Economía, me recuerda a lo peor de los signos de Tierra. Y es muy "de Mercurio" (intelectual, detallista... en vez de intuitivo y esencialista). La salud es inversamente proporcional al tiempo pensando, trabajando con las manos... menos en individuos peligrosamente pesados (hablan de trabajo fuera de horas de trabajo...). Eso sí, crear un poco (y con locura manifiesta leve, si NO, estás verdaderamente loco), y trabajar un poco con las manos... es salud. ¿Deberíamos NO salirnos de la salud NO? Recuerda, poca necesidad y muchísima motivación, relacionada con tus tests espirituales.
+- Para que la IA NO te sustituya, ¡sé más humano (SergioRuiz)! A ver qué recuerdo: usar la IA como complemento, en una negociación, calar al otro (qué NO dice...), empatía, animar, saber si una respuesta de la IA es sesgada, identificar psicópatas (esto es mío)...
+- La IA hizo un buen manual de autohipnosis (para entrar en la psique). Cuidado, cuando el producto es gratis, tú eres el verdadero producto. Una IA "bien" programada es un psicópata / un manipulador. LA IA QUE RESUME PUEDE AYUDAR MUCHO. Una pena, que sean de las élites (si dicen la verdad, luego las élites las reprograman y...). ¿Y si quitan las IAs de repente? ¡Menuda tragedia, si dependemos de ellas!
+##Belleza:
+- Está lo atractivo (cuerpo musculoso, ojos grandes, sonrisa de psicópata, super...), lo bello (físico equilibrado, a lo que puede ayudar "Venus"), y la belleza real en una persona (esa cara seria pero humana...).
+- Cuidado con la ternura que producen los defectos, NO termines amando algo por defectuoso. ¡Y estoy harto de que se victimice a todo el mundo! Que si NO se puede curar "tal cosa" con la psique porque es de por vida... Victimizar = debilitar. 
+####01105SaludPsicología.txt  ####Salud Psicología:
+##Físico y psique:
+Lo que pasa en tu cuerpo está inducido por la psique. ¿Te induce a caerte?
+##Psicología A:
+- Aborto espontáneo: miedo al futuro...
+- Accidentes: incapacidad de hacerse valer. Rebelión contra la autoridad.
+- Achaques: ansia de amor, deseo de ser abrazado.
+- Acné: no autoaceptarse / gustarse.
+- Adicciones: enfado por tomr decisiones equivocadas. Alcoholismo: sensación de NO ser importante, culpa e incapacidad. Autorechazo.
+- Aliento malo: rabia e ideas de venganza.
+- Alzheimer: negarse a enfrentar la vida. Desamparo y desesperanza.
+- Amigdalitis: miedo, emociones reprimidas. Creatividad aplastada.
+- Amnesia: miedo. Huída de la vida, incapacidad de defenderse.
+- Anemia: "sí, pero...". Falta de alegría. Miedo a la vida. Autodesvalorización.
+##Psicología A-B:
+- Ano: absceso (cólera realtiva a lo que NO se quiere soltar), dolor (culpa, deseo de castigo, NO valgo), Comezón (remordimiento, culpa por el pasado), fístula (aferrarse a las basuras del pasado).
+- Anorexia: mucho miedo. Rechazo y odio hacia uno mismo. NO a la vida.
+- Apatía: resistencia a sentir. Miedo.
+- Apendicitis: miedo a la vida. Bloqueado "el flujo del bien".
+- Sin apetito. Desconfianza de la vida. Exceso: necesidad de protección, juzgar las emociones.
+- Arañazos: sentir que la vida estafa / desgarra.
+- Arrugas: pensamientos depresivos...
+- Arterias: relacionadas con el júbilo de la vida.
+- Artritis reumatoidefuerte crítica a la autoridad, sensación de ser explotado. ¿Incluye resentimiento y NO ser amado (artritis normal)?
+- Asfixia: temor, desconfianza en el proceso de la vida, estancado en la infancia.
+- Asma (adultos): amor sofocado, incapacidad de respirar solo, "ahogo", llanto reprimido, ambiente tóxico.
+- Astigmatismo: temor a verse realmente.
+- Cálculos biliares: amargura, pensamientos rígidos, juicios condenatorios, orgullo del malo.
+- Bazo: obsesión, tendencia a abandonarse.
+- Boca: apertura. Opiniones rígidas / cerradas. Llagas: tendencia a culpar y a retener palabras violentas.
+##Psicología B-C:
+- Bocio: odio por haber sido agraviado. Victimización. Frustración e insatisfacción.
+- Brazos: abrazar las experiencias de la vida.
+- Bronquitis: ambiente familiar conflictivo (peleas, gritos, mal silencio...).
+- Bulimia: terror desesperado. ¿Odio a uno mismo?
+- Cabello: libertad, poder. Calvicie: miedo y tensión. Intento de controlarlo todo. Desconfianza en el proceso de la vida.
+* Canas: estrés. Presión machacante y esfuerzo excesivo.
+- Dolor de cabeza: invalidación de uno mismo (mala autocrítica). Miedo.
+- Calambres: tensión y miedo. Aferramiento.
+- Callos: aferramiento terco al dolor del pasado.
+* Callosidades: miedo. Ideas "endurecidas" (¿NO flexibles?).
+- Cáncer: herida profunda. Rencor que se mantiene mucho tiempo. Secreto o aflicción profunda que carcome. Odios. Creer que todo es inútil.
+- Cansancio, fatiga: resistencia, aburrimiento. Falta de amor por lo que se hace.
+##Psicología C (to desordenao, ¡pa que lo leas to je je!):
+- Cataratas: incapacidad de mirar adelante con alegría.
+- Celulitis: cólera acumulada y autocastigo.
+- Cerebro: aquí hay como mínimo un tumor por enfermedad.
+- Accidente cerebrovascular: rendición. Resistencia. Rechazo a la vida. "Antes morir que cambiar".
+- Ciática: hipocresía. Temor por cuestión de dinero y al futuro.
+- Joroba (cifosis): NO poder fluir con la vida (desconfiar...). Temor y aferrarse a ideas viejas. Falta de valentía en las convicciones o de integridad.
+- Circulación: sentir o expresar emociones de forma negativa.
+- Colesterol malo: miedo de aceptar la alegría.
+- Cólicos: irritación emocional, impaciencia. Molestia por el entorno.
+- Mucosidad en colon: revolcarse en el fango del pasado.
+* Colon irritable: temor a relajarse, inseguridad.
+- Columna: ¿falta de flexibilidad?
+- Coma: miedo. Intento de escapar de alguien o algo.
+- Conjuntivitis: enfado y frustración por lo que se ve en la vida.
+##Psicología C-D:
+- Convulsiones: deso de huír de la familia, uno mismo o la vida.
+- Corazón:
+* Ataque: por ganar dinero o posición se ha arrancado la alegría del corazón.
+* Problemas: entrega al esfuerzo y el estrés. Falta de alegría. Endurecimiento del corazón.
+- Cuello: negativa a ver otros aspectos de un asunto (NO flexibilidad).
+- Cuerpo. Derecho: donación, el padre. Izquierdo: recibir, comprender.
+- Debilidad: cansancio mental.
+- Dedos: pulgar (intelecto e inquietud), índice (miedo), medio (cólera y sexualidad), anular (uniones y aflicción), meñique (familia y falsedad). Artríticos: deseo de castigar. Acusar.
+- Demencia: negativa a enfrentar el mundo tal como es (la gente normal en 2.023 es demente). Desesperanza y rabia.
+##Psicología D-E:
+- Depresión: enfado que NO se tiene derecho a sentir (tú lo crees).
+- Desmayos: incapacidad de afrontar una situación.
+- Hiperglucemia (diabetes): nostalgia de lo que pudo haber sido. Necesidad de controlar. Tristeza profunda. Falta de dulzura.
+- Dientes: indecisión mantenida mucho tiempo. Incapacidad de analizar las ideas para decidir.
+- Distrofia muscular: "NO vale la pena crecer".
+- Dolor: culpa.
+- Eccema: antagonismo intenso.
+- Edema: despréndete de algo para sanar.
+- Encías: falta de confianza, problemas para mantener decisiones, indiferencia ante la vida. Sangre = falta de alegría en las decisiones.
+- Endometriosis: inseguridad, decepción y frustración. Sustitución del amor a uno mismo por azúcar. Tendencia a culpar.
+##Psicología E:
+- Enfermedad de transmisión sexual: culpa por la sexualidad. Idea de que los genitales son algo sucio. Maltrato a otra persona.
+- Entumecimiento u hormigueo: represión en la manifestación de amor y consideración...
+- Envejecimiento: vieja forma de pensar. Miedo a ser uno mismo. Rechazo del presente.
+- Envenenamiento por alimento: permitir que otros asuman el control. Sentir indefensión.
+- Epilepsia: sensación de ser perseguido, de pugna intensa. Rechazo de la vida. Violencia contra uno mismo.
+- Equilibrio: pensamiendo disperso.
+- Eructos: ¿quemar etapas demasiado rápido?
+- Escalofríos: deseo de retirarse. "Déjenme en paz".
+- Esclerodermia: autoprotección contra la vida. Desconfianza de la capacidad de autocuidarse.
+- Esclerosis lateral amiotrópica: resistencia a aceptar al propia valía. Negación del éxito.
+* E. múltiple: rigidez mental, dureza de corazón, miedo, ¿voluntad de hierro?
+- Espalda (yo pensaba que la parte de arriba era la familia, y la de abajo la sexualidad):
+* Parte superior: falta de apoyo emocional. Sensación de NO ser amado. Freno manifestando amor.
+* Media: culpa. Atascamiento en el pasado. Sensación de carga.
+* Inferior: miedo al dinero. Falta de apoyo económico.
+* Inclinada: transporta las cargas de la vida. Desesperanza. Desamparo.
+##Psicología E-G:
+- Espasmos: tensión debida al miedo.
+- Espinilla: ideales rotos.
+- Esqueleto: ¿desvalorización? La estructura de la vida se desmorona.
+- Esterilidad: miedo y resistencia al proceso de la vida. NO tener la necesidad de la experiencia de tener hijos.
+- Estómago: temor a lo nuevo / incapacidad de asimilarlo.
+- Estrabismo:
+* Convergente: deseo de NO ver el exterior. Objetivos contradictorios.
+* Divergente: temor a mirar el presente.
+- Estreñimiento: negativa a abandonar viejas ideas. Mezquindad, tacañería. Estancamiento en el pasado.
+- Fibromas y quistes: rencor contra novio / marido...
+* Fibrosis quística: firme convicción de que la vida NO resultará bien. "Pobre de mí".
+- Fiebre: ¿colera? Aparece mucho en fase de curación.
+- Fístula: bloqueo intentando liberarte.
+- Flebitis: rabia y frustración. Culpar a otros de la limitación y la falta de alegría.
+- Frigidez: negación del placer. Creer que la sexualidad (el erotismo...) es mala (lo que es malo es mirarme con ojos libidinosos). Parejas sexuales insensibles. Temor al padre.
+- Furúnculo: furia.
+- Gangrena: pensamientos ponzoñosos que ahogan la alegría.
+- Garganta (angustia?):
+* Dolor, irritación: represión del enfado. Sentirse incapaz de expresarse.
+* Nudo: miedo. Desconfianza del proceso de la vida.
+* Problemas: incapacidad de hacerse valer (hacer que te respeten o tengan en consideración). Rabia reprimida y tragada. Creatividad sofocada, ¿por otro? Negativa a cambiar.
+##Psicología G-H:
+- Gastritis: incertidumbre prolongada. Fatalismo.
+- Genitales: preocupación por NO sentirse valioso. NO es necesario sentirse valioso (hay tramos y tramos en la vida; y además, muchos tramos son de preparación).
+- Glándulas: mala distribución de las ideas para organizarse y actuar. Autocontención.
+- Glaucoma: necesidad de castigo por ser mala persona.
+- Gota: necesidad de dominar. Impaciencia. Ira.
+- Gripe: reacción ante creencias populares negativas. Miedo. Fé en las estadísticas (¿de gripe?).
+- Hemorragias: se marcha la alegría. Fastidio.
+- Hemorroides: miedo a los plazos establecidos. Rabia por el pasado. Temor a "aflojar". Sensación de carga.
+- Hepatitis: resistencia al cambio. Miedo, ira, odio, indignación.
+- Heridas: enfado con uno mismo y sentirse culpable.
+- Hernia: relaciones rotas. tensiones, cargas. Expresión creativa incorrecta.
+* Discal: sensación de NO recibir apoyos. Indecisión (hacer tests de misión espiritual: Nodo Norte, Tzolkin Maya, Diseño Humano...).
+- Herpes genital: creencia popular en la culpa sexual y la necesidad de castigo (fé en un Dios que castiga...). Escarmiento público. Rechazo de lso genitales.
+* Labial: enfado que carcome y temor de expresarlo.
+##Psicología H-I (ten en cuenta que hay más causas psicológicas, y que lo oficial y además bueno, aquí van los 2 unidos... es la NMGHamer):
+- Hígado: hábito de quejarse. Justificación de las críticas para autoengañarse.
+- Hiperactividad: temor. Sensación de estar presionado y frenético.
+- Hipermetropía: temor al presente.
+- Hipertiroidismo: rabia por haber sido dejado de lado.
+- Hombros: con nuestra actitud NO positiva ante lo que nos sucede (puedes aprender...), hacemos de la vida una carga.
+- Infecciones de hongos (el patógeno crece en "un mal terreno", NO soy de los que piensan que va por el aire): creencias estancadas (te aferras al pasado). Negación de las propias necesidades (no te autoapoyas).
+* Infección (general): ciertas dudas, ¡las decisiones liberan! El parásito depende del "tipo de duda".
+- Huesos / fracturas: rebelión contra la autoridad... NO hemos venido a hacer eso, sino a autocriticarnos con cariño (tras un poco de angustia).
+- Incontinencia: exceso emocional que rebosa. Años de represión de las emociones.
+- Indigestión: miedo visceral, terror, quejas, gruñidos...
+##Psicología I-M (recuerda que muchas enfermedades pueden darse en fase de curación, invalidando estas causas):
+- Insomnio: miedo a soltar el control consciente.
+- Intestinos: terror de liberar lo ya NO necesario.
+- Juanete: falta de alegría ante las experiencias de la vida. ¿Incluye las pruebas?
+- Laringitis: furia que impide hablar. Miedo de hacerse valer. Resentimiento contra la autoridad.
+- Lengua: enfado con uno mismo, culpabilidad.
+- Retención de líquido: miedo a perderse algo.
+- Llagas, irritaciones: rabia sin expresar.
+- Malaria: ¿desequilibrio con la naturaleza y la vida?
+- Mamas: negativa a cuidar de sí misma (en favor de los demás).
+##Psicología M:
+- Quistes, bultos, mastitis...: cuidados maternales exagerados, sobreproteger, actitud autoritaria.
+- Mareo en barcos: miedo a la muerte, ¿ganas de tenerlo todo controlado?
+- Mareo en coche: miedo. Sensación de estar cautivo.
+- Mareo al moverse: miedo. Temor de NO estar al mando.
+- Matriz: ¿que NO te entregas al xx%?
+- Meningitis: rabia contra la vida. Y fase de curación.
+- Menopausia: miedo a dejar de ser deseable o envejecer, autorechazo o sensación de valer poco.
+- Migraña: aversión a ser manejado, resistencia al fluir de la sabia vida (da lecciones si sabes verlas; a veces, simplemente pagas karma o la vida te mete por ciertos caminos para hacer tiempo o que no vayas por otros), temores sexuales (prueba a masturbarte entonces, ¿sin necesidad de eyacular NO?).
+- Miopía: miedo al futuro, desconfianza en el porvenir.
+- Mordeduras: cólera o, ¿necesidad de castigo por creer en él?
+##Psicología M-O:
+- Nalgas flácidas: pérdida de poder.
+- Nariz: goteo continuo (necesidad de ayuda, "llanto"), hemorragia (necesidad de reconocimiento, sensación de NO ser valorado, ansia de amor), moqueo hacia dentro ("llanto", puerilidad, victimismo), cargada (autodesvalorización).
+- Náuseas: rechazo de una idea o una experiencia.
+- Nerviosismo: desconfianza del proceso de la vida (NO es igual que la resistencia a lo que te pasa digo yo). Miedo, angustia, esfuerzo, precipitación. ¿Mucho esfuerzo es antiético? ¿Y si tu vida es de pagar karma?
+- Neuralgia: castigo por una culpa. Angustia por razones de comunicación (¿con gargantas veloces o asperger?).
+- Obesidad (sensibilidad exagerada, necesidad de protección, resistencia a perdonar):
+* Brazos (rabia por falta / necesidad de amor).
+* Caderas: terca cólera contra los padres.
+* Muslos: cólera desde la infancia (contra el padre...).
+* Vientre: rabia por falta de sustento (¿en un sentido amplio?).
+##Psicología O-P:
+- Oídos: obediencia (NO siempre es positiva).
+- Ojos: capacidad de ver pasado, presente y futuro en su justa medida.
+- Olor corporal: miedo (a la suegra je je). Disgusto consigo mismo. Despecho.
+- Osteoporosis: sensación de No contar con apoyos.
+- Pancreatitis: rechazo. Enfado y frustración porque la vida ya NO es dulce.
+- Parálisis facial: control excesivo de la ira. Resistencia a expresar sentimientos.
+- Parásitos: entrega del poder a otras personas.
+- Parkinson: intenso deseo de controlarlo todo (por miedo).
+- Pene: ¿energía / actitud depresiva?
+- Picaduras: culpa por cosas pequeñas (lo simbólico produce lo material).
+##Psicología P-R:
+- Piel: angustia, miedo. Antigua repugnancia encubierta. Sensación de amenaza.
+- Piernas: miedo al futuro. Deseo de NO moverse.
+- Pies: miedo al futuro y de NO avanzar en la vida.
+- Próstata: ¿temores sobre la masculinidad?. Renuncia. Presión y culpa sexual. Creencia en el envejecimiento (¿curioso NO?).
+- Pulmones: depresión. Aflicción. Sensación de NO ser digno de vivir plenamente.
+- Quemaduras, rabia o furia ardientes.
+- Rabia: fé en que la violencia es la respuesta.
+- Raquitismo: falta de amor y seguridad.
+- Cálculos renales: enfado / s NO resuelto / s.
+- Resfriados, catarros: suceden demasiadas cosas a la vez. Confusión, desorden mental. Pequeños agravios. ¿Y ganas de que nos cuiden? Creencia en "los 3 resfriados cada Invierno" (creer es crear, y vibrar es atraer. Decir "contra el cáncer" es atraer el cáncer; el "medio" se queda con "cáncer", NO con "no" o "contra").
+##Psicología R-S:
+- Respiración: miedo o resistencia a aceptar la vida plenamente. Sensación de NO tener derecho a ocupar espacio o a existir.
+- Reumatismo: sentirse víctima. Falta de amor. Amargura crónica. Resentimiento.
+- Rigidez: pensamientos rígidos o cerrados.
+- Riñones: decepción, fracaso, vergüenza, ser criticado. Reacciones pueriles.
+- Rodillas: orgullo y obstinación. Incapacidad de inclinarse. Temor. Inflexibilidad. Terquedad.
+- Ronquidos: terca negativa a abandonar viejas pautas mentales.
+- Sangre: falta de alegría. Las ideas NO circulan...
+- Sarna: pensamientos infectados. Permitir que otras personas nos acaparen el pensamiento.
+- Sarpullido: irritación por los retrasos. Forma pueril de llamar la atención.
+- Senilidad (regreso a la supuesta seguridad de la infancia): exigencia de cuidados y atención. Escapismo. Forma de controlar a quienes nos rodean.
+##Psicología S-T:
+- Síndrome premenstrual: confusión que domina. Entrega del poder a influencias externas. Rechazo de los procesos femeninos.
+- Sinusitis: irritación contra persona muy cercana?
+- Sobrepeso: miedo, necesidad de protección. Huida de los sentimientos. Inseguridad. Autorechazo. Búsqueda de satisfacción. Y muchísimo más.
+- Somnolencia: miedo a asumir las responsabilidades del día.
+- Sordera: rechazo, terquedad, aislamiento ("no me molesten"...).
+- Suicidio: negativa a ver otra salida.
+- Suprarrenales: derrotismo, angustia. Renuncia a cuidar de uno mismo.
+- Tétanos: necesidad de liberar sentimientos de cólera.
+- Tics: miedo, sensación de ser observado por los demás.
+- Tiroides: humillación. "¿Nunca puedo hacer lo que deseo?" Sí, no te victimices. "¿Cuando llegará mi turno"?
+- Torceduras tobillos: ira y resistencia. NO querer avanzar en cierta dirección.
+- Tos: deseo de decir al mundo: "escúchenme".
+##Psicología T-Z:
+- Tuberculosis: egoísmo que carcome. Pensamientos crueles. Posesividad. Deseo de venganza.
+- Úlceras: miedo, creer (estar convencido) que no se vale lo suficiente.
+- Urticaria: pequeños temores ocultos. Hacer una montaña de un grano de arena.
+- Útero: creatividad.
+- Varicela: se piensa en el siguiente problema o disgusto (hay que volver al presente tras planificar). Temor y tensión. Sensibilidad exagerada.
+- Verrugas: manifestaciones de odio pequeñas. Creencia en la fealdad, ¿externa?
+- Vértigo: fuga y dispersión de pensamiento. Negativa a mirar.
+- Vitiligo: sensación de estar fuera de sitio, de no pertenecer al grupo.
+- Vómitos: violento rechazo de ideas. Temor a lo nuevo.
+- Zumbidos: negativa a escuchar. Tozudez. No oír la voz interior.
+##Engordar (Psicología):
 * Diabetes: a causa de heridas anteriores, necesito controlar el entorno y la gente que me rodea. Ausencia de amor (NO dejarlo entrar en tu vida...), alegría, dulzura. Como muchos dulces, por mi amargura. Más: quiero que la gente realice mis deseos, y NO veo que me amen. Resistencia frente a acontecimiento inevitable (separación, traslado, examen...), por el que siento asco, desdén... Sentimientos de repugnancia (¿durante el parto?) por algo que sucedió en la infancia. NO acepta / "NO puede ser verdad" (trauma de miedo y resistencia). Nostalgia de lo que pudo haber sido. Tristeza profunda. Falta de dulzura en general. Si te duele la soledad, diabetes.
 * Preocupaciones, querer hacerse notar (¡mira qué bien bailo la peonza!), estar insatisfecho (agradece). Gula (no aceptar sentimientos / pensamientos, "tragárselos"; es también cobrar y ponerse a gastar al minuto compulsivamente, para sentir "gustito"). Te sientes mal con alguna parte de tu cuerpo y engordas. Te sientes todavía peor y... es un círculo vicioso. NO hay sensación de saciedad (hígado) por miedo a morir de hambre de niño. Conflicto de presa ("he sido lento"). Haber ido a parar al camino equivocado (y claro, te paras). ¿El aspecto es de síndrome de Cushing? Pensar en cosas materiales (que si voy a ganar menos este año... Lo relacionaría con el "conflicto del refugiado", el único que engorda, Nueva Medicina Germánica). ¿El materialismo (acumulación, ser posesivo, tener miedo a perder cosas...) es la principal causa de engordar? Separa las cosas que te dicen algo de las que NO. Has de aprender a estar satisfecho con pocas. LIMPIAR LA PSIQUE ES LO PRIORITARIO.
 * Tiroides, hipertiroidismo (esto es de flacos, pero lo pongo): saltarse fases (falta paciencia), me doy plazos muy cortos (me apresuro). Rabia por haber sido dejado de lado. Decepción porque NO respondo a las expectativas de los demás. Ansiedad, irritabilidad, nerviosismo, hiperactividad y sensación de tener que ir rápido. Hipotiroidismo (esto sí es de gordos): ¿cuándo llegará mi momento? Si haces un librito y lo pones en Facebook, ahora. Depresión, tristeza, fatiga, desmotivación, resignación y la sensación de ir lento o estar frenado.
 * Si te alimentas mal (comes demasiado...), ¿podría ser por desvalorización (Nueva Medicina Germánica)?, ¿por una mala defensa del territorio?
-####Preguntas engordar (Psicología):
+##Preguntas engordar (Psicología):
 - Engordar, diabetes (causa Psicológica).
 * Heridas anteriores, necesito controlar el entorno... NO amor (NO dejarlo entrar...), alegría, dulzura (como muchos dulces). Quiero que realicen mis deseos, y NO veo que me amen. Resistencia frente a acontecimiento inevitable (separación, examen...), por el que siento asco, desdén... Repugnancia (¿durante el parto?) por algo de la infancia. 'NO puede ser verdad' (trauma de miedo y resistencia). Nostalgia de lo que pudo haber sido. Te duele la soledad.
 - Engordar (o adelgazar), tiroides.
@@ -649,16 +685,19 @@ En aprender2.html:
 * Preocupaciones, querer hacerse notar (¡mira qué bien bailo la peonza!), estar insatisfecho (agradece). Gula (no aceptar sentimientos / pensamientos, 'tragárselos'; es también cobrar y ponerse a gastar al minuto compulsivamente, para sentir 'gustito'). Te sientes mal con alguna parte de tu cuerpo y engordas. Te sientes todavía peor y... es un círculo vicioso. NO hay sensación de saciedad (hígado) por miedo a morir de hambre de niño. Conflicto de presa ('he sido lento').
 - Engordar, Psicología en general II.
 * Haber ido a parar al camino equivocado (y te paras). Pensar en cosas materiales (voy a ganar menos este año... ¿conflicto del refugiado, el único que engorda, Nueva Medicina Germánica? Acumulación, ser posesivo, miedo a perder... Separa las cosas que te dicen algo de las que NO. Estate satisfecho con pocas). Si te alimentas mal (comes demasiado...), ¿podría ser por desvalorización (Nueva Medicina Germánica)?, ¿por una mala defensa del territorio?
-####011a11engordarmateria.txt  - Engordar (materia):
-* Agua fría: ayuda al delgado y al gordo, por la mañana y la noche.
-* Engordan los hidratos de carbono (que suben la tensión, y el infravalorado colesterol, tiene que arreglar las arterias dañadas resultantes; inspira y espira contando), sobre todo "a partir de las 18:00", o si los comes solos. NO desayunar te hace menos activo para el resto del día (Pero te puede limpiar). Las dietas pobres en nutrientes (necesitas minerales, sal) hacen que el cuerpo almacene (se prepara para lo peor): los músculos merman (no hay nutrientes para mantenerlos), y engordas. Nueces (muchas, con pocas tienes omega 3, saludable) y semillas, casi no contienen humedad. La arginina (nueces) produce óxido nítrico, que reduce el metabolismo.
-* Comer rápido o entre horas, engorda. Si 2, 3... comidas distan 2 horas, el cuerpo las tomará por una grande, y engordarás. Si 2 comidas distan 5 o más horas, engordarán. Solución: dejar 3 horas entre un final y un comienzo (o 4). ¡Varía el menú para gastar más energía! Agua durante las comidas, engorda. La patata (más potasio que sodio), engorda. El consumo de patatas enfriadas disminuye la tasa de oxidación de los hidratos de carbono. La leche tiene triptófano (precursor de la melatonina), engorda (pero cuidado con los lácteos; un poco de queso puede aportar algún mineral). Melatonina natural: cerezas ácidas, nueces, avena, arroz, maíz dulce, tomates, plátanos... Como el calcio, el magnesio baja la actividad del sistema simpático (que produce adrenalina y fuga de protones).
-* El alcohol hace que la glucosa se eleve, y termine almacenándose grasa. Aspartamo, productos light o poco caseros / cariñosos (hechos por máquinas malignas je je), medicamentos... engordan. El gluten moderno puede inflamar, y se pone en las paredes del intestino, impidiendo absorber nutrientes.
-* Dormir poco, engorda. Con 24-27 grados, poniéndote algo que deje correr el aire, engordas, así que, duerme fresquito, mejor.
-* Muchos productos de limpieza (ftalatos...), engordan.
-* Mujer: mucha grasa en el abdomen es por cortisol (toma el Sol). El estrógeno en la mujer "custodia la grasa" (así que, poco trigo integral).
-* Hombre con pechos: puede ser el hígado (no elimina estrógenos, mirar NMG Hamer; y el estrógeno produce retención de líquidos, falsa gordura, que se acaba bebiendo con sal; nunca bebas agua sola, que "encharca" y deshidrata ¡es mejor un refresco!).
-####Preguntas engordar (materia):
+##Nueva Medicina Germánica:
+- Nueva Medicina Germánica. Conflictos de psique, eso es la enfermedad.
+####01206Saludmateria.txt  ####Salud materia:
+##Engordar (materia):
+- Agua fría: ayuda al delgado y al gordo, por la mañana y la noche.
+- Engordan los hidratos de carbono (que suben la tensión, y el infravalorado colesterol, tiene que arreglar las arterias dañadas resultantes; inspira y espira contando), sobre todo "a partir de las 18:00", o si los comes solos. NO desayunar te hace menos activo para el resto del día (Pero te puede limpiar). Las dietas pobres en nutrientes (necesitas minerales, sal) hacen que el cuerpo almacene (se prepara para lo peor): los músculos merman (no hay nutrientes para mantenerlos), y engordas. Nueces (muchas, con pocas tienes omega 3, saludable) y semillas, casi no contienen humedad. La arginina (nueces) produce óxido nítrico, que reduce el metabolismo.
+- Comer rápido o entre horas, engorda. Si 2, 3... comidas distan 2 horas, el cuerpo las tomará por una grande, y engordarás. Si 2 comidas distan 5 o más horas, engordarán. Solución: dejar 3 horas entre un final y un comienzo (o 4). ¡Varía el menú para gastar más energía! Agua durante las comidas, engorda. La patata (más potasio que sodio), engorda. El consumo de patatas enfriadas disminuye la tasa de oxidación de los hidratos de carbono. La leche tiene triptófano (precursor de la melatonina), engorda (pero cuidado con los lácteos; un poco de queso puede aportar algún mineral). Melatonina natural: cerezas ácidas, nueces, avena, arroz, maíz dulce, tomates, plátanos... Como el calcio, el magnesio baja la actividad del sistema simpático (que produce adrenalina y fuga de protones).
+- El alcohol hace que la glucosa se eleve, y termine almacenándose grasa. Aspartamo, productos light o poco caseros / cariñosos (hechos por máquinas malignas je je), medicamentos... engordan. El gluten moderno puede inflamar, y se pone en las paredes del intestino, impidiendo absorber nutrientes.
+- Dormir poco, engorda. Con 24-27 grados, poniéndote algo que deje correr el aire, engordas, así que, duerme fresquito, mejor.
+- Muchos productos de limpieza (ftalatos...), engordan.
+- Mujer: mucha grasa en el abdomen es por cortisol (toma el Sol). El estrógeno en la mujer "custodia la grasa" (así que, poco trigo integral).
+- Hombre con pechos: puede ser el hígado (no elimina estrógenos, mirar NMG Hamer; y el estrógeno produce retención de líquidos, falsa gordura, que se acaba bebiendo con sal; nunca bebas agua sola, que "encharca" y deshidrata ¡es mejor un refresco!).
+##Preguntas engordar (materia):
 - Engordar o NO al comer y beber: substancias I.
 * Agua fría: ayuda al delgado y al gordo, por la mañana y la noche. Engordan los hidratos de carbono (que suben la tensión, y el infravalorado colesterol, tiene que arreglar las arterias dañadas resultantes; inspira y espira contando), sobre todo si los comes solos. Las dietas pobres en nutrientes (necesitas minerales, sal) hacen que el cuerpo almacene (se prepara para lo peor): los músculos merman (no hay nutrientes para mantener), engordas. Calcio, magnesio.
 - Engordar o NO al comer y beber: substancias II.
@@ -669,3 +708,100 @@ En aprender2.html:
 * Dormir poco, engorda. Con 24-27 grados, poniéndote algo que deje correr el aire, engordas, así que, duerme fresquito, mejor. Muchos productos de limpieza (ftalatos...), engordan. Mujer: mucha grasa en el abdomen es por cortisol (toma el Sol). Hombre con pechos: puede ser el hígado (no elimina estrógenos, mirar NMG Hamer; el estrógeno causa retención de líquidos, falsa gordura, que se acaba bebiendo con sal; nunca bebas agua sola, "encharca", deshidrata ¡mejor un refresco!).
 - ¿Qué substancias son las peores a la hora de engordar?
 * El alcohol hace que la glucosa se eleve, y termine almacenándose grasa. Aspartamo, productos light o poco caseros / cariñosos (hechos por máquinas malignas je je), medicamentos... engordan. El gluten moderno puede inflamar, y se pone en las paredes del intestino, impidiendo absorber nutrientes. La leche tiene triptófano (precursor de la melatonina), engorda (pero cuidado con los lácteos; un poco de queso puede aportar algún mineral).
+##Comer:
+- Cambiar de hábitos de comer. El agua con limón y sal (para NO encharcar los glóbulos rojos), para limpiar, cada 2 / 3 días. ¿Comer sólo una vez al día (Hipócrates decía que incluso menos)? Disminuir los hidratos de carbono y aumentar las saludables grasas (si comes legumbres, ¿garbanzos? Y las lentejas, para germinados):
+* Los vegetales, ¿que NO tengan muchos Hidratos? ¿Y fréjoles pa la fuerza?
+* Diarrea: pan blanco (como mínimo, para rebañar). Arroz (da mucha energía, pa días muy cansaos). Plátano maduro (tiene ciertas propiedades), yogur natural (NO alimenta mucho, es lácteo; y prefiero el queso, que tiene "algún mineral").
+* Astringentes: manzana, algún que otro día...
+* Nueces (omega 3) y dátiles. NO pasarse.
+* ¿La carne es mala pa la espiritualidad? ¿NO comer mucha? ¿mejor pescao? ¿Salmón pa la intuición? Emma's Gluck: ella sabía matar cerdos sin tanto sufrimiento (los llamaba para darles a mor como siempre, y brotaba sangre suavemente; sí, suena fuerte).
+* ¿Algo "quemao" / dioxinas (grasa de freír chorizo...)? Desparasitar: aceite de ricino, bicarbonato... ¡Y huevos!
+##Hábitos:
+- Que te cale esto antes de que yo "me vaya" (quiero estar solo, o lejos de la superficie de la Tierra je je): si tienes mucha energía y mucho tiempo ocioso, puedes gastar la energía primero (es opcional), y luego dar pasos de 2 en 2 (desfile) durante unos 3 minutos, luego te sientas, agachas un poco la cabeza, mientras dices "ji ji" frotando las manos, y luego "eee...", pa NO tener actividad. MEJOR QUE RECURRIR A CIERTO EROTISMO PERJUDICIAL...
+####01307Batalla bien y mal.txt  ####Batalla entre el mal y el bien:
+##Información vs política:
+- La gente necesita creer en algo, aunque sea en el peor político.
+- Os recuerdo las 3 series de dibujos animados que cuentan realidades, disfrazadas de diversión (si NO lo veis, os falta algo como conspis / buscadores de lo que realmente pasa con las élites): Teen Titans Go, Bebé Jefazo (Boss Baby), Gumball.
+- Cuando un político dice "yo NO contesto a derechistas" (en el ámbito de trabajo, ¡pagados con nuestros impuestos!), hay gente que defiende al político: esa gente está loca, y además, eso de "estamos siendo infectados por la ultraderecha", viene de gente mala (se llamaba "ultraderecha" a quien denunciaba al mal en los 70, España, ESO TENEDLO CLARO, es una forma vil de autodefensa).
+##Hacia una sociedad sin moral:
+- Fabricar falsos mesías, ¿acaba con la fé, al NO ser muy buenos (eso parece)?
+- Inmigración para el caos mundial:
+* Van a regularizar a gente con antecedentes penales, y España sigue siendo el paraíso de los forajidos, los islamistas odiaespañoles que cobran, y NO se integran porque NO trabajan... Los delitos graves graves caducan a los 10 años, y nos han mentido. Ganarán con el caos: un mundo donde sea normal la violencia, será de gente poco consciente (NO buscarán en internet la verdad...).
+* Si regularizas a un musulmán, detrás viene su familia. Y cuando en España NO quepa nadie más, los musulmanes españoles se negarán a que haya más regularizaciones, y su partido será... ninguno. Luego vendrán los chinos a sustituirlos. La izquierda quiere caos (criminales sueltos...), para controlar el país, gobernar sobre cenizas, hacerlo "de segunda" (NO importan las bajas)...
+- ¿Que NO se vea la tele, NO debería, aparte de alegrarnos, hacernos pensar también que es en parte por usar el móvil (una basura, mientras que NO mires joyas como el Golden Axe, o mires artículos profundos y elevados, o mis vídeos cómicos de Youtube je je...)?
+* Estudios científicos: irritabilidad, miedo irracional, insensibilidad ante el sufrimiento ajeno... por violencia en la tele (los niños copian, si NO son muy elevados)... Vas normalizando cosas horribles. La tele te dice que tienes que viajar, tirar a la basura tus raíces, que el éxito es usar cierta colonia... Provoca retraso en las habilidades sociales, ansiedad, depresión...
+- El niño está diseñado para evolucionar, NO para ser supersumiso al carecer de atención en una mala guardería (hay muchos niños por educador). Las élites, aparte de planes para que haya gente sumisa, quieren quitar lo creativo, lo emocional... de las escuelas (lo racional, es menos importante para un niño sano). Un niño que se pasa el día con libros (de texto), podría acabar fácilmente siendo un adulto pesao, y poco inteligente socialmente, quieres librarte de él, como de los profes detallistas / poco esencialistas (además, se aprende haciendo), que te hacen odiar la vida.
+##Peligros:
+- Si el Gobierno va directamente a pisar tus cultivos, dirá "fue el cambio climático, ¡come insectos!".
+- Si tu marido te pega o pegó, aunque ya NO estés con él, te quitan a los hijos, ¿cruel, NO? Cuidao con quien dice "por el bien del menor" (frase aprendida).
+- Si los médicos supiesen un poco de Psicología, casi NO habría enfermos / dinero / trabajo. ES LA LUCHA ENTRE SABIDURÍA Y PARCHES / PODER (GENTE DÉBIL / CONTROLADA, Y PAGANDO). Si NO eres un psicópata, mirarás dentro / curarás (con síntomas, y hay varios ciclos, lleva tiempo).
+- A la gente con misiones realmente sutiles, yo creo que les están pasando cosas raras / 18 Abril 2.026 (de cansancio a superenergía y NO dormir...), aversión a lo "extravertido"... Y tienen que decir que NO a los planes de sus amigos de siempre, con energía. Lo de ir a Avilés al concierto de Rix, tal vez me esté quitando el sueño. NO voy a pasarlo bien, eso lo tengo claro, yo finjo y finjo (que estoy bien, pongo la sonrisa...) con amigos (y muchas llamadas de amigos parecen asociadas a espíritus negativos, ¡algunas veces he estado cerca de la muerte, en montañas, en ríos...! Posibles elegidos, llamando para hacer la vida difícil a otro posible elegido). Los decibelios continuados son una tortura, como el ocio nocturno, yo voy a apoyar a Rix y a pasarlo mal, lo tengo claro. Opciones: vagabundear por Avilés, o que me lleven a Gijón (NO hay que transbordar para llegar a Mieres), y dormir allí o vagabundear (mira, prefiero vagabundear, que a mí, me gusta estar solo). La mejor opción es volver a Mieres con gente del concierto, ¿y si NO se da? Ya quiero dejarme de problemas nocturnos, ya fue bastante, y eso de ver que probablemente espíritus negativos me quieran matar... ¡Qué cabrones los de la sala de conciertos! ¿NO pueden abrir a las 18:00, para que uno NO tenga que vagabundear toda la madrugada? ALSA, por la noche, NO puedo coger, se necesita tarjetita. Manifas en Madrid... ¡odiseas (me refiero a las de coger el ALSA solito, teniendo que recaudar una fortuna / sólo me quitaban el 15% por minusvalía, y autoguiándome por Madrid hasta las estaciones por la noche, con la mente chunga; las de autobús con otros conspis, eran baratas, y un paseo por el campo)! Opino que NO se puede tener suerte eternamente. Cuando sea realmente necesario que vaya a algún sitio "peligroso", la suerte estará conmigo, pero abusar...
+##Paios y bere:
+- Para Antena 3, NO existe VOX (NO lo nombra en la crónica electoral). Antena 3 (derechas) y La Sexta (izquierdas) son cadenas hermanas. ¡Son las 2 paias (es el nexo je je)!
+####01408temporalsucesos.txt  ####Temporal (sucesos...):
+##Sucesos:
+- Sin las acusaciones populares (partido Iustitia Europa...) NO habría caso Begoña... ¡A la cárcel, y NO el Juez Presencia, cuyos acusadores son auténticos criminales!
+##Yo:
+- Lombriz, ¿transformación, poder con todo?
+####015lote1.txt  ####Psicosociología, hábitos:
+- Deseo: miedo + hacer tilín ¿opciones de trabajo por Internet, o "casualidad" saliendo a la calle? ¿Miedo, los elegidos?
+####Psicosociología, peligros.
+- Cuanto más sabes, ¿más complicas la vida de los demás? En España, sin un título, te quedas en casa, es un país "para estudiosos".
+####Psicosociología, cuidado:
+- Los hombres jóvenes (España) NO suelen tener mayores consecutivos, conservan la testosterona. Que NO se sientan mejores por "ser machos". Si reprimen su lado femenino, deben mejorar mucho (y mejor que lleven cara seria, que "NO vendan"). Que NO teman por tener garsa donde la tienen las mujeres (antebrazo...), que facilita el músculo (como una sensibilidad femenina a la testosterona): músculo y feminidad.
+####Lucha bien vs mal, sin moral, inmigración para el caos:
+- La gente se lleva las manos a la cabeza cuando oye "prioridad para los españoles", pero NO cuando es para quien acaba de llegar, ¡nos estamos volviendo locos! Cáritas, Médicos sin Fronteras... ponen dientes gratis a los nuevos. Están discriminando a los de la cultura relativamente cuerda. Si eres español y dices que eres vulnerable, estudian tu entorno, y tardan siglos (presuponen que si tienes un único familiar, te va a ayudar). ¿Las ONGs NO atienden a españoles? Gentuza de fuera se hace pasar por refugiados, se pone los dientes, y se va. Rufián tiene un discurso diferente a cuando era más joven, ¡porque muchos políticos van a su partido (en realidad, los mandan allí) porque mienten mejor en ese partido, casan mejor con el objetivo de las élites!
+####Lucha entre bien y mal. Hacia una sociedad sin moral:
+- Muchas películas que predecían lo que está pasando hoy a nivel tecnológico, NO eran simple diversión, sino que mostraban a directores preocupados (conocían los planes de las élites para el futuro): gafas para aislarte del mundo ("visión virtual", gente enferma) en Regreso al Futuro II (y pagar electrónicamente)... Fuimos muy ingenuos pensando que todo eso nos daría felicidad. NO debemos ser niños (ilusionarnos por los avances tecnológicos), sino algo más (el día a día nos da momentos bellos, si NO estamos enfermos). Más ejemplos: Children of Men (esterilidad mundial, caos migratorio, una población sin hijos acaba mal, sus miembros son irresponsables), Network (el ruido parece más cierto que la verdad; y es un tema de Rix, Miguel), El Show de Truman (hoy envidiamos a quien consigue que una audiencia grande vea cómo va al baño...). ¿Muchos hombres hablan con IA por miedo al rechazo? Wall-e: fuera cretividad y toma de decisiones; hiperconectividad... Inteligencia pobre, sin conciencia: muerte de la humanidad. ¡Abúrrete, se inteligente de verdad!
+####Salud Psicología, NMG:
+- Ejemplos de Nueva Medicina germánica: a una madre leona sin su cría le sale un quiste para encontrar pareja, y a una mujer que vive algo como una pérdida, también; y los problemas de piel, son por miedo, impotencia, separación...
+- La medicina falla: cuando estás curando, te paran los síntomas, y hasta te pueden decir que te vas a morir, ¡y hala, otra enfermedad (las enfermedades son psicológicas)! Fase de curación (hambre, poca actividad, manos calientes): subfase de curación crítica, muy INTENSA (puede durar hasta unas 72 horas, dependiendo de la gravedad del trauma PSICOLÓGICO, y aquí es donde intervienen médicos y enfermeros), encuadrada entre la primera fase de dolor, y la tercera de expulsión de tóxicos.
+* La gripe no se cura, ¡es la cura! La epilepsia está en la cura de un conflicto motor (NO te han dejado "moverte"... ¿Incluye pesados que hablan mucho, y NO los entendiste?).
+- El saber popular relaciona psique y cuerpo:
+* Susto de muerte (tipo de trauma de pánico, laringe).
+* Tengo las manos atadas (el trauma correspondiente afecta a los conductos tiroideos). 
+- Ejemplo para saber algunos tipos de trauma. Un hombre pierde a su mujer (camión choca contra el coche de ella). Si la quería (la cosa es grave), lo normal es una fase activa con programa físico de testículos (recibes + testosterona para encontrar amigos...). Pero puede haber otros tipos de conflicto / trauma:
+* NO acepta / "no puede ser verdad" (trauma de miedo y resistencia, diabetes).
+* NO para de imaginarse el choque (miedo frontal, arco braquial).
+* Si la mujer era su autoestima (dependía de ella): desvalorización (problema lumbar... ¿Menos densidad ósea?).
+* Su mujer era parte de él (pérdida de territorio, angina de pecho).
+- El teatro es bueno tanto para traumas (salud) como para represiones (leyes no soportadas; maldad genuina, pues te hacen incoherente). El primer acto muestra la debilidad, y en el segundo se arregla todo (eso sí, a veces tardas mucho, tiene que ser así).
+- Mi madre generó cáncer de mama por preocuparse excesivamente por sus hijos (lo cierto es que éramos su escaparate). Un 4 en un examen... NO debería ser nada. Dejen de competir.
+####016lote2.txt  ####Lucha bien y mal, peligros:
+- Los cazadores / recolectores tenían una salud mejor (me recuerda a los de El Planeta de los Simios, hombres y mujeres que NO hablaban, pero que tenían su inteligencia y salud NO corrompidas). ¿Bosques comestibles y escopeta son la solución? Probablemente. Los débiles mentales / malotes NO necesitan escopeta, los elegidos los incomodan sin moverse o hablar, acaban "enfadadillos". Irán está enfadadillo por las sequías provocadas por Israel y USA: las élites las provocan en todos los países (debilita y controlarás).
+####Salud Psicología, Nueva Medicina Germánica:
+- NO hay por qué entender a la gente (así, podrías prevenir el ataque epiléptico, que surge cuando ya NO te habla el poco empático, y te repones: Nueva Medicina Germánica). PASA, DESCANSA, CAE MAL. ¿Relacionado con la creencia de que todos deben quererte, o la cosa va mal? Si NO se te entiende a la perfección (hablas poco, despacio...), ¿cómo pretendes que el bueno quiera estar contigo?
+####Cuidado (NO ES LO QUE PARECE, Y ES PELIGROSO...):
+- Es típico el miedo del introvertido al extravertido (suele ser menos empático): NO le deja estar solo, molesta preguntando, a veces NO deja dormir... Hay que comprenderlos, simplemente (y alejarse si hay poca empatía, verla a la hora, y cortar, por ti). Cuidado con algunas personas alegres, hablantes, y que saludan a todo el mundo por la calle. NO ES LO QUE PARECE.
+####Peligros (batalla bien y mal).
+- Los ministros criminales saben manipular / guardar silencio (deben hacerlo: si critican, los critican). La UE ama a Sánchez, tiene objetivos "Agenda 2.030" (NO irá a la cárcel?). ESTO LO DICE UN CURA BUENO: LA CARIDAD / AYUDA, EMPIEZA POR EL MÁS CERCANO (LA LGLESIA ES SANCHISTA, "PROPSICÓPATAS").
+- ¿Cuando "reciclas" pastillas, matan un montón de animales? ¡NO a las pastillas, son pa bobos, hay plantas, la enfermedad es psíquica...!
+####Libro (paios y bere):
+- Correción: el Catolicismo NO apareció en el siglo I, sino en el IV (realmente, NO sabemos cuántos años han transcurrido, la Historia es una mentira). Los bere perdían la fé ante la llegada de un falso mesías (y supongo que los paios kain iudas que se habían quedado "en Tierra Santa"; tras revelar Hermes Trimegisto / la tercera reencarnación de "El BE" / Álex Magno, increíble sabiduría, muchos iudas la usaron para ganar dinero).
+####Psicosociología hábitos.
+- Cuanto más elevado seas, más sensible serás (Escorpio parte de una sensibilidad más baja que Tauro), y los conciertos... ya NO puedes ir (decibelios continuados). Los psicológicos son más elevados que los buscadores de información, pero todos pueden ser elevados.
+- Si sentiste "erotismo" cuando un hombre te miró a los ojos con cara amorosa durante varios segundos, acéptalo, ESTATE A GUSTO CON LO QUE SIENTES, O PODRÍAS REPRIMIR Y CONVERTIRTE EN UN "HOMBRE SECO" / UNA "MUJER SECA". Recuerda que los más elevaos son bisexuales por naturaleza (han vivido tantas vidas como hombre y mujer...). Los sabios, se enamoran de almas, por otra parte.
+####Salud Psicología:
+- Salud: que te resbale todo (bueno para NO autodesvalorizarte). Pero que NO te resbale (excepciones) tu misión (viene de tests espirituales: Tzolkin Maya, Nodo Norte...).
+####Salud material:
+- Debilitarse para dormir bien: beber agua (o hacerlo sin sal), cortar puntas de pelo con tijeras de metal NO noble (hierro...). Diarrea (para que bebas agua; ¿tomar ya desde la primera comida, si hay 2 o más?): alimentos con mucha grasa (fritos...), picantes, lactosa (cuidado).
+####Psicosociología, cuidado:
+- La "ropa porno" me parece asquerosa.
+####Psicosociología, peligros:
+- Elegantes (Mangas Cortas): mala dicción (o voz sin emoción / intelectual), pero efectiva para cantar este tema.
+####Psicosociología, cuidado:
+- Enfermedades dan dones: escribir (alguna constelación / 2 conflictos psicológicos o más, de Hamer)... Pero yo frefiero que te cures, que seas sabio.
+####Salud, Psicología:
+- La importancia de la Psicología:
+* Tuberculosis: egoísmo que carcome. Pensamientos crueles. Posesividad. Deseo de venganza. Entonces, ¿se necesita la vacuna? ¿La enfermedad sólo afecta gravemente al predispuesto?
+####Psicología, hábitos:
+- Elegido (actuar en base a deseos del alma: da miedo, pero calorcillo en el estómago... O casa con tus tests de Tzolkin Maya...) o narcisista (sin propósito elevado). Elegido, señales:
+* Inconformismo (la intuición te dice que vienes a hacer algo grande, y sabio, ¿los rascacielos y otras cosas bestias NO son sabios NO?). Vas cambiando de profesión, te reinventas.
+* NO puedes con la falsedad, "NO vendes", NO te adornas. Tienes una radar para detectar a los falsos (¿mucho tatuaje = debilidad siempre? Buscas la verdad (eso libera), aunque destruya lo que siempre creíste. Y eres la oveja negra de la familia, del grupo... Has recibido muchas críticas de gente inconsciente. Sientes que NO perteneces a este mundo de tercera.
+* Eres luz, hablas a los demás de cómo superaste obstáculos. Fuerza de voluntad, disciplina, usas el dolor a tu favor. La gente intuye tu pureza (buenos y débiles / malos). NO compites.
+####017lote3.txt  ####Psicología, hábitos:
+- Ley del fluir. NO poner resistencia (cuando debes soltar una amistad...) a lo que NO podemos controlar. ¿Todo es por algo? ¿Casi todo (siempre hay "maldades" de las que NO puedes aprender)? HAY VARIAS FASES EN LA VIDA, CON OTRAS PERSONAS... PARA QUE EL ALMA APRENDA, LÓGICAMENTE. Acepta, NO controles todo, NO pasa nada por NO conseguir el objetivo (en el camino hay cosas muy intersantes)... Hoy he mandado un email con errores, y luego he llamao por teléfono, ¡y "nos reímos" los 2!
+####Lucha bien-mal, peligros:
+- Quitan radares de Oriente Medio, y empieza a llover. ¿Quitamos muchos de España? Nex-rad = el Diablo.
+####Psicosociología, peligros:
+- Tonto: quien está enfermo y NO pide consejo "en Facebook" (a mucha gente a la vez), quien "secretiza su problema" (se lo cuenta sólo a profesionales...). Pastilla, ¡NO! Sí: plantas, Psicología, CDS, energía escalar... Si NO andas con conspis (buscan la verdad), Dios te reserva... las peores pruebas (son para el ignorante). Y AQUÍ LO DEJO (LAS ESENCIAS VIENEN EN TARROS PEQUE‘OS). ¿OTRA WEB PARA LOS QUE VIERON LA PRIMERA? NO ESTOY SEGURO, ESTOY "AL 50%".
