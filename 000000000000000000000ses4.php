@@ -45,8 +45,14 @@
  // Correcto
 
  session_start();
+ if (isset ($_GET["empezar"]))
+ {
+  session_destroy();
+  header("Location: ".$_SERVER["PHP_SELF"]);
+  exit();
+ }
  if (!isset ($_SESSION["numero1"]) )
- {  
+ { 
   $_SESSION["numero1"] = rand(1,9);
   $_SESSION["numero2"] = rand(1,9);
   $_SESSION["numero3"] = rand(1,9);
@@ -199,10 +205,21 @@
    {
     echo("Correcto");
     session_destroy();
+    esfinal();
    }
      else
       datos();
   }
+
+function esfinal()
+{
+ global $PHP_SELF;
+  ?>
+ <FORM ACTION="<?php echo $PHP_SELF; ?>" METHOD=GET>
+ <INPUT TYPE=submit VALUE="Jugar otra vez">
+ </FORM>
+<?php
+}
 
 function elegir()
 {
@@ -229,6 +246,11 @@ function datos()
  {
   global $PHP_SELF;
   ?>
+  <FORM ACTION="<?php echo $PHP_SELF; ?>" METHOD=GET>
+  <INPUT TYPE=hidden NAME="empezar" VALUE="empezar">
+  <INPUT TYPE=submit VALUE="NUEVA">
+  </FORM>
+
   <FORM ACTION="<?php echo $PHP_SELF; ?>" METHOD=GET>
   
   <select NAME="elnumero1">
@@ -284,8 +306,4 @@ function datos()
   </FORM>
 <?php
  }
-
 ?>
-
-
-
