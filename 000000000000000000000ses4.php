@@ -53,10 +53,10 @@
  }
  if (!isset ($_SESSION["numero1"]) )
  { 
-  $_SESSION["numero1"] = rand(1,9);
-  $_SESSION["numero2"] = rand(1,9);
-  $_SESSION["numero3"] = rand(1,9);
-  $_SESSION["numero4"] = rand(1,9);
+  $_SESSION["numero1"] = rand(1, 9);
+  $_SESSION["numero2"] = rand(1, 9);
+  $_SESSION["numero3"] = rand(1, 9);
+  $_SESSION["numero4"] = rand(1, 9);
   $_SESSION["numintentos"] = 0;
   $_SESSION["intentos"] = array();
   $intento1 = $_POST["intento1"];
@@ -80,7 +80,7 @@
    if (isset ($_GET["nivel"]))
     $_SESSION["nivel"] = $_GET["nivel"];
    $nivel = $_SESSION["nivel"];
-   echo("Instrucciones: encontrar número de 4 cifras. Nivel 0 (fácil): * si el número está, y en su posición, + si NO la guarda, y - si NO está. En el modo difícil (2), NO se habla de posiciones, sólo te dicen cuantos números hay (en su posición y NO). En el nivel medio (1), NO hay -, lo cual acaba con las posiciones absolutas. Puede que tengas 2 +, y realmente sólo una cifra.<BR>");
+   echo("Instrucciones: encontrar número de 4 cifras. Nivel 0 (fácil): * si el número está, y en su posición, + si NO la guarda, y - si NO está. En el modo difícil (2), NO se habla de posiciones, sólo te dicen cuantos números hay (en su posición y NO). En el nivel medio (1), NO hay -, lo cual acaba con las posiciones absolutas. Puede que tengas 2 +, y realmente sólo una cifra (sólo nivel medio).<BR>");
    echo("Nivel: ".$nivel."<BR>"); 
 
    $correcto = 0;
@@ -124,6 +124,10 @@
      {$correcto3 = 1; $cuentaencajes++;}
     if ($_GET["elnumero4"] == $_SESSION["numero4"])
      {$correcto4 = 1; $cuentaencajes++;}
+    $gastado1 = 0;
+    $gastado2 = 0;
+    $gastado3 = 0;
+    $gastado4 = 0;
     if ($correcto1 == 1)
      $puntos1 = 2;
       else
@@ -133,38 +137,56 @@
             ( ($_GET["elnumero1"] == $_SESSION["numero3"])               && ($correcto3 != 1) ) ||
             ( ($_GET["elnumero1"] == $_SESSION["numero4"])               && ($correcto4 != 1) )
           )
-        {$puntos1 = 1; $cuentasemiencajes++;}
+        {$puntos1 = 1; $cuentasemiencajes++;
+         if ($_GET["elnumero1"] == $_SESSION["numero2"])
+          $gastado2 = 1;
+         if ($_GET["elnumero1"] == $_SESSION["numero3"])
+          $gastado3 = 1;
+         if ($_GET["elnumero1"] == $_SESSION["numero4"])
+          $gastado4 = 1;}
       }
     if ($correcto2 == 1)
      $puntos2 = 2;
       else
       {
        if (
-            ( ($_GET["elnumero2"] == $_SESSION["numero1"])               && ($correcto1 != 1) ) ||
-            ( ($_GET["elnumero2"] == $_SESSION["numero3"])               && ($correcto3 != 1) ) ||
-            ( ($_GET["elnumero2"] == $_SESSION["numero4"])               && ($correcto4 != 1) )
+            ( ($_GET["elnumero2"] == $_SESSION["numero1"])               && ($correcto1 != 1) && (($gastado1 == 0) || ($nivel ==1)) ) ||
+            ( ($_GET["elnumero2"] == $_SESSION["numero3"])               && ($correcto3 != 1) && (($gastado3 == 0) || ($nivel ==1)) ) ||
+            ( ($_GET["elnumero2"] == $_SESSION["numero4"])               && ($correcto4 != 1) && (($gastado4 == 0) || ($nivel ==1)) )
           )
-        {$puntos2 = 1; $cuentasemiencajes++;}
+        {$puntos2 = 1; $cuentasemiencajes++;
+         if ($_GET["elnumero2"] == $_SESSION["numero1"])
+          $gastado1 = 1;
+         if ($_GET["elnumero2"] == $_SESSION["numero3"])
+          $gastado3 = 1;
+         if ($_GET["elnumero2"] == $_SESSION["numero4"])
+          $gastado4 = 1;}
       }
     if ($correcto3 == 1)
      $puntos3 = 2;
       else
       {
        if (
-            ( ($_GET["elnumero3"] == $_SESSION["numero1"])               && ($correcto1 != 1) ) ||
-            ( ($_GET["elnumero3"] == $_SESSION["numero2"])               && ($correcto2 != 1) ) ||
-            ( ($_GET["elnumero3"] == $_SESSION["numero4"])               && ($correcto4 != 1) )
+            ( ($_GET["elnumero3"] == $_SESSION["numero1"])               && ($correcto1 != 1) && (($gastado1 == 0) || ($nivel ==1)) ) ||
+            ( ($_GET["elnumero3"] == $_SESSION["numero2"])               && ($correcto2 != 1) && (($gastado2 == 0) || ($nivel ==1)) ) ||
+            ( ($_GET["elnumero3"] == $_SESSION["numero4"])               && ($correcto4 != 1) && (($gastado4 == 0) || ($nivel ==1)) )
           )
-        {$puntos3 = 1; $cuentasemiencajes++;}
+        {$puntos3 = 1; $cuentasemiencajes++;
+         if ($_GET["elnumero3"] == $_SESSION["numero1"])
+          $gastado1 = 1;
+         if ($_GET["elnumero3"] == $_SESSION["numero2"])
+          $gastado2 = 1;
+         if ($_GET["elnumero3"] == $_SESSION["numero4"])
+          $gastado4 = 1;}
       }
     if ($correcto4 == 1)
      $puntos4 = 2;
       else
       {
        if (
-            ( ($_GET["elnumero4"] == $_SESSION["numero1"])               && ($correcto1 != 1) ) ||
-            ( ($_GET["elnumero4"] == $_SESSION["numero2"])               && ($correcto2 != 1) ) ||
-            ( ($_GET["elnumero4"] == $_SESSION["numero3"])               && ($correcto3 != 1) )
+            ( ($_GET["elnumero4"] == $_SESSION["numero1"])               && ($correcto1 != 1) && (($gastado1 == 0) || ($nivel ==1)) ) ||
+            ( ($_GET["elnumero4"] == $_SESSION["numero2"])               && ($correcto2 != 1) && (($gastado2 == 0) || ($nivel ==1)) ) ||
+            ( ($_GET["elnumero4"] == $_SESSION["numero3"])               && ($correcto3 != 1) && (($gastado3 == 0) || ($nivel ==1)) )
           )
         {$puntos4 = 1; $cuentasemiencajes++;}
       }
