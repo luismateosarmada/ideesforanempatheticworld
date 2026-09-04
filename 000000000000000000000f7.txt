@@ -272,11 +272,104 @@ TEMPORAL O SIMILAR (NO ESTÁ EN LA UBICACIÓN FINAL).
 - Tú supón que todos los oyentes están al borde del desmayo (son "epilépticos") y además les cuesta mirar fuera y la estimulación normal los satura, ¡y entonces podrás explicar con claridad!
 - Si nadie viese cómo te diviertes, ¿seguirías haciendo las mismas cosas, o las haces básicamente para que los demás te miren / NO es felicidad, es espectáculo?
 - Ya hay violaciones a niñas en Ceuta.
+//Tras el session_start();
+if (isset ($_GET["empezar"]))
+{
+ session_destroy();
+ header("Location: ".$_SERVER["PHP_SELF"]);
+ exit();
+}
+//Tras echo("Correcto");
+session_destroy();
+esfinal();
+
+function esfinal()
+{
+ global $PHP_SELF;
+  ?>
+ <FORM ACTION="<?php echo $PHP_SELF; ?>" METHOD=GET>
+ <INPUT TYPE=submit VALUE="Jugar otra vez">
+ </FORM>
+<?php
+}
+
+// En datos
+<FORM ACTION="<?php echo $PHP_SELF; ?>" METHOD=GET>
+<INPUT TYPE=hidden NAME="empezar" VALUE="empezar">
+<INPUT TYPE=submit VALUE="NUEVA">
+</FORM>
 
 ####RESTO TEMPORAL 4####
 ####Normal (de más importancia a menos):
 - Bronceado: significa daño solar. Poco moreno: significa aguante (casi sabiduría): el aburrido es quien se aburre.
 - Los "ifs" (condicionales) forman parte de la harmonía, la música. Instalar un programa, NO. Por eso con el tiempo, sólo me gusta una pequeña parte de la Informática. Quizás lo mío sería programar casi en código máquina (si tuviese la inteligencia y frescura mental).
+Puede que tengas 2 +, y realmente sólo una cifra (sólo nivel medio).
+$gastado1 = 0;
+    $gastado2 = 0;
+    $gastado3 = 0;
+    $gastado4 = 0;
+    if ($correcto1 == 1)
+     $puntos1 = 2;
+      else
+      {
+       if (
+            ( ($_GET["elnumero1"] == $_SESSION["numero2"])               && ($correcto2 != 1) ) ||
+            ( ($_GET["elnumero1"] == $_SESSION["numero3"])               && ($correcto3 != 1) ) ||
+            ( ($_GET["elnumero1"] == $_SESSION["numero4"])               && ($correcto4 != 1) )
+          )
+        {$puntos1 = 1; $cuentasemiencajes++;
+         if ($_GET["elnumero1"] == $_SESSION["numero2"])
+          $gastado2 = 1;
+         if ($_GET["elnumero1"] == $_SESSION["numero3"])
+          $gastado3 = 1;
+         if ($_GET["elnumero1"] == $_SESSION["numero4"])
+          $gastado4 = 1;}
+      }
+    if ($correcto2 == 1)
+     $puntos2 = 2;
+      else
+      {
+       if (
+            ( ($_GET["elnumero2"] == $_SESSION["numero1"])               && ($correcto1 != 1) && (($gastado1 == 0) || ($nivel ==1)) ) ||
+            ( ($_GET["elnumero2"] == $_SESSION["numero3"])               && ($correcto3 != 1) && (($gastado3 == 0) || ($nivel ==1)) ) ||
+            ( ($_GET["elnumero2"] == $_SESSION["numero4"])               && ($correcto4 != 1) && (($gastado4 == 0) || ($nivel ==1)) )
+          )
+        {$puntos2 = 1; $cuentasemiencajes++;
+         if ($_GET["elnumero2"] == $_SESSION["numero1"])
+          $gastado1 = 1;
+         if ($_GET["elnumero2"] == $_SESSION["numero3"])
+          $gastado3 = 1;
+         if ($_GET["elnumero2"] == $_SESSION["numero4"])
+          $gastado4 = 1;}
+      }
+    if ($correcto3 == 1)
+     $puntos3 = 2;
+      else
+      {
+       if (
+            ( ($_GET["elnumero3"] == $_SESSION["numero1"])               && ($correcto1 != 1) && (($gastado1 == 0) || ($nivel ==1)) ) ||
+            ( ($_GET["elnumero3"] == $_SESSION["numero2"])               && ($correcto2 != 1) && (($gastado2 == 0) || ($nivel ==1)) ) ||
+            ( ($_GET["elnumero3"] == $_SESSION["numero4"])               && ($correcto4 != 1) && (($gastado4 == 0) || ($nivel ==1)) )
+          )
+        {$puntos3 = 1; $cuentasemiencajes++;
+         if ($_GET["elnumero3"] == $_SESSION["numero1"])
+          $gastado1 = 1;
+         if ($_GET["elnumero3"] == $_SESSION["numero2"])
+          $gastado2 = 1;
+         if ($_GET["elnumero3"] == $_SESSION["numero4"])
+          $gastado4 = 1;}
+      }
+    if ($correcto4 == 1)
+     $puntos4 = 2;
+      else
+      {
+       if (
+            ( ($_GET["elnumero4"] == $_SESSION["numero1"])               && ($correcto1 != 1) && (($gastado1 == 0) || ($nivel ==1)) ) ||
+            ( ($_GET["elnumero4"] == $_SESSION["numero2"])               && ($correcto2 != 1) && (($gastado2 == 0) || ($nivel ==1)) ) ||
+            ( ($_GET["elnumero4"] == $_SESSION["numero3"])               && ($correcto3 != 1) && (($gastado3 == 0) || ($nivel ==1)) )
+          )
+        {$puntos4 = 1; $cuentasemiencajes++;}
+      }
 
 ####RESTO TEMPORAL 5####
 - ¿Visualizamos la paz en Ceuta (a lo Gandi, aunque Gandi, realmente, NO fuese "un ángel")? La razón por la que el Gobierno abandona a Ceuta (el Gobierno es perverso): las élites (internacionales, el Gobierno...) siguen produciendo incendios (la UE quiere que España sea el parque solar y eólico de Europa), y altas temperaturas (con máquinas climáticas), para que nos creamos el cambio climático, y aplicar medidas draconianas (reclusión en áreas de la ciudad...); pero como si hablase pa la pared, ¿NO? Luego, los NO conspis, se meten contigo, porque eres diferente.
@@ -443,3 +536,52 @@ CARTA ANUAL (REVOLUCIÓN SOLAR): SEPTIEMBRE 2.026 (LEVEMENTE) A 2 DE NOVIEMBRE 2
 - Agua más caliente de lo normal, si se puede (puede acabar con las esporas).
 - ¿Ehh? Mezcla partes iguales de agua y vinagre blanco, sumerge la ropa una hora y lava. ¿Y con bicarbonato de sodio? ¿Cepillar la ropa?
 * Sumergir en vinagre y agua fue relativamente fácil (módulo de plástico; lavé en el mismo módulo, nada de lavar después; y nada de una hora, bastó con un cuarto de hora): 10 aclarados mínimo (que NO huela la ropa a vinagre), y tender como se pueda en casa (llovía), encima del mismo módulo.
+----------
+- Fingir será cada vez + difícil junto a la gente "elegida".
+- ¿Cómo llaman racistas y violentas a las amas de casa de Ceuta que se manifiestan? Esos insultos son de gente sin argumentos.
+- Sólo el PSOE votó contra la reafirmación de Ceuta y Melilla como ciudades españolas. Partidos islámicos votaron a favor de la españolidad.
+- ONG dando sprays de pimienta a extranjeros en Ceuta. En España, LOS marroquís compran "Pregabalina" para colocarse (NO trabajan). Médicos implicados, amenazados si NO recetan...
+- Gente del mundo de la salud que NO incorpora la Nueva Medicina Germánica (por lo menos, que la estudie): falsos gurús, creídos, poco elevados (NO llamados realmente a ser aspirantes a sabios)...
+- ¿Qué pasa si un paciente anciano está casi recuperado y el médico NO quiere espaciar la administración de una superinyección o bajar la dosis de las pastillas? ¿Se perseguiría a la familia si NO se toma "la dosis dañina"?
+- Los años finales del siglo XX NO fueron especiales: sexo en la tele, pérdida general de calidad en el arte, tecnología avanzando, pero sin conciencia... A ver si ahora "acorralamos" a cualquiera que quiera "manchar el mundo".
+- Los falsos y encantadores de los narcis / psicópatas, se ven atraídos por la luz de la gente elevada (los veremos mucho intentando ser simpáticos con nosotros para luego...), ¿qué quieren apagar en nosotros? ¿Podrán fingir, al ser psicópatas?
+- Tonto el que NO está del lado del conspi. Policías en Ceuta contra los ceutís, y NO el resto, entre los cuales hay violadores... Y Soros, con sus ONGs, puede causar de todo en el mundo "en minutos". Tonto (mucho) quien piense TODAVÍA (¡QUÉ VERGÚENZA!) que las ONGs son bondadosas. Son negocio, esbirros...
+- O ESCUCHAS MÚSICA OCHENTERA, O TIENES GUSTOS DE ADOLESCENTE, Y ESO ES TERRIBLE. Los gustos musicales ayudan a diferenciarse de los adultos (algo de gente "baja" en algún sentido). Y escucharás lo de tu grupo de amigos (los que más se imponen / gritan, los menos elevados). Lo peor es que la música de la adolescencia marca el futuro.
+- El mareo es el mareo. NO ser claro por ganar en brillo o haber falta de empatía, es triste, se puede decir. Pero es una pena también que A NO quiera ver a alguien que NO afinó incluyendo a A en un artículo, por mareos habituales (por ejemplo, puso "mareante", pero se olvidó de poner "ese día", sólo ese día, para dejarlo claro). Sí, es algo muy personal.
+- Ayer, alguien me dijo que había 2 tipos de mosquitos que se te meten en la oreja, y como pensaba sólo en uno, y me molestaba "que la verdad fuese tan rara" (el pasado era diferente a como lo recordaba), sentí rabia (como todavía siento a veces cuando la comunicación se vuelve complicada intencionadamente / NO "campechana"; pobrecillos, NO pasa nada por NO entender, NO te van a crucificar, pero en un mundo en que se duerme tan poco, hablar complicado... es de inconscientes).
+- Un mejicano ciego me dijo que mi energía era muy interesante (o algo similar). A partir de Marzo de 2.026, creo que fue "creciendo el volcán". Lo sufro con las personas, con los perros (cuando estoy en horas bajas, pueden tener miedo, o quizás ganas de leer si soy una amenaza; en horas buenas, tampoco es que reaccionen con el "te amo, acaríciame": se acercan, y se quedan como confusos). ¿Estoy harto? NO, estoy "entrenando", y aprendiendo a "pasar" tranquilo (me alegra). A veces creo que llevo a Satán dentro je je (en 2.015, ni una larva tenía). Pero la gente que peor reacciona, los manipuladores.
+- Imaginaos que con 6 años (o así) veis que la gente reacciona con disgusto a que seáis vosotros mismos (con vuestro fuego...). Poco después os dicen "¡qué buenín es!", y entonces, tienes miedo a las críticas sobre comportamiento (y te enfadas y reaccionas mal). Empiezas a reprimir tu yo verdadero, te conviertes en un esclavo de la imagen... Yo, ni buenín, ni perfecto, ni na. Quizás por la imagen, a veces pongo sonrisilla (algo que me recuerda a Flanders: NO acumules hostilidad complaciendo, que te rechacen socialmente unos pocos sin importancia). ¿Esa sonrisilla significa NO poder confrontar al otro o pregunta incómoda (aliviar tensión o dolor, ocultar vulnerabilidad o sorpresa, ganar tiempo para dar una respuesta adecuada)?
+- Narcis (se alimentan de energía externa, para NO morir al ver su vacío interno, su interior). (1, para que mire dentro, como con 2, ¿y 3?) Si te dicen "eres torpe", mejor ni sumisión ni energía / defenderte (NO sigas su juego. NO debe importarte lo que dice este débil mental, con complejo de superioridad, para compensar la debilidad; y que vea que hay límites y que construyes una vida paralela). Puedes decir: mmmm (con calma), y pasas de él. (2, reflejo) "Ayúdame a entender qué te hace ver que soy egoísta". "¿Estás diciendo que todo es mi culpa?". (3) Niebla psicológica (acaba con el conflicto al que el narci quiere arrastrate: confundes a este ser feo, infeliz, y adorable). "Entiendo tu PUNTO DE VISTA", "interesante". Validar parcialmente (el psicópata ve en blanco y negro): "ES POSIBLE / PUEDE que tengas razón, que yo...". ASÍ, POCO A POCO SERÁN MÁS DÉBILES, Y QUIZÁS ACCEDAN A RAZONAR POR FIN.
+----------
+- La policía del pensamiento llama fascista, racista, rojo...
+- NO voy a dejar de publicar, por la gente buena (la mala / NO cambió un montón de creencias / es como hablar con una pared... NO me hará querer suicidarme...).
+- Si Felipe va a Ceuta, desobedeciendo a Sánchez. Constitución: la persona del Rey es inviolable. ¿Entonces Felipe VI tiene mucho morro? NO está atado de pies y manos.
+- ¿Olas de frío más terribles por hacer las élites (que a su dióxido de azufre... tirados desde "aviones", les llaman ceniza volcánica y NO crímenes contra la Humanidad) tapón de nubes? Y dirán que es el cambio climático.
+- ¿IR A LA CÁRCEL SI TE DEFIENDES DE UN LADRÓN GENTIL? PSOE PSICÓPATAS. Ya alquilar una vivienda es bastante difícil (cada vez más requisitos para NO ser vulnerable / NO pagar / ser peligroso; la oferta bajará, el precio subirá).
+- Simply Red, vídeo de "Open up the Red Box": aburrido es el que se aburre, NO hace falta sonreír, ni estar activo (demandarlo en otros, puede ser de aburridos). Eso sí, la locura leve (poner cara de monstruo...), previene de la locura real. Erotismo sin llegar a sexualidad social :) . Movimientos sinuosos.
+- Las élites son "los señores del cielo", hacen lo que quieren, para que nos creamos la trola de "emergencia por cambio climático". ¡Claro que cambia el clima, es cíclico, pero lo que realmente está causando estragos es el uso de armas climáticas! Las élites son capaces de crear sequías en África, y de pedir dinero después, dinero que NO llegará.
+- El Free Pascal puede ser una forma de que nos pasemos archivos fuente (programas), y los pasemos a ejecutables. ¿Tiene cosas que NO tiene el PHP y además NO requiere configuración...? Mucho + rápido que el Java instalando... Sé que es "prehistórico", como muchas aplicaciones maravillosas. ¿Móvil sólo pa llamar, y la gente usando ordenadores (que NO se extingan je je)? Javascript descifrar URL:
+* const queryString = window.location.search;
+* const parametros = new URLSearchParams(queryString);
+* const producto = parametros.get('producto');
+- Los paios inventaron el Comunismo y el satanismo, son uno. El puño cerrao es satanismo. Aparece en ONGs (que dan al "visitante" en Ceuta todo tipo de armas "blancas"). ¿Sabes los objetivos de las élites? Uno es acabar con toda cultura mínimamente elevada, para que seamos controlables. El Islam dice que cuando hay perros en casa, NO entran los ángeles.
+- Algunos psicópatas buscan sentir que pueden engañar fuera de Internet (NO lo conseguirán, estamos despertando), poniendo perfiles falsos, que convenzan de que son reales e interesantes (aunque si les faltan las fotos de vida...). La vida del psicópata es explotar la falsedad: simpatía y suavidad. Eso lo ve bien Escorpio, pero los muy diferentes a él... defenderán mucho más a gente sin alma, PERO GENTIL. La bondad: autocrítica psicológica + relatar fallos / modestia.
+- Gran parte del problema actual es que la gente está ligada a "equipos", a ideologías... Creo que como mínimo, alguna parte de la tauromaquia, es inconsciencia, el problema está en que muchos taurinos NO han dudado de todo lo que les han pasado sus padres. Aunque, eso sí, la mayor parte de la tradición es buena (es autonomía / supervivencia). Recuerda lo que es ser bueno: ¡despierta ya, difiere de papá! Y de mamá. Pero en temas como la música, y habiendo tanta diva actual fraudulenta, mejor "mamar de los abuelos".
+- Ceuta: siguen los africanos chungos, con armas blancas (proporcionadas por las ONGs, que son monstruos, por lo general, y yo razono), contra los militares. ¿La población había sufrido pelotazos de la policía o algo así NO? Y sufrido a los africanos chungos.
+* Lo que le contesté a una pared que me dijo que primero ayudar a los africanos. Si están ahí cumpliendo una misión expansionista de Marruecos, y podrían perfectamente volver, como lo hicieron la mayoría... Quizás el problema está en que hay que recordar que la gente de Ceuta les dio de comer, y en ver que las ONGs, son fachada, su misión es la de las peores élites (es un problemazo NO verlo, pero NO digo más, porque NO cambiar de opinión, es un derecho).
+- La verdad llegará (NO atosigues a la gente "pared"; y recuerda, si eres conspi, nada de rabia contra quien tiene que ser ignorante por diseño de su misión de mejora personal... El menos rabioso / odiador / insultador, por falta de argumentos... será la mejor persona, la más sabia). La verdad hará que el malo caiga, ¡pero el malo sigue ahí (Agosto 2.026)! Eso significa que la gente NO sabe la verdad, hay que cambiar de creencias un montón (si poder cambiar significa dejar de quererme, eso es bueno para mí, porque es bueno para la sociedad). Y recuerda: las formas importan, pero muy poco, se usan para sacarte información (como la simpatía). Nada es lo que parece. LA VERDAD ES MUY COMPLICADA (TRAMAS ENTRE PAÍSES, ÉLITES "EN EL SÓTANO" QUE NO SALEN EN LOS MEDIOS...), NO SE PUEDE EXPLICAR NADA EN 5 MINUTOS, SIGNIFICA QUE ESTÁS EQUIVOCAO.
+----------
+- Yo cambié de opinión sobre el PSOE con los años. Puede suponer un punto de inflexión en tu vida que comprendas la manipulación y violencia contra los zares y el pueblo ruso, que para mí eran los malos, y NO. Sánchez quiere que Ceuta sea el centro, y NO sus "turbios negocios".
+- Felipe VI, Trump, Miléi, Abascal... Sí, a lo mejor NO hay ni un sola cosa a favor de ellos, y sólo el pueblo salva al pueblo. Sánchez es un psicópata que sabe echarte si NO eres un buen esbirro. Seamos abiertos, la política son etiquetas, "equipos de fútbol" a los que se sigue ciegamente. ¿Y lo bere, y las profecías?
+- Sánchez NO protege al ejército español, ¿qué pretende?
+* ¿Felipe VI es nobleza negra? ¿"Familia de Marruecos"? Sánchez es un simple narci al que tener rabia.
+- El Gobierno sabía lo de Ceuta desde el 29 (comunicados rescatados lo prueban). Pero como algunos deben ignorar (los obliga el alma), para pasar ciertas pruebas brutas...
+- La naturaleza es salud: los árboles... Pero NO me muero por ver animalitos, quiero gente elevada.
+- Si los españoles NO escuchaca fina (clásica, Roxy Music, incluso La Unión cabe aquí...) nos merecemos que los países se libren de sus presidiarios y nos los manden.
+- Si alguien de fuera de España trabaja y le gusta Spandau Ballet, yo creo que se integra. El Gobierno (por sus amos intenacionales) quiere subcultura para España (y el islamista es más controlable).
+- Las revistas de videojuegos eran una forma de leer, para los que tenían mareos leyendo. Te hacía imaginar los baratos y buenos videojuegos de los últimos 80 (España). En el kiosco estaba... el Maná.
+- La Psicología de las personas que NO se sienten cómodas con la gente, buen vídeo (aunque el TDAH es una invención pa medicar. Existe el TDA por separado... Nueva Medicina Germánica, acierta):
+* Una amiga de izquierdas (soy apolítico, las 2 opciones tienen carencias) me dijo un mombre: Hannah Arendt. ¿Es un poco buena? Bueno, me ha inspirao algo: se acerca a la verdad eso de que la gente NO elevada se siente sola sólo cuando está sola, y la elevada, se siente sola cuando está con la NO elevada. Al percibir bastante más de lo que dicen los demás (el cerebro trabaja más cuando estás con gente poco elevada)... hasta desconectas emocionalmente.
+* Otro vídeo: 7 Comportamientos Silenciosos Que Hacen Que Se Arrepientan de Haberte Herido | Psicología.
+- Abajo las ideologías, para ser bueno, Psicología. De verdad, nos dividen, despertar es comprender las reacciones de los demás y las tuyas: te vas haciendo fuerte y necesitas muy poco / eres más sabio (la vida, cuanto menos complicada y menos horas de trabajo, mejor; ¿y las horas que toda persona responsable debe dedicar a mirar dentro sus fantasmitas y a comprenderse / quererse y cambiar de creencias y sanar hallando la causa psicológica?).
+- Si vemos que las élites son antinaturales (nos quieren conectados a una inteligencia artificial...), ¿entendemos que NO quieran que las mujeres tengan hijos (y para eso se inventaron que el hombre era un monstruo a través del feminismo / uno de sus grupos... y hay mujeres que pican; vete con el hombre menos "tonto", y está, busca lo autocrítico, NO lo exótico)? ¿Una mujer "desbocada" es bastante más arrolladora que un hombre "desbocado" (generar machismo para luego generar hembrismo)? Yo fui poco autocrítico: "tienes que creer en esta teoría, porque si NO he llegao a la verdad (que es diferente a la versión oficial) ya y NO la expando, lo tenemos difícil". Sin prisa, cambiando creencias.
