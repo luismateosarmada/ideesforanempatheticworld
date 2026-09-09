@@ -585,3 +585,218 @@ CARTA ANUAL (REVOLUCIÓN SOLAR): SEPTIEMBRE 2.026 (LEVEMENTE) A 2 DE NOVIEMBRE 2
 * Otro vídeo: 7 Comportamientos Silenciosos Que Hacen Que Se Arrepientan de Haberte Herido | Psicología.
 - Abajo las ideologías, para ser bueno, Psicología. De verdad, nos dividen, despertar es comprender las reacciones de los demás y las tuyas: te vas haciendo fuerte y necesitas muy poco / eres más sabio (la vida, cuanto menos complicada y menos horas de trabajo, mejor; ¿y las horas que toda persona responsable debe dedicar a mirar dentro sus fantasmitas y a comprenderse / quererse y cambiar de creencias y sanar hallando la causa psicológica?).
 - Si vemos que las élites son antinaturales (nos quieren conectados a una inteligencia artificial...), ¿entendemos que NO quieran que las mujeres tengan hijos (y para eso se inventaron que el hombre era un monstruo a través del feminismo / uno de sus grupos... y hay mujeres que pican; vete con el hombre menos "tonto", y está, busca lo autocrítico, NO lo exótico)? ¿Una mujer "desbocada" es bastante más arrolladora que un hombre "desbocado" (generar machismo para luego generar hembrismo)? Yo fui poco autocrítico: "tienes que creer en esta teoría, porque si NO he llegao a la verdad (que es diferente a la versión oficial) ya y NO la expando, lo tenemos difícil". Sin prisa, cambiando creencias.
+----------
+- Las élites se han destapado, han dicho: yo mando, soy un psicópata que se quita la máscara de protector, AQUÍ NO VA A LLOVER, porque uso armas climáticas (y NO sólo las estelas de los aviones, que terminan en nubes artificiales, problemáticas).
+- Para el feminismo, la mujer es un hada de moral intachable, y si hace algo malo, es por locura. Hablo de mujeres que matan niños. La prensa suaviza esto (cuando un hombre se tira de un quinto con sus hijos, los mata, y es verdad, y cuando lo hace una mujer, se usan palabras suaves, incluso de protección). Si se empatiza con la mujer y NO se hace un recordatorio triste de los niños, se invita a otras mujeres... Cuando se convierte a la mujer en una víctima, ponte a correr. Y ella atraerá narcisistas / psicópatas. Feminazis hablaron de envenenar a hombres. LA FRASE DE "LOS HIJOS EXPLOTAN A LAS MADRES" TIENE 30 AÑOS (ES RELATIVAMENTE NUEVA, CAMBIA EL ORDEN NATURAL, ¿Y TIENE QUE VER CON "DIOSAS MATERNALES"? ¿NUEVA ERA?). Son las élites, sus grupos, sus objetivos: relativismo moral, positivismo tóxico... Imagina feminista + misántropa - animalista. Para el feminismo ("heroína" si matas), el Estado es salvador. Franquismo (semipaio): "delitos con desprecio de sexo", la pena era mayor para el hombre; esto es una continuación exagerada. Nos han dicho que si se formaba una familia y se tenían bebés, se terminaba la vida y la empresa. Mentira. El feminismo (hembrismo, realmente), es anti(femenino-erótico).
+- Los "inmigrantes" que quedan en Ceuta están acabando con los animales de la zona. Cogieron a una cría de delfín, ¡y lo trataron como si fuese un insecto! Cuando llegaron las cámaras, lo mandaron al agua (falsos). Os parecerá una locura, pero el hombre blanco NO debe ser arrinconado +.
+----------
+program a(input, output);
+{tfilestream y tmemorystream, NO los uso, ¨usarlos?}
+{prueba.bmp deberia ser peque¤a. Limite ancho recomendado: 210.}
+{$CODEPAGE UTF8}
+uses crt, sysutils, graph; {crt es para readkey, sysutils es para ficheros}
+const FNAME = 'prueba.bmp'; {nada de tildes en la ruta}
+      {DIRECTORIO = 'd:\ro to';} {funciona}
+      MAXANCHO = 2000;
+      COLORREAL = 1;
+type tipolinea = array[1..MAXANCHO*3] of byte;
+var fichero: file of byte;
+    auxbyte, azul, verde, rojo: byte;
+    tamaniototal, offset, bytesfalsos: longint;
+    ancho, alto, anchoizq, anchoder, iterancho, iteralto, i, pantallax, pantallay, limitey: word;
+    parteizq, parteder, parteizqrev, partederev: tipolinea;
+    tarjeta, modo: integer;
+
+    rangocolor: smallint;
+    menos, mas, bestmode, itermodo, maxx, maxy: integer;
+
+function traducircolor(rojo, verde, azul: byte): word;
+var micolor: word;
+begin
+ micolor := 2;
+ if (rojo <= 85) then begin
+  if (verde <=85) then begin
+   micolor := 8;  if (azul > 85) then micolor := 1; if (azul > 170) then micolor := 3;
+  end else
+   if (verde <= 170) then begin
+    micolor := 2; if (azul > 85) then micolor := 3; if (azul > 170) then micolor := 3;
+   end else begin
+     micolor := 10; if (azul > 85) then micolor := 2; if (azul > 170) then micolor := 10;
+    end;
+ end
+  else
+  if (rojo <= 170) then begin
+   if (verde <=85) then begin
+    micolor := 6; if (azul > 85) then micolor := 5; if (azul > 170) then micolor := 5;
+   end else
+    if (verde <= 170) then begin
+     micolor := 14; if (azul > 85) then micolor := 8; if (azul > 170) then micolor := 3;
+    end
+     else begin
+      micolor := 10; if (azul > 85) then micolor := 10; if (azul > 170) then micolor := 11;
+     end;
+  end
+   else
+   begin
+    if (verde <=85) then begin
+     micolor := 4; if (azul > 85) then micolor := 5; if (azul > 170) then micolor := 5;
+    end else
+     if (verde <= 170) then begin
+      micolor := 6; if (azul > 85) then micolor := 12; if (azul > 170) then micolor := 13;
+     end
+      else begin
+       micolor := 14; if (azul > 85) then micolor := 14; if (azul > 170) then micolor := 7;
+      end;
+   end;
+ traducircolor := micolor;
+end;
+
+procedure pintar(linea: tipolinea; ancho: word; pantallax: word; pantallay: word);
+var coloraux, base, iterancho, auxx: word; rojo, verde, azul: byte;
+begin
+ for iterancho := 1 to ancho do begin
+  base := iterancho * 3; rojo := linea[base - 2]; verde := linea[base - 1]; azul := linea[base];
+  {**************OPCIONES**************}
+  if (COLORREAL <> 1) then begin
+   coloraux := traducircolor(rojo, verde, azul); setcolor(coloraux);
+  end
+   else begin
+    setrgbpalette(1, azul, verde, rojo); setcolor(1);
+   end;
+  auxx := pantallax + iterancho - 1;
+  if (auxx <= maxx) then {maxx + 1, porque maxx es 639...}
+   line(auxx, pantallay, auxx, pantallay);
+ end;
+ {si rojo <= 85, <= 170: 27 combinaciones. ¨Y usar m‚todos de "vecinos"?}
+ {0 negro, 1 azul, 2 verde, 3 azul claro, 4 rojo, 5 magenta, 6 marr¢n, 7 gris claro
+  8 gris, 9 azul brillante, 10 verde brillante, 11 azul brillante, 12 rojo brillante
+  13 magenta brillante, 14 amarillo, 15 blanco}
+ {Valores RGB a traducir: 42, 127, 212
+  42 42 42: gris 8 42 42 127: azul oscuro 1 42 42 212: azul claro 3
+  42 127 42: verde 2 42 127 127: azul claro 3 42 127 212: azul claro 3
+  42 212 42: verde brillante 10 42 212 127: verde 2 42 212 212: verde brillante 10
+  127 42 42: marr¢n 6 127 42 127: magenta 5 127 42 212: magenta 5
+  127 127 42: amarillo 14 127 127 127: gris 8 127 127 212: azul claro 3
+  127 212 42: verde brillante 10 127 212 127: verde brillante 10 127 212 212: azul brillante 11
+  212 42 42: rojo 4 212 42 127: magenta 5 212 42 212: magenta
+  5 212 127 42: marron 6 212 127 127: rojo brillante 12 212 127 212: magenta brillante
+  13 212 212 42: amarillo 14 212 212 127: amarillo 14  212 212 212: gris claro 7
+ }
+end;
+
+begin
+ {chdir(DIRECTORIO);} {SI ASIGNAS UNA CADENA A DIRECTORIO EN CONST. SI NO, PON LLAVES AQUÖ}
+ chdir(extractfilepath(paramstr(0))); {convierte el directorio del ejecutable en el actual, como debe ser.}
+ writeln('Directorio actual: ' + getcurrentdir + '. Aqui puedes poner tu bmp prueba.bmp. Pulsa tecla'); {tildes NO}
+ readkey;
+ if not fileexists(FNAME) then begin
+   writeln('NO existe'); writeln('Pulsa tecla'); readkey; exit;
+  end;
+ assign(fichero, FNAME); reset(fichero);
+ read(fichero, auxbyte); writeln(auxbyte); read(fichero, auxbyte); writeln(auxbyte);
+ read(fichero, auxbyte); tamaniototal := auxbyte;
+ read(fichero, auxbyte); tamaniototal := tamaniototal + auxbyte * 256;
+ read(fichero, auxbyte); tamaniototal := tamaniototal + auxbyte * 256 * 256;
+ read(fichero, auxbyte); tamaniototal := tamaniototal + auxbyte * 256 * 256 * 256;
+ writeln('Tamanio total del fichero: ' + inttostr(tamaniototal));
+ for i := 1 to 4 do read (fichero, auxbyte);
+ read(fichero, auxbyte); offset := auxbyte;
+ read(fichero, auxbyte); offset := offset + auxbyte * 256;
+ read(fichero, auxbyte); offset := offset + auxbyte * 256 * 256;
+ read(fichero, auxbyte); offset := offset + auxbyte * 256 * 256 * 256;
+ writeln('Offset: ' + inttostr(offset));
+ read(fichero, auxbyte); writeln(auxbyte); read(fichero, auxbyte); writeln(auxbyte);
+ read(fichero, auxbyte); writeln(auxbyte); read(fichero, auxbyte); writeln(auxbyte);
+ read(fichero, auxbyte); ancho := auxbyte;
+ read(fichero, auxbyte); ancho := ancho + auxbyte * 256;
+ read(fichero, auxbyte); ancho := ancho + auxbyte * 256 * 256;
+ read(fichero, auxbyte); ancho := ancho + auxbyte * 256 * 256 * 256;
+ read(fichero, auxbyte); alto := auxbyte;
+ read(fichero, auxbyte); alto := alto + auxbyte * 256;
+ read(fichero, auxbyte); alto := alto + auxbyte * 256 * 256;
+ read(fichero, auxbyte); alto := alto + auxbyte * 256 * 256 * 256;
+ writeln('Ancho: ' + inttostr(ancho)); writeln('Alto: ' + inttostr(alto));
+ seek(fichero, offset);
+ anchoizq := ancho div 2; writeln('ancho izquierdo: ' + inttostr(anchoizq));
+ anchoder := ancho - anchoizq;
+ bytesfalsos := tamaniototal - offset - (alto * ancho * 3); bytesfalsos := bytesfalsos div alto;
+ writeln('bytes falsos: ' + inttostr(bytesfalsos)); writeln('Pulsa tecla'); readkey;
+
+ {**************OPCIONES**************}
+ rangocolor := d8bit; getmoderange(rangocolor, menos, mas); bestmode := menos;
+ for i := menos to mas do begin
+  itermodo := i; initgraph(rangocolor, itermodo, 'bgi');
+  if (graphResult = grOk) then begin
+   bestmode := itermodo; writeln(getmaxx); closegraph;
+  end;
+ end;
+ readkey; tarjeta := d8bit; {Vga;} modo := bestmode; {5} {VgaHi;}
+
+ initgraph(tarjeta, modo, 'bgi'); maxx := getmaxx; maxy := getmaxy;
+
+ {**************OPCIONES**************}
+ {if (COLORREAL <> 1) then begin
+  setrgbpalette(1, 127, 77, 0); setrgbpalette(2, 127, 87, 0); setrgbpalette(3, 127, 97, 0);
+  setrgbpalette(4, 127, 107, 0); setrgbpalette(5, 127, 117, 0); setrgbpalette(6, 127, 127, 0);
+  setrgbpalette(7, 127, 137, 0); setrgbpalette(8, 127, 147, 0); setrgbpalette(9, 127, 157, 0);
+  setrgbpalette(10, 127, 167, 0); setrgbpalette(11, 127, 187, 0); setrgbpalette(12, 127, 197, 0);
+  setrgbpalette(13, 127, 207, 0); setrgbpalette(14, 127, 217, 0);
+ end;}
+
+ for iteralto := 1 to alto do begin
+  for iterancho := 1 to anchoizq do begin
+   read(fichero, azul); read (fichero, verde); read (fichero, rojo); parteizq[iterancho * 3 - 2] := azul; 
+   parteizq[iterancho * 3 - 1] := verde; parteizq[iterancho * 3] := rojo;
+  end;
+  for iterancho := 1 to anchoder do begin
+   read(fichero, azul); read (fichero, verde); read (fichero, rojo); parteder[iterancho * 3 - 2] := azul;
+   parteder[iterancho * 3 - 1] := verde; parteder[iterancho * 3] := rojo;
+  end;
+  for i:=1 to bytesfalsos do read(fichero, auxbyte);
+  limitey := alto + 4;
+  if (limitey <= maxy + iteralto) {maxy + 1, porque maxx es 639...}
+   then pantallay := limitey – iteralto else pantallay := 0;
+  if (pantallay > 0) then begin
+   for iterancho := 1 to anchoizq do begin
+    parteizqrev[iterancho*3 -2] := parteizq[(anchoizq - iterancho + 1)*3 -2];
+    parteizqrev[iterancho*3 -1] := parteizq[(anchoizq - iterancho + 1)*3 -1];
+    parteizqrev[iterancho*3] := parteizq[(anchoizq - iterancho + 1)*3];
+   end;
+   for iterancho := 1 to anchoder do begin
+    partederev[iterancho*3 -2] := parteder[(anchoder - iterancho + 1)*3 -2];
+    partederev[iterancho*3 -1] := parteder[(anchoder - iterancho + 1)*3 -1];
+    partederev[iterancho*3] := parteder[(anchoder - iterancho + 1)*3];
+   end;
+   pantallax := 1; pintar(parteizq, anchoizq, pantallax, pantallay);
+   pantallax := 1 + anchoizq; pintar(parteder, anchoder, pantallax, pantallay);
+   pantallax := ancho + 5; pintar(parteizq, anchoizq, pantallax, pantallay);
+   pantallax := ancho + 5 + anchoizq; pintar(parteizqrev, anchoizq, pantallax, pantallay);
+   pantallax := ancho + 5 + ancho + 5; pintar(partederev, anchoder, pantallax, pantallay);
+   pantallax := pantallax + anchoder; pintar(parteder, anchoder, pantallax, pantallay)
+  end;
+ end;
+ close(fichero);
+
+ writeln('Pulsa una tecla mas'); readkey; closegraph;
+end.
+----------
+- Si "un duende" hace desaparecer todos los paneles solares de España (valen para abastecer a Europa, siendo España un esclavo, pero a España le basta con la nuclear, que ahora es bastante más segura que en el siglo XX)... ¿Nos freirán menos las terribles élites con sus armas climáticas (Sol, y nada de lluvia, es decir, muerte)? Desde luego, quieren convertir España en un desierto para que pensemos que existe el cambio climático (como emergencia), y entonces, nos quitan los coches, toda clase de restricciones, como prohibir ir a la montaña... Quieren control (incluye que estemos "tontos") y relativismo moral (Nueva Era, ayuda a implantarlo): que ellos puedan hacer lo que quieran en un futuro próximo, y nosotros... Nos impusieron la Escuela, y ellos siguen con el eficiente método maestro - aprendiz.
+* Nubes artificiales / tóxicas destruyen nubes de lluvia (mapas: las deshilachan, y terminan desapareciendo)... Quien NO es "un poco conspi", NO quiere entender, cuidado con esta gente (recuerda decirles poco sobre la verdad, y NO ayudar si NO está claro que te piden ayuda; a veces NO quieren las soluciones buenas, que NO se creerán, en realidad, sólo quieren quejarse). Debilitan nubes en origen: Groenlandia.
+- Para tener buen gusto musical, hay que tener paciencia. Nada de ver episodios de dibujos animados de 2 minutos. Hay que "estar contra acelerar pitufilmente las canciones", hay que amar las introducciones. ¿Se puede considerar enfermo mental grave a quien ama las canciones actuales? Sí. El reguetonero da mal ejemplo, es un monstruo, debemos SER DISTINGUIDOS en gustos musicales para identificar al NO civilizado. Hay que trabajar la paciencia (las élites nos la quieren quitar, quieren que pensemos con "el cerebro de sobrevivir", que seamos egoístas).
+- Los animalistas son otro grupo más de los satanistas (élites). PACMA LLAMA "INDICENTES" A MATAR ANIMALES EN CEUTA. Salvajadas hechas por islamistas (peores que la media islámica, eso sí) a ocas... PACMA, lo primero que pide, NO es para los animales, es protección para las bestias humanas que quedan en Ceuta (si es morito, NO sufre el animalito; PACMA dice que denunciar lo del delfín es delito de odio, que NO hay pruebas...). ¿Y hace referencia (hablando de que lo pasan mal) a los ceutís antes que a los animales? Cuando das a casi todas las ONGs, ¿a quién das?
+- Hipercontaminante: litio de molinos (en China NO hay (casi)), placas solares y coches.
+- PSOE quiere CeutaGresca.
+- Quiero un mundo en el que el 75% son altamente sensibles, un mundo más bello, donde se entiende "lo fino".
+- Yo publiqué vídeos sin comentarios en días de calor. Si usáis un PC (estufa), "os hice un poco el mal" je je.
+- Si un psicópata quiere pasar por normal, puede decir que un psicópata le está atacando, y la gente picará, y el psicópata se sentirá bien consigo mismo (NO por inteligente, engaña hasta el más tonto, y engañar es de tontos: karma, y el tonto lo llamará injusticia). Si tienes calidad, Dios te protege, NO hace falta engañar. El psicópata odia al puro. Otra cosa es que diga que el psicópata es un débil mental, un infeliz que necesita gente / socializar para autoengañarse / NO mirar dentro. Que la validación externa es de zopencos. Si se cree perfecto, ¿por qué NO sacó muchas asignaturas casi sin abrir un libro? ¿Por qué depende de una "buena" memoria? Son de esos seres feos que dan pena, pero que NO debes ayudar.
+- Psicópata, reducir karma: poner vídeos de quienes profundizan en ellos, y ver que sus hermanos son sus víctimas (demandó demasiado de mamá por hipersensibilidad, exigencia, falta de "edad del alma"...).
+- Zearo (Lengua Madre, Elengoa) = es ari (es origen) / Zar (relativo a Dios): círculo, que forma la flor "de 6" (de la vida). Los originales tienen las claves.
+- Virgo (Nueva 11Sept) concreta (tras entrenar con gente...), es claridad / decisiones precisas, ¿qué estás construyendo o sanando, qué quieres cambiar, qué necesitas ordenar, qué hábito necesitas incorporar...? ¿Conversaciones reveladoras?
+- ¡Hay que ser tonto para NO saber quedar como un tonto je je!
+- Carraspeo o tos leve: pueden ser mecanismos inconscientes ante tensión o ansiedad. ¿Gente inconsciente, "bebés"? Ponlos junto a elegidos.
+- Por "confiar", el Gobierno sigue acariciando su gato negro mientras sonríe. Julio. ¿Felipe hace el papel de poli bueno?
+- Agua potable: hizo lo que NO "la vacuna".
+- Los aplausos, déjalos pa los narcisistas. Yo aplaudo en soledad (celebrar), NO a otros. Celebra el hacer tests de Tzolkin maya, Nodo Norte... ¿Llamar "mutante" a otro con aparente ternura es narcisismo / condescendencia o desprecio encubierto? Bueno, quien lo hizo conmigo, trató de destruirme interiormente durante unos meses, y mis logros "eran basura". ¡Niño!
+- Con la Sertralina, puedes dar discursos desde el balcón... te pone a 100. Mucha medicación puede dejarte "fuera de ti" (asesinar...). Antidepresivos y ansiolíticos, cuidado, violentan... Un conductor puede estrellarse... Los psiquiatras, ¿casi ni idea de lo que recetan, aunque quieran acertar?
+- "Extrema derecha" Alemana: salir de la sionista / satánica UE (a la terrible Von der Leyen, ¿quién la votó?); natalidad autóctona; fuera aerogeneradores... ¿La UE los apoyará?
+- Los judíos malotes (kabalistas), detrás de las ideologías políticas (algo del 19...). Es así, pero los infantiles NO lo aceptarán.
