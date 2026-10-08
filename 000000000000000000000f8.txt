@@ -214,3 +214,96 @@ begin
 end.
 
 ----------
+- LA GENTE BUENA CAMBIA (JUNG / REACCIONES, HAMER / ENFERMEDAD...), LA MALA NO CAMBIA EL TITULAR SOBRE SUS "CONOCIDOS".
+- Sí, el PSOE puede votar por correo por quien nunca vota. Creer en TVE (2.026) es NO querer ver.
+- Glotones: Aries - antojos (la comida chatarra les vale), Géminis - dulces (NO me gustan, y salen muy caros / dientes) por cambios de ánimo, Tauro (¿para NO mirar dentro = gula en parte?), Cancer (los reyes, la Luna es cuidar: alimentar... Cuando tengo mucho de Cancer, tengo más hambre). Si hay 2 sardinas y 2 kg de avena, deja sardina para otros. Un poco de "culpa".
+- Censo generales: 1 Agosto (2 meses antes de convocatoria). NO da tiempo a investigar "los del voto exterior". Ni a Sánchez.
+- ¿NO ir a votar hasta que los partidos acuerden cosas básicas?
+- ¿El voto del PP va a David Hatchwell y NO Soros? Pero tos "judeomasones".
+- Nueva Libra Octubre. ¿Decisiones? ¿Qué nos eleva? Revisión.
+- Quien cree en el superniño y NO en la intervención climática... es de los que aprenden con dolor.
+- Asma, peligro: miedo en el territorio, bronquios ulcerados para pasar más aire. Cuando desconectas, ¿curas / síntomas?
+- Maricarmen sabía demasiado, y por eso murió al hacerse famosa.
+##################################################
+Posibilidad: buscar en Youtube:
+- Programa tú mismo motor gráfico 3D.
+- ¿Cuál es la matriz de proyección perspectiva standard?
+####Más:
+- Ver si un polígono está delante de la cámara:
+* Tomas 3 puntos A, B y C, y calculas un vector perpendicular (normal) N = (B-A)*(C-A).
+* N * V debe ser > 0. V = posicióncámara - posiciónpolígono(A).
+* Ir de punto a la pantalla:
+. Matriz de vista: traslada y gira todo el universo, para quedar en el punto (0, 0, 0), mirando al eje Z.
+. Matriz de proyección: hace la traducción.
+####Matriz de vista:
+- Matriz de traslación 4x4 (fácil). Si estás en XYZ=123 (por ejemplo), restas al punto del decorado 123.
+1 0 0 -xpersona| xnuevo = xoriginal - xpersona.
+0 1 0 -ypersona| ynuevo = yoriginal - ypersona.
+0 0 1 -zpersona| znuevo = zoriginal - zpersona. 
+0 0 0 1|
+- Matriz de rotación. Tiene en cuenta 3 vectores: cámara "hacia arriba"Y, "hacia delante"Z (punto - persona) y "a la derecha"X. X e Y son perpendiculares a Z, ¿sólo hace falta definir uno?
+Xx Yx Zx 0
+Xy Yy Zy 0
+Xz Yz Zz 0
+0 0 0 1
+Realmente, usaremos la inversa (el Universo debe rotarse contra la dirección de visión: si miras a la derecha, parece que todo está a la izquierda). Primero, normalizamos los valores, para que baste con hallar la matriz transpuesta (sólo cambias, NO calculas):
+Xx Xy Xz 0
+Yx Yy Yz 0
+Zx Zy Zz 0
+0 0 0 1
+Yo usaba "ángulo" / desviación en relación al eje Z psitivo (el coseno del ángulo daba la direcciónZ, y el seno, la X).
+- Matriz resultante, rotación * traslación:
+Xx Xy Xz escalar(-X, Persona)
+Yx Yy Yz escalar(-Y, Persona)
+Zx Zy Zz escalar(-Z, Persona)
+0 1 0 1
+- Dando valores. 
+* Z = punto - persona;
+* X = productocruzado((0, 1, 0), Z); Tela, ¿si miras p'arriba, pones Z negativo en el vector referencia? ¿si miras p'abajo, z positivo? ¿Normalizar antes?
+----------
+* Y = productocruzado(Z, X)
+* Normalizamos X, Y y Z. Y tenemos la matriz.
+* Punto relativo resultante = (x,y,z,1)*matriz.
+####Matriz de proyección:
+- Pasar la pirámide truncada a cubo (-1, 1).
+* Punto x,y,z. Vemos el lateral de la pirámide. ¿En qué punto se corta la superficie pequeña (línea punto-cámara)? n es la distanciaz cámara-suppequeña (f, grande). yp es de la suppequeña. y / z = yp / n. yp = n*y/z; Análogamente, xp = n*x/z;
+* relación aspecto = t (altura plano cercano / 2); r (anchura / 2). El centro de suppequeña es (0,0), hay valores negativos. Es r / t. escalando xnorm = n*x/r*z; ynorm = n*y/t*z;
+* fovy(vertical). tan (fovy/2) = t/n. t = n*tan(fovy/2). AR=r/t r=t*AR=n*tan(fovy/2)*AR. xnorm = (n * x) / z*n*tan(fovy/2)*AR = x / z*tan(fovy)*AR. ynorm = n*y/z*n*tan(fovy/2) = y /z*tan(fovy/2).
+* Conseguimos xnynzn1 (coordenadas normalizadas) a partir de z*(xnynzn1) = (n/r)000 0(n/t)00 00AB 0010 * (xyz1).
+A*z+B=z*zn zn = A + (B/z).
+Cuando zn es -1, zn = A+B/n; 1 = A+B/f
+-n = An + B (multiplico por -1) B = -n(1+A)
+Sustituyo en la segunda: A sale = (f+n) / (f-n)
+Sustituyo en B = -n(1+A). B = -2fn/(f-n)
+####Programa:
+Modificación (aparte de pasar xrel... de int a real / float).
+procedure traducir3(xrel, yrel, zrel: real; var xpan, ypan: integer;
+          var xnorm, ynorm, znorm: real);
+var AR, zlejos, zcerca, n, f, t, r, A, B, xresult, yresult, zresult, wresult: real;
+begin
+ n := 30; f := 120;
+ t := n * tan(degtorad(60));
+ AR := 1.25; r := AR * t;
+ {(zrel*xnorm,zrel*ynorm,zrel*znorm,zrel) =
+  n/r 0 0 0
+  0 n/t 0 0
+  0 0 (f+n)/(f-n) -2fn/(f-n)
+  0 0 1 0
+  *
+  Vertical: xrel, yrel, zrel, 1}
+ {En w se guarda zrel, y habr  que dividir x, y y z por w}
+ {zrel*xnorm}
+ xresult := (n/r)*xrel;
+ yresult := (n/t)*yrel;
+ A := (f+n)/(f-n); B:= -2*f*n/(f-n);
+ zresult := A*zrel + B;
+ wresult := zrel;
+ if (zrel >= 10) then begin
+  xnorm := xresult / zrel;
+  ynorm := yresult / zrel;
+  znorm := zresult / zrel; {¨Para el algoritmo Z-buffer?}
+  xpan := (finxpan div 2) + trunc(xnorm*finxpan/2);
+  ypan := finypan - horizonte - trunc(ynorm*finypan/2) + trunc(35*(5000 + abs(zrel))/(abs(zrel) + 700))-135;
+ end else begin xnorm:=-1000; ynorm :=-1000; znorm := - 1000; xpan := -1000; ypan := -1000; end;
+end;
+##Para znormalizado¿/-zrel? ¿y - para A?
